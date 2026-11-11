@@ -1,0 +1,3440 @@
+{
+  "id": "115731099051",
+  "title": "Lipa flowers studio",
+  "address": "Ryazan, Semashko Street, 3с1",
+  "fullAddress": "Ryazan, Semashko Street, 3с1",
+  "coordinates": [
+    39.733519,
+    54.617483
+  ],
+  "phones": [
+    {
+      "number": "+7 (915) 605-58-37",
+      "type": "phone",
+      "value": "+79156055837"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_a",
+          "name": "Available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "stabilized_moss",
+      "value": true,
+      "name": "stabilized moss",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "stabilized_flowers",
+      "value": true,
+      "name": "stabilized flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "planter",
+      "value": true,
+      "name": "flowerpot",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_for_florists",
+      "value": true,
+      "name": "products for florists",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 223,
+    "ratingValue": 5,
+    "reviewCount": 151
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 8:00 AM–10:00 PM",
+  "socialLinks": [
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79156055837",
+      "readableHref": "+79156055837"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/lipa_flowers_studio",
+      "readableHref": "vk.ru/lipa_flowers_studio"
+    },
+    {
+      "type": "telegram",
+      "href": "https://t.me/lipa_flowers_studio",
+      "readableHref": "@lipa_flowers_studio"
+    }
+  ],
+  "businessLinks": [],
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6315042/2a000001813cb3c50cf0090b0c17b1dcc2e8/%s",
+      "id": "nusxNxij-KOQ-chx2RkScDj1xDYwv0"
+    }
+  },
+  "photos": {
+    "count": 147,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13805978/2a00000193200fd3bb890f32495636e0b58f/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13805978/2a00000193200fd3bb890f32495636e0b58f/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10267222/2a00000193200a26dd002d7a91336e14dd0a/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1032555/2a00000186c1173126b787def72eeda6c579/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/7734890/2a000001847a8ab5adb62ff3e72b4acc202f/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/12594216/2a00000193200ade5edf1ef7b1db0a571ecc/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/7730113/2a000001836e6753d3accfcdbbad3147cd79/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13212679/2a00000193200855c82648cdfeea00d3b2d2/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14307348/2a00000194137333134071504ac15681be51/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15037629/2a00000194137323dc5d4a82acc5393b2cbf/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5098065/2a000001813cb2a73859ca37fee57c7970b6/%s",
+        "alt": "Flower shop Lipa flowers studio, Ryazan, photo"
+      }
+    ]
+  },
+  "fullObjects": {
+    "hasPhotos": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "No category",
+        "categoryItems": [
+          {
+            "title": "Композиция в шляпной коробке #1",
+            "price": "4000",
+            "currency": "₽",
+            "matchKey": "v1.owrn4yYcs_bmbXIaR46GuBZ7OERL51j8IH0SWZ0zbWU"
+          },
+          {
+            "title": "Композиция в шляпной коробке #2",
+            "price": "6000",
+            "currency": "₽",
+            "matchKey": "v1.5kcJToD4q5r_xc6y72KpyOj7VT7GAMJ9U3naUJyGp8Q"
+          },
+          {
+            "title": "Композиция в шляпной коробке #3",
+            "price": "9000",
+            "currency": "₽",
+            "matchKey": "v1.TxAloH3gPxgO953nnt0qHdCIaJY5jeBDmxPsdJLrwEk"
+          },
+          {
+            "title": "Композиция в шляпной коробке #4",
+            "price": "4000",
+            "currency": "₽",
+            "matchKey": "v1.ckzeGT5DRPsMzZ5I-ymUZSEkIK07a9HC5Exow2tdT5I"
+          },
+          {
+            "title": "Композиция в шляпной коробке #5",
+            "price": "7500",
+            "currency": "₽",
+            "matchKey": "v1.WPi9jL87LE1nOfb0n6hUImVIZqmJijahl7KfObIJ_fQ"
+          },
+          {
+            "title": "Композиция в шляпной коробке #6",
+            "price": "12000",
+            "currency": "₽",
+            "matchKey": "v1.BhIRqB7zsYkVB4QfXNwekPijbs1sUzK5Qg3U5dd546M"
+          },
+          {
+            "title": "Букет сборный #7",
+            "price": "3500",
+            "currency": "₽",
+            "matchKey": "v1.PuGdB_EZgvA5aCt2h1zdKxGdwAc2PqGOdPJ9YLAJhJs"
+          },
+          {
+            "title": "Букет сборный #8",
+            "price": "3500",
+            "currency": "₽",
+            "matchKey": "v1.gMTu49oCGCC6zbaEQ7vMhILn1F6TDqtBZndktwUCmGM"
+          },
+          {
+            "title": "Букет сборный #9",
+            "price": "6000",
+            "currency": "₽",
+            "matchKey": "v1.iDiS6FfqgK91dXHhk1LaW2VHmKHNXWxxeWvmvb1-nq4"
+          },
+          {
+            "title": "Букет сборный #10",
+            "price": "5000",
+            "currency": "₽",
+            "matchKey": "v1.hMeEwZd78cF6vvJSu5E7LyJfii_WuPG0sOfhXM_M4-o"
+          },
+          {
+            "title": "Букет сборный #11",
+            "price": "7000",
+            "currency": "₽",
+            "matchKey": "v1.4vLkpoB6zcziH85r9n1Nui_7nvkPtlX7VDfBZFiML6Y"
+          },
+          {
+            "title": "Букет сборный #12",
+            "price": "3700",
+            "currency": "₽",
+            "matchKey": "v1.awwH2_m_GpcB8ILpRFCkmNEl4ftyY3SkcycmNajlGd8"
+          },
+          {
+            "title": "Букет сборный #13",
+            "price": "4000",
+            "currency": "₽",
+            "matchKey": "v1.90XZ1HMhz1ohDFVNb7cTVagjeWwFjApVQXX-gkbhnvQ"
+          },
+          {
+            "title": "Букет сборный #14",
+            "price": "5500",
+            "currency": "₽",
+            "matchKey": "v1.xfOeIgPh5KWFehPxGew4AwyPPoX7OgEtzQJpaVFycmg"
+          },
+          {
+            "title": "Букет сборный #15",
+            "price": "5500",
+            "currency": "₽",
+            "matchKey": "v1.sSlQG_Qw9ZcmRrEd-Eyb9o0R2jnWOijkxsvKTBwVm6Y"
+          },
+          {
+            "title": "Букет сборный #16",
+            "price": "8500",
+            "currency": "₽",
+            "matchKey": "v1.vSKGzmAGpYwyChpEb3EgfaEWINzd4h9EXY8Vm6FbtrA"
+          },
+          {
+            "title": "Букет сборный #17",
+            "price": "5000",
+            "currency": "₽",
+            "matchKey": "v1.Esr85nW4KYKRi3-Ww4S5PWhLwGMe8fnvhmAEdahu0ak"
+          },
+          {
+            "title": "Букет сборный #18",
+            "price": "6000",
+            "currency": "₽",
+            "matchKey": "v1.EeJp0hI-gpzHH80ayQ73FxlOsUXuc5dFKtHLpmNsihQ"
+          },
+          {
+            "title": "Букет сборный #19",
+            "price": "10000",
+            "currency": "₽",
+            "matchKey": "v1.G5hDn-2uwDclSlZ9MXMEYiiEyxIUJRSmXoG4WUuVHwU"
+          },
+          {
+            "title": "Букет сборный #20",
+            "price": "15000",
+            "currency": "₽",
+            "matchKey": "v1.-svBSczlU2lO_Ld-IqiSh1V_2oiaFiIEQAHL_NZ4lxg"
+          },
+          {
+            "title": "Букет сборный #20",
+            "price": "5500",
+            "currency": "₽",
+            "matchKey": "v1.YpE0oH-7VBYQXd9qkHhAz96ihUXS0tV70zo05V9ozH4"
+          },
+          {
+            "title": "Букет сборный #22",
+            "price": "7500",
+            "currency": "₽",
+            "matchKey": "v1.kW41bbndEw_HYP3795v_wdvdD-Xd5KYiiE3F25ve-q0"
+          }
+        ]
+      }
+    ]
+  },
+  "topObjects": {
+    "hasPhotos": false,
+    "isYandexEda": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "popular",
+        "categoryItems": [
+          {
+            "title": "Композиция в шляпной коробке #3",
+            "price": "9000",
+            "currency": "₽",
+            "matchKey": "v1.TxAloH3gPxgO953nnt0qHdCIaJY5jeBDmxPsdJLrwEk"
+          },
+          {
+            "title": "Композиция в шляпной коробке #2",
+            "price": "6000",
+            "currency": "₽",
+            "matchKey": "v1.5kcJToD4q5r_xc6y72KpyOj7VT7GAMJ9U3naUJyGp8Q"
+          },
+          {
+            "title": "Композиция в шляпной коробке #1",
+            "price": "4000",
+            "currency": "₽",
+            "matchKey": "v1.owrn4yYcs_bmbXIaR46GuBZ7OERL51j8IH0SWZ0zbWU"
+          },
+          {
+            "title": "Композиция в шляпной коробке #4",
+            "price": "4000",
+            "currency": "₽",
+            "matchKey": "v1.ckzeGT5DRPsMzZ5I-ymUZSEkIK07a9HC5Exow2tdT5I"
+          }
+        ]
+      }
+    ],
+    "fullObjectsCount": 22,
+    "relevance": {
+      "lastUploadTime": "2026-10-05T19:18:38.000760Z",
+      "lastUpdateTime": "2026-02-09T12:33:02.893311Z"
+    },
+    "source": {
+      "id": "TYCOON",
+      "name": "Representative of the organization"
+    }
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "businessComment": {
+          "text": "Добрый день! Благодарим за доверие и подробный отзыв. Всегда вам рады и ждем новой встречи",
+          "updatedTime": "2025-11-06T09:18:12.586Z"
+        },
+        "reviewId": "9HSjsbt6NtBhV4QPvnGjuhbmWIkwNYI",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ирина Р.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/0s-6/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "vh9hr6qcwq21rbm17j52er8yc8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Живу в другом городе, но очень хотела сделать приятное своим близким. Мне рекомендовали данную студию цветов Липу. Мне сразу же ответили и прислали наличие букетов. Всé обьяснили и посоветовали. Прислали фото моего букета  на котором видно свежесть и красота цветов. Сделали доставку до квартиры .Отдельно хочу написать про упаковку букетов это очень стильно. Сразу видно вы искренне заботитесь о каждом букете. \nБольшое спасибо за такое замечательное обслуживание. Бы стро, красиво и с душой! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Başka bir şehirde yaşıyorum ama gerçekten sevdiklerime hoş geldin demek istedim. Bu Ihlamur çiçeği stüdyosunu bana tavsiye ettiler. Hemen bana cevap verdiler ve buketlerin varlığını gönderdiler. Her şeyi açıkladılar ve tavsiye ettiler. Çiçeklerin tazeliğini ve güzelliğini gösteren buketimin bir fotoğrafını gönderdiler. Daireye teslimat yaptık.Ayrı ayrı buketlerin ambalajlanması hakkında yazmak istiyorum, bu çok şık. Hemen her buketi içtenlikle önemsediğinizi görebilirsiniz. \nBöylesine harika bir hizmet için çok teşekkür ederim. Çok güzel ve yürekli olsaydı! "
+        },
+        "rating": 5,
+        "updatedTime": "2025-08-11T09:55:31.869Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16497373_2a00000198988e72411319b93d55ecf8226f",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16497373/2a00000198988e72411319b93d55ecf8226f/{size}",
+            "createdTime": 1754906130623,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ирина Р.",
+              "publicId": "vh9hr6qcwq21rbm17j52er8yc8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/0s-6/{size}",
+              "updateTime": 1754906130623,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16866637_2a00000198988e71a164e7d22c311c6825bb",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16866637/2a00000198988e71a164e7d22c311c6825bb/{size}",
+            "createdTime": 1754906129768,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ирина Р.",
+              "publicId": "vh9hr6qcwq21rbm17j52er8yc8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/0s-6/{size}",
+              "updateTime": 1754906129768,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик, всегда вам рады!",
+          "updatedTime": "2026-06-18T14:16:15.553Z"
+        },
+        "reviewId": "gR-W7NZ10LLnM7n3heJeFBQG9APN_tfR",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Svetlana Kanaeva",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/33202/NRHTgIvauFJIkKxAzrJqN6JL0c-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "t58mde21emjh3wc6n26f1frzbm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказываю у них букеты не в первый раз. Большой выбор, отличный сервис. Чуткий персонал, который старается учесть все пожелания и собрать именно тот букет, который вы хотите или нашли на просторах интернета. Удобно что можно все онлайн собрать и уже приехать за готовым букетом ко времени или организовать доставку.\nОчень рекомендую ❤️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Onlardan ilk defa buket sipariş etmiyorum. Geniş seçim, mükemmel hizmet. Tüm istekleri dikkate almaya ve tam olarak istediğiniz veya internette bulduğunuz buketi toplamaya çalışan duyarlı personel. Her şeyi çevrimiçi olarak toplayabilmeniz ve zamanında hazır bir buket almaya gelebilmeniz veya teslimatı organize edebilmeniz uygundur.\nŞiddetle tavsiye ederim ❤️"
+        },
+        "rating": 5,
+        "updatedTime": "2026-04-27T07:45:25.141Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "19766436_2a0000019dcde6621b0a2a9c0428195e92bf",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19766436/2a0000019dcde6621b0a2a9c0428195e92bf/{size}",
+            "createdTime": 1777275921840,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Svetlana Kanaeva",
+              "publicId": "t58mde21emjh3wc6n26f1frzbm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/33202/NRHTgIvauFJIkKxAzrJqN6JL0c-1/{size}",
+              "updateTime": 1777275921840,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19883212_2a0000019dcde663343d946d5fc186f98f30",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19883212/2a0000019dcde663343d946d5fc186f98f30/{size}",
+            "createdTime": 1777275922718,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Svetlana Kanaeva",
+              "publicId": "t58mde21emjh3wc6n26f1frzbm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/33202/NRHTgIvauFJIkKxAzrJqN6JL0c-1/{size}",
+              "updateTime": 1777275922718,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Лиза, благодарим вас за такой отзыв и фотоотчет. Всегда вам рады и ждем новой встречи!\n",
+          "updatedTime": "2025-07-22T09:23:56.717Z"
+        },
+        "reviewId": "xon6IDGjfewfPncgTx453eF5Q6eTZe3",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Лиза Йоу",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/29310/vMBsnHfoZm7SVVtn5FcfJuvlrM-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "u3zaec24q2dayg0m4j8j2tvdzm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Моя самая любимая цветочная студия, всегда выручают, всегда быстро делают букеты, можно заказать удалённо, и тебе вежливо все расскажут, покажут, пришлют фотографии разных вариантов. В студии всегда интересный выбор цветов. Их букеты это не дополнение к подарку, а самый настоящий подарок! Спасибо большое вам за то, что вы есть ♥️🤞🏻",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "En sevdiğim çiçek stüdyom, her zaman yardım ediyorlar, her zaman hızlı buketler yapıyorlar, uzaktan sipariş verebilirsiniz ve kibarca size her şeyi anlatacaklar, gösterecekler, farklı seçeneklerin fotoğraflarını gönderecekler. Stüdyoda her zaman ilginç bir renk seçimi vardır. Buketleri hediyeye ek değil, gerçek bir hediyedir! Olduğun için çok teşekkür ederim ♥️🤞🏻"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-09T11:33:13.412Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14920258_2a00000197eef619eaadc3d8a87a1a055ec3",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14920258/2a00000197eef619eaadc3d8a87a1a055ec3/{size}",
+            "createdTime": 1752060796207,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лиза Йоу",
+              "publicId": "u3zaec24q2dayg0m4j8j2tvdzm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/29310/vMBsnHfoZm7SVVtn5FcfJuvlrM-1/{size}",
+              "updateTime": 1752060796207,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15066961_2a00000197eef62c5ff14018a470786ff384",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15066961/2a00000197eef62c5ff14018a470786ff384/{size}",
+            "createdTime": 1752060801070,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лиза Йоу",
+              "publicId": "u3zaec24q2dayg0m4j8j2tvdzm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/29310/vMBsnHfoZm7SVVtn5FcfJuvlrM-1/{size}",
+              "updateTime": 1752060801070,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15232415_2a00000197eef62044cb3893418dcafe5fc3",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15232415/2a00000197eef62044cb3893418dcafe5fc3/{size}",
+            "createdTime": 1752060797871,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лиза Йоу",
+              "publicId": "u3zaec24q2dayg0m4j8j2tvdzm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/29310/vMBsnHfoZm7SVVtn5FcfJuvlrM-1/{size}",
+              "updateTime": 1752060797871,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16394283_2a00000197eef638015c3481362331dfc3bf",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16394283/2a00000197eef638015c3481362331dfc3bf/{size}",
+            "createdTime": 1752060805776,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лиза Йоу",
+              "publicId": "u3zaec24q2dayg0m4j8j2tvdzm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/29310/vMBsnHfoZm7SVVtn5FcfJuvlrM-1/{size}",
+              "updateTime": 1752060805776,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16609617_2a00000197eef6138d1b6b2ad8c2ae1a2452",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16609617/2a00000197eef6138d1b6b2ad8c2ae1a2452/{size}",
+            "createdTime": 1752060794730,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лиза Йоу",
+              "publicId": "u3zaec24q2dayg0m4j8j2tvdzm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/29310/vMBsnHfoZm7SVVtn5FcfJuvlrM-1/{size}",
+              "updateTime": 1752060794730,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16634215_2a00000197eef6264de1cde69b56aa261ae9",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16634215/2a00000197eef6264de1cde69b56aa261ae9/{size}",
+            "createdTime": 1752060799503,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лиза Йоу",
+              "publicId": "u3zaec24q2dayg0m4j8j2tvdzm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/29310/vMBsnHfoZm7SVVtn5FcfJuvlrM-1/{size}",
+              "updateTime": 1752060799503,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Татьяна, благодарим вас за такой подробный отзыв и высокую оценку. Ваши слова очень мотивируют не останавливаться на достигнутом. Всегда вам рады и ждем новой встречи!",
+          "updatedTime": "2025-07-01T11:52:38.904Z"
+        },
+        "reviewId": "se07M6xkc-lnL6lM62UtDIvd5yfeNdumW",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Татьяна С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/64336/0f-8/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "1pwb7rq05z5r3zt1uh9z3ckh0c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Все торжественные мероприятия в нашей семье совместно с цветочной студией Липа!\nВсегда стильные,красивые,безупречные композиции!Упаковка-выше всяких похвал,продуманно до мелочей,можно не переживать что цветы завянут в дороге или поломаются,коробка и нужный минимум воды предусмотрен.И приятным бонусом памятка об уходе за букетом и пакетик со средством для цветов.Всё продуманно и оформлено с большим вкусом,эстетично и любовью к клиентам!А ещё возможна доставка,что тоже всегда радует!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Ailemizdeki tüm özel etkinlikler Lipa çiçek stüdyosu ile birlikte!\nHer zaman şık, güzel, kusursuz kompozisyonlar!Paketleme, en küçük ayrıntısına kadar düşünceli bir şekilde övgülerin ötesindedir, çiçeklerin yolda solması veya kırılması konusunda endişelenemezsiniz, kutu ve gerekli minimum su sağlanır.Ve hoş bir bonus olarak, buketin bakımı hakkında bir not ve çiçekler için bir araç içeren bir torba.Her şey düşünceli ve harika bir zevk, estetik açıdan hoş ve müşterilere sevgi dolu bir şekilde dekore edilmiştir!Ayrıca teslimat da mümkündür, bu da her zaman memnuniyet vericidir!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-06-25T15:07:23.555Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14712641_2a00000197a7a120b50f031be749f22db492",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14712641/2a00000197a7a120b50f031be749f22db492/{size}",
+            "createdTime": 1750864045663,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Татьяна С.",
+              "publicId": "1pwb7rq05z5r3zt1uh9z3ckh0c",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/64336/0f-8/{size}",
+              "updateTime": 1750864045663,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик",
+          "updatedTime": "2026-02-09T12:12:46.692Z"
+        },
+        "reviewId": "aDP_PpVCyvkQoMMMXvh7GyLBYqG6pPTt",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Елизавета Т.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/4Kdi8z8RBBPbBJ57h3xL54s-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "mbw9x6rnd27g1e3h7bw1bb37tc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Самая лучшая студия цветов в Рязани! Огромный и необычный выбор цветочков на любой вкус и бюджет! Заказывала букетик с доставкой, девушка быстро ответила и оформила заказ, заранее прислала фото, привезли вовремя отличный красивый свежий букетик♥️ Упаковали от души☺️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Ryazan'daki en iyi çiçek stüdyosu! Her zevke ve bütçeye uygun çok sayıda ve sıradışı çiçek seçimi! Teslimat ile bir buket sipariş ettim, kız çabucak cevap verdi ve siparişi verdi, önceden bir fotoğraf gönderdi, zamanında harika ve güzel bir taze buket getirdiler ♥️ Kalpten paketlediler☺️"
+        },
+        "rating": 5,
+        "updatedTime": "2026-01-31T16:21:59.151Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16158716_2a0000019c14dca0c5ba676a7896e4d27b4d",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16158716/2a0000019c14dca0c5ba676a7896e4d27b4d/{size}",
+            "createdTime": 1769876531091,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Елизавета Т.",
+              "publicId": "mbw9x6rnd27g1e3h7bw1bb37tc",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/26311/4Kdi8z8RBBPbBJ57h3xL54s-1/{size}",
+              "updateTime": 1769876531091,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16500335_2a0000019c14dc82dcef2ebfc051792499a9",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16500335/2a0000019c14dc82dcef2ebfc051792499a9/{size}",
+            "createdTime": 1769876523146,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Елизавета Т.",
+              "publicId": "mbw9x6rnd27g1e3h7bw1bb37tc",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/26311/4Kdi8z8RBBPbBJ57h3xL54s-1/{size}",
+              "updateTime": 1769876523146,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Иван, благодарим вас за высокую оценку и доверие. Всегда вам рады и ждем новой встречи!",
+          "updatedTime": "2025-07-22T09:20:32.716Z"
+        },
+        "reviewId": "9FkdUCI3aLYwIlqkeY3ficqRkbsvHs",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Иван Фролов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/30955/bGiA0nXxi3wDgNBpYIJXSsYJXxo-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "jmb528b66yv4xqtk9c5z6h800r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Без преувеличения лучшее место в рязани. Несмотря на их уникальный сервис, при котором не стоит тратить силы на покупку цветов, на их доставку и подбор каких то композиций, ребята держат планку в цене и качестве. Заказываю цветы только у них уже на протяжении года, за это время не было ни одной спорной ситуации или того, что не устроило меня или получателя такой красоты. Спасибо, что вы есть🫶🏻",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Abartmadan Ryazan'daki en iyi yer. Çiçek satın almak, teslimatları ve bazı kompozisyonların seçimi için enerji harcamaya değmeyen benzersiz hizmetlerine rağmen, çocuklar çıtayı fiyat ve kalitede tutuyorlar. Bir yıldır sadece onlardan çiçek sipariş ediyorum, bu süre zarfında tek bir tartışmalı durum ya da bana ya da böyle güzelliğin alıcısına yakışmayan bir şey olmadı. Siz olduğunuz için teşekkür ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-18T10:21:12.505Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16396695_2a000001981d0d500df46fe09155eae567b8",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16396695/2a000001981d0d500df46fe09155eae567b8/{size}",
+            "createdTime": 1752834069587,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Иван Фролов",
+              "publicId": "jmb528b66yv4xqtk9c5z6h800r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30955/bGiA0nXxi3wDgNBpYIJXSsYJXxo-1/{size}",
+              "updateTime": 1752834069587,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за ваш отзыв и доверие. Всегда вам рады",
+          "updatedTime": "2026-02-09T12:10:13.213Z"
+        },
+        "reviewId": "V4T4irGnof8blfw5tngTnwpJkTw8Vd",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Карина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0s-8/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "tabwk232bta67m73chwa5yknqc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Цветочная студия липа моя одна из самых любимых в Рязани. У них всегда вы сможете найти самые свежие, оригинальные и красивые цветы. Для меня еще одним важным моментом является то, что мне собирают букеты дистанционно и исключительно по моим предпочтениям! Также, хочется отметить своевременность их ответов на сообщения! Вообщем, молодцы, все круто! Я желаю им только процветания и оставаться на том же уровне.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çiçek stüdyosu ıhlamur, Ryazan'daki en sevilenlerden biridir. Onlarla her zaman en taze, orijinal ve güzel çiçekleri bulabilirsiniz. Benim için bir diğer önemli nokta da buketlerin uzaktan ve yalnızca tercihlerime göre benim için toplanmaları! Ayrıca, mesajlara verdikleri yanıtların güncelliğini de belirtmek isterim! Genel olarak, aferin, her şey yolunda! Onlara sadece refah ve aynı seviyede kalmalarını diliyorum."
+        },
+        "rating": 5,
+        "updatedTime": "2025-11-16T06:52:11.585Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16312016_2a0000019a8b70516714524cdf1f7d354679",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16312016/2a0000019a8b70516714524cdf1f7d354679/{size}",
+            "createdTime": 1763275986428,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Карина",
+              "publicId": "tabwk232bta67m73chwa5yknqc",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/37154/0s-8/{size}",
+              "updateTime": 1763275986428,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за обратную связь, высокую оценку и добрые слова в наш адрес. Всегда вам рады",
+          "updatedTime": "2025-11-06T09:58:16.643Z"
+        },
+        "reviewId": "QmCK0iSGibwvqpY6W_rXAMYZwUFRfA",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Nelly Kirsanova",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/32838/enc-c0c08e884d1f176ad6731e224519fe5eba08c98141b568115898ec6baa71854f/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "04yjaq4ngfyr9wfpgq8u15gevr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Самый любимый цветочный в городе! Всегда свежие цветы, интересный ассортимент, и волшебные руки флористов, которые собирают очень стильные букеты.\nФлористы всегда присылают фото букетов, которые собирают. Последнее из них прикладываю) \nЦветы покупаю только там, и всем рекомендую эту студию!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şehirdeki en sevilen çiçekçi! Her zaman taze çiçekler, ilginç bir ürün yelpazesi ve çok şık buketler toplayan çiçekçilerin büyülü elleri.\nÇiçekçiler her zaman topladıkları buketlerin fotoğraflarını gönderirler. Sonuncusunu uyguluyorum) \nSadece oradan çiçek alıyorum ve bu stüdyoyu herkese tavsiye ediyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-09-30T09:39:32.934Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15434007_2a0000019999fdd5c9937f5f5699ad05472b",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15434007/2a0000019999fdd5c9937f5f5699ad05472b/{size}",
+            "createdTime": 1759225174715,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Nelly Kirsanova",
+              "publicId": "04yjaq4ngfyr9wfpgq8u15gevr",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/32838/enc-c0c08e884d1f176ad6731e224519fe5eba08c98141b568115898ec6baa71854f/{size}",
+              "updateTime": 1759225174715,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за доверие и теплые слова в наш адрес. Всегда вам рады!",
+          "updatedTime": "2026-02-09T12:07:27.585Z"
+        },
+        "reviewId": "v-ENtLgDQaUlgwKZW_J1kYB4yS7z4TqQ0",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Valeria",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/41409/XoftpAL3feajH6NAza7nCslcUkk-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "lerlerleer",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Лучшая цветочная студия города!\nВнимательные администраторы, которые с радостью отвечают на все вопросы, помогают с любым абсолютно запросом и самое важное-всегда свежие и самые красивые букеты💔 За лучшими цветами и классным обслуживанием однозначно в любимую Липу🌿❤️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şehrin en iyi çiçek stüdyosu!\nTüm soruları memnuniyetle cevaplayan özenli yöneticiler, kesinlikle herhangi bir talebe yardımcı olurlar ve en önemlisi - her zaman taze ve en güzel buketler💔 En iyi çiçekler ve harika hizmet için kesinlikle en sevdiğiniz Ihlamur ağacına❤❤️"
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-28T12:49:14.928Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14907397_2a0000019b64ff503556dec3ccf61fab6dd6",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14907397/2a0000019b64ff503556dec3ccf61fab6dd6/{size}",
+            "createdTime": 1766926013547,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Valeria",
+              "publicId": "lerlerleer",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/41409/XoftpAL3feajH6NAza7nCslcUkk-1/{size}",
+              "updateTime": 1766926013547,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15434007_2a0000019b64ff1d268bd50e61a3c8cb6116",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15434007/2a0000019b64ff1d268bd50e61a3c8cb6116/{size}",
+            "createdTime": 1766926000377,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Valeria",
+              "publicId": "lerlerleer",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/41409/XoftpAL3feajH6NAza7nCslcUkk-1/{size}",
+              "updateTime": 1766926000377,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16443717_2a0000019b6500ce81dd6b45bd77c44b6481",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16443717/2a0000019b6500ce81dd6b45bd77c44b6481/{size}",
+            "createdTime": 1766926111993,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Valeria",
+              "publicId": "lerlerleer",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/41409/XoftpAL3feajH6NAza7nCslcUkk-1/{size}",
+              "updateTime": 1766926111993,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18005133_2a0000019b65009d288c2ae5059fc9b7ef9a",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18005133/2a0000019b65009d288c2ae5059fc9b7ef9a/{size}",
+            "createdTime": 1766926098715,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Valeria",
+              "publicId": "lerlerleer",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/41409/XoftpAL3feajH6NAza7nCslcUkk-1/{size}",
+              "updateTime": 1766926098715,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19547455_2a0000019b6500e2b4c71c373e396f213b77",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19547455/2a0000019b6500e2b4c71c373e396f213b77/{size}",
+            "createdTime": 1766926118001,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Valeria",
+              "publicId": "lerlerleer",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/41409/XoftpAL3feajH6NAza7nCslcUkk-1/{size}",
+              "updateTime": 1766926118001,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим вас за обратную связь. Всегда вам рады",
+          "updatedTime": "2026-04-01T09:21:48.595Z"
+        },
+        "reviewId": "WsooZgjYAbXnqJnI8AmU-rPKkmt7Sb",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Мария К.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25358/0d-8/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4137ux1xzjv73rh7dxm7je62xg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Широкий выбор композиций. Букеты всегда изысканные и свежие, а персонал внимательный и профессиональный, спасибо за прекрасное обслуживание! Удобная доставка! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok çeşitli besteler. Buketler her zaman zarif ve tazedir ve personel özenli ve profesyoneldir, mükemmel hizmetiniz için teşekkür ederiz! Uygun teslimat! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-21T17:00:23.081Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16114102_2a0000019c81253b429297eac085fb9b4c5c",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16114102/2a0000019c81253b429297eac085fb9b4c5c/{size}",
+            "createdTime": 1771693229433,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Мария К.",
+              "publicId": "4137ux1xzjv73rh7dxm7je62xg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25358/0d-8/{size}",
+              "updateTime": 1771693229433,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16410678_2a0000019c81252f9928d3de18b9f236ff0d",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16410678/2a0000019c81252f9928d3de18b9f236ff0d/{size}",
+            "createdTime": 1771693225759,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Мария К.",
+              "publicId": "4137ux1xzjv73rh7dxm7je62xg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25358/0d-8/{size}",
+              "updateTime": 1771693225759,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18114977_2a0000019c812b2f4c772894ac687ce25b95",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18114977/2a0000019c812b2f4c772894ac687ce25b95/{size}",
+            "createdTime": 1771693619057,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Мария К.",
+              "publicId": "4137ux1xzjv73rh7dxm7je62xg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25358/0d-8/{size}",
+              "updateTime": 1771693619057,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Анна, благодарим вас за добрые слова в наш адрес и высокую оценку. Всегда вам рады и ждем новой встречи!",
+          "updatedTime": "2025-07-01T11:53:54.948Z"
+        },
+        "reviewId": "RYxofCIsM1qk3iu4HZQ2UaDS7lqzcq9",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Анна К.",
+          "avatarUrl": "",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "9p478c1h6qzq2e1wh92rajbcjr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Мне очень нравится эта цветочная студия. Нестандартные цветочные композиции. Отменный вкус у флористов. Ассортимент небанальный, часто меняется (много сезонных цветов). Все цветы подобраны так, чтобы из них можно было составить вкусную композицию. Ничего лишнего. Во многих цветочных магазинах ассортимент большой, а как собрать, что с чем скомпоновать - непонятно. Здесь такого нет. \n",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu çiçek stüdyosunu gerçekten çok seviyorum. Standart olmayan çiçek aranjmanları. Çiçekçilerin tadı mükemmel. Ürün yelpazesi kanal dışı, sık sık değişiyor (birçok mevsimsel renk). Tüm çiçekler, onlardan lezzetli bir kompozisyon oluşturabilmeniz için seçilmiştir. Gereksiz bir şey yok. Birçok çiçekçide ürün yelpazesi geniştir, ancak neyin bir araya getirileceği, neyin bir araya getirileceği açık değildir. Burada böyle bir şey yok. \n"
+        },
+        "rating": 5,
+        "updatedTime": "2025-06-20T09:06:01.771Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15045776_2a000001978c96744826779f45a3451102cc",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15045776/2a000001978c96744826779f45a3451102cc/{size}",
+            "createdTime": 1750410360887,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна К.",
+              "publicId": "9p478c1h6qzq2e1wh92rajbcjr",
+              "imageUrlTemplate": "",
+              "updateTime": 1750410360887,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ольга, спасибо за доверие. Были рады стать частью такого важного события. До встречи!\n",
+          "updatedTime": "2025-11-06T08:56:12.498Z"
+        },
+        "reviewId": "3VEFxUwflH38gsDV-DnnYVOaygjeDuGSF",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ольга М.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51381/0h-7/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "08g04v35h87e5p6mr0pc163mu4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказывала свадебный букет. \nПоказала флористам какой хочу. Они мне сделали его еще красивее! Советовали и предлагали. Чувствуется со стороны персонала забота и неравнодушие. Влюбилась в свой букетик! Все цветы свежие красивые !\nСоветую всем эту студию! Не пожалеете.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Düğün buketi sipariş ettim. \nÇiçekçilere ne istediğimi gösterdim. Onu benim için daha da güzelleştirdiler! Tavsiye ettiler ve önerdiler. Personel tarafında özen ve kayıtsızlık hissedilir. Buketime aşık oldum! Bütün çiçekler taze güzeldir!\nBu stüdyoyu herkese tavsiye ediyorum! Pişman olmayacaksınız."
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-07T07:49:04.397Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15413593_2a00000199bda542c178f3298030285dc1b4",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15413593/2a00000199bda542c178f3298030285dc1b4/{size}",
+            "createdTime": 1759823349411,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ольга М.",
+              "publicId": "08g04v35h87e5p6mr0pc163mu4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/51381/0h-7/{size}",
+              "updateTime": 1759823349411,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Вероника, благодарим за высокую оценку и доверие. Всегда вам рады!",
+          "updatedTime": "2025-07-22T09:25:25.148Z"
+        },
+        "reviewId": "UlbNyIryZWVKp-4ad6Outj-hw4CPuFMq",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Вероника М.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38663/0u-3/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "p8n3nqw0f74hd9kgkcpfaz4a3r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Определенно лучшее решение! \nНаписала в Липу для заказа букета по особому случаю. \nДевушки меня проконсультировали по ассортименту цветов, учли все мои пожелания и замены. \nПрислали фото готового букета, можно было сразу оценить эффектность! \nНе букет, а настоящее произведение искусства \nСпасибо за внимательность к пожеланиям и за скорость! \nКачестве цветов 🔥\n",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Kesinlikle en iyi çözüm! \nÖzel bir fırsat için buket sipariş etmek için Ihlamur ağacına yazdım. \nKızlar bana renk çeşitliliği konusunda tavsiyelerde bulundular, tüm isteklerimi ve değiştirmelerimi dikkate aldılar. \nBitmiş buketin fotoğrafını gönderdiler, gösterişliliği hemen takdir edebiliyordunuz! \nBir buket değil, gerçek bir sanat eseri \nİsteklerinize gösterdiğiniz özen ve hızınız için teşekkür ederiz! \nÇiçek kalitesi 🔥\n"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-04T09:00:12.063Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "wPp4h4UjDCs4n5p95ErmblulMwKb5k",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ирина Зотова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36689/Vkgibp2rsCNQHEUjZCkoD08biDE-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "k6ktktzyne3jgu2wgen3pkpt2m",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Лучшие цветы в городе, лучшее отношение! Всегда заказываю цветы и не переживаю об итоговом букете, потому что в липе работают настоящие профессионалы своего дела, которые на любой бюджет сделают букет, который всегда будеть выглядеть необычно и дорого! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şehirdeki en iyi çiçekler, en iyi tutum! Her zaman çiçek sipariş ediyorum ve son buket için endişelenmiyorum, çünkü her bütçeye uygun olarak her zaman sıradışı ve pahalı görünecek bir buket yapacak işlerinin gerçek uzmanları ıhlamur ağacında çalışıyor! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-08-14T08:56:29.059Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Игорь, благодарим за приятный отзыв и высокую оценку. Всегда вам рады!",
+          "updatedTime": "2025-07-22T09:24:48.242Z"
+        },
+        "reviewId": "tWdFhxSyjyQW40f8QOt7RdUoO4WxLi",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Игорь",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/61207/0s-7/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "3q8gr8rc8fcbe8etgm4uyntrpw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Красиво, стильно, современно. Цена радует. Не первый раз обращаюсь за букетами в данное место, и каждый раз приятно удивляюсь наличию нужных цветов. Особенно радует состав букета, все продумано до мелочей.\nБыстро откликаются на сообщения, учитывают все пожелания, и прекрасно их исполняют. Желаю дальнейших успехов!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel, şık, modern. Fiyatı memnun ediyor. Bu yere ilk defa buket aradığımda değil ve her seferinde doğru çiçeklerin varlığına hoş bir şekilde şaşırıyorum. Buketin bileşimi özellikle memnun, her şey en küçük ayrıntısına kadar düşünülüyor.\nMesajlara hızla cevap veriyorlar, tüm istekleri dikkate alıyorlar ve onları mükemmel bir şekilde yerine getiriyorlar. Size daha fazla başarı diliyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-07T17:20:14.068Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик и высокую оценку. Ждем новой встречи",
+          "updatedTime": "2025-11-06T09:14:59.562Z"
+        },
+        "reviewId": "4eJABlkjhll0C01up-duI1R3MiHy03C",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Алла Р.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/yegtmOUS5Gn3z9zEf5bbuhpZQPI-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "n0x9jmz9tdkvat1hbx19583gt8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказывали букет к 1 сентября, остались очень довольны, букет был готов к ранее оговоренному времени, пришли и забрали. Букет в транспортировочной коробке, домой принесли и просто поставили в прохладное место. Рекомендую! Будем еще обращаться. Обслуживание на высшем уровне, качество букета отличное, цветы свежие.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Buketi 1 Eylül'e kadar sipariş ettiler, çok memnun kaldık, buket daha önce kararlaştırılan zamana hazırdı, gelip aldılar. Nakliye kutusundaki buketi eve getirdiler ve serin bir yere koydular. Tavsiye ederim! Tekrar konuşacağız. Hizmet birinci sınıf, buketin kalitesi mükemmel, çiçekler taze."
+        },
+        "rating": 5,
+        "updatedTime": "2025-08-31T17:45:31.604Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за высокую оценку и добрые слова в наш адрес. Всегда вам рады !",
+          "updatedTime": "2026-02-09T12:09:54Z"
+        },
+        "reviewId": "whUFoD2v_o9tosXqPzdzqv7fEdC496W",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Дарья Ч.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/0r-4/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "xcv1dk219deac89cukea9fz6vw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Ребята - супер! быстро отвечают, помогают с выбором букета (отфоткали, что есть в наличии из готовых букетов и из цветов), собрали композицию по запросу. Удобная доставка в любую часть города. Все четко, понятно, быстро. Ну и конечно же очень красивые и стильные букеты  ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çocuklar - süper! Çabucak cevap veriyorlar, buket seçimine yardımcı oluyorlar (hazır buketlerden ve çiçeklerden stokta bulunanları fotoğrafladılar), talep üzerine kompozisyonu topladılar. Şehrin herhangi bir yerine uygun teslimat. Her şey açık, anlaşılır, çabuk. Ve elbette çok güzel ve şık buketler  "
+        },
+        "rating": 5,
+        "updatedTime": "2025-11-19T08:19:38.751Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15650736_2a0000019a9b3372d5fd42fd32464838c905",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15650736/2a0000019a9b3372d5fd42fd32464838c905/{size}",
+            "createdTime": 1763540432767,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Дарья Ч.",
+              "publicId": "xcv1dk219deac89cukea9fz6vw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/27503/0r-4/{size}",
+              "updateTime": 1763540432767,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за доверие и высокую оценку. Всегда вам рады ",
+          "updatedTime": "2025-11-06T09:56:14.043Z"
+        },
+        "reviewId": "_DTfEQsuyUG98FbWdfXZMUnPVGjh8Zih",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Maxim Platonov",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/29310/gKRN1cXQkaSl2Dc4It1U6ns2T3M-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "hxtv751k2a3e2ffuq0tyc6bp50",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "\nОдни из лучших у нас в Рязани🤝\nЦветы всегда свежие и самое главное они всегда очень долго стоят 🙌\nЗаказываем уже не первый раз и хочется выразить огромную благодарность. Всегда можно просто написать или позвонить, а ребята сделают всю работу за вас , особенно когда вы заняты или не знаете как определиться с выбором букета. Ребята молодцы 👍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "\nRyazan'daki elimizdeki en iyilerden bazıları\nÇiçekler her zaman tazedir ve en önemlisi her zaman çok uzun ömürlüdürler\nİlk kez sipariş vermiyoruz ve büyük minnettarlığımızı ifade etmek istiyorum. Her zaman sadece yazabilir veya arayabilirsiniz ve çocuklar, özellikle meşgulken veya buket seçimine nasıl karar vereceğinizi bilmiyorsanız, tüm işi sizin için yapacaklardır. Çocuklar aferin"
+        },
+        "rating": 5,
+        "updatedTime": "2025-09-22T17:17:05.068Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв, всегда вам рады",
+          "updatedTime": "2025-11-06T09:41:41.691Z"
+        },
+        "reviewId": "vyY5kEWFTeG_MGSSHnFT05KNDWoBiR",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Алексей Д.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "udfbybktmht3hharznyn78q8cr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличное место. Цветы шикарные. Не дорогая доставка и большой выбор, понравился индивидуальный подход. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir yer. Çiçekler muhteşem. Pahalı teslimat ve geniş bir seçim değil, bireysel yaklaşımı beğendim. "
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-05T11:55:00.342Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16888214_2a00000199b439a4def99b82e516dc5aad27",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16888214/2a00000199b439a4def99b82e516dc5aad27/{size}",
+            "createdTime": 1759665302392,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Алексей Д.",
+              "publicId": "udfbybktmht3hharznyn78q8cr",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1759665302392,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Рустам, благодарим за приятный отзыв и доверие. Всегда вам рады!",
+          "updatedTime": "2025-07-22T09:21:15.600Z"
+        },
+        "reviewId": "8UhNmAcVTEx0J6hJLoJv1hekvvZOG11",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Рустам Ш.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/44850/k6CTbxgB11oyUTMVDrfRbWprVs-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "3b6wu78h4gxrycrqxjzca4nex4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличное место! Почти всегда собираю букеты на усмотрение и вкус флориста, выбор не когда не подводил👍 Вежливые менеджеры которые всегда готовы прийти на помощь. Цветы всегда качественные стоят действительно долго.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir yer! Neredeyse her zaman çiçekçinin takdirine ve zevkine göre buket topluyorum, seçim her zaman kurtarmaya hazır olan kibar yöneticileri hayal kırıklığına uğratmadığında değil. Çiçekler her zaman yüksek kalitededir, gerçekten uzun ömürlüdür."
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-16T16:44:44.372Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Мария, добрый день. Благодарим за доверие и теплые слова в наш адрес. Всегда вам рады и ждем новой встречи",
+          "updatedTime": "2025-11-06T08:48:31.279Z"
+        },
+        "reviewId": "4-FPHlCbA72kvQhV4hXVOBBBLd7Hhca3",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Мария П.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25358/0d-8/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "m4xjzapu2w5fe9n72ce5fjyu8r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень отзывчивый и вежливый персонал! Оформлять заказ  и видеть готовую работу флориста одно удовольствие! Букеты выглядят стильно, красиво и утонченно! Минималистично и при этом очень дорого! Ребята подскажут и предложат позиции свежих цветов на удобную сумму\nЕсть доставка, что огромный плюс в современных реалиях. Буду с удовольствием обращаться еще ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok yardımsever ve kibar personel! Sipariş vermek ve çiçekçinin bitmiş işini görmek bir zevktir! Buketler şık, güzel ve sofistike görünüyor! Minimalist ve aynı zamanda çok pahalı! Çocuklar size uygun bir miktar için taze çiçeklerin pozisyonlarını söyleyecekler ve sunacaklar\nModern gerçekliklerde büyük bir artı olan teslimat var. Daha fazla konuşmaktan mutluluk duyacağım "
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-30T19:15:27.101Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за доверие и высокую оценку! Всегда рады вам и  ждем новой встречи \n",
+          "updatedTime": "2025-11-06T09:16:07.552Z"
+        },
+        "reviewId": "4h-izT5wcZVlu4sMFTrrP1PYejDqVMi",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ale Se",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/69015/0a-9/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "c14ccewcp3212wwuhumbzxzww8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Большая благодарность вашей студии! Всегда безукоризненные букеты и композиции, очень удобный сервис, внимательные менеджеры, помощь в нестандартных ситуациях. Долгое время с вами, и всегда безупречная работа! Желаю дальнейшего процветания и роста!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Stüdyonuza büyük teşekkürler! Her zaman kusursuz buketler ve kompozisyonlar, çok uygun hizmet, özenli yöneticiler, standart dışı durumlarda yardım. Sizinle uzun süre ve her zaman kusursuz bir iş! Size daha fazla refah ve büyüme diliyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-08-31T00:35:03.101Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик и высокую оценку. Всегда вам рады и ждем новой встречи!",
+          "updatedTime": "2025-11-06T09:12:36.194Z"
+        },
+        "reviewId": "epoep4nqSh42soY4tKFrCI5UrjorDcy2z",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Анастасия Леонова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26057/0m-8/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "hmjemb0x6mk0vk0xhzhp0k180w",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасная цветочная студия!!!! Интересные композиции, всегда можно найти что-то необычное, очень доброжелательные флористы помогают с выбором, присылают фото для уточнения деталей))) и даже оформили оригинальную упаковку, чтобы в непогоду я не переживала за сохранность букета (такое первый раз встречаю!!!!!) Внутри замечательная атмосфера!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel çiçek stüdyosu!!!! İlginç kompozisyonlar, her zaman sıra dışı bir şey bulabilirsiniz, çok yardımsever çiçekçiler seçime yardımcı olur, ayrıntıları açıklığa kavuşturmak için bir fotoğraf gönderirler))) ve hatta orijinal ambalajı düzenlediler, böylece kötü havalarda buketin güvenliği konusunda endişelenmiyorum (ilk kez bununla tanışıyorum!!!!!) İçeride harika bir atmosfer var!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-09-08T19:18:20.876Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик и высокую оценку\n",
+          "updatedTime": "2025-11-06T09:42:09.109Z"
+        },
+        "reviewId": "bEFdbOOvEnUlyrFqvbgnUWHWUuZDwMJQ",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Яна Давыдова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40841/0f-2/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "mqp8ep40rze1qewuvhkdvdqq24",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "День в день потребовался букет. Предоставили много вариантов в разных ценовых категориях, но не уступающих друг другу в красоте! 😍 \nБуквально за 15 минут все согласовали, оплатила и заказ был передан в доставку. \nНе в первый раз оформляю заказ, и все шикарно! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Her gün bir buket gerekiyordu. Farklı fiyat kategorilerinde birçok seçenek sundular, ancak güzellik açısından birbirlerinden daha düşük değiller! 😍 \nKelimenin tam anlamıyla 15 dakika içinde her şey üzerinde anlaştılar, ödediler ve sipariş teslimata teslim edildi. \nİlk kez sipariş vermiyorum ve her şey muhteşem! "
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-03T12:54:52.428Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "0YqeSYSt4a32lccE2-51gpaRYS59ZN916",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Марта Марта",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0m-5/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ukx181eacm2aqabry3dqjmgrjg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Замечательная студия, шикарные композиции, быстрое обслуживание и доставка, удобство заказа, рекомендую",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika stüdyo, şık kompozisyonlar, hızlı servis ve teslimat, sipariş rahatlığı, tavsiye ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2026-06-19T12:40:55.822Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за доверие и высокую оценку. Всегда вам рады и ждем новой встречи",
+          "updatedTime": "2025-11-06T08:52:09.763Z"
+        },
+        "reviewId": "4LQosHFh75DDU0__IE2D9JEMrHMYK8Gn",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Мария Денисова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/eFr4NulLX0fY5m7eDlE6RRYWz6Y-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "rbu96uz17zhc6rhv34vnkeckcm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не первый раз заказываю букеты в подарок! Мне дарят их букеты!\nСвадебный букет так же заказывала в Липе!\nВсе всегда супер! Всегда учтены пожелания, всегда проконсультируют по наполнению букета! Доставка всегда вовремя❤️👍🏼",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "İlk defa hediye olarak buket sipariş etmiyorum! Bana buketleri veriliyor!\nIhlamur ağacında da düğün buketi sipariş ettim!\nHer şey her zaman süper! Dilekler her zaman dikkate alınır, buketin doldurulması konusunda her zaman tavsiyede bulunurlar! Teslimat her zaman zamanında❤️👍🏼"
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-16T07:24:03.163Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв, всегда вам рады!\n",
+          "updatedTime": "2026-06-18T14:15:26.617Z"
+        },
+        "reviewId": "cr9OlQaiz7_YE1hjyIFame0H80Edgq9",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ольга",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/35885/TTAl4CcrhcYOgJlh3ewNxuRuGGM-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "x3ee9tcxfnbxbnv64mc9e2gen8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень довольна работой студии. Цветы всегда интересные, свежие, букеты со вкусом на любой бюджет. Приятная и удобная система лояльности, вежливые сотрудники! Так держать! Спасибо вам за букетики❤️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Stüdyonun çalışmasından çok memnunum. Çiçekler her zaman ilginç, taze, her bütçeye uygun zevkli buketlerdir. Hoş ve kullanışlı bir sadakat sistemi, kibar çalışanlar! Böyle devam et! Buketler için teşekkür ederim❤️"
+        },
+        "rating": 5,
+        "updatedTime": "2026-05-11T12:39:31.200Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик, всегда вам рады!",
+          "updatedTime": "2026-06-18T14:23:27.175Z"
+        },
+        "reviewId": "FiGbbuYAW6PElJSwA_MxJnkARr9o6B_s",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Дмитрий Игнатов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/69015/0a-9/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "j894nh5w83dfbbeyzag8dxffx4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Впервые воспользовался доставкой, а не покупкой в студии, очень понравилось, что возможно удаленно согласовать наполнение и цвета букета (мне прислали 3 варианта композиции), так же понравилось, что я был в курсе обо всех телодвижениях моего заказа)",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Stüdyoda satın almak yerine teslimatı ilk kez kullandım, buketin dolgusunu ve renklerini uzaktan koordine etmenin mümkün olduğunu gerçekten beğendim (kompozisyon için bana 3 seçenek gönderdiler), siparişimin tüm hareketlerinden haberdar olmamı da beğendim)"
+        },
+        "rating": 5,
+        "updatedTime": "2026-04-09T10:14:42.004Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Илья, добрый день! Благодарим вас за такой отзыв. Всегда вам рады",
+          "updatedTime": "2025-01-24T11:57:32.922Z"
+        },
+        "reviewId": "X915T7aufLXbohZ9_NXev3pyDMpNzaEma",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Илья Ф.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "cyuzywtyd4rnhqcert48g47whw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Лучший цветочный салон в городе. С самого открытия покупаю цветы жене, маме, бабушке только тут! Получатели букетов всегда в восторге! ♥️ Цветы качественные, всегда свежие, сами букеты невероятно красивые! И что не маловажно очень приятный персонал. Цветочная студия где идеально все 😍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şehirdeki en iyi çiçek salonu. Açılıştan beri karıma, anneme, büyükanneme sadece burada çiçek alıyorum! Buket alıcıları her zaman çok sevinir! ♥️ Çiçekler yüksek kalitededir, her zaman tazedir, buketlerin kendileri inanılmaz derecede güzeldir! Ve önemli değil, çok hoş bir personel. Her şeyin mükemmel olduğu çiçek stüdyosu"
+        },
+        "rating": 5,
+        "updatedTime": "2024-12-29T17:24:57.997Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "13474366_2a00000194137355f0d3577358b1921b917d",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13474366/2a00000194137355f0d3577358b1921b917d/{size}",
+            "createdTime": 1735493116807,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Илья Ф.",
+              "publicId": "cyuzywtyd4rnhqcert48g47whw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+              "updateTime": 1735493116807,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "13609869_2a00000194137366ce6602efb2d51b92e3e0",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13609869/2a00000194137366ce6602efb2d51b92e3e0/{size}",
+            "createdTime": 1735493121695,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Илья Ф.",
+              "publicId": "cyuzywtyd4rnhqcert48g47whw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+              "updateTime": 1735493121695,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "13996387_2a0000019413738ba40c8db4144d6eb2a40d",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13996387/2a0000019413738ba40c8db4144d6eb2a40d/{size}",
+            "createdTime": 1735493129897,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Илья Ф.",
+              "publicId": "cyuzywtyd4rnhqcert48g47whw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+              "updateTime": 1735493129897,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "14234746_2a0000019413737a4a2c03d9c8de5a8df54a",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14234746/2a0000019413737a4a2c03d9c8de5a8df54a/{size}",
+            "createdTime": 1735493126103,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Илья Ф.",
+              "publicId": "cyuzywtyd4rnhqcert48g47whw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+              "updateTime": 1735493126103,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "14307348_2a00000194137333134071504ac15681be51",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14307348/2a00000194137333134071504ac15681be51/{size}",
+            "createdTime": 1735493108297,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Илья Ф.",
+              "publicId": "cyuzywtyd4rnhqcert48g47whw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+              "updateTime": 1735493108297,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "14376766_2a0000019413734598e858f0ef221fdb9bdb",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14376766/2a0000019413734598e858f0ef221fdb9bdb/{size}",
+            "createdTime": 1735493112515,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Илья Ф.",
+              "publicId": "cyuzywtyd4rnhqcert48g47whw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+              "updateTime": 1735493112515,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15037629_2a00000194137323dc5d4a82acc5393b2cbf",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15037629/2a00000194137323dc5d4a82acc5393b2cbf/{size}",
+            "createdTime": 1735493103486,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Илья Ф.",
+              "publicId": "cyuzywtyd4rnhqcert48g47whw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/3wPoR4IAJz0cxaj2F2qYCQDpk-1/{size}",
+              "updateTime": 1735493103486,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за ваш отзыв",
+          "updatedTime": "2026-04-01T09:19:52.077Z"
+        },
+        "reviewId": "05RHalAeUxFPxftzguCrAckOGNOmRCL",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Verakarta",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/56823/MAGb5nZ0LK3lPDY0lIaZuVJ4vt4-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kartakovavera",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Самый любимый магазин цветов. Особенно круто заказывать доставку, привозят очень красиво упакованные букеты, выглядит оч эффектно, цветы свежайшие и долго стоят. Всегда заказываю букеты на праздники здесь.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "En sevilen çiçekçi dükkanı. Teslimat siparişi vermek özellikle havalı, çok güzel paketlenmiş buketler getiriyorlar, çok muhteşem görünüyorlar, çiçekler en taze ve uzun ömürlüdür. Burada her zaman tatiller için buket sipariş ederim."
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-20T08:04:17.634Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик и высокую оценку. Нам очень приятно",
+          "updatedTime": "2025-11-06T09:18:43.590Z"
+        },
+        "reviewId": "4jrInqXDHM9SIhZLe9TGpguQZbJRgTRs3",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Анастасия Дорош",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/41409/8otgi7TwjU9sZYPNtUWiF0GR9WU-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4njq7zv72940j0eu6vax94p8jc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Всегда свежие и красивые цветы☺️❤️Лучше в городе не находила Цветочной студии.🌸 Быстро отвечают и учитывают все пожелания клиента ☺️☺️ Сервис на высшем уровне, проконсультировали, предложили букеты. Букет который мы создали просто чудо и попал в самое 🫶🏻 сердечко 🫶🏻🩷",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Her zaman taze ve güzel çiçekler городе️❤️Şehirde daha iyi bir çiçek stüdyosu bulamadım.клиента Müşterinin tüm isteklerini hızlı bir şekilde yanıtlayın ve dikkate alın Сервис️ Сервис️ Hizmet en üst düzeyde, danıştık, buketler sunduk. Yarattığımız buket sadece bir mucize ve en kalbe düştü"
+        },
+        "rating": 5,
+        "updatedTime": "2025-08-16T14:21:57.028Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16055577_2a00000198b3423403d74d13b8da9da68126",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16055577/2a00000198b3423403d74d13b8da9da68126/{size}",
+            "createdTime": 1755354117869,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анастасия Дорош",
+              "publicId": "4njq7zv72940j0eu6vax94p8jc",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/41409/8otgi7TwjU9sZYPNtUWiF0GR9WU-1/{size}",
+              "updateTime": 1755354117869,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за высокую оценку и теплые слова. Всегда вам рады!",
+          "updatedTime": "2026-06-18T14:16:46.219Z"
+        },
+        "reviewId": "5O0obrCS6JwEbcHWHSfKzGn6iwrIiZh",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ирина Н.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/59871/0a-4/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "v253fww3crp402fmjx8qdv0qvw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный сервис и чудесные цветы! Удаленно все оператмвно согласовали и соьраои букет! Я очень рекомендую, в Рязани такой сервис - редкость! Желаю проЦветания! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika hizmet ve harika çiçekler! Uzaktan, herkes derhal bir buket üzerinde anlaştılar! Ryazan'da böyle bir hizmetin nadir olduğunu şiddetle tavsiye ederim! Size refah diliyorum! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-04-26T15:41:46.863Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "19662431_2a0000019dca74300c7bf2ad29b79276020a",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19662431/2a0000019dca74300c7bf2ad29b79276020a/{size}",
+            "createdTime": 1777218106559,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ирина Н.",
+              "publicId": "v253fww3crp402fmjx8qdv0qvw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/59871/0a-4/{size}",
+              "updateTime": 1777218106559,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Добрый день! Благодарим за ваш отзыв, всегда вам рады.\n",
+          "updatedTime": "2025-02-15T14:48:05.565Z"
+        },
+        "reviewId": "EQ7ghx2xjLL77zoeUv9v0PkPwAUpzDeg",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Дмитрий Куликов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/62162/6mUNB5YujdGvodbinn9OV8poQ-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "n51xezukmxb61mdwka99mnmp6w",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Лучшая цветочная студия в Рязани. Отличные цветы, стоят очень долго! Флористы очень вежливые, общаться и делать заказ одно удовольствие. Предложат варианты на любой бюджет, подберут по вашим предпочтениям. Есть система лояльности и доставка. Всегда все в срок и качественно! Очень рекомендую 🫶",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Ryazan'daki en iyi çiçek stüdyosu. Harika çiçekler, çok uzun süre dayanıyorlar! Çiçekçiler çok kibardır, sohbet etmek ve sipariş vermek bir zevktir. Her bütçeye uygun seçenekler sunacaklar, tercihlerinize göre seçecekler. Sadakat sistemi ve teslimat var. Her zaman her şey zamanında ve niteliklidir! Şiddetle tavsiye ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2025-02-13T16:43:40.504Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв, всегда вам рады!",
+          "updatedTime": "2026-06-18T14:14:41.756Z"
+        },
+        "reviewId": "nAX3o9Sx75vzWVZA1TXTpZkAIoPrX3",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ольга Котова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/q2xgrpJdLCVs07huJzNV0zlHVE-1/{size}",
+          "professionLevel": "Level 20 Local Expert",
+          "rtb": "Level 20 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0qy3bc3cb94gefcgx366k8g3j8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Я сначала получала удивительно красивые композиции оттуда. А потом стала заезжать и покупать там красивые букеты по разным поводам. Ребята с отличным вкусом и все цветы отменного качества. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "İlk başta oradan şaşırtıcı derecede güzel besteler aldım. Sonra uğramaya ve çeşitli vesilelerle orada güzel buketler almaya başladı. Mükemmel tadı olan adamlar ve tüm çiçekler mükemmel kalitede. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-06-08T17:59:53.508Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Добрый день! Благодарим за обратную связь и высокую оценку. Всегда вам рады",
+          "updatedTime": "2025-03-03T15:34:23.980Z"
+        },
+        "reviewId": "QfPdg74jvVwOq_fzoJtlW0nAC1_lnWeOz",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Татьяна Яковлева",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/0a-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "n5vdm1j690cc03w1xc0qtx8mg8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень нравится обслуживание! Через вотс присылают на выбор композиции на определенную сумму, на которую ты просишь собрать. Выбираешь из 3 композиций, ребята делают красоту 💕 спасибо большое за сервис ✨",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Hizmeti çok beğendim! Vots aracılığıyla, toplamak istediğiniz belirli bir miktar için bir kompozisyon seçimine gönderilirler. 3 kompozisyon arasından seçim yapıyorsunuz, çocuklar güzellik yapıyor сервис hizmetiniz için çok teşekkür ederim ✨"
+        },
+        "rating": 5,
+        "updatedTime": "2025-02-16T07:43:54.451Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "13671440_2a000001950db6ca0e42ee22fac390244ca4",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13671440/2a000001950db6ca0e42ee22fac390244ca4/{size}",
+            "createdTime": 1739691839246,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Татьяна Яковлева",
+              "publicId": "n5vdm1j690cc03w1xc0qtx8mg8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0a-1/{size}",
+              "updateTime": 1739691839246,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "14296560_2a000001950db6bc1f1f296a17e7101e824b",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14296560/2a000001950db6bc1f1f296a17e7101e824b/{size}",
+            "createdTime": 1739691835582,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Татьяна Яковлева",
+              "publicId": "n5vdm1j690cc03w1xc0qtx8mg8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0a-1/{size}",
+              "updateTime": 1739691835582,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15081387_2a000001950db6d0e9852ca844974301d1e1",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15081387/2a000001950db6d0e9852ca844974301d1e1/{size}",
+            "createdTime": 1739691841070,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Татьяна Яковлева",
+              "publicId": "n5vdm1j690cc03w1xc0qtx8mg8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0a-1/{size}",
+              "updateTime": 1739691841070,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15185043_2a000001950db6c2f7d35f20510737779fe8",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15185043/2a000001950db6c2f7d35f20510737779fe8/{size}",
+            "createdTime": 1739691837408,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Татьяна Яковлева",
+              "publicId": "n5vdm1j690cc03w1xc0qtx8mg8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0a-1/{size}",
+              "updateTime": 1739691837408,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15185043_2a000001950db6d8978cf0b39925f5971dbb",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15185043/2a000001950db6d8978cf0b39925f5971dbb/{size}",
+            "createdTime": 1739691842985,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Татьяна Яковлева",
+              "publicId": "n5vdm1j690cc03w1xc0qtx8mg8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0a-1/{size}",
+              "updateTime": 1739691842985,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за высокую оценку. Всегда вам рады!\n",
+          "updatedTime": "2026-06-18T14:15:53.200Z"
+        },
+        "reviewId": "8epMKXH8E1nB2SzOgtDU5lK-n9JIdFFgD",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Анна П.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/0h-4/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "fyk42cemmfnvvtqxajct0eumfc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень хороший салон цветов. Букеты всегда невероятной красоты, сделаны от души. Отдельное спасибо Алексею за креатив и безграничную фантазию. Любой букет достоин попасть на выставку! \n",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok güzel çiçek salonu. Buketler her zaman kalpten yapılmış inanılmaz güzelliktedir. Yaratıcılığı ve sınırsız hayal gücü için Alexei'ye özel teşekkürler. Herhangi bir buket sergiye girmeye değer! \n"
+        },
+        "rating": 5,
+        "updatedTime": "2026-04-29T14:32:02.701Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик",
+          "updatedTime": "2025-11-06T09:56:40.285Z"
+        },
+        "reviewId": "fsdK_ZvFmakyhxsI1OpwWA8FYOqHMiun",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Александр Абрамов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/15298/enc-5759b5189a5c0c938fefe088853b4108c0e49ac532fc17e8bae636bfb6a6cc12/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "d8fvwyach9qmjbngamz9zzm9kg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Лучшие в городе! Оперативно собрали корзину цветов, все красиво, эстетично✨",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şehirdeki en iyiler! Derhal bir sepet çiçek topladılar, her şey güzel, estetik açıdan hoş✨"
+        },
+        "rating": 5,
+        "updatedTime": "2025-09-26T12:58:57.476Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16161139_2a00000199861af4ed06ba9bd5e11ae25fe9",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16161139/2a00000199861af4ed06ba9bd5e11ae25fe9/{size}",
+            "createdTime": 1758891539179,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Александр Абрамов",
+              "publicId": "d8fvwyach9qmjbngamz9zzm9kg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/15298/enc-5759b5189a5c0c938fefe088853b4108c0e49ac532fc17e8bae636bfb6a6cc12/{size}",
+              "updateTime": 1758891539179,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв",
+          "updatedTime": "2026-04-01T09:26:33.635Z"
+        },
+        "reviewId": "y6S7hOVu4vv9oZRylzdh47y3VtUtuKhZ",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ольга",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/48449/fbiZ5rlnV8AR9vyIgxrN9YH0pqY-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "f1xtc3em76rz8pf7zc4by3dgvg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Клиентоориентированность на высоте! Мгновенный отклик на заказ, полное понимание желаемого, вежливость, качество услуг, доставка. Придраться просто не к чему. Спасибо!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Müşteri odaklılık zirvede! Siparişe anında yanıt, istediğinizi tam olarak anlama, nezaket, hizmet kalitesi, teslimat. Şikayet edecek hiçbir şey yok. Teşekkür ederiz!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-12T19:08:29.933Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв и высокую оценку. Всегда вам рады!",
+          "updatedTime": "2025-07-01T11:44:50.699Z"
+        },
+        "reviewId": "t4CO1kC7c27ZhwPxzaID_l-oeQvk4iuh",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Алёна Г.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26057/0c-6/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "2vpp36gd7pzwufkgz83a242rmc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "В данной студии можно собрать оригинальный букет на любой бюджет. Отличный выбор цветов и дополнений к ним. Особенно приятно, что букет упакован таким образом, что не завянет и не помнется в долгой дороге.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu stüdyoda her bütçeye uygun orijinal bir buket toplayabilirsiniz. Mükemmel renk seçimi ve bunlara ilaveler. Buketin uzun yolculukta solmayacak veya hatırlamayacak şekilde paketlenmesi özellikle güzel."
+        },
+        "rating": 5,
+        "updatedTime": "2025-06-10T11:24:12.685Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Александра, добрый день!\nНам очень жаль, что букет оставил у вас такое впечатление - совсем не то, к чему мы ежедневно стремимся. Мы всегда готовы внести изменения при сборке, если в моменте получения (или согласования онлайн) у покупателя возникают замечания.\nПриносим извинения за ситуацию с количеством цветов, видимо, сработал человеческий фактор. Пересмотрели фото и насчитали 13 стеблей (вместе с тем, что у вас в руках),  но допускаем, что на снимке не все стебли могут быть видны.\nКак и обещали в личной переписке, мы начислили вам бонусные баллы в размере стоимости букета. Надеемся, что у нас еще будет возможность изменить сложившееся о нас впечатление. \nСпасибо, что поделились отзывом - благодаря этому мы становимся лучше и внимательнее к деталям.",
+          "updatedTime": "2025-11-06T09:39:54.502Z"
+        },
+        "reviewId": "eEMG1WAYHB3tYLUw21mk05uuA_rCzSlbK",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Александра Кармаева",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/15430/xVoed2FtzHi6A58VUyWASOFuEdE-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "3bk5j4644rbdynjhmp1w6gm3nm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не знаю, о чем думала, находясь в цветочном. В моменте все нравилось, когда оплачивала тоже все нравилось, но в итоге все клоками просто. Аж плакать охота.. Сказала \"маме на день рождения \", а получила словно \"в утешение\".  Еще и четное количество цаетов положили. Один пришлось даже вырвать. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çiçekteyken ne düşündüğümü bilmiyorum. Şu anda her şeyi sevdim, ödediğimde de her şeyi sevdim, ama sonunda her şey parçalarla basit. Zaten ağlayacak bir av var.. \"Anneme doğum günü için \" dedim ama sanki \"rahatlamış gibi\" aldım.  Ayrıca çift sayıda tsayet koydular. Birini bile çıkarmak zorunda kaldım. "
+        },
+        "rating": 2,
+        "updatedTime": "2025-10-17T13:18:52.607Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14761495_2a00000199f7af7b22fe2a93f275f6b8f104",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14761495/2a00000199f7af7b22fe2a93f275f6b8f104/{size}",
+            "createdTime": 1760797099000,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Александра Кармаева",
+              "publicId": "3bk5j4644rbdynjhmp1w6gm3nm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/15430/xVoed2FtzHi6A58VUyWASOFuEdE-1/{size}",
+              "updateTime": 1760797099000,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Светлана, благодарим за обратную связь и рекомендации. Всегда вам рады и ждем новой встречи ",
+          "updatedTime": "2025-11-06T10:01:32.040Z"
+        },
+        "reviewId": "6P3dZdOONTC5ANsRO10eEAhMoINGaHN",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Светлана Горшкова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/0c-4/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "1ppghmnpfh8589qkknrffun494",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Советую ребят! С - сервис! \nБыстро понимают потребность, отвечают оперативно, общаются вежливо! Я в Рязани еще такого сервиса не встречала 👌🏻",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çocuklara tavsiye ederim! C - servisi! \nİhtiyacı çabucak anlarlar, derhal cevap verirler, kibarca iletişim kurarlar! Ryazan'da henüz böyle bir hizmetle karşılaşmadım"
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-01T18:53:31.994Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15434262_2a00000199a136a65e2d921c37a78b3a14c0",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15434262/2a00000199a136a65e2d921c37a78b3a14c0/{size}",
+            "createdTime": 1759346338286,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Светлана Горшкова",
+              "publicId": "1ppghmnpfh8589qkknrffun494",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/26311/0c-4/{size}",
+              "updateTime": 1759346338286,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за высокую оценку и доверие",
+          "updatedTime": "2026-04-01T09:22:59.148Z"
+        },
+        "reviewId": "B_FzqYgmEDDO1ybe4n5p7tchx_U3xzIOd",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Кирилл Бухенский",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/43473/AO2n0pgw9HovDMoFZrBD809DcXY-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "bpw7yebph6xx9tuu0gnrmjabq4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказывал через VK. Выбрал букет, прислали несколько похожих вариантов, внес предоплату, прислали фото готового букета, договорились о времени, когда заберу. Букет порадовал, цветы свежие! Видно, что люди занимаются любимым делом!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "VK üzerinden sipariş verdim. Bir buket seçtim, benzer seçenekler gönderdik, ön ödeme yaptık, bitmiş buketin fotoğrafını gönderdik, alacağım zamanı kabul ettik. Buketi memnun ettim, çiçekler taze! İnsanların sevdikleri şeyi yaptıkları açıktır!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-19T17:53:53.420Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв и высокую оценку. Всегда вам рады!",
+          "updatedTime": "2025-08-04T12:58:07.964Z"
+        },
+        "reviewId": "bDjl6nc17gkEid9GqeubiUt_M9RfEFy",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Семён Осипов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/44850/JAhcBcuU3VjRFgjj2VWqDfdGV4I-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "x65xqge5d5vvmwn7hwxx6f42x0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Собирают шикарные букеты и качественные, очень приятное общение с клиентами, быстро отвечают. Букеты стоят очень долго и радуют глаз. Спасибо большое!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şık buketler ve yüksek kaliteli buketler toplarlar, müşterilerle çok hoş iletişim kurarlar, hızlı cevap verirler. Buketler çok uzun süre dayanır ve göze hoş gelir. Çok teşekkür ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-29T09:04:19.482Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "dRzSBO9SwmUIuAFs_GRfWiz1CVPbOydH",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Юлия Пронина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/61207/pfSURS4fKUjpBRj9xbHHJ7aS4-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "fndred04d594k2rje8x5k914a8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "с каждым разом обслуживание все хуже и хуже, про карту лояльности как то сказали, что она не работает, а дальше не спрашивали никогда, хотя уже много букетов было куплено, и бонусы потеряны уже( даже подкормку к цветам перестали класть… ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Her seferinde hizmet daha da kötüleşiyor, bir şekilde sadakat kartı hakkında işe yaramadığını söylediler ve daha sonra pek çok buket satın alınmış olmasına ve ikramiyelerin kaybolmasına rağmen (çiçeklere üst pansuman bile koymayı bırakmış olsalar bile) asla sormadılar… "
+        },
+        "rating": 4,
+        "updatedTime": "2026-10-22T15:37:33.495Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за доверие и высокую оценку. Всегда вам рады!",
+          "updatedTime": "2025-11-06T09:13:58.205Z"
+        },
+        "reviewId": "J9AImy-lrxmdYSELRBOkROHlN0RCokkw",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Татьяна Бычкова (Жеглова)",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25358/0h-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "pnmk6upu9jx14ztj9vx6xyz8d4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Сервис на высшем уровне! Все пожелания учли, оперативно подготовили, доставили в этот же день к назначенному времени! Очень красиво получилось! Советую однозначно! Есть с чем сравнивать 👍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Hizmet birinci sınıf! Tüm dilekler dikkate alındı, derhal hazırlandı, aynı gün belirlenen saate teslim edildi! Çok güzel çıktı! Kesinlikle tavsiye ederim! Karşılaştırılacak çok şey var 👍"
+        },
+        "rating": 5,
+        "updatedTime": "2025-09-08T12:38:52.925Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "daFTP68micPiMguydvN7EOU4HbRg0bqv",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Ксения Двыгун",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/0k-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "bxt0cezvmfunadv42kw04c9ffg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный сервис и всегда красивые композиции ♥️а какая у них упаковка😍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mükemmel hizmet ve her zaman güzel kompozisyonlar ♥️ve ambalajları nedir?"
+        },
+        "rating": 5,
+        "updatedTime": "2026-08-23T11:59:20.557Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17639913_2a000001a02e7d4b6eed2dc18999c1b48e9c",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17639913/2a000001a02e7d4b6eed2dc18999c1b48e9c/{size}",
+            "createdTime": 1787486360303,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ксения Двыгун",
+              "publicId": "bxt0cezvmfunadv42kw04c9ffg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0k-1/{size}",
+              "updateTime": 1787486360303,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за добрые слова. Всегда вам рады!",
+          "updatedTime": "2025-04-28T18:49:55.872Z"
+        },
+        "reviewId": "I5mnvNFzcLlPkgEcpnu6noxPfbnMXK",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Анна Чураева",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/LoRSaOgIPXcDIgebpHcY0aSI-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "6dnw3jwdqkvby20b0pp6cht7dg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хотелось бы поблагодарить вашу студию, за невероятную красоту, которую вы создаете! Ваши букеты, это настоящие произведения! Каждый раз остаюсь в полном восторге. И при заказе букета — сервис на высоте. Очень удобно делать заказ заранее! Спасибо вам огромное за вашу работу, вы лучшие)",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Yarattığınız inanılmaz güzellik için stüdyonuza teşekkür etmek isterim! Buketleriniz, bunlar gerçek eserler! Her seferinde tamamen memnun kalıyorum. Ve bir buket sipariş ederken - hizmet zirvededir. Önceden sipariş vermek çok uygun! Çalışmanız için çok teşekkür ederim, siz en iyisisiniz)"
+        },
+        "rating": 5,
+        "updatedTime": "2025-04-08T07:26:44.076Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15285359_2a00000196144dd02506c4041c65a4544af8",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15285359/2a00000196144dd02506c4041c65a4544af8/{size}",
+            "createdTime": 1744097367228,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна Чураева",
+              "publicId": "6dnw3jwdqkvby20b0pp6cht7dg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/LoRSaOgIPXcDIgebpHcY0aSI-1/{size}",
+              "updateTime": 1744097367228,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за ваш отклик",
+          "updatedTime": "2024-11-14T11:23:30.790Z"
+        },
+        "reviewId": "tSiSdkNba8tk0vcWT00_VInwnVwRDH",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Людмила",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/39803/GIv26GGygZwfqyqsaWiwdQ4hXl0-1/{size}",
+          "professionLevel": "Level 12 Local Expert",
+          "rtb": "Level 12 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7ce8kzhhcnn3nhymt42h6gjv2g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Оформление букетов просто великолепное, хотя выбор цветов небольшой.\nСолидная коробка, емкость с водой, пакетик с удобрениями! \nДа, цена чуть-чуть выше, но оно стоит того -дарили с удовольствием, все гости сбежались смотреть на такой чудесный букет, и одариваемый оценил букет намного дороже его стоимости. \nБукет стоит уже 3 дня - абсолютно свежий, даже листики  не завяли.\nРекомендую!\n",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-01-29T08:08:58.606Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "10142335_2a0000018d5441d729b59030cb84a27945c0",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10142335/2a0000018d5441d729b59030cb84a27945c0/{size}",
+            "createdTime": 1706515618745,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Людмила",
+              "publicId": "7ce8kzhhcnn3nhymt42h6gjv2g",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/39803/GIv26GGygZwfqyqsaWiwdQ4hXl0-1/{size}",
+              "updateTime": 1706515618745,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за ваш отзыв и доверие. Всегда вам рады!",
+          "updatedTime": "2026-02-09T12:09:02.859Z"
+        },
+        "reviewId": "gzutUMo1xGCmxbK3Wi1GHWJaXYNZdx",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Инкогнито 5515",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/59871/0t-4/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "rrqgyjk17ajpn6c7f4y0a1tudm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Срасибо Липе 🫶🏽 всегда выручает! Приятно, когда учитывают пожелания, и оперативно решают цветочные вопросы. Всегда хороший ассортимент. А когда заблаговременно не успел позаботиться - всегда есть готовая витрина с хорошим выбором. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Teşekkürler Lipe 🫶🏽 her zaman yardımcı olur! Dileklerini dikkate almaları ve çiçek konularını derhal çözmeleri güzeldir. Her zaman iyi bir ürün yelpazesi vardır. Ve önceden ilgilenecek vaktim olmadığında, her zaman iyi bir seçime sahip hazır bir vitrin vardır. "
+        },
+        "rating": 5,
+        "updatedTime": "2025-11-20T06:50:26.161Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Добрый день! Благодарим за обратную связь, всегда вам рады.",
+          "updatedTime": "2024-11-14T11:21:33.552Z"
+        },
+        "reviewId": "TDmtgkfGV4OMEbahicDdKmSsn6LIVS",
+        "businessId": "115731099051",
+        "author": {
+          "name": "Полина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63256/enc-29fe64dc3ea703a7044650996e90bc281e3d772d71f37eaded21df6e0c9fe9ac/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "xyrzyeq0bqfh1bb1w20gpuc0j8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Чудесное место, заказывала цветы дистанционно, супер чётко собрали букет, договорились о доставке, привезли вовремя. Комфортная прозрачная коммуникация. Цветы свежие, вроде бы простой букет из хризантем, но выглядит роскошно. Однозначно рекомендую",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-08-10T08:08:43.924Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "9831576_2a000001913b5540961b758aa043b82d0b5d",
+            "businessId": "115731099051",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9831576/2a000001913b5540961b758aa043b82d0b5d/{size}",
+            "createdTime": 1723277330115,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Полина",
+              "publicId": "xyrzyeq0bqfh1bb1w20gpuc0j8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/enc-29fe64dc3ea703a7044650996e90bc281e3d772d71f37eaded21df6e0c9fe9ac/{size}",
+              "updateTime": 1723277330115,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 151,
+      "loadedReviewsCount": 50,
+      "page": 1,
+      "totalPages": 4,
+      "reviewsRemained": 101
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "lipa_flowers_studio"
+}

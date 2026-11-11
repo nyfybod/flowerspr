@@ -1,0 +1,639 @@
+{
+  "name": "Оми",
+  "address": "ул. Дзержинского, 64/1, Рязань",
+  "phone": "+7 (930) 880-53-53",
+  "folder": "Оми",
+  "oid": "237543101988",
+  "source": "https://yandex.ru/maps/org/237543101988/",
+  "checked": "2026-11-10",
+  "rating": {
+    "ratingCount": 25,
+    "ratingValue": 4.699999809265137,
+    "reviewCount": 20
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "by_the_link",
+          "name": "by the link"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "cash",
+          "name": "cash"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "stabilized_flowers",
+      "value": true,
+      "name": "stabilized flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_garden_center",
+      "value": [
+        {
+          "id": "cut_flowers",
+          "name": "cut flowers"
+        }
+      ],
+      "name": "products",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/89308805353",
+      "readableHref": "@89308805353"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/omiflora62",
+      "readableHref": "vk.ru/omiflora62"
+    }
+  ],
+  "products": [
+    {
+      "name": "Гвоздика Киви",
+      "category": "Цветы",
+      "price": "2700",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/001.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/218134/2a000001987b246f47253d20f5e00fb33043/{size}"
+    },
+    {
+      "name": "Розы в бордо",
+      "category": "Цветы",
+      "price": "2900",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/002.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019c2ef34494e26c594d7f176a9aac/{size}"
+    },
+    {
+      "name": "Розы кустовые",
+      "category": "Розы",
+      "price": "2600",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/003.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/5399152/2a0000019dde1e5bb64c411ec1eee89dad60/{size}"
+    },
+    {
+      "name": "Ромашки в крафте",
+      "category": "Букет",
+      "price": "2900",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/004.jpg",
+      "width": 933,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/2733259/2a00000195b2f2ef56a0ad97bad2685b5597/{size}"
+    },
+    {
+      "name": "Розы и эвкалипт",
+      "category": "Букет",
+      "price": "2900",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/005.jpg",
+      "width": 1120,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/13672565/2a00000195cc8040c2162ede191cb1ac8006/{size}"
+    },
+    {
+      "name": "Моно-Альстромерии",
+      "category": "Букет",
+      "price": "2500",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/006.jpg",
+      "width": 1120,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/8331772/2a00000195cc849f61a6c74b59add3b073d6/{size}"
+    },
+    {
+      "name": "Хризантема и гвоздика кустовая",
+      "category": "Букет",
+      "price": "2600",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/007.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a0000019c2ef470f6f0b752b658f460da1d/{size}"
+    },
+    {
+      "name": "Розы Мандарин",
+      "category": "Букет",
+      "price": "3200",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/008.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/2701203/2a0000019dda5747e78c38b22eb09b171da7/{size}"
+    },
+    {
+      "name": "Розы и Орхидеи",
+      "category": "Букет",
+      "price": "3600",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/009.jpg",
+      "width": 1001,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019dda589c2a1c94859b1607fd616a/{size}"
+    },
+    {
+      "name": "Африканская Роза",
+      "category": "Букет",
+      "price": "3400",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/010.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019dda59f895e8c5fe45c454c28928/{size}"
+    },
+    {
+      "name": "Альстромерии",
+      "category": "Букет",
+      "price": "2400",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/011.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019dda5b4e9f1ee893f518743ee6d4/{size}"
+    },
+    {
+      "name": "Хризантема Алтай и Ромашка",
+      "category": "Букет",
+      "price": "2900",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/012.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019dda5cbafd0f0618126454856175/{size}"
+    },
+    {
+      "name": "Розы цветные 🩵",
+      "category": "Необычные цветы",
+      "price": "2900",
+      "description": "",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/237543101988/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/013.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a0000019c2ef8a4088eb540d63ceedf6313/{size}"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 933,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18780150/2a0000019f2e9faadb100a667939a47a14f0/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17735792/2a0000019dda4dbb8d2b497f24341603f7de/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16483787/2a0000019885639b8e6df13feb29c93c4fc9/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1070,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16443419/2a0000019b2d4f34efd8113ad9545c632479/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19648454/2a0000019b808f8f14ecf808cefc2e2a0441/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16287657/2a000001988565aa74f0972c84cbd8bc2808/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16368192/2a000001988565af17cdf4d70c68f34a780e/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1000,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18111423/2a0000019b808f9162a7c8ddc60cd4d7f076/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17021023/2a00000199de8ec848cf5fc3b89494819c69/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17679358/2a00000199de8ec71cc9775ff82ea063d229/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Данил Игоревич",
+      "text": "Потрясающий магазин, конечно цветов не изобилие, но все базовое есть. Букеты очень красивые, собраны со вкусом. Цена очень приятная. Флорист (парень, что очень редко) очень вежливый, добродушный. К букетику дали пакетик с средством для ухода, брелочек, инструкцию по уходу. Крайне положительные впечатления от посещения. Желаю магазину дальнейшего развития, новых и постоянных клиентов!",
+      "rating": 5,
+      "date": "2026-09-07",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=O0FjUi2QRVc1fwrAWlUncGDicRlgZq"
+    },
+    {
+      "author": "Ангелина Ф.",
+      "text": "Оформили заказ и остались в невероятном восторге!😻✨ Начиная с оформления заказа и доставки: учли все моменты, букет получился очень красивый🥰 Доставили вовремя, к букету добавили презент (инструкция по уходу, конфетки, брелок)-очень приятно. Мы теперь ваши клиенты!)",
+      "rating": 5,
+      "date": "2026-09-04",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=N4LpmADi4tbqF3X8EKudJrM5OwxyR8H4n"
+    },
+    {
+      "author": "Варвара Т.",
+      "text": "Заказывала букетик ко дню матери, прислали фото букета, подсказали по цене, чуть-чуть подкорректировали по моей просьбе состав букетика. Приехала за цветами и была приятно удивлена, отдали их в специальной сумочке и с добавкой для воды, чтобы подольше простояли. Сервис, качество и общение работников на высшем уровне. Также в салоне есть удобный диванчик, были бесплатные красивые открыточки",
+      "rating": 5,
+      "date": "2025-12-02",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=tPM9TUQHWJM97oSjMLmPWx6Kjj8chDa"
+    },
+    {
+      "author": "Анна",
+      "text": "Букет пришел просто шикарный! Розы сорта \"Мандарин\" яркие, свежие и пахнут невероятно. Раньше таких не видела, очень необычно растут лепесточки, и правда похожи на мандаринку в разрезе)) Все аккуратно упаковано в большую коробку, внутри лежала подробная инструкция по уходу, маленький симпатичный брелочек и даже пакетик подкормки для цветов. Приятно удивлена таким вниманием к деталям. Теперь точно знаю, куда обращаться за цветами снова. Спасибо большое!",
+      "rating": 5,
+      "date": "2025-12-17",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=IYTuzCf43TGEXvR0HcmsQOJ3w-pC4PO6"
+    },
+    {
+      "author": "Николай Ро",
+      "text": "Нужен был свадебный букет из белых пионов, эустом и эвкалиптом менее, чем за неделю до торжества. Доп условие - для конкурса невест должна быть предусмотрена возможность разделить его на 2 равных. Из множества магазинов города - единственные, кто без лишних вопросов и нравоучений (как же собрать, и букеты такого плана оформляются не позднее, чем за 2 недели) подтвердили готовность и уложились в бюджет. Как результат - выполнили все по договоренности и точно в срок. Букет получился лучше, чем на картинке, которую направлял для подготовки. Видно, что собственница живёт этим делом, и транслирует  свои творчество и вкус через композиции. Желаю успехов этому молодому магазину. Большое спасибо!",
+      "rating": 5,
+      "date": "2025-05-26",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=VboctqSvDvpa8pSkc5BKAFGeH49oJs"
+    },
+    {
+      "author": "Александр А.",
+      "text": "Был тут три дня назад, покупал букет для жены. Ассортимент хороший, большой выбор готовых букетов. Могут собрать букет из представленных цветов. Очень вежливый персонал, рассказали все про уход за букетом и маленькие нюансы. Букет взял с розами, за три дня почти не изменился, только чуть чуть розы открылись. Всем остался доволен, теперь только сюда. Спасибо вам!)",
+      "rating": 5,
+      "date": "2026-04-09",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=TdvPeZmCGGcO4CJFhfRc0dDvhkwUGGX1L"
+    },
+    {
+      "author": "Валерия Терёшина",
+      "text": "За цветами только сюда! Являемся постоянными клиентами,всегда супер стильные букеты с самыми свежими цветами. Можно заказать экзотику,достанут любой самый необычный цветок. Упаковка вобще отвал всего-огромная удобная коробка,которую у меня всегда забирают дети для своих игр потом) довольна вся семья!)",
+      "rating": 5,
+      "date": "2025-12-07",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=QlbUw62Dpl-tydyiC6gVzP2CvWHVZe"
+    },
+    {
+      "author": "Никита В.",
+      "text": "В дождливый день решил порадовать жену  цветами.\nЗаехал в свой любимый салон цветов - Оми. \nИ в очередной раз был приятно удивлен тонким чуством прекрасного у флориста Юлии. \nНигде и никогда не видел осенний букет, а у Юли есть!\nБукеты всегда стоят долго. На фотографии букет в первый день и ровно через неделю. \nЕсли нужен изящный и долгоживущий букет, то рекомендую салон цветов Оми!",
+      "rating": 5,
+      "date": "2025-11-22",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=GEnzg2scwsAOyPiWYX3bmR7mpn14CIZuD"
+    },
+    {
+      "author": "Анастасия Попова ДИЗАЙНЕР",
+      "text": "Всё супер! \nБыла проездом в Рязани и нужен был букет именно БЕЗ красных или розовых цветов. \nЗаказ оформила заранее в ВК с самовывозом. \nМне скинули много фото на выбор, предложили разные интересные варианты, да и вообще на протяжении всего сбора и оформления заказа были на связи👌🏻\nВ итоге получился нереально нежный букет!\nУпаковка шикарная:\nбукет в большой коробке, чтобы его не повредить, стебли в пакетике с водой. Конверт с памяткой по уходу за букетом и средством для продления жизни цветов. Плюс, вложили маленький приятный подарочек. \nПолный восторг! Отношение к делу выше всех похвал, спасибо вам! Такому магазину хочется пожелать только процветания❤️",
+      "rating": 5,
+      "date": "2025-08-08",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=XHDbLpU0mxmvYUroejCcu7WAZRNnZ6MkF"
+    },
+    {
+      "author": "Надежда Коваленко",
+      "text": "Отличный цветочный магазин, заказ делала дистанционно, из другого города. Всё сделали под мои пожелания). Доставили в срок, при этом, срок доставки я меняла после заказа). Спасибо, что помогли порадовать родного человека на расстоянии в сотни км)",
+      "rating": 5,
+      "date": "2025-08-18",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=of46OthvfavyCdnC7JBIlaiIATYJwL"
+    },
+    {
+      "author": "Анастасия К.",
+      "text": "Прекрасная композиция , цветы свежие, упаковано очень красиво, хороший флорист со вкусом у вас работает . Буду теперь заказывать у вас , и спасибо за доставку ( минута в минуту)",
+      "rating": 5,
+      "date": "2025-05-02",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=bN-nySyIB_Nw0fEe3FPmEXU2AVxP_97t"
+    },
+    {
+      "author": "Денис Остроумов",
+      "text": "Отменные , свежайшие цветы! Заказывал на 2 дня рождения - девчонки в восторге! А подача букета - в коробке, с конвертиком, средством для ухода серебряным брелком -пушечка!) Очень впечатлило! Недорого, красиво, приятно, вкусно )",
+      "rating": 5,
+      "date": "2025-09-09",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=Z4CQa0s-3NrNP6B8BwM85eEYghMwubi"
+    },
+    {
+      "author": "Diana Gumirova",
+      "text": "Разнообразный ассотримент цветов и очень стильные букеты, что для Рязани редкость. Без преувеличения, хочется купить всё) \nЗаказываю здесь букет уже не в первый раз, качество на высоте, а сами цветы всегда свежие и стойкие. Спасибо, за букеты, которые могут радовать не один день😌 \nБуду заказывать ещё и всем рекомендую👍",
+      "rating": 5,
+      "date": "2025-03-24",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=P-seaNRxwDUxecXxVVhMH-Yn2-o5zWc14"
+    },
+    {
+      "author": "P U",
+      "text": "Прекрасные композиции, прекрасный сервис.\nУпаковали с собой, объяснили как поступить с букетом позже.\nМожно цветочки под заказ оставлять запросы.\nРадуйте свои прекрасные половинки!",
+      "rating": 5,
+      "date": "2025-08-07",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=p6C38Tvh_tlZWf426DvEVWcGG6UqVJ-"
+    },
+    {
+      "author": "Марина А.",
+      "text": "Заказала корзину для друзей на 22.08, сегодня 28, они такие же свежие, фантастика! Отличный сервис, доставка, душевное отношение, теперь только к вам! Спасибо! ",
+      "rating": 5,
+      "date": "2025-08-28",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=PvTez707IX5RZnP-yHon__tePsg5dFD"
+    },
+    {
+      "author": "Мария М",
+      "text": "Спасибо за букет! Розы огромные, бутоны пышные, ароматный эвкалипт, а декоративная бумага добавила изюминку. Отдельно хочу отметить упаковку, очень бережно собран и крепко 😍",
+      "rating": 5,
+      "date": "2025-04-17",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=1HE5w0AUQ1-hrUTN_OJ3ZOhHg5lcfI"
+    },
+    {
+      "author": "Мария Ряжская",
+      "text": "Как же приятно работать с людьми, которые,что называется на своем месте. Мне нужно было собрать 3 небольших букета за довольно-такие низкую цену. В других салонах мне за мою сумму не могли ничего предложить,кроме штучных цветов. А здесь флорист создала такие красивые букеты, предлагала различные варианты исполнения, учла все пожелания. Я довольна на все 100%. ",
+      "rating": 5,
+      "date": "2025-10-06",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=5AgsuEMYHDz1Jq_UCZGpuzJAE_eHYULZ"
+    },
+    {
+      "author": "Юлия У.",
+      "text": "Понравился подход к делу, прямо-таки щепетильный, ребята стараются уточнить и учесть все нюансы. Здесь меня услашали! Спасибо! 💗",
+      "rating": 5,
+      "date": "2025-09-30",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=NiLeF6LZlFvJB47V5IRkydq1IAADoc_"
+    },
+    {
+      "author": "Валентина В.",
+      "text": "Цветы свежие, купили розы, стоят уже неделю и вид шикарный, спасибо 🫶🏻",
+      "rating": 5,
+      "date": "2025-09-06",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=GjFvdifCexgGU4dwWDLCWUVQhKpZwz6G"
+    },
+    {
+      "author": "Кирилл Ольшанский",
+      "text": "Очень хорошие букеты, брал для девушки , ей очень понравилось !!!",
+      "rating": 5,
+      "date": "2026-02-10",
+      "source": "https://yandex.ru/maps/org/237543101988/reviews/?reviewId=Br76LJYic6d8obsIG0rDZTP3UovsMAp"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1200,
+    "height": 1200,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019f27ed8200d07011583e65d38c21/%s"
+  }
+}

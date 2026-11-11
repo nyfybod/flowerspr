@@ -1,0 +1,678 @@
+{
+  "id": "17359860043",
+  "title": "Аленький цветок",
+  "address": "Ryazan, Proletarskaya Street, 17",
+  "fullAddress": "Ryazan, Proletarskaya Street, 17",
+  "coordinates": [
+    39.734299,
+    54.623205
+  ],
+  "phones": [
+    {
+      "number": "+7 (910) 635-64-65",
+      "type": "phone",
+      "value": "+79106356465"
+    }
+  ],
+  "features": [],
+  "ratingData": {
+    "ratingCount": 15,
+    "ratingValue": 4.5,
+    "reviewCount": 10
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 8:30 AM–8:30 PM",
+  "businessLinks": [],
+  "photos": {
+    "count": 35,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5099617/2a000001821b30482e4b817f9ca92530b110/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5099617/2a000001821b30482e4b817f9ca92530b110/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20412588/2a0000019ea7745ec3ff0142e6bb9e43bd53/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16329243/2a0000019c6fd953a2de92bff2da912064d4/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019ea7745f65745d6376bc275dc702/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17677530/2a0000019c705107b9f8beca5e898cf5bba1/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4479219/2a000001821b3cbb40c926ad02083ebed3fb/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19799298/2a0000019ea7745c4df97b57edca799a9efc/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5099617/2a000001821b3fde869e49516088daf14e1b/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6249106/2a000001821b3445f1aff9fa47721f3437b4/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5483747/2a000001821b3e2f8554b1de48f8c87878b0/%s",
+        "alt": "Flower shop Аленький цветок, Ryazan, photo"
+      }
+    ]
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "reviewId": "SfzAkDmzR6Wf1I85bdeuZG0e46lUEH",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Софья Минкина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Наверное уже не помню какое количество букетов заказала в салоне цветов Аленький у Ольги 😊 огромное количество и это точно! Всегда всё сделано на высшем уровне! Девочки выручают в любой момент если срочно срочно нужен букетик, доставляют быстро. А так же дарят подарочки 🤗 Букеты стильные, красивые а цветочки свежие! Огромное спасибо за воплощение красоты ❤️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Muhtemelen artık Olga'dan Alenky çiçek Salonu'nda kaç buket sipariş ettiğimi hatırlamıyorum ve bu kesin! Her şey her zaman en üst düzeyde yapılır! Kızlar her an acilen acilen bir bukete ihtiyaç duyulursa yardım ederler, hızlı bir şekilde teslim ederler. Ayrıca hediyeler veriyorlar стильные Buketler şık, güzel ve çiçekler taze! Güzelliği somutlaştırdığınız için çok teşekkür ederim ❤️"
+        },
+        "rating": 5,
+        "updatedTime": "2026-06-08T13:41:52.045Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "18105299_2a0000019ea7745e70fb94cd46d842bdff4f",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18105299/2a0000019ea7745e70fb94cd46d842bdff4f/{size}",
+            "createdTime": 1780925883418,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780925883418,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18111423_2a0000019ea77762fd515cad9b58453b7921",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18111423/2a0000019ea77762fd515cad9b58453b7921/{size}",
+            "createdTime": 1780926082585,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780926082585,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18136130_2a0000019ea7745f65745d6376bc275dc702",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019ea7745f65745d6376bc275dc702/{size}",
+            "createdTime": 1780925883432,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780925883432,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18144645_2a0000019ea7745f00baef9ce0f3244e8d1e",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18144645/2a0000019ea7745f00baef9ce0f3244e8d1e/{size}",
+            "createdTime": 1780925883725,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780925883725,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19580059_2a0000019ea7745e83d135b7a1f7966715fd",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19580059/2a0000019ea7745e83d135b7a1f7966715fd/{size}",
+            "createdTime": 1780925882968,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780925882968,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19799298_2a0000019ea7745c4df97b57edca799a9efc",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19799298/2a0000019ea7745c4df97b57edca799a9efc/{size}",
+            "createdTime": 1780925882582,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780925882582,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20328247_2a0000019ea7745f1fb1cd10b979f8a96ab2",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20328247/2a0000019ea7745f1fb1cd10b979f8a96ab2/{size}",
+            "createdTime": 1780925883393,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780925883393,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20412588_2a0000019ea7745ec3ff0142e6bb9e43bd53",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20412588/2a0000019ea7745ec3ff0142e6bb9e43bd53/{size}",
+            "createdTime": 1780925883185,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья Минкина",
+              "publicId": "wuzqatrdkt4ekn4we9ee3vrkjw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/30061/OyrrPNvHRrJIfF2IGmSmYfepKz8-1/{size}",
+              "updateTime": 1780925883185,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "1KBN9CRAquomcbX4SWnhN3ZQrPHXNLmdI",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Даниил Б.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/35885/enc-0eb7c5bae3b04bb571d1afda9d2a7d958983ea4af2bfa8955c77a02ebd74b280/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "fekgt4p1eq9bex1ww3nwgyevq8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Сделали с купленными цветами все, как сказала девушка продавец после попадания домой, но абсолютно все, что купил в магазине, стало быстро вянуть. За цветами следим, но радовались не долго. К слову букет, купленный в другом месте , стоит уже две недели. А здесь корзина на третий день уже никакая. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Satıcı eve geldikten sonra kızın dediği gibi, satın alınan çiçeklerle her şeyi yaptılar, ancak kesinlikle mağazadan satın aldığım her şey hızla solmaya başladı. Çiçekleri izliyoruz ama uzun süre mutlu olmadık. Bu arada, başka bir yerden satın alınan bir buket zaten iki haftalığına değer. Ve burada üçüncü gün artık sepet yok. "
+        },
+        "rating": 1,
+        "updatedTime": "2025-10-15T16:18:53.014Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "9ZYU8HZGwaHMW0JkCRUL-QxPMc-QaZQyr",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Александр Литвинов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/28439/TjLui9mzI4qvB2MfrjXdm25HmM-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "g5uh962uet81vk9yj7rgjxrkv0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Быстро, чисто, удобно и без чего-то лишнего. Остались только приятные впечатления. Неплохо было бы сделать полноценную оплату картой, тогда идеально будет всё.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Hızlı, temiz, kullanışlı ve gereksiz bir şey olmadan. Geriye sadece hoş izlenimler kaldı. Kartla tam teşekküllü bir ödeme yapmak güzel olurdu, o zaman her şey mükemmel olurdu."
+        },
+        "rating": 5,
+        "updatedTime": "2025-04-19T06:34:01.190Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "tTgY-qthftp1dsUj-oQq1MXy4FuUr0DQy",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Кирилл Жариков",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/62162/kP8sfU6bjgQNel9plJv9EXpHje8-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "28yk6wpeuqfxphk35g1dz75e88",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Покупал розы в подарок в этом месте, сделали очень красивый и современный букет, сестре очень потравился! Очень доброжелательная владелица Ольга, рассказала, как ухаживать за букетом, чтобы он дольше стоял! Спасибо! ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-07-23T12:59:46.683Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Tq_4LNeZ3_b911QGa25foWdHHDKtaG",
+        "businessId": "17359860043",
+        "author": {
+          "name": "татьяна",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38663/BWTLgDeY8mjmbDQolMNp0X2OP50-1/{size}",
+          "professionLevel": "Level 11 Local Expert",
+          "rtb": "Level 11 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7k9ah7tky04tm2m93kxwa34pd0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный,красивый салон цветов! Цветочки свежие, красивые букеты,композиции. Приветливая девушка продавец. ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-09-15T17:56:35.978Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "c5NUwEyr6iT1BMs9Ec2vqZrsjbmpo_",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Elen",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25358/0c-8/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Мне нравится этот салон цветов! Он небольшой, но так со вкусом всё подобрано. Много подарков и сувениров, которые я не видела больше нигде в городе. Из живых цветов всегда есть что то интересненькое. Девчонки флористы молодцы!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-09-23T11:14:48.460Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "G7Tx7V_uAeTzNjFvTKZNR8PgaHS0YdF",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Александр Кириллов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0t-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0ut8xu8m0ckubfbddc6rru5xpg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Два раза уже покупал там цветы. \nУдобно. Качественно. Рекомендовал друзьям. ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-10-10T07:49:49.902Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Y6KXVTXDFqmM6tzZ0R19vRNIcfBo6emR",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Иван Морин",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25358/0h-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wr0jk02t5dw9w81dn7gmd3hy7r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хорошее место помогли подобрать цветы на день мамы всë понравилось. Отличный сервис.",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-11-29T17:47:14.371Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "QevYQjmuHajdR5yUpvG1SrlBjzTCkpkiz",
+        "businessId": "17359860043",
+        "author": {
+          "name": "Anastasia P.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/61207/0r-5/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "nz3q9r8t70g8z279m4krub0kd4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Все прошло отлично, клиентоориентированность на высоте ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-07-08T07:31:31.086Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "_Nd6FmFie_urRuyOw0I_4rci-vwAzQG",
+        "businessId": "17359860043",
+        "author": {
+          "name": "сергей зверев",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/54535/QwALOcWooKfS3WOVt1CrY1CEtU-1/{size}",
+          "professionLevel": "Level 19 Local Expert",
+          "rtb": "Level 19 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7dkec8cfkn6mrd9n696t9ur8j4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Ольга Валентиновна Красава как человек и как женщина",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-05-18T00:56:57.617Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "13220782_2a0000018f8933a8ad003274f20bfc1d3f82",
+            "businessId": "17359860043",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13220782/2a0000018f8933a8ad003274f20bfc1d3f82/{size}",
+            "createdTime": 1715993817295,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "сергей зверев",
+              "publicId": "7dkec8cfkn6mrd9n696t9ur8j4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/54535/QwALOcWooKfS3WOVt1CrY1CEtU-1/{size}",
+              "updateTime": 1715993817295,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 10,
+      "loadedReviewsCount": 10,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "alenkiy_tsvetok"
+}

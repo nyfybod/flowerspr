@@ -1,0 +1,292 @@
+{
+  "name": "Голландия",
+  "address": "Рязань, Татарская ул., 58",
+  "phone": "+7 (952) 123-79-60",
+  "folder": "Голландия",
+  "oid": "161567194225",
+  "source": "https://yandex.ru/maps/org/161567194225/",
+  "checked": "2026-11-10",
+  "rating": {
+    "ratingCount": 24,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 10
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "electronic_money",
+          "name": "electronic money"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "viber",
+      "href": "https://viber.click/79521237960",
+      "readableHref": "viber.click/79521237960"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79521237960",
+      "readableHref": "+79521237960"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/shariryazan",
+      "readableHref": "vk.ru/shariryazan"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5479189/2a0000017df889692e136d91760782f2fd10/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 200,
+      "height": 247,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/902827/2a000001600a3ebb0b81f879448943d8e53a/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1200,
+      "height": 803,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14402904/2a000001945f9bba9ba78603459b064e97f0/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/901763/2a0000018769eb9df66a072b10168869deb3/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 604,
+      "height": 453,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14110197/2a000001945f9bb66bd2f4b8999faa845314/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9753788/2a000001897820412b72197bcc1c4620790a/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 510,
+      "height": 359,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/363317/2a0000016018549e1d80d9524fef7fef900a/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6382111/2a00000184678727fc8ed1ae958bb8ce8615/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1200,
+      "height": 791,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11410105/2a00000191bd9b4ffe4b280d5f3f3bf0227e/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1200,
+      "height": 901,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10232404/2a00000191bd9b4ffa67f7385eaaf039b3af/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Pavel S.",
+      "text": "Сделали всё чётко!На запрос в ВК ответили мгновенно.Сам был в другом городе и дистанционно смогли все решить.Шары красивые и зайчик тоже.Все довольны.По ценам не мониторил,главное удобство.\nОЧЕНЬ РЕКОМЕНДУЮ!",
+      "rating": 5,
+      "date": "2023-07-21",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=x5Ic4LqXhGQ0ZBeB9YbALql5t7pued"
+    },
+    {
+      "author": "Анастасия Ф.",
+      "text": "Искала место для заказа шаров на выписку, было необходимо реализовать задумку за считанные минуты. Сделали крупный заказ , компания справилась на отлично.  Красоту доставили спустя 1 час 20 минут после заказа. В подарок приложили букет из шариков. Довольна и рекомендую ♥️",
+      "rating": 5,
+      "date": "2022-11-11",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=1JvXi-1epAsfxhC0aF5J3LLdshCTijp1"
+    },
+    {
+      "author": "Дарья Зотова",
+      "text": "Ужасная компания, ***, никому не советую. Оформила заранее заказ через сайт, никто не связался со мной по заказу. Телефон недоступен. Написала сама в чат на сайте, менеджер Владислав сказал, что мой заказ есть, но доставка будет платная, (хотя по условиям с того же сайта  должна быть бесплатной), так как они цены не поднимают, а шары в закупке подорожали. Об этом никто не предупредил, на сайте таких условий покупки нет!!! Пришлось согласиться, ведь у ребёнка день рождения, но обещала написать о ситуации в Роспотребнадзор. После чего они заявили, что шары закончились.  Уровень!!! ",
+      "rating": 1,
+      "date": "2022-08-25",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=j9uQB1ti0tQptDi5E9Rixv4R9UmDHHRwW"
+    },
+    {
+      "author": "Алёна",
+      "text": "Отличный сервис и цены, привезли шарики домой, ещё и букетик бонусом, цены дешевле, чем без доставки у других, а тут и оперативно, и недорого, и бесплатная доставка,  и бонус. Одни положительные эмоции, ребята вы СУПЕР🤩",
+      "rating": 5,
+      "date": "2021-03-07",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=fi9kRCwKBxlTRbVE-KCz9BOwGwon0C"
+    },
+    {
+      "author": "Юля Г.",
+      "text": "Заказывала у Вас шарики ко дню рождения. Доставили все вовремя, красиво оформили и все были в восторге! Спасибо за хорошее настроение и высокое качество: шары красивые и летают уже неделю👍🏻 \nОгромное спасибо, всем рекомендую! \n\nБуду пользоваться Вашими услугами и дальше!",
+      "rating": 5,
+      "date": "2020-02-05",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=-D4bjgksRFGsDk2q0TQD6WzxSiN1sxx"
+    },
+    {
+      "author": "Pavel Pavel",
+      "text": "Позвонил по телефону по поводу шариков,приехал,всё быстро надули,по цене также как и везде.",
+      "rating": 5,
+      "date": "2022-09-10",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=paliWODdygTUISsWTLyL2qWjK5ik2RjE"
+    },
+    {
+      "author": "Willinside",
+      "text": "Никакой обратной связи. Оформили заказа, никто не перезвонил в течении недели! Нет возможности связаться самостоятельно. Номера все отключены. В чате на сайте никто не отвечает. Трёхлетний ребенок остался без шаров на день рождения.",
+      "rating": 1,
+      "date": "2022-05-22",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=yZ2IyFsrAb6akLmWk8Gc662UFqZ3xM"
+    },
+    {
+      "author": "Наталья",
+      "text": "Заказывала шарики на рождение племянника. \nСпасибо магазину!!! Владислав очень оперативно помог с выбором , доставка точно ко времени , шарики стоят уже больше двух недель, все как я хотела 🥰\nОчень понятен и удобен сайт , в группе в контакте тоже интуитивно понятно как оформить и увидеть весь ассортимент. Сразу видно профессионалы своего дела, начиная с оформления сайта , заканчивая поддержкой клиента! \nОгромное спасибо всем и процветания!!!",
+      "rating": 5,
+      "date": "2020-04-16",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=IhVA0fP3ohx-BcVolrGcrBlCUk7_7kJF"
+    },
+    {
+      "author": "Алина Латыпова",
+      "text": "Спасибо за шары! не первый раз заказываю. Всегда качественно и во время! ",
+      "rating": 5,
+      "date": "2022-11-13",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=f2PHYiUJlDxosBaJLchk06hrIsrF3HT"
+    },
+    {
+      "author": "Anton",
+      "text": "На сайте цена шарика 95р. По факту 120. Но, долго работают, спасли ❤",
+      "rating": 4,
+      "date": "2025-03-08",
+      "source": "https://yandex.ru/maps/org/161567194225/reviews/?reviewId=i-SDqxTu_cF8Ud7PzVWocsmVH1gRnk"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 756,
+    "height": 283,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/1637232/2a000001699d2b1b080c0133c9514b05e310/%s"
+  }
+}

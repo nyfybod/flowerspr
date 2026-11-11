@@ -1,0 +1,458 @@
+{
+  "name": "Цветочный слон",
+  "address": "Рязань, ул. Островского, 122, корп. 1",
+  "phone": "+7 (953) 744-98-13",
+  "folder": "Цветочный слон",
+  "oid": "115655100703",
+  "source": "https://yandex.ru/maps/org/115655100703/",
+  "checked": "2026-11-10",
+  "rating": {
+    "ratingCount": 26,
+    "ratingValue": 4.5,
+    "reviewCount": 24
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "parking_disabled",
+      "value": true,
+      "name": "parking for people with disabilities",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19582126/2a0000019c0d2407f9a04f81af6ca97e1c3f/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1167,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14234746/2a00000193c0c95484f18c7c0f2888532a0d/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14402904/2a00000193c0ce2d82bac5d944901b9889cf/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17651669/2a0000019cd2a6ee8b4fbd0aa6af2502fc25/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11873493/2a00000193c0d27fff6c7944dda70e567e52/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14578051/2a000001956af6c1dd5e7d27eaf90b4dd3a7/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16378552/2a0000019a1035aee527a9a9d97cc4ab4aff/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14091921/2a00000193d89d857fe231199aff96bfcefb/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15017195/2a00000193c0d2185b3c6d6cd84d22027870/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/12448848/2a0000019c727ed8ddb09172329a17d0f528/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Маржона Ихтиёрова",
+      "text": "Покупала букет гербер для подруги! Осталась очень довольна покупкой! В магазине большой выбор цветов, также очень отзывчивый и грамотный флорист, профессионал своего дела! Помещение интересного оформления, плюс удобное расположение возле остановки! Обязательно буду посещать и заказывать букеты, советую всем! Отдельная благодарность флористу за помощь в выборе букета, спасибо, что вы есть!",
+      "rating": 5,
+      "date": "2025-05-11",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=LRAsMD0KvIGjbBdOI2mK_Z0Trk-Ba0"
+    },
+    {
+      "author": "Виктор Кондратенко",
+      "text": "Две звезды, только за то, что удобный подъезд. Букет приобрел в воскресенье 8 февраля жене, а в понедельник вечером все розы засохли, именно засохли. Бутоны и стебли сухие. В салоне очень скудный выбор цветов. Букет стоил 3300₽. ",
+      "rating": 2,
+      "date": "2026-02-10",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=zMGXvXOJzwgLBb8-sozB2s2Bji2F6-G4"
+    },
+    {
+      "author": "Степан Ярлыков",
+      "text": "Покупал цветы у Светланы, букет собрали красивый, цветы свежие, подсказывали что и как можно еще улучшить в букете. В указанное рабочее время всегда на месте, беру у них уже четвертый раз, молодцы)",
+      "rating": 5,
+      "date": "2026-02-19",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=K0KRGQcK0gqc5XRtK519N9kBAgvoZ6KIS"
+    },
+    {
+      "author": "Максим Харченко",
+      "text": "Очень удобное расположение магазина!! Очень приятное отношение продавцов, большой выбор композицый, встречают с улыбкой и провожают с улыбкой!!! Понравилось покупать букеты!! Обязательно посоветую всем своим близким и знакомым!будем приезжать чаще!",
+      "rating": 5,
+      "date": "2025-04-04",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=YsKDp7gBT91zLCfm5FF0YpP0tC47Ux"
+    },
+    {
+      "author": "Ирина Юдаева (Юрьева)",
+      "text": "Заказывали букет молодому человеку на день рождения. Дизайн попросили на усмотрение флориста, результат понравился. Букет получился оригинальный, мужской💪, собран аккуратно, цветы свежие. Именинник доволен! ",
+      "rating": 5,
+      "date": "2024-12-17",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=dKDIywWhLC98xfg5iVvHbqjgdJlCPDIVf"
+    },
+    {
+      "author": "Ирина Юдаева",
+      "text": "В магазине большой выбор цветов, цены приемлемые. Удобное расположение. Постоянно заказываем здесь цветы  для своей организации. Дополнительный плюс - есть доставка. Персонал вежливый, флорист всегда поможет с выбором, подскажет как правильно ухаживать за букетом, чтобы он долго стоял. ",
+      "rating": 5,
+      "date": "2025-03-29",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=H1aT6Pr0l_m22Iz4VhVjaYl1dE967k"
+    },
+    {
+      "author": "Татьяна Козеева",
+      "text": "Очень приятная цветочня! Флорист знает своё дело, милая и коммуникабельная, проконсультировала и помогла в выборе букета. Приятно удивил оформление интерьера магазина, редкость в нынешнее время в цветочнях! Советую, не пожалеете!!! ",
+      "rating": 5,
+      "date": "2025-05-15",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=y4ZT-Enk-xWoYJE2Q8RXtAG-JDC1Mns"
+    },
+    {
+      "author": "AnasrasiaK123",
+      "text": "Отзывчивый персонал, профессионал своего дела, букет был собран грамотно, быстро. Получилась замечательная композиция. ",
+      "rating": 5,
+      "date": "2026-03-09",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=h9txJqXtj5rgaDOUsapVluTUYWiv94xWJ"
+    },
+    {
+      "author": "Мария К.",
+      "text": "Молодой человек решил купить цветы в этом цветочном магазине первый раз. Вообще первый раз вижу такие плохие цветы. Им всем осталось по виду два-три дня до уведания.  Одну розу воббще ободрали,у других лепестки уже тоже все завяли,видимо флорист забыл их убрать. Из плюсов упаковали от холода и дали прикормку.Я очень расстроилась",
+      "rating": 2,
+      "date": "2025-03-19",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=jmmX2bQYneNeuoK_IOECt0auZFDUqr"
+    },
+    {
+      "author": "Андрей Шалаев",
+      "text": "Отличный магазин, вежливое обслуживание, подход к каждому клиенту, \nВот такой красивый букетик собрали",
+      "rating": 5,
+      "date": "2026-03-09",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=rD87LJVByqQ-fMAv3wSYUYxXD0TWMSi"
+    },
+    {
+      "author": "Елена К.",
+      "text": "Обходите стороной этот магазин, не портите настроение  дорогому человеку, которого хотите порадовать букетом. Потому что радовать он будет очень, очень недолго. Цветы старые, обрываются увядшие лепестки и выдаются за свежие.  И на следующий день вы увидите в своей вазе засушенный гербарий. Продавец (она же, по-видимому, владелица магазина) - очень непорядочный человек.  Клиентоориентированность - 0. Работая в таком красивом бизнесе, нужно работать с душой.  \nСовет всем: купите букет для своих любимых в другом месте и дарите на радость!",
+      "rating": 1,
+      "date": "2025-03-20",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=VO4FcAqvjim1WSnu2o6GhOjgihDZKHd"
+    },
+    {
+      "author": "Оксана Кудрявцева",
+      "text": "Не тратьте время и не портите себе настроение походом в этот магазин. Работник в магазине «Цветочный слон» не компетентна в вопросах продажи товаров,не может дать нужную информацию о цветах.Ужасный сервис, продовец не знает свой товар.Качество цветов оставляет желать лучшего, не рекомендую… \nОбслуживание клиентов ужасное..",
+      "rating": 1,
+      "date": "2025-03-22",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=c5W8wuHc9lAE4AONLIc1S9Uatba_E7"
+    },
+    {
+      "author": "Виталёк",
+      "text": "Захожу не первый ,все подскажут расскажут ,букеты нравятся . Цветы свежие ",
+      "rating": 5,
+      "date": "2026-05-14",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=1fRI77qzCMQ-dJH3bkviR5Z_-8jTqPGPM"
+    },
+    {
+      "author": "Кира Ярлыкова",
+      "text": "Большой выбор цветов, приятная атмосфера и дружелюбный продавец!",
+      "rating": 5,
+      "date": "2026-02-19",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=GEUARHU2uToVWGy3K3XVspOygwOnNm"
+    },
+    {
+      "author": "Эвелина Гончарова",
+      "text": "Приятный магазин внешне, аккуратно.\nДобрые, улыбчивые и приятные люди тут работают.",
+      "rating": 5,
+      "date": "2026-05-14",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=4833IkJUenqt9eUet_JbXSA01IgwJMZ"
+    },
+    {
+      "author": "софья н.",
+      "text": "Пришла в половину девятого, закрыто. Хотя работают с 8. Хотела взять большой букет на юбилей. Видимо сотрудники работают как хотят ",
+      "rating": 1,
+      "date": "2026-05-17",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=55YmC6twFLErsrQNEXz1wn4KEu6e6xt"
+    },
+    {
+      "author": "Пелагея Рум",
+      "text": "Очень хороший магазин, флористы хорошо выполняют свою работу, помогают с выбором, всем советую",
+      "rating": 5,
+      "date": "2026-03-21",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=rzSFEc6s7HMZ-9mVLXPuWxEc98ZK2gf"
+    },
+    {
+      "author": "Lavetti Lil",
+      "text": "Вежливые и отзывчивые продавцы, упаковали подарок, спасибо ",
+      "rating": 5,
+      "date": "2026-02-18",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=j--X0_1nnTYSCyyd0Q2csdNvi6IiF02e"
+    },
+    {
+      "author": "Максим Материкин",
+      "text": "Не очень большой выбор готовых букетов, а те которые были, не особо понравились, но это на вкус и цвет.",
+      "rating": 4,
+      "date": "2025-09-13",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=2GBZi0cuQhtfGWUdCy03ckhTnwGMEq5"
+    },
+    {
+      "author": "Илья Сорокин",
+      "text": "Хорошие цветы и прекрасный сотрудник)",
+      "rating": 5,
+      "date": "2026-01-26",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=VjRKNhG-Y_nvpMfSSZQEMLgOueLPS5EiN"
+    },
+    {
+      "author": "Алина Яшкова",
+      "text": "Спасибо Нике! Помогла собрать красивый букетик, получатель остался доволен",
+      "rating": 5,
+      "date": "2026-03-31",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=aI_SN_jxPN3QEZbnYv2FkgkFnSry5PRAO"
+    },
+    {
+      "author": "Марк П.",
+      "text": "Прекрасное место, упаковали подарок и выбрали цветы. Очень приятный персонал.",
+      "rating": 5,
+      "date": "2026-02-18",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=2T_j19atxNmLksQw7YylEpL_Vxb13ap-"
+    },
+    {
+      "author": "Arman Gasparyan",
+      "text": "Номер телефона всегда не доступен. ",
+      "rating": 1,
+      "date": "2025-06-04",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=zByPF4bq4UOFkXLcNX-xcEKLbPMLE6kT"
+    },
+    {
+      "author": "Алексей Б.",
+      "text": "Хороший магазин, добрый персонал",
+      "rating": 5,
+      "date": "2026-03-14",
+      "source": "https://yandex.ru/maps/org/115655100703/reviews/?reviewId=bl-Obrc7yB47Cuq9V_r2iQu2ZfTpwTf"
+    }
+  ],
+  "services": [
+    {
+      "name": "Белые кустовые розы",
+      "category": "Цветы, кустовые розы, доставка Рязань, 101 роза, 51 роза, 25 роз",
+      "price": "400",
+      "description": "Букет из белых кустовых роз. Возможные варианты 101 роза, 51 роза, 25 роз и другие. Доставка по городу и области.",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/115655100703/prices/",
+      "sourceUrl": null
+    }
+  ],
+  "logo": null
+}

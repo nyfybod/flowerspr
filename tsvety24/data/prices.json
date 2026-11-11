@@ -1,0 +1,654 @@
+{
+  "stack": [
+    {
+      "results": {
+        "items": [
+          {
+            "id": "165257773473",
+            "title": "Цветы24",
+            "ratingData": {
+              "ratingCount": 22,
+              "ratingValue": 4.400000095367432,
+              "reviewCount": 17
+            },
+            "phones": [
+              {
+                "number": "+7 (900) 156-01-32",
+                "type": "phone",
+                "value": "+79001560132"
+              },
+              {
+                "number": "+7 (977) 958-93-50",
+                "type": "phone",
+                "value": "+79779589350"
+              }
+            ],
+            "features": [
+              {
+                "id": "payment_by_credit_card",
+                "value": true,
+                "name": "Оплата картой",
+                "type": "bool",
+                "important": true
+              },
+              {
+                "id": "cards_and_envelopes",
+                "value": true,
+                "name": "поздравительные открытки",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "parking_disabled",
+                "value": true,
+                "name": "парковка для людей с инвалидностью",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "wedding_floristry",
+                "value": true,
+                "name": "свадебная флористика",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "delivery",
+                "value": true,
+                "name": "доставка",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "dried_flowers",
+                "value": true,
+                "name": "сухоцветы",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "wheelchair_accessible_vocabulary",
+                "value": [
+                  {
+                    "id": "wheelchair_accessible_pa",
+                    "name": "частично доступно"
+                  }
+                ],
+                "name": "доступность помещения на инвалидной коляске",
+                "type": "enum",
+                "important": false
+              },
+              {
+                "id": "petfriendly",
+                "value": [
+                  {
+                    "id": "allowed_with_all_animals",
+                    "name": "разрешено со всеми животными"
+                  }
+                ],
+                "name": "посещение с животными",
+                "type": "enum",
+                "important": false
+              },
+              {
+                "id": "payment_method",
+                "value": [
+                  {
+                    "id": "cash",
+                    "name": "наличными"
+                  }
+                ],
+                "name": "способ оплаты",
+                "type": "enum",
+                "important": false
+              },
+              {
+                "id": "promotions",
+                "value": [
+                  {
+                    "id": "discounts",
+                    "name": "скидки"
+                  }
+                ],
+                "name": "акции",
+                "type": "enum",
+                "important": false
+              },
+              {
+                "id": "pickup",
+                "value": true,
+                "name": "Самовывоз",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "gift_wrapping_1",
+                "value": true,
+                "name": "упаковка подарков",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "gift_wrapping",
+                "value": true,
+                "name": "подарочная упаковка",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "soft_toys",
+                "value": true,
+                "name": "мягкие игрушки",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "show_briefly_about_the_place_block",
+                "value": true,
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "flowers_in_flask",
+                "value": true,
+                "name": "цветы в колбе",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "planter",
+                "value": true,
+                "name": "кашпо",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "car_park",
+                "value": true,
+                "name": "парковка",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "Possible_with_dog",
+                "value": true,
+                "name": "Можно с собакой",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "indoor_plants",
+                "value": true,
+                "name": "комнатные растения",
+                "type": "bool",
+                "important": false
+              },
+              {
+                "id": "products_garden_center",
+                "value": [
+                  {
+                    "id": "soils_and_fertilizers",
+                    "name": "грунты и удобрения"
+                  }
+                ],
+                "name": "товары",
+                "type": "enum",
+                "important": false
+              }
+            ],
+            "photos": {
+              "count": 94,
+              "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15074997/2a00000196aa908d087f2345cb67ce8bcf06/%s",
+              "items": [
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15074997/2a00000196aa908d087f2345cb67ce8bcf06/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15265650/2a000001976a3129eb5ed1954a9f597d9182/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15288133/2a00000196538c02df37998ab60105b7708b/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15251163/2a000001976a318fe9e5f323d2a6f6551cb5/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14506105/2a000001976a318c61bcbf9af436428118db/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15426074/2a000001976a2ef4525bc3b905070c79c0a0/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15126910/2a00000196538d003a696a3d6dbd6ff0d581/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16394283/2a000001976a2eff511a2bb84ba487245477/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16270073/2a000001976a2ef97b357739facb855da84d/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                },
+                {
+                  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14584627/2a00000196d87a9b2e1eb40fb6a6649b2a0b/%s",
+                  "alt": "Магазин цветов Цветы24, Красногорск, фото"
+                }
+              ]
+            },
+            "fullObjects": {
+              "hasPhotos": true,
+              "rubric": "other",
+              "categories": [
+                {
+                  "categoryName": "Букеты",
+                  "categoryItems": [
+                    {
+                      "title": "Букет из пиона, бамбука, альстромерий и пионовидных кустовых роз",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1644120/2a00000197698cb3a7bc2acbc0f2eb997f4a/{size}",
+                      "price": "3999",
+                      "currency": "₽",
+                      "matchKey": "v1.ynCk2MSuD-0BYooYaOcmXyPq_WnvJ0qaCLVSfBk8nUY"
+                    },
+                    {
+                      "title": "Мандарин Экспрешн",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13488316/2a000001976993a494f2eb38a8c54cd5e774/{size}",
+                      "price": "5800",
+                      "currency": "₽",
+                      "matchKey": "v1.3u6Qfu7h8l_EjBMf1yBLbcdnabv4i5GWEk4yZUzBtuQ"
+                    },
+                    {
+                      "title": "Пионы, пионовидные шикарные розы, альстромерии, эустома и Сантини",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1521147/2a0000019769b579939da349a872639efcec/{size}",
+                      "price": "7950",
+                      "currency": "₽",
+                      "matchKey": "v1.zG1CGIV5G8iISjPJyH_LIizTNSFRhFbROEpq84AiyHY"
+                    },
+                    {
+                      "title": "Ароматные розы Пинк Флойд 19 шт",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1643978/2a0000019769b66673d2ca74ea41f7dc3d50/{size}",
+                      "price": "6600",
+                      "currency": "₽",
+                      "matchKey": "v1.ZVAGLKP9c1qNFqaVMcKYJ9IVS6fh9q50RmGu2yqGrcQ"
+                    },
+                    {
+                      "title": "Бамбук 5 шт",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019769be6baf23d6448e119ede3f87/{size}",
+                      "price": "2500",
+                      "currency": "₽",
+                      "matchKey": "v1.8l-AymCMCPlCyb7OQr46a5vX7o9rfX2lXASEA1maWuQ"
+                    },
+                    {
+                      "title": "Авторский Букет",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019769c133a34301a4b300cf79c0e6/{size}",
+                      "price": "5100",
+                      "currency": "₽",
+                      "matchKey": "v1.n8Ba4kxM8E7hBiXdKJwDJacxXoYV19g3AVjErUOWK0M"
+                    },
+                    {
+                      "title": "Букет из роз, гортензии, эустомы, альстпомерий и протеи",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2893106/2a0000019769c2989f92552a21ca5f949542/{size}",
+                      "price": "5900",
+                      "currency": "₽",
+                      "matchKey": "v1.MU4joa89MJcjw_NHlPyIIk1ol8iKKslsdvTzJiLJgI8"
+                    },
+                    {
+                      "title": "Букет из пионов, пионовидных роз, гортензии, маттиолы и ромашек",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1530321/2a0000019769c366a1e4d6d162e4f97ce5fe/{size}",
+                      "price": "7500",
+                      "currency": "₽",
+                      "matchKey": "v1.VJUfD1O6zd3ICYrYV2RMpwtACYUO9AMeDgFKmQPYkKc"
+                    },
+                    {
+                      "title": "Букет-комплимент",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/4078836/2a0000019769c4ba636dfb66d5bd81393ff8/{size}",
+                      "price": "2800",
+                      "currency": "₽",
+                      "matchKey": "v1.mNG7nV_DbwS04lSNPYNTIq3RmBkxuysH2qSfa7F6bqI"
+                    },
+                    {
+                      "title": "Пионы, альстромерии и зелень",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019769cbbad8b4c0b0b86206f23956/{size}",
+                      "price": "3100",
+                      "currency": "₽",
+                      "matchKey": "v1.uoKPEl7sDkxhuzakjOum7KfsmKU6CBjOfLwAaQaryZM"
+                    },
+                    {
+                      "title": "101 красная роза",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019769cf0e8ee6c1e443207c9a8802/{size}",
+                      "price": "11500",
+                      "currency": "₽",
+                      "matchKey": "v1.5h7DhcRTS6EAqw60DaG0xRFTxBKq_HkpyAkQ1YuxBxE"
+                    },
+                    {
+                      "title": "51 красная роза",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019769d0f40cbf0dabc878962cf2c8/{size}",
+                      "price": "6100",
+                      "currency": "₽",
+                      "matchKey": "v1.eEHJpmoO7weMcSmBtR41r7n2k1zwKxVLcYsChGh8qIk"
+                    },
+                    {
+                      "title": "Пионы, сантини, альстромерии и дендробиум",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1424222/2a0000019769d318596602ab22140b8c8f6d/{size}",
+                      "price": "3900",
+                      "currency": "₽",
+                      "matchKey": "v1.W1NkQGRQg3htgVXR0VRNoxBXeNUsIOOKEEJeCNnw4YE"
+                    },
+                    {
+                      "title": "Букет из кустовых роз, хризантем и гортензии",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2899371/2a0000019769d4141f3e661ab62331ed07fa/{size}",
+                      "price": "4500",
+                      "currency": "₽",
+                      "matchKey": "v1.7aDd_tBWogr5Bs8ZLQD_eW3_finT_KNOYjRhS2rn9Vg"
+                    },
+                    {
+                      "title": "Пинк Экспрешн",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019769d4b9599f65fad6de134c8f29/{size}",
+                      "price": "5500",
+                      "currency": "₽",
+                      "matchKey": "v1.wMFJDTK-ap1nk778_8vmH8iYgEXrDk4b1_SZOolufu4"
+                    },
+                    {
+                      "title": "Букет из пионов, гербер, ромашек, альстромерий и гортензии",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/218134/2a0000019769d6065a1ccf876c8832f29829/{size}",
+                      "price": "5900",
+                      "currency": "₽",
+                      "matchKey": "v1.nNXB8NvUUca3mNhhdpJkIWnvkRaMlu6_bLGp279wtWs"
+                    },
+                    {
+                      "title": "25 белых роз Мондиаль",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2757887/2a0000019769e080e228daddb25e828d0bf0/{size}",
+                      "price": "7500",
+                      "currency": "₽",
+                      "matchKey": "v1.lwTmG9qXn-pfs7i7_nBzowXFSfaDM3sjFBtFBiPJxAA"
+                    },
+                    {
+                      "title": "Авторский летний букет",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13672565/2a0000019769e3e9763258c4d1be3b9058ab/{size}",
+                      "price": "3600",
+                      "currency": "₽",
+                      "matchKey": "v1.meG_Zcuo_fVavicUj0a5JPcQtqSKIlbUFqffwBFXIiw"
+                    },
+                    {
+                      "title": "Букет из гортензии и пионовидных роз",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1644120/2a0000019769e58880765658684d834ce6c4/{size}",
+                      "price": "5600",
+                      "currency": "₽",
+                      "matchKey": "v1.FJMnDTtSPQaUDFhmVLQKyXjTiTuzZZ_6jVr6bLxO5WA"
+                    },
+                    {
+                      "title": "Гипсофила в крафте",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2510998/2a0000019769f154de2e4b1e406ef568226d/{size}",
+                      "price": "1650",
+                      "currency": "₽",
+                      "matchKey": "v1.vMi9MNaFm1QqsXlAHoaME9zqaYHtzOXAVwNU0dE1Sx0"
+                    },
+                    {
+                      "title": "Малиновый букет",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2790747/2a0000019769f9589467f329c3ee6de081fb/{size}",
+                      "price": "6850",
+                      "currency": "₽",
+                      "matchKey": "v1.pgQERpkO-XskqST2am0imhdBLmEx6Ou2jwvF5XNUJ1I"
+                    },
+                    {
+                      "title": "Авторский букет",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1643978/2a0000019769fa4b6c3196e5da7fb710e708/{size}",
+                      "price": "6999",
+                      "currency": "₽",
+                      "matchKey": "v1.Ju4cUPGvO99wkT0BMZ5AVWBJiDnEz925PwCXXEN_ZI4"
+                    },
+                    {
+                      "title": "Хризантемы",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2757887/2a0000019769facb70867270b67164ef33fe/{size}",
+                      "price": "2800",
+                      "currency": "₽",
+                      "matchKey": "v1.q_oQ5DWpiYomFCjgWM1L3dZDGC9SM8segbiYaT8EmrI"
+                    },
+                    {
+                      "title": "Кулёк из 7 пионов",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2701203/2a0000019769fdd163837421dcec7f35836d/{size}",
+                      "price": "3700",
+                      "currency": "₽",
+                      "matchKey": "v1.7npNz7OBTIw8q_c2aFv6qW3G6Kf6JZg_h171A3qcRPQ"
+                    },
+                    {
+                      "title": "Облачко гортензий",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2701203/2a000001976a045d0b379c837047bd78bed8/{size}",
+                      "price": "3999",
+                      "currency": "₽",
+                      "matchKey": "v1.kHp61QfLvvkUiDvc5hsrfI_J_vFw5iY0JqDNpNeTPac"
+                    },
+                    {
+                      "title": "Гортензия",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001976a060f631991e805b1c8ff657f/{size}",
+                      "price": "999",
+                      "currency": "₽",
+                      "matchKey": "v1.gSMHqua5gV-_c_Gl2nXgnIVbY_3hvgdr9zUXY5hhoEE"
+                    },
+                    {
+                      "title": "Букет комплимент из гортензии и пионовидных роз",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/944742/2a000001976a071ab7def7b411dd2840feb2/{size}",
+                      "price": "2600",
+                      "currency": "₽",
+                      "matchKey": "v1.HKYbD3CcCbPh-PB0QK-jlfECkOpn-KITjDjBm2Xj9Ss"
+                    },
+                    {
+                      "title": "15 хризантем в крафте",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/8331772/2a000001976a0c3d8f15bd7a39da08bd0424/{size}",
+                      "price": "4100",
+                      "currency": "₽",
+                      "matchKey": "v1.16ZmzzwAKt599fC2pwqEIqE4ekHPCaDd9bnWq8yzFTI"
+                    },
+                    {
+                      "title": "Букет с пионами и эрингиумами",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1644120/2a000001976a0d9ba774b038925dda2c8e51/{size}",
+                      "price": "3400",
+                      "currency": "₽",
+                      "matchKey": "v1.8Gl6jpHDpfy092AafYAmNUTBaoJ4WhXmFUUmEH7x1Jo"
+                    },
+                    {
+                      "title": "15 пионовидных роз Пинк Экспрешн",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/4322053/2a000001976a0e652b66b33ed494cfebcae0/{size}",
+                      "price": "5500",
+                      "currency": "₽",
+                      "matchKey": "v1.SVdnz5Icoz3Q2ql14SZU99aNtLORi53UM_0KW4IrCSo"
+                    },
+                    {
+                      "title": "7 пионовидных роз Пинк Экспрешн",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/218134/2a000001976a0faf9ee81759a306030c381d/{size}",
+                      "price": "2800",
+                      "currency": "₽",
+                      "matchKey": "v1.DP0vjVG1CE0p5sOLKPaZ1djqgPfeVxseGBt25euacmE"
+                    },
+                    {
+                      "title": "15 пионовидных роз в крафте",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2773996/2a000001976a10fd8520775501580066cd36/{size}",
+                      "price": "5300",
+                      "currency": "₽",
+                      "matchKey": "v1.RMCRCE1_NgitfWebxovYm26e5CN6xbXPpCjRiSuYl1w"
+                    },
+                    {
+                      "title": "Букет из 15 ароматных роз Канделайт",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001976a122e98d60c0070a6dfd1703a/{size}",
+                      "price": "5300",
+                      "currency": "₽",
+                      "matchKey": "v1.3sVCICUee0AewP72sdKP4ej9o-0hGHE03CZ2EfmU_2M"
+                    },
+                    {
+                      "title": "Букет из пионовидных роз, ромашек и эустомы",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/944742/2a0000019783764e9ca97b2517c136a9b246/{size}",
+                      "price": "3600",
+                      "currency": "₽",
+                      "matchKey": "v1.llf1MIsneXmqubohCZjqdVuGrMEKZkYj11RdYNRl8fo"
+                    },
+                    {
+                      "title": "Букет с пионом, лилией, ромашками, эустомой и гипсофилой",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/3911103/2a00000197837827c97c92ded261096f5364/{size}",
+                      "price": "3400",
+                      "currency": "₽",
+                      "matchKey": "v1.9saf3eJ7LHl7n79jrDqqtVFmG1Ek3WdJlB6vgS-8ZLM"
+                    },
+                    {
+                      "title": "Букет из самой ароматной розы Вайт Охары, 19 шт",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001978379dbd241b7b4c2201d667f2c/{size}",
+                      "price": "6950",
+                      "currency": "₽",
+                      "matchKey": "v1.v5cNFz3PFuKmM9kEc0Yx8u9UTC39shLDVXEfTknO1MQ"
+                    },
+                    {
+                      "title": "Облачко из пионов, пионовидных роз, ромашек и альстромерий",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2773996/2a0000019792ffe7d84f967a803fa89c15de/{size}",
+                      "price": "5300",
+                      "currency": "₽",
+                      "matchKey": "v1.W9EcxevmjwxrQf3XUPZsY5oR-kLuC_TX0FSNg9nFuHQ"
+                    },
+                    {
+                      "title": "Букет из пионов, ромашек и альстромерий",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2773996/2a0000019792ffe7d84f967a803fa89c15de/{size}",
+                      "price": "5300",
+                      "currency": "₽",
+                      "matchKey": "v1.DmO-0q_g6ahWgdwABy0cJ8PD8gDeI7vW7l5q3YMhkQ4"
+                    },
+                    {
+                      "title": "Нежный букет с пионами, антуриумом и ромашками",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2893106/2a0000019793040cce048d8a0757ae4d95c1/{size}",
+                      "price": "4700",
+                      "currency": "₽",
+                      "matchKey": "v1.-rFCjA1HjT4p-uwEzVH1EVBFOxVZy4kF9LuD04tgYpk"
+                    },
+                    {
+                      "title": "Букет с пионом, лилией и пионовидной розой",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001979304fbc3dd418c8568daece26c/{size}",
+                      "price": "3900",
+                      "currency": "₽",
+                      "matchKey": "v1.2u-f_BHToKJN8JZPetrvS8rRat5AflDlUczeyp9J1-Y"
+                    },
+                    {
+                      "title": "Яркий букет из роз, гортензии и эустомы",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2790747/2a000001979305eaafa1295dcb70439f35c8/{size}",
+                      "price": "3800",
+                      "currency": "₽",
+                      "matchKey": "v1.cGyHus5jwFYnjBWUYaBl45upvapGV6liAYrFY-sb4j8"
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Комнатные растения",
+                  "categoryItems": [
+                    {
+                      "title": "Лилия",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2790747/2a0000019769c6045ae6783ccfc882a3e924/{size}",
+                      "price": "1600",
+                      "currency": "₽",
+                      "matchKey": "v1.VtHrFeYOhidvMHhrwj3bZz0yH6SjyOlIQILzifHneSE"
+                    },
+                    {
+                      "title": "Дендробиум",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13672565/2a0000019769c73bb1cffcc6687317421c3e/{size}",
+                      "price": "2100",
+                      "currency": "₽",
+                      "matchKey": "v1.wX8cmppbSanzbMqQq-TDJb6Vd07aAgkmoiXONBefHGI"
+                    },
+                    {
+                      "title": "Орхидея Фаленопсис",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2893106/2a0000019769c7d1faa26712c2a5d688e429/{size}",
+                      "price": "2900",
+                      "currency": "₽",
+                      "matchKey": "v1.dcYxK_czNfHvqVam-vB-XGlsdepv_iKNiVtuVdJrniQ"
+                    },
+                    {
+                      "title": "Орхидея Фаленопсис",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2805495/2a0000019769c9c093c00c1b62daeb039414/{size}",
+                      "price": "2600",
+                      "currency": "₽",
+                      "matchKey": "v1.neeqM3SPY8sFnzL0QZ14qTO1iJj40pEg96qa4kUfHnM"
+                    },
+                    {
+                      "title": "Тилландсия",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019769ca5fbeadf605ee9b09e7df86/{size}",
+                      "price": "650",
+                      "currency": "₽",
+                      "matchKey": "v1.ijSxCOwYb5gqIfnJi2EWb__iu7pcSc-o6WUzc5BrwH0"
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Композиции",
+                  "categoryItems": [
+                    {
+                      "title": "Сумочка с пионовидными розами",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019769b9467d1e0133131f8b7a7ef2/{size}",
+                      "price": "2900",
+                      "currency": "₽",
+                      "matchKey": "v1.nv6zQ8Cse1ks32rEqrfjM3k5NEmt9sD3XpWqaDET300"
+                    },
+                    {
+                      "title": "Сумочка с цветами",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/8331772/2a0000019769ef8a1867799bf3ddbc8493f4/{size}",
+                      "price": "3300",
+                      "currency": "₽",
+                      "matchKey": "v1.OIJDOyDyaDmeNOzKOBhQdHwbLaC8h0nTRhn3OnDUWkQ"
+                    },
+                    {
+                      "title": "Коробка из гортензий и пионовидных роз",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019769f84842879369f260f0e3576b/{size}",
+                      "price": "17000",
+                      "currency": "₽",
+                      "matchKey": "v1.nRrIEO-sH9T9CwonK9mvmfE69Xh7ESjcpHh7nWVjqPs"
+                    },
+                    {
+                      "title": "Цветочный ящик",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1643978/2a000001976a096f5ab4ab6edbe2548f5c7a/{size}",
+                      "price": "6800",
+                      "currency": "₽",
+                      "matchKey": "v1.JFz3_W3F9SrxGwnIXICvfXbMZW3qr4ty7Oz3wEfdm5Q"
+                    },
+                    {
+                      "title": "Орхидеи в сумочке",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1644120/2a000001976a0b601619086b060355cd1949/{size}",
+                      "price": "4400",
+                      "currency": "₽",
+                      "matchKey": "v1.e_U68ABc9xO_0dRdBe3TSGC5k61uG4npgxBbQyP-Oy0"
+                    }
+                  ]
+                },
+                {
+                  "categoryName": "Композии",
+                  "categoryItems": [
+                    {
+                      "title": "Сумочка с пионом, розами и гортензией",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/4322053/2a0000019769baaf21b791865714a30f9584/{size}",
+                      "price": "3600",
+                      "currency": "₽",
+                      "matchKey": "v1.SwAyZ_r5kDh9yPOXbFAohbwuJ_o7H19qBeEhAGplKjc"
+                    },
+                    {
+                      "title": "Летняя сумочка с цветами",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019769bc12bafd95dd558a868117a9/{size}",
+                      "price": "1999",
+                      "currency": "₽",
+                      "matchKey": "v1.IAiTUO4zva8Y2lu-4CanYodYUL_0v12CTmfNaju1X30"
+                    },
+                    {
+                      "title": "Сумочка с цветами",
+                      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/4078836/2a0000019769bccc707072ceeb57cdf0a1ce/{size}",
+                      "price": "2700",
+                      "currency": "₽",
+                      "matchKey": "v1.RVTKio2DkVdk40PCg6KnlrrlOLUgmxZ2bavVue9RA0o"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

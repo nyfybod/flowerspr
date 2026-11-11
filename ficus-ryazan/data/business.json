@@ -1,0 +1,4838 @@
+{
+  "id": "74203980529",
+  "title": "Ficus",
+  "address": "Ryazan, Chapaeva Street, 59",
+  "fullAddress": "Ryazan, Chapaeva Street, 59",
+  "coordinates": [
+    39.731108,
+    54.62541
+  ],
+  "phones": [
+    {
+      "number": "+7 (952) 129-88-34",
+      "type": "phone",
+      "value": "+79521298834"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_dogs_35_cm",
+          "name": "allowed with dogs up to 35 cm."
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "gifts",
+          "name": "gifts"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "parking_disabled",
+      "value": true,
+      "name": "parking for people with disabilities",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "indoor_plants",
+      "value": true,
+      "name": "indoor plants",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_for_florists",
+      "value": true,
+      "name": "products for florists",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "planter",
+      "value": true,
+      "name": "flowerpot",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_garden_center",
+      "value": [
+        {
+          "id": "ornamental_plants",
+          "name": "ornamental plants"
+        },
+        {
+          "id": "seedlings",
+          "name": "seedlings"
+        },
+        {
+          "id": "pots_and_planters",
+          "name": "pots and planters"
+        },
+        {
+          "id": "soils_and_fertilizers",
+          "name": "soils and fertilizers"
+        },
+        {
+          "id": "fruit_plants",
+          "name": "fruit plants"
+        }
+      ],
+      "name": "products",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "florarium",
+      "value": true,
+      "name": "florarium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_na",
+          "name": "Not available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 207,
+    "ratingValue": 5,
+    "reviewCount": 145
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 10:00 AM–8:00 PM",
+  "socialLinks": [
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/ficusrus",
+      "readableHref": "vk.ru/ficusrus"
+    }
+  ],
+  "businessLinks": [],
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15148849/2a00000195301a8329b78f0627b3e3e6fbca/%s",
+      "tag": [
+        "owner_photo"
+      ],
+      "id": "2a00000195301a8329b78f0627b3e3e6fbca"
+    }
+  },
+  "photos": {
+    "count": 249,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17773264/2a0000019c1cf6c6444fb4fbf967847f69fd/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17773264/2a0000019c1cf6c6444fb4fbf967847f69fd/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15265650/2a000001960124f56e9c2d44f882d3c79694/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15038851/2a0000019692b0915fee86721ee1560cfb92/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9776062/2a0000018b3d75418fe0305850f49a437d44/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20190908/2a0000019ed11c7d7c68589bf7e94e2e6a90/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20824784/2a0000019ed11c8abb8548f14fb1e333e071/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18101536/2a0000019c1cfa835da7405ddabca221b81f/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18144645/2a0000019ed11c7de2eb64644388509aa96e/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17714326/2a0000019e34ad2ce6c6f127aceff2f2de99/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15431134/2a000001977a22d4ed944de261fae66d5244/%s",
+        "alt": "Flower shop Ficus, Ryazan, photo"
+      }
+    ]
+  },
+  "fullObjects": {
+    "hasPhotos": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "Кактусы и суккуленты",
+        "categoryItems": [
+          {
+            "title": "Адромискус",
+            "price": "250",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.nKuUzJhNa_yqnnaxvC-NzF63qrIUgc2gdIPVRkAw2ho"
+          },
+          {
+            "title": "Седум микс",
+            "price": "250",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.pcjXpFf44iBpWPOSFV3WUt809QzStBg-8EQdidVHS8w"
+          },
+          {
+            "title": "Суккуленты микс",
+            "price": "300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.gAyE368mgbDAMd9tLIS4yz2GpyYgyPlrKv1AHUkdN0U"
+          },
+          {
+            "title": "Кактус д12",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.wcaA_YqFr7cMy25iVNQMoHnFb2DyAG17J19Xml2EdPY"
+          },
+          {
+            "title": "Крассула вариегата д5",
+            "description": "Крассула вариегатная — «денежное дерево» с листьями, окаймлёнными кремовыми или розовыми полосками. Растёт медленнее. Требует яркого света (иначе пестрота исчезнет), редкого полива.",
+            "price": "350",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.MEGTvKDct6P4eg-x0cxqHFot3UXjyHy-JvsWw_jVa6U"
+          },
+          {
+            "title": "Крассула д12",
+            "price": "1100",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.MivYiMfHB2y2FLJLJgEVvES1oaF_XmTd6mh4PMVu3vQ"
+          },
+          {
+            "title": "Плейоспилос нелли рубра д5",
+            "description": "Плейоспилос Нелли рубра — суккулент «живые камни» с шаровидными красно-коричневыми листьями. Цветёт жёлтыми цветками. Уход: яркий свет, редкий полив (когда листья сморщиваются), зимой прохлада (+10…+15°C)",
+            "price": "500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.wp0Pl1gGY59BQHwM0mZTwW5b55lHoG4tUcwZUBToFjw"
+          },
+          {
+            "title": "Крассула Ликоподиоидес",
+            "price": "300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Dq8CM0M-HPXfH5hUOOc1s_tszNhHzdpYgkBnt4ra0Ng"
+          },
+          {
+            "title": "Крассула овата хоббит",
+            "price": "300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.grfxgReoCqDQFc5E8Au9Hga6JV-xtXcWMmUMkHW3kv8"
+          },
+          {
+            "title": "Каланхоэ хумилис зебра",
+            "price": "350",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.rfXGxFCeKix64_c-k18KXqKGIOgdm7hwksbXw-vg7kw"
+          },
+          {
+            "title": "Кактус Хамаелобивия Паолина",
+            "description": "Кактус Хамаелобивия Паолина\n\nПри хорошем освещении радуют крупными ярко-малиновыми или пурпурными цветами до 5–7 см в диаметре.\n\nОчень неприхотлив",
+            "price": "590",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.XAnH9z-XPQQ-2zuR62DUXRll0wazcxadsxGxKtjMsLU"
+          }
+        ]
+      },
+      {
+        "categoryName": "Пересадка растений",
+        "categoryItems": [
+          {
+            "title": "Профессиональная пересадка растений",
+            "description": "Мы осуществляем пересадку растений, предлагая гибкие варианты: в нашей студии или с выездом на вашу территорию.\n\nДля определения стоимости, пожалуйста, отправьте нам фотографию растения и свяжитесь с нами.\nУслуга предоставляется по предварительной...",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.XtdrSinZeIbv2iSfELjxDlo03M_RHzZ5NdbxKJN5CVU"
+          }
+        ]
+      },
+      {
+        "categoryName": "РАСТЕНИЯ ХИЩНИКИ",
+        "categoryItems": [
+          {
+            "title": "Венерина мухоловка",
+            "description": "Венерина мухоловка — хищное растение с ловушками-челюстями. Кормить живыми насекомыми. Требует дистиллированную воду, постоянно влажный мох, яркое солнце, зимовку в холоде (+5…+10°C).",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.NunjYbd0PC3EetvZ4fP2wd5yMVB0dr4Oafujj-jNrp0"
+          }
+        ]
+      },
+      {
+        "categoryName": "Озеленение интерьера в доме | офисе",
+        "categoryItems": [
+          {
+            "title": "Кротон Миссис Айстон 19/70см",
+            "price": "4900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.hQMsohPCcRSiMecPJycNrPQDmUosc395DCd_lffileM"
+          },
+          {
+            "title": "Нолина д19",
+            "description": "Нолину часто рекомендуют даже самым забывчивым или начинающим цветоводам. Она спокойно перенесет вашу командировку или занятость, так как в стволе она запасает влагу и поливать её необходимо редко",
+            "price": "5900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.u3wu7tBEkk2p0Z84pWtYGQ05ESK8RIIIqJQ5UiPmbYA"
+          },
+          {
+            "title": "Плющ (хедера) d13",
+            "description": "Плющ (хедера) способен преобразить любую поверхность: скучную стену, книжную полку, создавая атмосферу сказочного леса/ Неприхотлив и вынослив.Свет рассеянный. Пёстрые сорта требуют больше света, зелёные мирятся с полутенью.Полив регулярный и умер...",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.GYHonbSQOZ8gdvjsf3c2WvoxAzBQHimSj_DiydxOJu8"
+          },
+          {
+            "title": "Фикус эластика",
+            "price": "1850",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.nCgiiiMtToRivukTFzegcuc9UH5DLdaEvlOiYJf1k70"
+          },
+          {
+            "title": "Шеффлера нора",
+            "price": "1600",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.u52nHVQDPJ1K3btYxbCvxrA8-p_PLutEbAABmTOjS7I"
+          },
+          {
+            "title": "Радермахера 28/200",
+            "description": "Комнатное шикарное дерево для эстетов - Радермахера\nГустая крона глянцевых листьев, сформированная в виде аккуратного дерева, выглядит стильно и структурно, добавляя в интерьер порядок и гармонию. Яркое естественное освещение, без прямых (в летний...",
+            "price": "33800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.qTMaWSXAtXNaWj9BQTW3K1HQG_o96GVyBbrM_G1u2Uc"
+          },
+          {
+            "title": "Фикус мокламе д14",
+            "description": "Фикус Мокламе — компактный сорт с мелкими округлыми глянцевыми листьями. Быстро растёт, легко формируется. Неприхотлив: яркий рассеянный свет, умеренный полив",
+            "price": "2250",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.7aubRHiMKNJs7dt4BDeWmyGcqprlVOChVV1RCR1trTo"
+          },
+          {
+            "title": "Фикус мокламе плетеный ствол д17",
+            "price": "5500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.7gTv6eGUTFeC0gi92ieqod_Bi4gaoJIL2fWhmWd9h34"
+          },
+          {
+            "title": "Аглаонема Сильвер бэй д17",
+            "price": "4990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.a-QqMalEmakx_T91J7FHz7mg-gmxVbvzE4gRF6AWv2A"
+          },
+          {
+            "title": "Араукария 23/100",
+            "price": "8900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.53VmCkK4NKWbNMeYjbB6hlHS9LLSS4wKa7T_Ji3dplg"
+          },
+          {
+            "title": "Араукария 32/150",
+            "price": "20835",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.ZoqUHCUID96FDZGfnY2xgDRtbhglxQDxEoWtn7WAsXA"
+          },
+          {
+            "title": "Драцена драко",
+            "price": "25900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Wb5jm-8OgaAGY9Icx03iPNcZgnR92LIW4BvahypqW3s"
+          },
+          {
+            "title": "Радермахера 25/150 см",
+            "price": "19900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.7AmjOoEphgN02dEf7K9z-1Vy7kEuk2gUYahtbCpq5Hk"
+          },
+          {
+            "title": "Арека 17 см",
+            "price": "6300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.BdSuyGtxW4NT1VjYMd0nUoAFK61oWb2EbkSeZP5vbXg"
+          },
+          {
+            "title": "Лавр благородный д10",
+            "price": "890",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.PW31SGBo6QyiPUR3AADDXFSh-_iuNaXy9sLNtWsCcOQ"
+          },
+          {
+            "title": "Леписмиум боливийский д5",
+            "price": "450",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.IWGVXShNfoKKDosS3W9RoyIlUQ9yZpL4RnaZwdoY-Ws"
+          },
+          {
+            "title": "Самшит шар 30/60",
+            "description": "Оформленное растение в горшке для озеленения",
+            "price": "11300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.7FF8DTjq0uD07JQzmHq0_nIDR3rn00kfSn9RkN3dFPo"
+          }
+        ]
+      },
+      {
+        "categoryName": "Хвойные растения в горшках",
+        "categoryItems": [
+          {
+            "title": "Можжевельник Стрикта",
+            "price": "3800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.fiKx8vgCkzO2pUW0F8P8jRFin2OcZWVADWggiUi3Zg8"
+          }
+        ]
+      },
+      {
+        "categoryName": "Цитрусовые комнатные растения",
+        "categoryItems": [
+          {
+            "title": "Цитрус каламондин d15",
+            "price": "5600",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.AC0MF81a0wF3QPCBTQPktWwNk9g472xodZj9s4lrSLE"
+          },
+          {
+            "title": "Цитрус лимон д21",
+            "price": "11700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.QE4AzJAigJPKfzH5QfZrGgedorCwANDwC76aT8LVaTk"
+          },
+          {
+            "title": "Цитрус лимон д15",
+            "price": "4700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.2iZvbP2q_XIgITKyOdPh7sPi4ndlojup4GuBoJGNiqI"
+          }
+        ]
+      },
+      {
+        "categoryName": "Комнатные ( горшечные) растения, домашние цветы",
+        "categoryItems": [
+          {
+            "title": "Ананас д12",
+            "price": "2800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.5l9zgVEilgkBQCrERvdvMxBezu_ADsXytrfhNWEx9Po"
+          },
+          {
+            "title": "Замиокулькас д12",
+            "price": "1650",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.C6EbRDX1jRGebZ_3YxoO5l3-agW13GCGgiU8TakgKL0"
+          },
+          {
+            "title": "Каланхоэ каландива д12",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.9s2859ylKfnisSiGUDTtJVAw2RwkPxNu3yYEXSdDoVE"
+          },
+          {
+            "title": "Калла д13",
+            "description": "Каллы — роскошь, доступная каждому. Можно высадить в грунт или в вазоны/горшки.",
+            "price": "2800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.AyadICfbT3OXvDmFLoyAzSWCvgAaMsgAJ9WNVe939Kg"
+          },
+          {
+            "title": "Хойя Лиза на опоре",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.qbqiSsiEdvO4w5MIOEMmU9FbLTcxcuDfIJBQyZjbAHc"
+          },
+          {
+            "title": "Кофе арабика в кружке д9",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.CzeXLyCo_uArvzu25p7Ptrlt8NU2rmHkHSl-P8Hq1HA"
+          },
+          {
+            "title": "Кофе арабика д12",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.8STAbGHx8DT71gaZ5E_JJ2qFWGNgmmewVu0db1H4t90"
+          },
+          {
+            "title": "Крассула д30",
+            "price": "8300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.3NdV7eEVNkdzVxj1KMWoM1Bkiq7cm4R9_6KP3jc4LPQ"
+          },
+          {
+            "title": "Плющ (хедера) d9",
+            "description": "Плющ (хедера) способен преобразить любую поверхность: скучную стену, книжную полку, создавая атмосферу сказочного леса/ Неприхотлив и вынослив.Свет рассеянный. Пёстрые сорта требуют больше света, зелёные мирятся с полутенью.Полив регулярный и умер...",
+            "price": "495",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.5VMsHKOWSCkQWL-fZ6IMutWKpSy9vK9qxOGdWAsySps"
+          },
+          {
+            "title": "Цикас революта d14",
+            "price": "4300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.-T0CItk-iUTP_TT14ZwnQvQ6m_nIIGpOYQc0zBJEO6s"
+          },
+          {
+            "title": "Флебодиум давана",
+            "price": "1460",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.1uKTbP1cBqGVgeSB8w4f5IO49En3f1DPI3tpB7NAGQI"
+          },
+          {
+            "title": "Аспарагус",
+            "description": "Аспарагус — как облако парит над землёй, как утренний туман, который никогда не покидает русла реки.\nОн не любит палящих лучей — его стихия — мягкий, рассеянный свет, как в горном ущелье на рассвете.",
+            "price": "1500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.fCF5k1pfdtX928mztqjpzX4Ne0Zb0PnJA_0-J4K5zM4"
+          },
+          {
+            "title": "Филодендрон вариегатный Параисо Верде",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.kX5cQGjQClq1QlBQchiNBp2Ew_vroJ8us3DjYmNOoYA"
+          },
+          {
+            "title": "Драцена сонг оф Индия",
+            "price": "3990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.eEPmq5LKLIYjy51zredY1Humz6dGghzvQD1bUE7bLB0"
+          },
+          {
+            "title": "Антуриум красный д14",
+            "price": "3200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.vHmvJf-cNO3wQBumoRL2W0H2k_audA6kw9OaaJIOdhw"
+          },
+          {
+            "title": "Антуриум Лилли",
+            "price": "3800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.MfXMwqvVjNdPLA-yE3tpUZ5tjervwDEEccLVTFRPKiA"
+          },
+          {
+            "title": "Маранта",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Ca5blYMqGIWgG2kdfOUe-irdJt5D-viXsLnKjAviwOA"
+          },
+          {
+            "title": "Бонсай",
+            "price": "8200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.pp8GUUscEH8IVyAql68Y4f7nqOtUbsb2TxfptC_qTqY"
+          },
+          {
+            "title": "Гортензия д15",
+            "description": "Гортензия крупнолистная. Можно растить в горшке как комнатную. Летом — на улицу, зимой — в прохладный подвал или на застеклённую лоджию (нужна температура около +5 °C).",
+            "price": "4700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.cZK5DyUGL7Y4M4XMJoplL9fX0JokelzuNNFVgBBLG_Q"
+          },
+          {
+            "title": "Кампанула д11",
+            "description": "Кампанула — нежная, но выносливая. Летом в подвесном кашпо на улице превращается в цветущий водопад из белых и синих колокольчиков.",
+            "price": "1350",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.1rGrVw_IchAN4tRNWtW-eSClsdvT8Vm-tZ4XGkVUW10"
+          },
+          {
+            "title": "Пилея д6",
+            "price": "300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.JR43VnO32uL6zSJgLwcg3BbIHxTcFX4bA8FholIJPwg"
+          },
+          {
+            "title": "Полисциас микс д6",
+            "description": "Полисциас — декоративно-лиственный кустарник с ажурными резными листьями. Прихотлив: яркий рассеянный свет, стабильное тепло (без сквозняков), высокая влажность, аккуратный полив. Для оранжерей или флорариумов",
+            "price": "790",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.4iepUY_nEuQEULUZCVkiXZi4gfo-vyZWQO378H5QY1w"
+          },
+          {
+            "title": "Фикус лирата бамбино д9",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.uc9gKJKnhQp9Q81kL9BdYXtU97ojohJd1IUSRtvIALw"
+          },
+          {
+            "title": "Бамбук 18 см",
+            "price": "2970",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.wa4900hgOQ2344Li-VhU1-pf7yhsumXL3t_E5u1hYJU"
+          },
+          {
+            "title": "Бонсай подокарпус 16 см",
+            "price": "5900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.xAK6SANoLY_lui_B9WCGbxuoC5irPOx0LO0R2bRqQn0"
+          },
+          {
+            "title": "Муррайя д14",
+            "price": "1300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.d-C0OhXuRRaPh5680qg-mVO9RnT_mp_J4wNw9iZiXVs"
+          },
+          {
+            "title": "Оливковое дерево 21/100",
+            "price": "7990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.emP8Zsq-LbG9QteZhHwKGVJkPNUE8-O-IW7I6GOrHS4"
+          },
+          {
+            "title": "Пахира д12",
+            "price": "1625",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.NmF2an2RE8veWi2IjJEg4xj-RDakXhOhRmfQzg5F_0E"
+          },
+          {
+            "title": "Сансевиерия муншайн д12",
+            "description": "Сансевиерия — один из самых неприхотливых комнатных цветов.\nПодходит для окон любого направления \nИдеальна для озеленения дома или коммерческих организация",
+            "price": "1500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.sjqgAsyQB8iJHMboxIZPOLbuQ_Qmo73X8DEFp4jj3uI"
+          },
+          {
+            "title": "Хамедорея 32/80",
+            "description": "Хамедорея (бамбуковая пальма) — создаёт тропическое настроение без риска для здоровья питомцев",
+            "price": "10645",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Sqhd7lt-QsRt00EvHNB9Odscp3RSIDESdshhgHJd8H8"
+          },
+          {
+            "title": "Аспидистра 15/70",
+            "price": "5950",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.hT-gyIy1k_FLyQbIQtGIDSPHZhDLINXx-4--7BKa_-M"
+          },
+          {
+            "title": "Гибискус 24/110",
+            "price": "10300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.m3q2c7Hm3HJZKBph2tAPsviyUZncGVlykXamAXzo15o"
+          },
+          {
+            "title": "Фикус эластика робуста д12",
+            "price": "1300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.W77sLojf4H_RX5A9X9Impu02bJsm3d5_1cJekYvWbfw"
+          },
+          {
+            "title": "Фикус эластика тинеке д12",
+            "price": "1300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1._s5J6FbI8IGycC4Z1YJM-_LLbofjYwSBu4c3LYiHaYs"
+          },
+          {
+            "title": "Гибискус д14",
+            "price": "1990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.7BGB7oJNLpFOosV6dAk3RPPOYKZOAAJCEQ0l6DUxPWk"
+          },
+          {
+            "title": "Фикус с плетеным стволом",
+            "price": "2300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.LHKAvbleoIA3ZPGrQJxOvlBLkzUL2W-YVbP-zW1bUT4"
+          },
+          {
+            "title": "Фикус Гинсенг",
+            "price": "2400",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.ncxT0HETygoq4ZUUd9_B6mBj9MSPsYUidd6a7-bqd8o"
+          },
+          {
+            "title": "Сансевиерия Фернвуд д12",
+            "description": "Сансевиерия — один из самых неприхотливых комнатных цветов.\nПодходит для окон любого направления \nИдеальна для озеленения дома или коммерческих организация",
+            "price": "2200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.o_YO19roN_gAY4SZ4STZpx7GdTbUPFlEkbv9UNMzbLY"
+          },
+          {
+            "title": "Адиантум 12 см",
+            "price": "1100",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Doq0-xhOlFcAE-ceHmbdF3S2QVqt20Yy0a47F6Wa7EA"
+          },
+          {
+            "title": "Алоказия ПОЛЛИ 12см",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.6QLwSpy52Y7Qz3aolJ2waoUffLlxvMuDnwh_wtAzZ_0"
+          },
+          {
+            "title": "Алоказия шкура дракона вариегатная д12",
+            "price": "3500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Q5F8_A8kUtB8PD_i-WsLMsNBaD_5nnOZXY4YgzVls9c"
+          },
+          {
+            "title": "Антуриум кларинервиум д7",
+            "price": "700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.1OyF5P3Dg53gJpqjP7g_NbFK26OcQspfewyn1X61iHg"
+          },
+          {
+            "title": "Бамбук 5/50 см",
+            "price": "600",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.WAAJ1GFEqAQUg0482C1rm_IXaHEhpjK8IaKvFLPvaqM"
+          },
+          {
+            "title": "Бонсай зантоксилум 38/60",
+            "price": "32600",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.sUWOA3QMuqXlxQTwLMYBtYug6aSwZbBhonL0f2MpAVQ"
+          },
+          {
+            "title": "Кордилина сальса/танго д12",
+            "price": "1300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.sylU0-gkzQv7_VWF9SSdTfmdWZLk18AfPXQA8x3M1M0"
+          },
+          {
+            "title": "Крассула д5",
+            "price": "300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.qf-dmhk8FgDOU3IjtdsTNnfEROMhKHo8kghbTyHA5-k"
+          },
+          {
+            "title": "Крассула сансет д9",
+            "price": "750",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.J1HOZ-5pK5aGL_o8b7ELW1XrzRZ4OSaVt38DVkDHGgY"
+          },
+          {
+            "title": "Криптантус д5",
+            "price": "620",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.ulcgdMU4Ix_xj_K2cHI20BzxK7Fa_081LzcHx3eOw2A"
+          },
+          {
+            "title": "Муса банан д6",
+            "price": "950",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.-vhKWtgxHDWacpGE3BsuBVYsEEPFUDSnc0z5H483EBw"
+          },
+          {
+            "title": "Опунция микс 5 см",
+            "price": "400",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.wX9rFpb0XSk9vGJXjJ1pETwOTvUWCzEg5oXUZCAA8Sw"
+          },
+          {
+            "title": "Пеперомия микс д12",
+            "price": "1300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.sOTJ-bcRB1nTCgEMJnFpW8ZMSmemK-UiidDZ351KTJ4"
+          },
+          {
+            "title": "Пилея пеперомиевидная вариегатная д12",
+            "price": "1970",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.O4uyqH_Izx5K4IX99nFe2iIskrabYN27tVyTxzkDCMc"
+          },
+          {
+            "title": "Сансевиерия цилиндрика коса д6",
+            "description": "Сансевиерия — один из самых неприхотливых комнатных цветов.\nПодходит для окон любого направления \nИдеальна для озеленения дома или коммерческих организация",
+            "price": "790",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.eQCyF05-JRvHnXihoiyiEJa-BT8u42QWNBCVzciM0lI"
+          },
+          {
+            "title": "Солейролия д11",
+            "price": "890",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Ot6BTfur4k6DqcxRwSCPXwMWvjzBWk1t1UVIgk2wdRI"
+          },
+          {
+            "title": "Фаленопсис 12 см 3 ств белый",
+            "price": "2300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.MfHN5LqK-N9Bt0yeaDt22pWO8JzkIIeUJxM-cmq4D94"
+          },
+          {
+            "title": "Филодендрон сканденс д12",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.26SlyTiAshAzDuACyHybJ802VpLvzIbRZj3sLQQc6vw"
+          },
+          {
+            "title": "Хавортия микс д5",
+            "price": "270",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.RUKzPZY08NfJ4mpg35rnkICwp3S6xWWzXExJZRLiWxg"
+          },
+          {
+            "title": "Хлорофитум хохлатый вариегатный д12",
+            "price": "820",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.0b3nHMCC0OkpbZFDdsTxGDWu7SrtUzcd8XPtcD0TsTo"
+          },
+          {
+            "title": "Хойя матильда д6",
+            "price": "550",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.8fJW-l3K7_8SizrPtryggj3hvgJrbN1bVYmyQlrOvBs"
+          },
+          {
+            "title": "Эпипремнум марбл квин 12/20",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.3B32CrKQW86ggb3-nb6KkBNKAO7J7sNAuNT5tzoIyIQ"
+          },
+          {
+            "title": "Эхеверия перл фон нюрнберг д5",
+            "price": "300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.g2rWfp6TfL-ylBtSSVmS0nfdVl-Xda3cIHNoK_ZTGjI"
+          },
+          {
+            "title": "Флебодиум Блю Стар",
+            "price": "1090",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.wSENSy5bv_ITSKnVo7p8Pk_HoEOygakN33UWAsXhkXc"
+          },
+          {
+            "title": "Розмарин",
+            "description": "Розмарин — вечнозелёное пряное растение\n\nИдеальный выбор для кухни: свежая зелень всегда под рукой для мяса, рыбы, выпечки и соусов.\n\nЛюбит яркий свет (южные, восточные окна), умеренный полив (без застоя воды)\n\nЛетом можно выносить на балкон",
+            "price": "875",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.J73tsfy9kXMc8Ia5zYxJkz524bZV89jNGJeAYcxV5Vo"
+          },
+          {
+            "title": "Пеперомия Арбузная",
+            "price": "1300",
+            "currency": "₽",
+            "matchKey": "v1.6JzFgKA37lvE1HAR9ujn-MRXGGMIKcuiFRvvpe46fW4"
+          },
+          {
+            "title": "Платицериум бифуркатум",
+            "description": "Платицериум бифуркатум («олений рог») — папоротник-эпифит с плоскими вайями, напоминающими рога. Растёт на коре, корягах или в подвесных корзинах. Неприхотлив, долго сохраняет форму",
+            "price": "1040",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.AH6vC15f0JzQelHWvwi9kPwr_xu5flsFy_gkMhq6z-A"
+          },
+          {
+            "title": "Аглаонема 14",
+            "price": "2670",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.9LYeigpUPR6PYCTuS_6ysKerZsR3Dk_4wCiycOWzT_w"
+          },
+          {
+            "title": "Алоэ Тики Таки 9 см",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.B2ZZkRjCxFZ78Zigs-YfZY-4kniFU-HXYxy_ob5Ivnc"
+          },
+          {
+            "title": "Антуриум деликате д14",
+            "price": "3300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.44UypKn15gvY8FmEazAnX6dzIseK_wjt1BpTLzq2dJY"
+          },
+          {
+            "title": "Араукария д12",
+            "price": "1690",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.L8yI4wQJLdctE3H4PZzr5RcXGMCWzYg107azUYX2N68"
+          },
+          {
+            "title": "Бегония Бориас 14см",
+            "price": "1960",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Ec_5mYzcrjJh6rHcMBZ0NrFXm5G8hQCN2a4lSTtxer4"
+          },
+          {
+            "title": "Гардения д15",
+            "price": "1990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.NCQrx2ZUK3ny1kHyPRDmbyqBXuho7_VpQ-TIrc6w9Zc"
+          },
+          {
+            "title": "Гинкго билоба д6",
+            "price": "1370",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.R9Fl7g7EbwdehjjlbfiS_J_5LzeQ-E9tgpcw4ih9t44"
+          },
+          {
+            "title": "Замиокулькас зензи д14",
+            "price": "3700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.w0O1AlVYOqxAo9u4NZm1SzoECof58t_dv45ID3paM6E"
+          },
+          {
+            "title": "Замиокулькас зензи д6",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.MpkFUXl35OzeECJDsv1MrvgXl9RcKyfPTYZZ7xijrw8"
+          },
+          {
+            "title": "Карика папайя д14",
+            "price": "2300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.-Kj7ghF2oBO0Pvq92IT1WxSv8x8IJqbmaomW6F-mLGo"
+          },
+          {
+            "title": "Крассула перфората д12",
+            "price": "1500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.r9bZ7Nnzr5y8w2byAKh9v6p9zo1SSoYP8eoKXdcMHsE"
+          },
+          {
+            "title": "Лилия 13см",
+            "price": "1900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.sdducRkepPeTXSFGd3avKlhrezv7UgFGArtkMbZ4sis"
+          },
+          {
+            "title": "Нефролепис д21",
+            "price": "5600",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.bRWwdXcgMn-uXZ5Tho5zc4Z1wpNb7YvwhjSIg77Vx7c"
+          },
+          {
+            "title": "Нолина д9",
+            "price": "1700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.GnPlOlEt52g4CElxEXajyL5za7utCC7O2Q6ZEGzWmjo"
+          },
+          {
+            "title": "Пахира 10см",
+            "price": "1300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.qrBd7aRtTdwjPC2xxIb0Yy0ZXgynM59GEqJwet3SPVE"
+          },
+          {
+            "title": "Сансевиерия голден ханни д7",
+            "price": "870",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Ea7aY6QvhorRaFBksOTErOuPTS64AtEpWyg0NaVOk2Y"
+          },
+          {
+            "title": "Спатифиллум д14",
+            "price": "3200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.H4P3OAMcBNU9NKX3R568w4f-6C_fMuUhBNEfCFNCgfA"
+          },
+          {
+            "title": "Тилландсия розовая",
+            "price": "1370",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.AZcZdMkJsFQ_dol4Sff7mmc3QEUasK2enyJIdaXsgsg"
+          },
+          {
+            "title": "Хавортия купера д11",
+            "price": "750",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.GbOfkfdjf-aUk_dg8bm-fU4H1vB2AIxTkWzWVBOZyjM"
+          },
+          {
+            "title": "Хильдивинтера коладемоносис д8",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.pTCgHd6aAYgJ3K_t0n8ZWKm_mzP5zkATPkNJkW0OpSA"
+          },
+          {
+            "title": "Хищные растения микс (дионея, саррацения) д6",
+            "price": "850",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.IxMP4vGIsXByYyQPzaM5A-csYy_p-uWZLY9Lnp49Mys"
+          },
+          {
+            "title": "Асплениум д9",
+            "price": "890",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.ZF8dTKGaFlJDt-CXNoEpvui06WIKuA6YNW1gZpy-cek"
+          },
+          {
+            "title": "Замиокулькас пирамида д14",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.VEm2k28TBJB-_m_PDYViEhX5nBJH5V7YXRVUPhm7FMM"
+          },
+          {
+            "title": "Калатея лансифолия",
+            "price": "1800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.KdT4hDQK-zkq8f7bsfxbGbcTFd6m6XWR1cYG-7YN5Rw"
+          },
+          {
+            "title": "Мирсина д9",
+            "price": "1600",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.4RtuCZKVuOFFoULl4PN8BP80vTgYx2EZz6dkGTPPKXI"
+          },
+          {
+            "title": "Мирт на стволе",
+            "price": "2600",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.NRPDOe_6p_v9WTWymqTljh_l1cP9JsW8fyzrE36jQVE"
+          },
+          {
+            "title": "Радермахера на стволе д15",
+            "price": "5900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.mpwpOWWS0fg3fu2_hNvfAfkpR1pD5rsoefxnvEB1xTE"
+          },
+          {
+            "title": "Спатифиллум сенсация вариегата",
+            "description": "Спатифиллум Сенсация Вариегата — редкий и желанный сорт «женского счастья» с крупными пестрыми листьями.\nОдин из самых крупных спатифиллумов для комнатного выращивания. Взрослое растение достигает 1–1,5 м в высоту и ширину.",
+            "price": "6300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.-xICBzCAmhsAAuPM2uU9MMx4KU6Xh6ALYBAvJd6qyAM"
+          },
+          {
+            "title": "Тилландсия уснеевидная в панцире",
+            "price": "1300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.64dEP14osZyBZj0k3taL9ik01mfX05SHak138x7ZE2M"
+          },
+          {
+            "title": "Амариллис д13",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.64v4kHT7bujOa2V-iU5BJGa5eOuCZV22Lyx8JcuMTYQ"
+          },
+          {
+            "title": "Вереск д12",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.322P0pQkDwkOYEU-40O-qwr_dHw2jWlTxHDwdB3Zd8s"
+          },
+          {
+            "title": "Монстера сильтепикана д12",
+            "price": "1700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.GvU5Cfw6RouCRkxTfDovNK4jkoBTO2cVJB29bhWJNIA"
+          },
+          {
+            "title": "Монстера тайское созвездие д6",
+            "price": "1450",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.UrWDEtFqECUIzXfyI8JziV0AVIAIqKtt35WZn3yEAKc"
+          },
+          {
+            "title": "Портулакария афра штамб д12",
+            "price": "1500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Ycy0mL8GA964iNuCj6w_a7SGAdEbv-y5R5a2mJcHu68"
+          },
+          {
+            "title": "Сансевиерия масониана вариегата д10",
+            "price": "2200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.lvPMSFmycJ1QScXWkAfOJls9k7OytDgHALuc_vBUrZ0"
+          },
+          {
+            "title": "Стефанотис 12см",
+            "price": "2800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.peX_aG4jWi510J9CVWv5vnnbBUBQQ3tZrDiRUK9xLpE"
+          },
+          {
+            "title": "Сциндапсус пиктус экзотика д12",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.a0XNDGNOslv-YRP6dA5zhL95cyTrzgLzTIgmAU6CkY0"
+          },
+          {
+            "title": "Трахелоспермум snow-n-white д18",
+            "price": "1490",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.5AaetWFH4pbJewMfoTgjBNBpvpnba_Wrkc4GS9p0SCE"
+          },
+          {
+            "title": "Эпипремнум неон д12",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.FyWXbdE-20aMM6KdsvW6VbgHp7Ub_EupACnghOAIAlk"
+          },
+          {
+            "title": "Эпифиллум ангулитер д12",
+            "price": "2200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.FQVP-20YQWcM33ZZ4YRy0_CvsTY5WYMZsRhZq8rxzfw"
+          },
+          {
+            "title": "Эуфорбия миля 14 см",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.mQ3Wn6lssplIjVtaT36ArplLPNbyDd9nv7gTZZURKe0"
+          }
+        ]
+      },
+      {
+        "categoryName": "Комнатные деревья",
+        "categoryItems": [
+          {
+            "title": "Оливковое дерево 45/210",
+            "price": "56800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.2spcGZnBMyuxu20z9tky_65NcktaTCWjkePE0xLPo-s"
+          },
+          {
+            "title": "Фикус Эластика Микс 31/140см",
+            "price": "29900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.D-BnDyAGxGEHpgv20opyMzbN938WZEV95S-lxj0XlqA"
+          },
+          {
+            "title": "Шеффлера 32/130 см",
+            "price": "26900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.VdPK-QXiLmZnT3cDWuCrB7qa8JXBPwyTXBkXi_dMYFs"
+          },
+          {
+            "title": "Юкка 32/170",
+            "price": "31800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.jo-CZ_luHHl460BwxmfBsZxibEtu_cQ0UXcf8N4TN1A"
+          }
+        ]
+      },
+      {
+        "categoryName": "Горшки и кашпо для растений",
+        "categoryItems": [
+          {
+            "title": "Кашпо керамическое d21",
+            "price": "1100",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.vqHb0rckJINP8hvfHPRwqCAkncr7CQWXq1fThKtcb9E"
+          },
+          {
+            "title": "Горшок пластиковый d30",
+            "price": "1500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.VWVGbX75ShVujL3kOP9GKD2cWusVK3TwksJSAZvOHWI"
+          },
+          {
+            "title": "Кашпо пластиковое на ножке",
+            "price": "790",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.xMdQVY-8-rx-RAZEtdqe4daWI3zN_wrbxFFbJINDlFk"
+          },
+          {
+            "title": "Кашпо пластиковое высокое с вкладкой",
+            "price": "790",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.bwRh42gjUOFPYF42rS7BaKPSRejII4LefTjzVDcrd1A"
+          },
+          {
+            "title": "Горшок керамический с поддоном глянцевый",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Rrql_rprNFo9WnA4_iduQkTN40Rhs5pnFDP3uE1Tz3o"
+          },
+          {
+            "title": "Горшок Мистер",
+            "price": "525",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.h3uJlwc8zuve5423anEK2JbStJG41l4UlYEcQlju4G4"
+          },
+          {
+            "title": "Кашпо керамическое",
+            "price": "790",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Seuwyf8sezqmCOT6M8LqlPRT9JOk01QHRMaLmLEpA7U"
+          }
+        ]
+      },
+      {
+        "categoryName": "Прозрачные технические горшки",
+        "categoryItems": [
+          {
+            "title": "Прозрачные технические горшки 1л",
+            "description": "Прозрачные технические горшки для растений идеальны для пересадки, размножения и профессионального ухода\nИмеют множество дренажных отверстий для идеальной аэрации\nПолный визуальный контроль за развитием корней и уровнем влаги\nПодходят для всех вид...",
+            "price": "50",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.uJmyzc6XWCnKi7xPADdjahEPiTgtjJMDwXJJei-zS_k"
+          }
+        ]
+      }
+    ]
+  },
+  "topObjects": {
+    "hasPhotos": false,
+    "isYandexEda": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "popular",
+        "categoryItems": [
+          {
+            "title": "Венерина мухоловка",
+            "description": "Венерина мухоловка — хищное растение с ловушками-челюстями. Кормить живыми насекомыми. Требует дистиллированную воду, постоянно влажный мох, яркое солнце, зимовку в холоде (+5…+10°C).",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.NunjYbd0PC3EetvZ4fP2wd5yMVB0dr4Oafujj-jNrp0"
+          },
+          {
+            "title": "Цитрус лимон д15",
+            "price": "4700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.2iZvbP2q_XIgITKyOdPh7sPi4ndlojup4GuBoJGNiqI"
+          },
+          {
+            "title": "Замиокулькас д12",
+            "price": "1650",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.C6EbRDX1jRGebZ_3YxoO5l3-agW13GCGgiU8TakgKL0"
+          },
+          {
+            "title": "Кофе арабика в кружке д9",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.CzeXLyCo_uArvzu25p7Ptrlt8NU2rmHkHSl-P8Hq1HA"
+          },
+          {
+            "title": "Гортензия д15",
+            "description": "Гортензия крупнолистная. Можно растить в горшке как комнатную. Летом — на улицу, зимой — в прохладный подвал или на застеклённую лоджию (нужна температура около +5 °C).",
+            "price": "4700",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.cZK5DyUGL7Y4M4XMJoplL9fX0JokelzuNNFVgBBLG_Q"
+          },
+          {
+            "title": "Фаленопсис 12 см 3 ств белый",
+            "price": "2300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.MfHN5LqK-N9Bt0yeaDt22pWO8JzkIIeUJxM-cmq4D94"
+          },
+          {
+            "title": "Гардения д15",
+            "price": "1990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.NCQrx2ZUK3ny1kHyPRDmbyqBXuho7_VpQ-TIrc6w9Zc"
+          },
+          {
+            "title": "Вереск д12",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.322P0pQkDwkOYEU-40O-qwr_dHw2jWlTxHDwdB3Zd8s"
+          },
+          {
+            "title": "Эуфорбия миля 14 см",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.mQ3Wn6lssplIjVtaT36ArplLPNbyDd9nv7gTZZURKe0"
+          }
+        ]
+      }
+    ],
+    "fullObjectsCount": 152,
+    "relevance": {
+      "lastUploadTime": "2026-10-05T19:21:12.730560Z",
+      "lastUpdateTime": "2026-09-26T07:44:38.515373Z"
+    },
+    "source": {
+      "id": "TYCOON",
+      "name": "Representative of the organization"
+    }
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "businessComment": {
+          "text": "Андрей, мы просто делаем то, что любим, и каждый раз удивляемся, что к нам едут издалека 🥹 \nСпасибо за доверие к нам и любовь к растениям, мы очень тронуты 🥹 \n",
+          "updatedTime": "2026-08-18T07:42:14.086Z"
+        },
+        "reviewId": "EGOvwMOq1MQwFwIBeP4HWzzWMtrkQK",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Набатчиков Андрей Юрьевич",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/56823/f8tajg7PPDQ5Qy5tcSVKspKcc4-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "awesome.andrew03",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Кроме шуток, мы с другом приезжаем в этот чудо-цветочный магазин с Коломны! Друзей с округи коломенской! Если вас нужны цветы, а тем более если вам нужны экзотические цветы, горшечка, вам сюда! \n\nПерсонал тут самый лучший! Мало того, что они всегда приветливы и рады покупателям, так еще и очень эрудированные! Всегда подскажут, расскажут как лучше ухаживать! \n\nТут не просто магазин, это целый музей-заповедник цветов! Необычайно красивые цветы, а какие тут ароматы стоят, всем очень  рекомендую! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şakalara ek olarak, arkadaşım ve ben Kolomna'dan bu harika çiçekçiye geliyoruz! Kolomenskaya bölgesinden arkadaşlar! Çiçeklere ihtiyacınız varsa, hatta daha da fazlası egzotik çiçeklere, saksıya ihtiyacınız varsa, buradasınız! \n\nBuradaki personel en iyisidir! Sadece müşteriler için her zaman misafirperver ve mutlu değiller, aynı zamanda çok bilgili değiller! Her zaman size söyleyecekler, size en iyi nasıl bakılacağını söyleyecekler! \n\nSadece bir dükkan değil, burası tam bir müze-çiçek rezervi! Alışılmadık derecede güzel çiçekler ve burada hangi kokuların durduğunu herkese şiddetle tavsiye ederim! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-11T13:36:18.190Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Инна, спасибо за высокую оценку наших трудов ☺️\n\nПусть Ваши цветы растут и радуют Вас 🫶",
+          "updatedTime": "2026-08-18T07:39:30.065Z"
+        },
+        "reviewId": "V_FRIl_FrkLDOWcZmh_Fe9zup1K0X2Qm",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Инна Алёшина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/16491550/zaEEzwzw36UXZtKVGdrbNnXRQrw-1/{size}",
+          "professionLevel": "Level 11 Local Expert",
+          "rtb": "Level 11 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "y0nceq6huyebnvev2mm9nvrfvr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Если вы любите цветы, то вам точно сюда! Это не магазин, это оазис! Заходишь в дверь и попадаешь в чудесный сад с прекрасными растениями. Все цветы в великолепном состоянии. Персонал ответит на любые ваши вопросы. Проконсультирует от и до. Лучше чем Фикус, магазина в Рязани нет!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Eğer çiçekleri seviyorsanız, kesinlikle buradasınız! Burası dükkan değil, burası vaha! Kapıdan içeri giriyorsun ve güzel bitkilerle dolu harika bir bahçeye giriyorsun. Bütün çiçekler muhteşem durumda. Personel tüm sorularınıza cevap verecektir. Size ve sonrasına danışacaktır. Ficus'tan daha iyi, Ryazan'da dükkan yok!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-31T09:57:32.430Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Сережа, спасибо, что так тонко замечаете детали 😍\n\nМы счастливы, что нам удалось Вас порадовать ☺️",
+          "updatedTime": "2026-08-18T07:46:17.231Z"
+        },
+        "reviewId": "GTM3zuTCzTgVNxA4_1bwRABELk6MY1tK",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Сережа Адамян",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25817/nOyA8bJkJkPqbInwi16ti6cVVWY-1569743126/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "dm587m9kj6unay9z3u85q0y0z4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не часто вижу такие замечательные места! Слушайте, я давно не радовался такими позитивными эмоциями от посещения заведения! \n\nПравда! Приходите и проверяйте! Очень большой ассортимент, не срезанных цветов, а именно цветов в горшке! \n\nЭто не магазин, это целый сказочный мир красоты, столько разных красивых цветных цветов, так красиво обыграно в сочетании со светом, а еще эти необыкновенные запахи, заставляют возвращаться снова и снова. \n\n",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Sık sık böyle harika yerler görmüyorum! Bakın, uzun zamandır kurumu ziyaret etmekten bu kadar olumlu duygulara sevinmedim! \n\nGerçekten! Gelin ve kontrol edin! Çok geniş bir ürün yelpazesi, kesme çiçekler değil, yani saksıdaki çiçekler! \n\nBurası bir dükkan değil, muhteşem bir güzellik dünyası, çok farklı güzel renkli renkler, ışıkla birlikte çok güzel dövülmüş ve bu olağanüstü kokular da tekrar tekrar geri gelmenizi sağlıyor. \n\n"
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-11T13:31:10.776Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15696528_2a0000019f516008b7926a6bdb2aa51c827e",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15696528/2a0000019f516008b7926a6bdb2aa51c827e/{size}",
+            "createdTime": 1783776678720,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Сережа Адамян",
+              "publicId": "dm587m9kj6unay9z3u85q0y0z4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/nOyA8bJkJkPqbInwi16ti6cVVWY-1569743126/{size}",
+              "updateTime": 1783776678720,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19824988_2a0000019f52127ccb964655b2c656ed2a7e",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19824988/2a0000019f52127ccb964655b2c656ed2a7e/{size}",
+            "createdTime": 1783788372973,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Сережа Адамян",
+              "publicId": "dm587m9kj6unay9z3u85q0y0z4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/nOyA8bJkJkPqbInwi16ti6cVVWY-1569743126/{size}",
+              "updateTime": 1783788372973,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19876101_2a0000019f521297fda13f53eae01ca1ea35",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19876101/2a0000019f521297fda13f53eae01ca1ea35/{size}",
+            "createdTime": 1783788380040,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Сережа Адамян",
+              "publicId": "dm587m9kj6unay9z3u85q0y0z4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/nOyA8bJkJkPqbInwi16ti6cVVWY-1569743126/{size}",
+              "updateTime": 1783788380040,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20840442_2a0000019f515ffc84ff48cb97a76fd37a49",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20840442/2a0000019f515ffc84ff48cb97a76fd37a49/{size}",
+            "createdTime": 1783776674419,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Сережа Адамян",
+              "publicId": "dm587m9kj6unay9z3u85q0y0z4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/nOyA8bJkJkPqbInwi16ti6cVVWY-1569743126/{size}",
+              "updateTime": 1783776674419,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за такой объемный и приятный отзыв 🫶Будем рады видеть Вас снова 🌷",
+          "updatedTime": "2026-04-21T04:45:55.216Z"
+        },
+        "reviewId": "le0epmvVSEyIL8jpTmXEnfjBi_Kwiz",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Istina",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+          "professionLevel": "Level 19 Local Expert",
+          "rtb": "Level 19 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Магазин сразу же вызвал восторг!🔥\n\nТакой шикарный выбор различных растений и цветов, особенно цветущих, я ещё ни в одном магазине не встречала 🌸. И здесь они выглядят максимально ухоженно. \nЯ пришла сюда за подарком - за приличной орхидеей, но ушла с двумя орхидеями. Не удержалась и купила себе тоже. Это сорт пахучих орхидей🥰. Я про такие и не слышала. \nПоэтому, не раздумывая, побаловала себя чудесной орхидеей, у которой было целых четыре цветоноса! Мне подробно рассказали как ухаживать и поливать, что бы орхидея цвела как можно дольше👌. Спасибо за внимание и сервис!💝",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mağaza hemen heyecanlandı!🔥\n\nÖzellikle çiçek açanlar olmak üzere çeşitli bitki ve çiçeklerin bu kadar şık bir seçimini henüz hiçbir mağazada görmedim. Ve burada mümkün olduğunca bakımlı görünüyorlar. \nBuraya bir hediye için geldim - iyi bir orkide için ama iki orkideyle ayrıldım. Direnemedim ve kendime de aldım. Bu kokulu orkide çeşididir. Ben onlardan hiç haber almadım. \nBu nedenle, tereddüt etmeden, dört kadar çiçek sapı olan harika bir orkideyle kendimi şımarttım! Orkidenin mümkün olduğunca uzun süre çiçek açması için bana nasıl bakacağımı ve sulayacağımı ayrıntılı olarak anlattılar. İlginiz ve hizmetiniz için teşekkür ederiz!💝"
+        },
+        "rating": 5,
+        "updatedTime": "2026-04-14T13:59:01.898Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16309447_2a0000019d8c4236e1e818a3d10c2711e855",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16309447/2a0000019d8c4236e1e818a3d10c2711e855/{size}",
+            "createdTime": 1776174645386,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174645386,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18144645_2a0000019d8c424f5875c22cb0e91246ebe6",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18144645/2a0000019d8c424f5875c22cb0e91246ebe6/{size}",
+            "createdTime": 1776174652162,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174652162,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18150755_2a0000019d8c424e995e54359885c305ed00",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18150755/2a0000019d8c424e995e54359885c305ed00/{size}",
+            "createdTime": 1776174651473,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174651473,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18785127_2a0000019d8c423aacef28566730879cf784",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18785127/2a0000019d8c423aacef28566730879cf784/{size}",
+            "createdTime": 1776174646806,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174646806,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19082209_2a0000019d8c4231ad91afcb62eb6e94b325",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19082209/2a0000019d8c4231ad91afcb62eb6e94b325/{size}",
+            "createdTime": 1776174644564,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174644564,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19646909_2a0000019d8c424dd9cf59b40b31658b7c4f",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19646909/2a0000019d8c424dd9cf59b40b31658b7c4f/{size}",
+            "createdTime": 1776174651806,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174651806,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19662431_2a0000019d8c424743762d340e73904c5a5c",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19662431/2a0000019d8c424743762d340e73904c5a5c/{size}",
+            "createdTime": 1776174649729,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174649729,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19707167_2a0000019d8c4242d867fffb39e9d74511cd",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19707167/2a0000019d8c4242d867fffb39e9d74511cd/{size}",
+            "createdTime": 1776174648800,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Istina",
+              "publicId": "7gvxh1cxjrqkr18xxk78b5vy2r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36689/eNtwoi5Za3ZkNuBkjNBY5KkTR8k-1/{size}",
+              "updateTime": 1776174648800,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Андрей Владимирович, спасибо за ваш отзыв. Всегда рады видеть Вас 🫶",
+          "updatedTime": "2026-09-15T07:08:11.291Z"
+        },
+        "reviewId": "z-eL4BH4ANjNpz7V9ucbSbdV-Exn2v5e",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Андрей Владимирович",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/58107/0f-7/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "d28826m76rfpqn6auzaf28tybm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Влюбились в этот магазин с первого взгляда)) прекрасные растения, грамотный и всегда приветливый персонал! Думаю, вернемся сюда ещё не раз) спасибо! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu mağazaya ilk görüşte aşık olduk)) güzel bitkiler, yetkin ve her zaman güler yüzlü personel! Sanırım buraya bir kereden fazla döneceğiz) teşekkürler! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-11T16:14:52.231Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17756658_2a000001a0913fdd730f0e7d13c66f62fe76",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17756658/2a000001a0913fdd730f0e7d13c66f62fe76/{size}",
+            "createdTime": 1789143278382,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Владимирович",
+              "publicId": "d28826m76rfpqn6auzaf28tybm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-7/{size}",
+              "updateTime": 1789143278382,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18781639_2a000001a0913fccc06b02401f5885fb0534",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18781639/2a000001a0913fccc06b02401f5885fb0534/{size}",
+            "createdTime": 1789143274121,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Владимирович",
+              "publicId": "d28826m76rfpqn6auzaf28tybm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-7/{size}",
+              "updateTime": 1789143274121,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19292509_2a000001a0913f97853e35bdc802c9cb8aac",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19292509/2a000001a0913f97853e35bdc802c9cb8aac/{size}",
+            "createdTime": 1789143260574,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Владимирович",
+              "publicId": "d28826m76rfpqn6auzaf28tybm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-7/{size}",
+              "updateTime": 1789143260574,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20305182_2a000001a0913fbee0e6fe0630bde2302cd4",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20305182/2a000001a0913fbee0e6fe0630bde2302cd4/{size}",
+            "createdTime": 1789143270806,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Владимирович",
+              "publicId": "d28826m76rfpqn6auzaf28tybm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-7/{size}",
+              "updateTime": 1789143270806,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20456665_2a000001a0913fb139cb1903373830780d13",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20456665/2a000001a0913fb139cb1903373830780d13/{size}",
+            "createdTime": 1789143267513,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Владимирович",
+              "publicId": "d28826m76rfpqn6auzaf28tybm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-7/{size}",
+              "updateTime": 1789143267513,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "21022651_2a000001a0913fa47344f569f3cde1fc5487",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21022651/2a000001a0913fa47344f569f3cde1fc5487/{size}",
+            "createdTime": 1789143263889,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Владимирович",
+              "publicId": "d28826m76rfpqn6auzaf28tybm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-7/{size}",
+              "updateTime": 1789143263889,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Мария, благодарим за высокую оценку и добрый слова. Будем рады видеть Вас снова.",
+          "updatedTime": "2025-07-27T13:54:09.733Z"
+        },
+        "reviewId": "-an3F-3dMabOgwgalAprpkcYGS41o9Eo",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Маша Демакова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/21377/enc-0e67a54e3fc7b4500e1a3f0a15626fa5874d4fb0b869923f5ac9fd247e8a816c/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "rr63n2tpyd6hv40dc1hvz3ya6m",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Потрясающее место! Огромный выбор растений и кашпо на любой вкус. покупала Тилландсию усневилную в подарок, здоровая и красивая, в отличном состоянии.\nОчень часто происходят поставки и скидки. Удобнее всего следить в телеграмм канале. Так же можно забронировать растение до конца дня, что очень удобно.\nНа сообщения отвечают быстро. Если нужно проконсультируют по уходу, помогут с выбором. Самый лучший магазин комнатных растений в Рязани🌿",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir yer! Her zevke uygun çok çeşitli bitki ve saksılar. Mükemmel durumda, sağlıklı ve güzel, hediye olarak uykulu Tillandsia'yı aldım.\nTeslimatlar ve indirimler çok sık gerçekleşir. Telgraf kanalını takip etmenin en uygun yolu. Ayrıca gün sonuna kadar bitkiyi rezerve edebilirsiniz ki bu çok uygundur.\nMesajlar hızlı bir şekilde yanıtlanır. Gerekirse bakım konusunda tavsiyede bulunurlar, seçim konusunda yardımcı olurlar. Ryazan'daki en iyi iç mekan bitkileri mağazası"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-16T06:38:36.467Z",
+        "reactions": {
+          "likes": 4,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Julietta, благодарим Вас за то, что поделились впечатлениями о нашем магазине🌷\nСпасибо за фото растений - радуемся вместе с Вами ☺️\nБудем рады видеть Вас снова!",
+          "updatedTime": "2026-03-02T10:57:51.780Z"
+        },
+        "reviewId": "wON24ThKw_xKDVjbaitTMRWeyRWioo8BA",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Julietta Vizer",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/28439/pCccCd2dZOUzOSa1fqO3BDEz7ME-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "hxmecbxmr0q7abdvp7nx6hy9y4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный и уютный магазин! Я садовод-любитель) и дома всегда много цветов. Очень люблю фикусы, пальмы и замиокулькасы, а их там очень много! На любой вкус, и большие, и маленькие. \nВыбрала два новых «зелёных друга» для своего уютного пространства! Уже пересадила, теперь они будут радовать глаз и душу) \n🥰🌿\nБлагодарю Юлию и Анастасию за подробную консультацию и помощь в выборе грунта и растений! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel ve rahat bir mağaza! Ben amatör bir bahçıvanım) ve evde her zaman çok fazla çiçek var. Ficusları, palmiye ağaçlarını ve zamioculcasi'yi çok severim ama orada çok var! Her zevke uygun, hem büyük hem de küçük. \nRahat alanım için iki yeni \"yeşil arkadaş\" seçtim! Zaten nakledildi, şimdi gözleri ve ruhu memnun edecekler) \n🥰🌿\nToprak ve bitki seçiminde ayrıntılı tavsiye ve yardım için Julia ve Anastasia'ya teşekkür ederim! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-01T17:28:18.128Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "18754568_2a0000019caa726a1408fdfc96e97aabc82e",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18754568/2a0000019caa726a1408fdfc96e97aabc82e/{size}",
+            "createdTime": 1772386153583,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Julietta Vizer",
+              "publicId": "hxmecbxmr0q7abdvp7nx6hy9y4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/28439/pCccCd2dZOUzOSa1fqO3BDEz7ME-1/{size}",
+              "updateTime": 1772386153583,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19803395_2a0000019caa725bd9bea32727e4efe3ffe3",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19803395/2a0000019caa725bd9bea32727e4efe3ffe3/{size}",
+            "createdTime": 1772386148943,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Julietta Vizer",
+              "publicId": "hxmecbxmr0q7abdvp7nx6hy9y4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/28439/pCccCd2dZOUzOSa1fqO3BDEz7ME-1/{size}",
+              "updateTime": 1772386148943,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв и высокую оценку. Пусть растения радуют вас.",
+          "updatedTime": "2025-09-03T15:53:18.489Z"
+        },
+        "reviewId": "Led3lf2GhFe5AhleUM1iLe8fkg8Yhvpgc",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Анна С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51381/dLxtNxtrtBpQ7Cvu1OgrjQhjmhU-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "xn9zrprrj1j8d4tdf0gxrgetb8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный магазин цветов! Изобилие растений по видам и размерам впечатляет. Персонал клиентоориентированный, вежливый. Воспользовалась услугой пересадки на месте, выбор кашпо порадовал. Сюрпризом оказалась лотерея, в которой предложили поучаствовать. Выиграла ещё один цветок, в моем случае получилось два замиокулькаса (малыш в подарок👍🔥) . ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel çiçekçi dükkanı! Bitkilerin türleri ve boyutları bakımından bolluğu etkileyicidir. Personel müşteri odaklı, kibardır. Yerinde nakil hizmetini kullandım, saksıların seçimi beni memnun etti. Sürprizin, katılmayı teklif ettikleri piyango olduğu ortaya çıktı. Başka bir çiçek daha kazandım, benim durumumda iki zamioculcas ortaya çıktı (hediye olarak bebek👍🔥). "
+        },
+        "rating": 5,
+        "updatedTime": "2025-08-20T16:09:42.379Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14823903_2a00000198c83db604e9c2e2bf4da3e53d46",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14823903/2a00000198c83db604e9c2e2bf4da3e53d46/{size}",
+            "createdTime": 1755706145863,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна С.",
+              "publicId": "xn9zrprrj1j8d4tdf0gxrgetb8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/51381/dLxtNxtrtBpQ7Cvu1OgrjQhjmhU-1/{size}",
+              "updateTime": 1755706145863,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "15386900_2a00000198c83db6961a97b51f968fd7009a",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15386900/2a00000198c83db6961a97b51f968fd7009a/{size}",
+            "createdTime": 1755706146010,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна С.",
+              "publicId": "xn9zrprrj1j8d4tdf0gxrgetb8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/51381/dLxtNxtrtBpQ7Cvu1OgrjQhjmhU-1/{size}",
+              "updateTime": 1755706146010,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16134335_2a00000198c83db60eb1818da4be34056b14",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16134335/2a00000198c83db60eb1818da4be34056b14/{size}",
+            "createdTime": 1755706145639,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна С.",
+              "publicId": "xn9zrprrj1j8d4tdf0gxrgetb8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/51381/dLxtNxtrtBpQ7Cvu1OgrjQhjmhU-1/{size}",
+              "updateTime": 1755706145639,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16270073_2a00000198c83db45618c044bdcc65f97c7b",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16270073/2a00000198c83db45618c044bdcc65f97c7b/{size}",
+            "createdTime": 1755706145431,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна С.",
+              "publicId": "xn9zrprrj1j8d4tdf0gxrgetb8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/51381/dLxtNxtrtBpQ7Cvu1OgrjQhjmhU-1/{size}",
+              "updateTime": 1755706145431,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16319048_2a00000198c83db2cb099154f00cecb47614",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16319048/2a00000198c83db2cb099154f00cecb47614/{size}",
+            "createdTime": 1755706144804,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна С.",
+              "publicId": "xn9zrprrj1j8d4tdf0gxrgetb8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/51381/dLxtNxtrtBpQ7Cvu1OgrjQhjmhU-1/{size}",
+              "updateTime": 1755706144804,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "17021023_2a00000198c83db2870ace9296b7c236583d",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17021023/2a00000198c83db2870ace9296b7c236583d/{size}",
+            "createdTime": 1755706145038,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анна С.",
+              "publicId": "xn9zrprrj1j8d4tdf0gxrgetb8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/51381/dLxtNxtrtBpQ7Cvu1OgrjQhjmhU-1/{size}",
+              "updateTime": 1755706145038,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Наталья, благодарим за такой душевный отзыв 🫶\nРадуемся цветению декабриста вместе с вами 🌷",
+          "updatedTime": "2026-09-15T07:07:22.806Z"
+        },
+        "reviewId": "rZ5wXnbnUVUARwZeJiVVUPXEvifA0mvt",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Наталья",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/62162/0b-4/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7xk8q37kky5f6bqc1k14nauu6m",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Расположение удобное, в центре города, можно по дороге до магазина неспеша прогуляться и посмотреть на ещё неснесенные деревянные домики. Ассортимент большой, всегда можно что-то выбрать на любой вкус. Продавцы доброжелательные, помогают с выбором и дополнительно дают рекомендации по уходу. Покупала декабрист, растёт и шикарно цветёт)",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Konumu uygun, şehir merkezinde, mağazaya giderken yavaşça yürüyebilir ve hala taşınmamış ahşap evlere bakabilirsiniz. Ürün yelpazesi geniştir, her zevke uygun her zaman bir şeyler seçebilirsiniz. Satıcılar yardımseverdir, seçime yardımcı olur ve ayrıca bakım için öneriler sunar. Decembrist'i satın aldım, büyüyor ve muhteşem çiçek açıyor)"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-10T10:52:24.229Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "18caIf0-sdUCirZYsxnT0d5uNqFtlz20",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Наталья Конарева",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/0c-3/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "c68a9emx7g5rz6pg242wg5awpg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хочу поблагодарить персонал магазина за то, что помогли с выбором, пересадили, подобрали удобрения, дали рекомендации. Долго не могла выбрать растения, нигде не нравились. Здесь и выбор хороший и грамотные специалисты.\nРастения стоят уже несколько месяцев, выглядят как в первый день и радуют глаз!\nСпасибо огромное! Теперь только к вам за растениями!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mağazanın personeline seçime yardımcı oldukları, nakledildikleri, gübre aldıkları, önerilerde bulundukları için teşekkür etmek istiyorum. Uzun süre bitkileri seçemedim, hiçbir yerden hoşlanmadılar. Burada seçim iyi ve yetkin uzmanlar.\nBitkiler birkaç aydır ayakta, ilk güne benziyor ve göze hoş geliyor!\nÇok teşekkür ederim! Şimdi sadece bitkiler için size!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-11-30T09:38:14.004Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16634215_2a0000019ad41d6d5516a982b6777fa6bc77",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16634215/2a0000019ad41d6d5516a982b6777fa6bc77/{size}",
+            "createdTime": 1764495290585,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Наталья Конарева",
+              "publicId": "c68a9emx7g5rz6pg242wg5awpg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0c-3/{size}",
+              "updateTime": 1764495290585,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18384802_2a0000019ad41d6d56d7a6e0070263443d06",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18384802/2a0000019ad41d6d56d7a6e0070263443d06/{size}",
+            "createdTime": 1764495290593,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Наталья Конарева",
+              "publicId": "c68a9emx7g5rz6pg242wg5awpg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0c-3/{size}",
+              "updateTime": 1764495290593,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Александра, мы очень, очень тронуты Вашим отзывом ☺️ \nСпасибо, что отмечаете наш ассортимент, качество и неравнодушие наших сотрудников, - это очень ценно для нас!\nМы всегда Вам рады ☺️",
+          "updatedTime": "2026-09-27T19:06:39.338Z"
+        },
+        "reviewId": "AwS4rHjcSdeLHSsiDD-nmGcQR35N9KWu2",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Александра Лысенко",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31078/nR7twH9E9FjuNaWYZ75J7YBk-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "qcewkjmja6m9e1pkwvkducyxmc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Просто нужны были цветы. Случайно попала в этот магазин. Это шок! В самом  хорошем смысле. Я много видела цветочных магазинов в разных городах и в разных странах.  Но Фикус вызвал настоящее восхищение. Такого ассортимента растений не видела нигде. И каждое растение в идеальном состоянии. \nОсторожно! Вас будет мучить вопрос выбора. Но тут вам точно помогут, потому что работают здесь неравнодушные люди, которое досконально знают свое дело, любят не только растения, но и людей. И стремятся сделать этот мир прекраснее. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Sadece çiçeklere ihtiyaç vardı. Yanlışlıkla bu mağazaya girdim. Bu bir şok! En iyi şekilde. Farklı şehirlerde ve ülkelerde çok sayıda çiçekçi dükkan gördüm.  Ancak Ficus gerçek hayranlığa neden oldu. Hiçbir yerde böyle bir bitki yelpazesi görmedim. Ve her bitki mükemmel durumda. \nDikkat edin! Seçim meselesi size işkence edecek. Ama burada kesinlikle size yardımcı olacaklar, çünkü burada işlerini iyice bilen kayıtsız olmayan insanlar çalışıyor, sadece bitkileri değil insanları da seviyorlar. Ve bu dünyayı daha güzel hale getirmeye çalışıyorlar. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-20T09:36:26.396Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Елена, благодарим за Ваше доверие и за высокую оценку - это очень значимо для нас 🫶\n\nПусть Ваши растения растут и радуют Вас 💚",
+          "updatedTime": "2026-10-04T18:45:41.484Z"
+        },
+        "reviewId": "E5-FlWhRM88cCZp_JDzwVE4qUb0HlCugH",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Елена Игнатова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38663/0b-9/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ea3f55hxup07pd15ku6qwrg2tr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "\"Фикус\" замечательный магазин, с огромным количеством цветов. Просто оранжерея шикарных растений!!!!!\nКаждый раз не ухожу без покупок. Очень приветливая девушка- консультант, которая посоветует в выборе, подскажет , что и как.\nВыбор цветов всегда очень широкий и огромный. Очень рекомендую 👍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "\"Ficus\" çok sayıda çiçeğe sahip harika bir mağaza. Sadece muhteşem bitkilerin serası!!!!!\nHer seferinde alışveriş yapmadan ayrılmıyorum. Seçim konusunda tavsiyede bulunacak çok cana yakın bir danışman kız size neyin ve nasıl olduğunu söyleyecektir.\nRenk seçimi her zaman çok geniş ve büyüktür. Şiddetle tavsiye ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-04T12:06:08.331Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ира, спасибо, что высоко оценили наш магазин ❤️ Будем рады вам снова",
+          "updatedTime": "2026-02-13T16:03:14.797Z"
+        },
+        "reviewId": "OqDao7udRGnqDx2S7vxKKZaHxHO8pH",
+        "businessId": "74203980529",
+        "author": {
+          "name": "ira-atlant76",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27274/8Vb9pqB0LQnAddbmINXD41fBoL4-1/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "1kd34kejh39vkcwapb922f0530",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин, большой выбор растений. Цветы все ухоженные- приятно посмотреть. Продавцы дают профессиональные консультации по уходу за растениями. Много горшков и грунтов.  Купила себе очень красивую аглаонему. Рекомендую !",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir mağaza, çok çeşitli bitkiler. Çiçeklerin hepsi bakımlı- görmek güzel. Satıcılar bitkilerin bakımı konusunda profesyonel tavsiyeler verir. Çok fazla saksı ve toprak var.  Kendime çok güzel bir aglaonema aldım. Tavsiye ederim !"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-01T16:51:13.021Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17843434_2a0000019c1a1da6ec163973497621c329bb",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17843434/2a0000019c1a1da6ec163973497621c329bb/{size}",
+            "createdTime": 1769964679049,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "ira-atlant76",
+              "publicId": "1kd34kejh39vkcwapb922f0530",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/27274/8Vb9pqB0LQnAddbmINXD41fBoL4-1/{size}",
+              "updateTime": 1769964679049,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Владимир, спасибо за ваш отзыв. Всегда рады, когда растения радуют Вас. ",
+          "updatedTime": "2025-08-14T19:52:28.390Z"
+        },
+        "reviewId": "B11fnCRkjnCZ2-RSm--xEIkYDTr-EaUY",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Владимир Р.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/68143/0y-8/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7kruanzh47vqgj1y0ebzqg4xt0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "С улицы кажется, что это маленький магазинчик, а внутри джунгли и рай для любителей растений) цветы ухоженные, здоровые, всегда большой выбор. Невозможно уйти с одним цветком, хочется унести с собой всё))\nНам тут и пересаживают, и рекомендации по уходу дают, все растет и колосится",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Sokaktan burası küçük bir dükkan gibi görünüyor ve içeride orman ve bitki severler için bir cennet var) bakımlı, sağlıklı çiçekler her zaman harika bir seçimdir. Tek bir çiçekle ayrılmak imkansız, her şeyi yanımda taşımak istiyorum))\nBurada bize naklediliyorlar ve bakım önerileri veriyorlar, her şey büyüyor ve çarpıyor"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-06T19:53:27.182Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14910910_2a00000197e14cfb451e2bbf900b63b92c27",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14910910/2a00000197e14cfb451e2bbf900b63b92c27/{size}",
+            "createdTime": 1751831609013,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Владимир Р.",
+              "publicId": "7kruanzh47vqgj1y0ebzqg4xt0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/68143/0y-8/{size}",
+              "updateTime": 1751831609013,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "a8xioPT-SoTE9qdX8lGo4wA8nUREVgIn",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Инкогнито 9105",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "54wrfxw4bmmh6t6uhu9en51hn0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Я в восторге! Магазин рекомендую!\nЖиву в другом городе. Нужно было поздравить моих девочек с весной) \nПоскольку не ориентируюсь в Рязани, испахала весь интернет, пообщалась в кучей цветочных, что непросто накануне 8 марта. Это был треш и разочарование.\nСпасибо отзывам , дорогие Рязанцы благодаря вам, я нашла Фикус!!!\nНа удаленке девочки прекрасно обслужили! Оперативно отвечали, помогали с выбором, удобно онлайн платить! \nСпасибо вам большое за состоявшийся праздник! Вы - лучшие! \nОбязательно посещу магазин, когда приеду в Рязань! \nПроцветания вам и хороших покупателей!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok mutluyum! Mağazayı tavsiye ederim!\nBaşka bir şehirde yaşıyorum. Baharda kızlarımı tebrik etmeliydim) \nRyazan'a yönelmediğim için tüm interneti yıkadım, 8 Mart arifesinde kolay olmayan bir sürü çiçek odasında sohbet ettim. Bu çöp ve hayal kırıklığıydı.\nİncelemelerinize teşekkür ederim, sevgili Ryazanlar sizin sayenizde bir Ficus buldum!!!\nUzaktaki kızlara mükemmel hizmet verdiler! Derhal cevap verdiler, seçime yardımcı oldular, çevrimiçi ödeme yapmak uygun! \nKutladığınız için çok teşekkür ederim! Siz en iyisisiniz! \nRyazan'a geldiğimde kesinlikle mağazayı ziyaret edeceğim! \nSize ve iyi alıcılara refah!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-14T17:15:16.801Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16312016_2a0000019ced585e5b515cc39680b32082e1",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16312016/2a0000019ced585e5b515cc39680b32082e1/{size}",
+            "createdTime": 1773508518292,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Инкогнито 9105",
+              "publicId": "54wrfxw4bmmh6t6uhu9en51hn0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1773508518292,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16312016_2a0000019ced58648c5503263d894bdffe82",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16312016/2a0000019ced58648c5503263d894bdffe82/{size}",
+            "createdTime": 1773508519926,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Инкогнито 9105",
+              "publicId": "54wrfxw4bmmh6t6uhu9en51hn0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1773508519926,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16410678_2a0000019ced59ac365a42029f2d6dd0e7e3",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16410678/2a0000019ced59ac365a42029f2d6dd0e7e3/{size}",
+            "createdTime": 1773508603859,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Инкогнито 9105",
+              "publicId": "54wrfxw4bmmh6t6uhu9en51hn0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1773508603859,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18133168_2a0000019ced59b33d8750fe574e27865722",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18133168/2a0000019ced59b33d8750fe574e27865722/{size}",
+            "createdTime": 1773508605880,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Инкогнито 9105",
+              "publicId": "54wrfxw4bmmh6t6uhu9en51hn0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1773508605880,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ольга, благодарим Вас за то, что поделились впечатлениями о растениях, упаковке и доставке🌷\nСпасибо за высокую оценку 🫶\n",
+          "updatedTime": "2026-06-16T14:51:23.199Z"
+        },
+        "reviewId": "01_RqLld5ufMl_bNBRunWJd8BXrldL",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ольга Бровко",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/28053/Rw8qfcOIaWOZOFnj0FSfLa1kLNk-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "dp9jedwzjhtc5uhwwpjxkzpek4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Добрый день. хотелось бы поблагодарить  магазин  ФИКУС в г. Рязань за отличные саженцы растений. Я покупала у них Азалию на штамбе- она уже отлично растет и зацветает новой волной.\nНедавно приобрела у них оливу на штамбе 100см. Дерево достаточно высокое, но они его отлично упаковали и оно пришло СДЕКом очень быстро. Я думаю, что я еще не раз куплю в этом магазине цветы и буду его рекомендовать знакомым.\nСпасибо большое.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "İyi günler. Mükemmel bitki fideleri için Ryazan'daki FİCUS mağazasına teşekkür etmek isterim. Onlardan gövdeden Açelya satın aldım - zaten iyi büyüyor ve yeni bir dalgada çiçek açıyor.\nYakın zamanda onlardan 100 cm'lik bir gövdede zeytin aldım, ağaç oldukça uzun, ama onu mükemmel bir şekilde paketlediler ve çok çabuk geldi. Sanırım bu mağazadan bir kereden fazla çiçek alacağım ve tanıdıklarıma tavsiye edeceğim.\nÇok teşekkür ederim."
+        },
+        "rating": 5,
+        "updatedTime": "2026-05-08T08:40:40.754Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "18748727_2a0000019e06bf13173f15560ec947a6f5ba",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18748727/2a0000019e06bf13173f15560ec947a6f5ba/{size}",
+            "createdTime": 1778229648137,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ольга Бровко",
+              "publicId": "dp9jedwzjhtc5uhwwpjxkzpek4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/28053/Rw8qfcOIaWOZOFnj0FSfLa1kLNk-1/{size}",
+              "updateTime": 1778229648137,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ольга, спасибо, что поделились впечатлением, это очень ценно для нас 🫶\nБудем рады видеть Вас снова 🌷",
+          "updatedTime": "2026-04-21T04:47:26.888Z"
+        },
+        "reviewId": "cSC59Q9HTcng0LoaWxWCeFZKJFlwcWha",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ольга",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27274/msDkkwbSY2KraD2XKkN33v4Qilg-1/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "fbzwhtvvtcxu28nwem0w8zn24r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Узнала об этом магазинчике в Авито (искала домашние цветы), очень мне хотелось приобрести телландсию. В свой день рожден решила сделать себе подарок и купить необычный цветок. Так и оказалась в \"Фикусе\". Очень милый магазинчик. Продавец умница, показала, рассказала, посоветовала, упаковала в \" тёплую шубку \" моё чудо. Ещё и скидка в день рождения!  Спасибо! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Avito'daki bu mağazayı öğrendim (ev yapımı çiçekler arıyordum), gerçekten tellandsia satın almak istedim. Doğum günümde kendime bir hediye vermeye ve sıradışı bir çiçek almaya karar verdim. Böylece \"Ficus\" da sona erdi. Çok şirin bir dükkan. Satıcı zeki, gösterdi, anlattı, tavsiye etti, mucizemi \"sıcak bir kürk mantoya\" paketledi. Ayrıca doğum gününde indirim!  Teşekkür ederiz! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-24T09:03:30.705Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за отзыв.  Будем рады видеть Вас)",
+          "updatedTime": "2025-10-23T05:45:55.172Z"
+        },
+        "reviewId": "Tr8HyRjjFfzI4ZvSm54xnN10U2jf-G6o",
+        "businessId": "74203980529",
+        "author": {
+          "name": "оксана дресвянникова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40841/WvRsVTWQV1CZdVX2a1rhZl27cBg-1/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "cp3dre7v5bdju3ay4fbqv0vjhr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Чудесный магазин! Шикарный выбор комнатных растений, все цветы очень ухоженны.  Очень приятная девушка консультант, сверх подробно и доходчиво рассказала секреты ухода.  Желаю вам процветания! Обязательно вернемся! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza! Muhteşem iç mekan bitkileri seçimi, tüm çiçekler çok bakımlı.  Çok hoş bir kız danışman, bakımın sırlarını çok ayrıntılı ve anlaşılır bir şekilde anlattı.  Size refah diliyorum! Kesinlikle geri döneceğiz! "
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-10T16:40:42.764Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14774583_2a00000199ceff1135c46c4bd626527d6f24",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14774583/2a00000199ceff1135c46c4bd626527d6f24/{size}",
+            "createdTime": 1760114448783,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "оксана дресвянникова",
+              "publicId": "cp3dre7v5bdju3ay4fbqv0vjhr",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/40841/WvRsVTWQV1CZdVX2a1rhZl27cBg-1/{size}",
+              "updateTime": 1760114448783,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Юлия, спасибо большое за такой теплый отзыв ☺️ Спасибо, что выбираете нас в такие важные моменты - это очень ценно для нас!\nПусть ваш домашний тропический сад растет и радует Вас 🫶",
+          "updatedTime": "2026-09-27T19:17:18.361Z"
+        },
+        "reviewId": "cxddDDKTGwLy0Obi7_BsGth9CBZ83H3",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Юлия",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/64336/gnZsjbkh5Upgxf5wuAq2ff5Ipt8-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kg9hn2jw80ghwn05f6j7d380cc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Постоянно покупаю растения и себе,и в подарок только в этом магазине! Отличный,огромный выбор,квалифицированный персонал,всегда помогут с выбором и дальнейшей жизнью растения! Обожаю,любимый магазин! Внимание,зайти сюда и уйти без растения-НЕ ВОЗМОЖНО!!!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Sürekli kendim için bitki satın alıyorum ve sadece bu mağazadan hediye olarak! Mükemmel, büyük bir seçim, kalifiye personel, bitkinin seçimine ve sonraki yaşamına her zaman yardımcı olacaktır! Bayılıyorum, sevgili dükkanım! Dikkat, buraya gelip bitkisiz gitmek mümkün değil!!!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-27T14:37:10.988Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Jac2z4h_3jX0t6IpMe_sbbdVPhYbV__r3",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Екатерина С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/BORMxwHZbBxcNwNyw5qoUrUU8Xg-1574665856/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4qdr5h6udbcx4vqctbe5f7k4nm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "С Фикуса началась моя страсть к зеленым друзьям! Обожаю этот магазин за огромный ассортимент, заботливых консультантов, которые ответят на любые вопросы и помогут определиться с выбором! С каждым посещением моя коллекция становится все больше и больше 🫶🏻🥰 из последних покупок собрала композицию суккулентов, невозможно оторвать глаз от красоты 😍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Ficus'tan yeşil arkadaşlara olan tutkum başladı! Bu mağazaya, herhangi bir soruyu cevaplayacak ve bir seçime karar vermenize yardımcı olacak çok çeşitli, şefkatli danışmanlar için bayılıyorum! Her ziyaretimde koleksiyonum gittikçe büyüyor последних son satın alımlarımdan sulu meyvelerin bir kompozisyonunu topladım, gözlerinizi güzellikten ayırmak imkansız 😍"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-19T11:15:58.131Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "21629839_2a000001a155c5224fc85e134ebb6de5dd75",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21629839/2a000001a155c5224fc85e134ebb6de5dd75/{size}",
+            "createdTime": 1792440347977,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Екатерина С.",
+              "publicId": "4qdr5h6udbcx4vqctbe5f7k4nm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/37154/BORMxwHZbBxcNwNyw5qoUrUU8Xg-1574665856/{size}",
+              "updateTime": 1792440347977,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ирина, любуемся Вашими растениями вместе с Вами)\nБлагодарим за теплый отзыв\nБудем рады видеть Вас снова ",
+          "updatedTime": "2026-01-30T19:18:37.137Z"
+        },
+        "reviewId": "1B0f8SWvWEWUgSCNimdak1uKiG2cMkjJZ",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ирина Макаркина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/0c-2/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "9wz3gpamapkz8umac9vxm08zk4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Это самый красивый магазин в городе,просто цветущий сад,все растения покупаю только в нем,девочки подсказывают как ухаживать,очень вежливое обслуживание!\nСпасибо!Благодаря вам дома такая красота!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Burası şehirdeki en güzel mağaza, sadece çiçek açan bir bahçe, tüm bitkileri sadece buradan satın alıyorum, kızlar size nasıl bakılacağını, çok güler yüzlü hizmeti öneriyorlar!\nTeşekkür ederiz!Sayenizde evde böyle bir güzellik var!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-01-20T10:30:29.045Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16130837_2a0000019bdaf4ca97faa3ae980bf1a2bf22",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16130837/2a0000019bdaf4ca97faa3ae980bf1a2bf22/{size}",
+            "createdTime": 1768905037778,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ирина Макаркина",
+              "publicId": "9wz3gpamapkz8umac9vxm08zk4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/26311/0c-2/{size}",
+              "updateTime": 1768905037778,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19699569_2a0000019bdaf4b905523475eb7c9993d1e5",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19699569/2a0000019bdaf4b905523475eb7c9993d1e5/{size}",
+            "createdTime": 1768905033003,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ирина Макаркина",
+              "publicId": "9wz3gpamapkz8umac9vxm08zk4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/26311/0c-2/{size}",
+              "updateTime": 1768905033003,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ирина, спасибо за то, что выбираете «Фикус», за Ваши теплые слова в наш адрес ☺️\n\nБудем рады видеть Вас в нашем магазине 🫶",
+          "updatedTime": "2026-09-27T19:08:39.271Z"
+        },
+        "reviewId": "6VPA7sMph1wp6WdLaLFMAbAIs4Dx1c7vS",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ирина Л.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0r-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "y39eqr4xppagxpdn76pad6zkgm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный выбор цветов. Персонал очень приветливый и всегда поможет с выбором. Красиво упакуют для подарка. Покупала здесь не первый раз, спасибо!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mükemmel renk seçimi. Personel çok cana yakın ve seçim konusunda her zaman yardımcı olacak. Hediye için güzelce paketlenecekler. Burada ilk kez satın almadım, teşekkürler!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-14T20:34:48.368Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо высокую оценку, нам очень радостно получить такой отзыв от Вас ☺️\n\nБудем рады видеть Вас снова 💚",
+          "updatedTime": "2026-09-27T19:01:19.108Z"
+        },
+        "reviewId": "IIj6zM3aCqYYPqtHKqJNywwn4jta3MDG",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Дед Абада",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/56823/t1PTCCaEmE0zskk5Mbyiqah7A7k-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "5u1e77n3hajy2btpy42cndexyc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин! Купил \nдекабрист: растение здоровое, красивое, упаковано надёжно. Консультант всё подробно рассказал про уход. Буду покупать здесь ещё. Рекомендую!»",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza! Alıyordu \nDecembrist: Bitki sağlıklı, güzel, güvenilir bir şekilde paketlenmiştir. Danışman bakımla ilgili her şeyi ayrıntılı olarak anlattı. Buradan daha fazlasını satın alacağım. Tavsiye ederim!»"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-26T12:19:09.989Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "lzFcohrlbKlkGxFNQi1jWI2E38mq-X",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ямова Кристина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63032/0l-5/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "6reuvhd46tb4hm5nt09zpxmx1c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин домашних растений! Большой выбор, всё свежее и ухоженное. Девушка-консультант очень помогла с выбором и подсказала, как правильно ухаживать за цветами. Рекомендую!🪴😊",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir ev bitkisi mağazası! Harika bir seçim, her şey taze ve bakımlı. Danışman kız seçimde çok yardımcı oldu ve çiçeklere nasıl düzgün bakılacağını önerdi. Tavsiye ederim!🪴😊"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-10T12:54:47.270Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв. Будем рады видеть Вас снова ",
+          "updatedTime": "2025-09-20T20:04:16.833Z"
+        },
+        "reviewId": "y3fVRq5eO-JBcBRtDul1bB6zvVsaAl",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Офелия Кяримова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/tCXEF8nvM4IvOzpsBP9hlquNNs-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "3eteah9af74mc0pquj9b6e105r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хороший магазин с большим выбором цветов, выглядят ухоженно. Есть услуга пересадки в хороший грунт, как своих домашних цветов, так и тех, что купите здесь. Консультируют, дают подсказки об уходе.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok çeşitli renklere sahip iyi bir mağaza, bakımlı görünüyorlar. Hem ev çiçeklerinizi hem de buradan satın aldıklarınızı iyi toprağa nakletme hizmeti var. Danışmanlık yapıyorlar, bakım hakkında ipuçları veriyorlar."
+        },
+        "rating": 5,
+        "updatedTime": "2025-09-14T11:00:28.276Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "FkVEf-FlNzdPsEKfzIBt3SS4rjFuqn",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Яна Корякина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0u-4/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "25d067eb2kjt129jmwk0g9zpqr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Магазин с очень интересными комнатными растениями, вежливыми и отзывчивыми продавцами, всегда помогут с выбором растения и подскажут по уходу за ним, возвращаюсь уже не первый раз. После такого магазина может появиться желание скупить все комнатные растения и сделать дома сад! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok ilginç iç mekan bitkileri, kibar ve yardımsever satıcıları olan bir mağaza, bitki seçiminde her zaman yardımcı olacak ve ona bakmalarını söyleyecekler, ilk kez dönmeyeceğim. Böyle bir mağazadan sonra, tüm iç mekan bitkilerini satın alma ve evde bahçe yapma arzusu olabilir! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-11-05T15:40:47.417Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "fNztHDX_IbXjaT0OHb5M9AVCpuiouU9cw",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Мария Т.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/59871/0a-6/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "2wpphznx2u1ewfbe2mjykbm6fc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Чудесный магазин! Зашла вчера впервые и была восхищена  интерьером  магазина, многообразием сортов.  Появилось желание скупить половину ассортимента))\nПродавец, и  как оказалась хозяйка очень тепло  общалась с посетителями, подробно рассказала мне о понравившехся цветах и правилах ухода за ним. Более того посоветовала, как вылечить прибалевший дома цветок. Замечательная чуткая девушка, видно что любит то дело , которым занимается!! \nОбязательно  вернусь сюда за новыми цветочками. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza! Dün ilk kez uğradım ve mağazanın iç mekanına, çeşit çeşitliliğine hayran kaldım.  Aralığın yarısını satın alma arzusu vardı))\nSatıcı ve hostesin ziyaretçilerle nasıl çok sıcak bir şekilde iletişim kurduğu ortaya çıktı, bana en sevdiği renkleri ve ona bakma kurallarını ayrıntılı olarak anlattı. Dahası, evde hastalıklı bir çiçeğin nasıl tedavi edileceğini tavsiye ettim. Harika hassas bir kız, yaptığı işi sevdiği açık!! \nKesinlikle yeni çiçekler için buraya döneceğim. "
+        },
+        "rating": 5,
+        "updatedTime": "2025-01-31T05:56:01.603Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Мария, спасибо за приятный отзыв. Будем рады видеть Вас снова ",
+          "updatedTime": "2025-12-12T16:36:56Z"
+        },
+        "reviewId": "-F06A6CWZbJBD5FUuRXka9aHcDd50sn",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Мария М.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/64336/gSmt4LTBhWQ5t38ntwc1jlNxAY-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4prz9rv88yre9q9qgrup6r65ag",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин для покупки цветов в горшках: хороший выбор, здоровые растения и грамотные консультанты, буду обращаться ещё и могу смело рекомендовать другим. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Saksılarda çiçek satın almak için harika bir mağaza: iyi bir seçim, sağlıklı bitkiler ve yetkin danışmanlar, ayrıca iletişime geçeceğim ve başkalarına güvenle tavsiye edebilirim. "
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-09T18:40:35.518Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Марина, благодарим за высокую оценку. \nБудем рады видеть Вас снова",
+          "updatedTime": "2025-12-12T16:36:43.814Z"
+        },
+        "reviewId": "2hmKX9sWGyyMLYgb-EpelFJgZfPI3ujz4",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Марина Г",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/50595/bFRBhx2Ts4nZGjuRIrq91ifeJg-1/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "02vmpkzb3rjez0w97em42w9mgr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Шикарный выбор цветов от самых известных до экзотических. Цветы ухоженные, приятно посмотреть. Есть доставка. Помогут пересадить цветок и продавцы замечательные.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "En ünlülerden egzotiklere kadar şık bir renk seçimi. Çiçekler bakımlı, bakmak güzel. Teslimat var. Çiçeğin nakledilmesine yardımcı olacaklar ve satıcılar harika."
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-04T03:55:41.073Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Юлия, спасибо за высокую оценку и за то, что выбираете нас! Для нас это очень ценно 💚\n\nБудем рады видеть Вас снова ☺️ ",
+          "updatedTime": "2026-09-28T15:53:14.723Z"
+        },
+        "reviewId": "r6eYapFMd2uvnTDRa6DiaWhWhVZabEW",
+        "businessId": "74203980529",
+        "author": {
+          "name": "юля а.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/21493/enc-613f9338145749f7a1167f26db15b802ea4164df66245418d988e4a39b5f57f2/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "8znjj8k7afzknf514mp4dh4xmc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень замечательный магазин, большой выбор комнатных растений и цветов. Сегодня приобрели себе домой несколько кашпо. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok harika bir mağaza, çok çeşitli iç mekan bitkileri ve çiçekleri. Bugün evime birkaç saksı satın aldılar. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-22T21:10:14.814Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Яна, спасибо за приятный отзыв. Ну какая красота ❤️",
+          "updatedTime": "2025-12-29T20:54:07.479Z"
+        },
+        "reviewId": "sJNs3ROQ5liD4WHVp5vNvMwbSfbJmFQ",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Яна Ч.",
+          "avatarUrl": "",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kezdj2t6x0fnwmva9bjj7hu234",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень нравится этот магазин. За большой ассортимент и интересные растения. На фото тилландсия которую я купила там в зелёном виде, но со временем она зацвела 😌😉🥹 просто нереальная красота❤️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu mağazayı çok beğendim. Geniş bir ürün yelpazesi ve ilginç bitkiler için. Fotoğrafta orada yeşil formda satın aldığım tillandsia var ama zamanla çiçek açtı 😌😉🥹 sadece gerçek dışı güzellik❤️"
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-27T03:08:32.509Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "19532714_2a0000019b5dc7a2d8faaf2fd24f994a070c",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19532714/2a0000019b5dc7a2d8faaf2fd24f994a070c/{size}",
+            "createdTime": 1766804925524,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Яна Ч.",
+              "publicId": "kezdj2t6x0fnwmva9bjj7hu234",
+              "imageUrlTemplate": "",
+              "updateTime": 1766804925524,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19681410_2a0000019b5dc78b6942065833e1a7087542",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19681410/2a0000019b5dc78b6942065833e1a7087542/{size}",
+            "createdTime": 1766804919551,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Яна Ч.",
+              "publicId": "kezdj2t6x0fnwmva9bjj7hu234",
+              "imageUrlTemplate": "",
+              "updateTime": 1766804919551,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "k_tq-gStWXwYTq4W-EszQCFvrc4IqJ",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Елена Рогова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/17694366/19MqMUXdRXwX4Oxz4dS6f3KIPpU-1/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0ufuc32aj822u82eyx6h2fdgrw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин! Очень большой выбор цветов на любой вкус и кошелёк. Приветливые девушки всегда все расскажут, подскажут и направят в нужном направлении. С этим магазином с самого открытия. Марина (хозяйка) всегда интересуется как поживают мои цветочки. Я сюда иногда просто захожу прогуляться в красоте. Искренне рекомендую всем любителям ( и не только) живых растений. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza! Her zevke ve bütçeye uygun çok geniş bir renk yelpazesi. Dost canlısı kızlar her zaman her şeyi anlatacak, size söyleyecekler ve doğru yöne yönlendireceklerdir. Açılışından beri bu dükkanla. Marina (hostes) her zaman çiçeklerimin nasıl olduğunu merak eder. Bazen buraya sadece güzellikte yürüyüşe çıkıyorum. Tüm canlı bitki severlere (sadece değil) içtenlikle tavsiye ederim. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-27T11:26:05.341Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ирина, спасибо за теплые слова 🌷",
+          "updatedTime": "2026-04-27T16:21:31.156Z"
+        },
+        "reviewId": "BdCPh6qMnJyAnXW_UQFXNj_dJafl-qa",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ирина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/17694366/stDwtAgbDaNi8OUz1Yui5kKW3cY-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "m15tm60dg3ctdarpvwng5jhw1g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Люблю заходить в этот магазин, даже когда ничего не надо. Очень большой выбор растений, много вариантов горшков и кашпо, приветливый персонал. Рекомендую всем цветочникам!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Hiçbir şeye ihtiyaç duyulmasa bile bu mağazaya girmeyi seviyorum. Çok geniş bir bitki yelpazesi, saksılar ve saksılar için birçok seçenek, güler yüzlü personel. Tüm çiçekçilere tavsiye ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-04-21T14:45:51.145Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Олеся, благодарим за высокую оценку! \nБудем рады видеть Вас снова 🌷",
+          "updatedTime": "2026-07-10T07:02:42.127Z"
+        },
+        "reviewId": "RD6cWt1g329R6ssoTNFZJogcooHpNa2",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Олеся Л.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45848/S7mOzemVV1GeJ8LeXHodB5exH8c-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kykzbv1r5xrfqmcqq38tjktbvm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень понравился магазин. Огромный выбор растений разного размера по адекватным ценам. Поекрасные сотрудники.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mağazayı çok beğendim. Uygun fiyatlarla farklı boyutlarda çok çeşitli bitkiler. Kırmızı çalışanlar."
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-07T17:30:55.142Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "18136130_2a0000019f3da217c5bce30d9c500e302900",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019f3da217c5bce30d9c500e302900/{size}",
+            "createdTime": 1783445463553,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Олеся Л.",
+              "publicId": "kykzbv1r5xrfqmcqq38tjktbvm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/45848/S7mOzemVV1GeJ8LeXHodB5exH8c-1/{size}",
+              "updateTime": 1783445463553,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18781639_2a0000019f3da2251fdd72bcfb5b3fec9954",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18781639/2a0000019f3da2251fdd72bcfb5b3fec9954/{size}",
+            "createdTime": 1783445467293,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Олеся Л.",
+              "publicId": "kykzbv1r5xrfqmcqq38tjktbvm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/45848/S7mOzemVV1GeJ8LeXHodB5exH8c-1/{size}",
+              "updateTime": 1783445467293,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19082209_2a0000019f3da202fd30f5bff15df3bca0ec",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19082209/2a0000019f3da202fd30f5bff15df3bca0ec/{size}",
+            "createdTime": 1783445457452,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Олеся Л.",
+              "publicId": "kykzbv1r5xrfqmcqq38tjktbvm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/45848/S7mOzemVV1GeJ8LeXHodB5exH8c-1/{size}",
+              "updateTime": 1783445457452,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19902702_2a0000019f3da20cd72258091ea803b21112",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19902702/2a0000019f3da20cd72258091ea803b21112/{size}",
+            "createdTime": 1783445460052,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Олеся Л.",
+              "publicId": "kykzbv1r5xrfqmcqq38tjktbvm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/45848/S7mOzemVV1GeJ8LeXHodB5exH8c-1/{size}",
+              "updateTime": 1783445460052,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [
+          {
+            "type": "video",
+            "id": "9b5a30bd2f43366751a3d0b5489df8e2",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-vh/20427947/2a0000019f3da47f28981cb24f2ffdcb0692/orig",
+            "videoUrl": "https://runtime.strm.yandex.ru/player/video/vplv223wjb3mnfz2ksuo",
+            "size": {
+              "width": 1080,
+              "height": 1920
+            },
+            "createdTime": 1783445455216,
+            "status": "ACCEPTED"
+          }
+        ],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Daria, спасибо за отзыв. Будем рады видеть Вас снова.",
+          "updatedTime": "2025-05-06T20:41:54.811Z"
+        },
+        "reviewId": "PWwLiozBLLpuwvply-3zn0BobJO-Nz",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Daria Z.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0t-2/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "hy2kj9gy19kgyp02ukfx0m0vh4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень хороший магазин, большой выбор цветов, все подробно объясняют и дают рекомендации. Мне посчастливилось познакомиться с хозяйкой, по разговору сразу понятно, что человек очень любит свое дело и очень уважительно относиться к клиентам. Провела наверно час в магазине и никак не могла уйти, спасибо за профессионализм и хорошее качество товара. Теперь цветочки меня радуют дома! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok iyi bir mağaza, çok çeşitli renkler, her şeyi ayrıntılı olarak açıklıyor ve önerilerde bulunuyorlar. Hostesle tanıştığım için şanslıydım, konuşmadan bir kişinin işini çok sevdiği ve müşterilere çok saygılı olduğu hemen anlaşılıyor. Muhtemelen mağazada bir saat geçirdim ve hiçbir şekilde gidemedim, profesyonellik ve kaliteli mallar için teşekkür ederim. Şimdi çiçekler beni evde mutlu ediyor! "
+        },
+        "rating": 5,
+        "updatedTime": "2025-03-04T12:09:53.576Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Алексей, спасибо за приятный отзыв и высокую оценку. Будем рады видеть Вас снова 🫶",
+          "updatedTime": "2026-03-15T08:52:00.321Z"
+        },
+        "reviewId": "zuDWrevC6fhVBCQK_7Eh8k97CwqQkiO",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Алексей Колупаев",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/0b-2/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "67yh5faekprhhy2k3j81jegpnr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Большой выбор комнатных растений и разлиных аксессуаров для такого рода занятий. Все растения жизнеспособные: растут и цветут.  Вежливые и профессиональные сотрудники. Регулярно загляжываем в этот магазин.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu tür aktiviteler için çok çeşitli iç mekan bitkileri ve çeşitli aksesuarlar. Tüm bitkiler yaşayabilir: büyürler ve çiçek açarlar.  Kibar ve profesyonel çalışanlar. Bu mağazaya düzenli olarak bakıyoruz."
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-08T19:37:29.853Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "VI1F1DhAu5paEBOuHQG8h5SvgElfoRV",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ольга Жучкова",
+          "avatarUrl": "",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "5hn4gjf59qp1apvd8xttg1th1c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасное место, очень вежливый персонал, всегда помогут с выбором и подскажут как ухаживать. Отличные растения, приятно здесь находиться и хочется приходить еще!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir yer, çok kibar personel, seçim konusunda her zaman yardımcı olacak ve size nasıl bakılacağını söyleyecektir. Harika bitkiler, burada olmak güzel ve daha fazlası için gelmek istiyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-16T16:49:35.399Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "SslzedjrllDzMkVO8OGx1qu3CfJ0X41W",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Николай С",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/54535/gbSs5FE4O8lo574XUSO61Ss6j0-1/{size}",
+          "professionLevel": "Level 28 Local Expert",
+          "rtb": "Level 28 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kctzrwdyjaafr7h1r9xqm9g4f8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный выбор разной комнатной зелени. Цветы хорошего качества , не «задохлики», продолжают расти дальше, без болезней и вредителей. \nЦенник нормальный , возможно чуть выше , зато все будет живым, и не загнется за неделю 😃.\nБрал в подарок  Замиокулькас Зензи, на фото через месяц после покупки- уже новые стволы .",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Farklı oda yeşilliklerinin mükemmel seçimi. Kaliteli çiçekler, «boğulmayan\", hastalıklar ve zararlılar olmadan daha da büyümeye devam eder. \nFiyat etiketi normaldir, belki biraz daha yüksektir, ancak her şey canlı olacak ve bir hafta içinde bükülmeyecektir.\nZamiokulkas Zenzi'yi hediye olarak aldım, fotoğrafta satın aldıktan bir ay sonra yeni gövdeler var."
+        },
+        "rating": 5,
+        "updatedTime": "2025-01-27T21:10:37.899Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15022759_2a00000194a999e9b38d6d56d773d614554a",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15022759/2a00000194a999e9b38d6d56d773d614554a/{size}",
+            "createdTime": 1738012225016,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Николай С",
+              "publicId": "kctzrwdyjaafr7h1r9xqm9g4f8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/54535/gbSs5FE4O8lo574XUSO61Ss6j0-1/{size}",
+              "updateTime": 1738012225016,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "nIu-n_ernbWlZIAtmtw9s0MnsPj5uO",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Софья С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31804/0m-7/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7826nzjbnk2aahdmcm4tbm7j9m",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный ассортимент комнатных цветов! Большой выбор горшков! А так же есть земля под разные цветочки! Помогают в выборе, большое спасибо!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika iç mekan çiçek çeşitleri! Çok çeşitli kaplar! Ve ayrıca farklı çiçekler için toprak var! Seçimde yardımcı oluyorlar, çok teşekkür ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-11-03T05:06:47.485Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "22041182_2a000001a19fcd8498b0e81c343fecf1a495",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/22041182/2a000001a19fcd8498b0e81c343fecf1a495/{size}",
+            "createdTime": 1793682410566,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Софья С.",
+              "publicId": "7826nzjbnk2aahdmcm4tbm7j9m",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31804/0m-7/{size}",
+              "updateTime": 1793682410566,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Анастасия, спасибо за отзыв. Будем рады видеть Вас снова.",
+          "updatedTime": "2025-05-06T20:41:42.932Z"
+        },
+        "reviewId": "aj80P_TdWYQrXnjA-JsQ4UIKcSZFItE",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Анастасия Краюшкина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/33202/dcqXV4NRKM5uEf4t62NiiPb3A-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "412vyr2c1dhx0rq9km7g5hyv5r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Покупаю уже вторую орхидею. Качество растения - изумительное! Персонал магазина оперативно отвечает и консультирует в соц.сетях.  Растение можно доставить через курьерскую доставку, даже не посещая сам магазин (орхидеи выбирала по фото). В общем, очень довольна!)",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şimdiden ikinci orkideyi satın alıyorum. Bitkinin kalitesi inanılmaz! Mağaza personeli sosyal medyada derhal yanıt verir ve tavsiyelerde bulunur.ağlardan.  Bitki, mağazanın kendisini ziyaret etmeden bile kurye teslimatı yoluyla teslim edilebilir (fotoğraftan orkideleri seçtim). Genel olarak, çok memnunum!)"
+        },
+        "rating": 5,
+        "updatedTime": "2025-03-31T15:06:57.391Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15270672_2a00000195ecbdd63b2f1cddc53364a81a11",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15270672/2a00000195ecbdd63b2f1cddc53364a81a11/{size}",
+            "createdTime": 1743433621448,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анастасия Краюшкина",
+              "publicId": "412vyr2c1dhx0rq9km7g5hyv5r",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/33202/dcqXV4NRKM5uEf4t62NiiPb3A-1/{size}",
+              "updateTime": 1743433621448,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Елена, спасибо за добрые слова 🌷",
+          "updatedTime": "2026-07-10T07:03:22.544Z"
+        },
+        "reviewId": "2d7WuozgWeZ7OEjJgWDT6fQ7ibf5iHDj",
+        "businessId": "74203980529",
+        "author": {
+          "name": "елена мулина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/0c-2/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "z7pj2qrgrr5vad9ahtn0twvrbc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин, большое разнообразие цветов. Доброжелательный и грамотный персонал поможет выбрать растение. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir mağaza, çok çeşitli renkler. Güler yüzlü ve yetkin personel bitkinin seçilmesine yardımcı olacaktır. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-04T21:19:04.731Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Андрей, благодарим за высокую оценку нашего магазина. \nБудем рады видеть Вас снова",
+          "updatedTime": "2026-02-22T09:55:20.269Z"
+        },
+        "reviewId": "a1V0dVFNU0kXjosfgGAzLbBjmizbmUob8",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Андрей Нефтерев",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "anefterev",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень отличный магазин и отличный ассортимент. Продавцы знают свой товар. Рекомендую ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok harika bir mağaza ve harika bir ürün yelpazesi. Satıcılar mallarını biliyorlar. Öneriyorum "
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-18T16:59:51.068Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16413163_2a0000019c71b48558504a7ef433b087c94b",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16413163/2a0000019c71b48558504a7ef433b087c94b/{size}",
+            "createdTime": 1771434184935,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434184935,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16444693_2a0000019c71b49ad2b3330b5fd975f3938b",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16444693/2a0000019c71b49ad2b3330b5fd975f3938b/{size}",
+            "createdTime": 1771434190354,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434190354,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "17753003_2a0000019c71b44a31e5f6e88a43842f22e4",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17753003/2a0000019c71b44a31e5f6e88a43842f22e4/{size}",
+            "createdTime": 1771434169131,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434169131,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "17788144_2a0000019c71b3dac5c3e0d8f6c612da79d3",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17788144/2a0000019c71b3dac5c3e0d8f6c612da79d3/{size}",
+            "createdTime": 1771434141170,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434141170,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "18780150_2a0000019c71b3c834bd3396b134e372f76b",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18780150/2a0000019c71b3c834bd3396b134e372f76b/{size}",
+            "createdTime": 1771434135995,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434135995,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19519244_2a0000019c71b40610ead122da9b8fe690ff",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19519244/2a0000019c71b40610ead122da9b8fe690ff/{size}",
+            "createdTime": 1771434151864,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434151864,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19579876_2a0000019c71b3f0e5779be85025cc1688fa",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19579876/2a0000019c71b3f0e5779be85025cc1688fa/{size}",
+            "createdTime": 1771434146681,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434146681,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19699569_2a0000019c71b47193335db2dad90de28d63",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19699569/2a0000019c71b47193335db2dad90de28d63/{size}",
+            "createdTime": 1771434179758,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434179758,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20011141_2a0000019c71b45da0fbbdf4335acebd1f42",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20011141/2a0000019c71b45da0fbbdf4335acebd1f42/{size}",
+            "createdTime": 1771434174793,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Андрей Нефтерев",
+              "publicId": "anefterev",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63256/SAJlC0KvehQwBDNDuAV9e8OVjw8-1/{size}",
+              "updateTime": 1771434174793,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Владимир, благодарим за Ваш отзыв и высокую оценку. Будем рады видеть Вас снова.",
+          "updatedTime": "2025-07-05T19:04:49.955Z"
+        },
+        "reviewId": "1Ak8bwCdhoJHy7tsvKWssbqt-tpG3a6-",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Владимир Ш.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/21377/enc-f35e071dc8dba80ef53bf8375a85f73798eee9008467e0d4eb455d6405be2647/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "pdpybfwka09eg5tp2atcqkd0r0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не давно покупал там цветок и выяснилось что там самый большой выбор домашних цветов в Рязани) растения ухоженные, красивые (в отличие от гипермаркетов)\nК моему удивлению, цены ниже, чем в сетевых магазинах \nОднозначно рекомменд!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Uzun zaman önce orada bir çiçek satın almıştım ve Ryazan'daki en geniş ev çiçekleri seçiminin orada olduğu ortaya çıktı) bakımlı, güzel bitkiler (hipermarketlerin aksine)\nSürprizime göre fiyatlar zincir mağazalardan daha düşük \nKesinlikle tavsiye ediyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-03T15:57:54.703Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "1h-bIJbnevsddxwpmG0T8uVB1yY1kZ",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Александр Пирязев",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63032/0k-5/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "a3trex6wxdxj2eggz7817hrq0g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Рай для любителей зелёных друзей😍🌿. Всегда с удовольствием посещаю, покупаю растения себе и в подарок👍🏻.\nРастения всегда здоровые и красивые. Цены вполне адекватные👍🏻👏🏻",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Yeşil dostların sevenler için cennet😍🌿. Her zaman ziyaret etmekten, kendim için bitki satın almaktan ve hediye olarak zevk alıyorum.\nBitkiler her zaman sağlıklı ve güzeldir. Fiyatlar oldukça yeterli👍🏻👏🏻"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-24T11:22:37.536Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20933263_2a000001a16da62a6dade29f68c195d202c3",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20933263/2a000001a16da62a6dade29f68c195d202c3/{size}",
+            "createdTime": 1792840970906,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Александр Пирязев",
+              "publicId": "a3trex6wxdxj2eggz7817hrq0g",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63032/0k-5/{size}",
+              "updateTime": 1792840970906,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Константин, мы рады, что наш магазин принес Вам столько положительных эмоций 😍\nСпасибо за такой искренний отзыв, нам очень приятно ☺️\nБудем рады видеть Вас снова!",
+          "updatedTime": "2026-09-28T16:00:56.439Z"
+        },
+        "reviewId": "volCntW7Zd0j-SWdexWsTMuz4cqfPI",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Константин",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/15430/0b-7/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "tcmqh30ggpb5kypvdt80hbxpbc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Я в шоке. Это не магазин, это Эдэм. Столько цветов, растений и сопутки!!! Место огонь! Продавцы очень компетентные. Все эмоции только в превосходной степени! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Şoktayım. Burası dükkan değil, burası Eden. Çok fazla çiçek, bitki ve refakatçi!!! Ateşin yeri! Satıcılar çok yetkin. Tüm duygular sadece üstün derecelerde! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-28T08:25:10.697Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Екатерина, нам очень приятно, что Вы замечаете наш труд и нашу заботу ☺️\n\nБудем рады видеть Вас снова 🫶",
+          "updatedTime": "2026-03-02T10:55:15.039Z"
+        },
+        "reviewId": "90NiapojBlfvKIIjn2Eo-XvTMSh3uVjTN",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Екатерина Т.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/43978/0g-3/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "386vcp1x27mdactw0uaxu6h9jc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин с разнообразными растениями в прекрасном здравии и виде. Особо нравится персонал, внимательный, грамотный, отлично знающий свое дело. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mükemmel sağlık ve görünümde çeşitli bitkilere sahip harika bir mağaza. Özellikle özenli, okuryazar, işlerini çok iyi bilen personeli severim. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-01T09:22:27.973Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Здравствуйте!\n\nСпасибо большое за такой теплый отзыв 🫶\n\nМы любим выращивать цветы и с радостью делимся опытом!\n\nЖдем Вас снова 💚",
+          "updatedTime": "2024-04-30T10:37:38.878Z"
+        },
+        "reviewId": "7-O_MR0E5QvTRbjN4CKBXrsKHNtwE-2C",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Инкогнито 0316",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/61207/0m-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "zpr279qabq2xzp0rmmm46eewt0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Я не знаю в чем секрет этого магазина,но только растения купленные в нем и правда растут красивые,а я особо не умею за ними ухаживать! Еще купили  в магазине удобрения классные и недорогие,вежливая девушка в магазине рассказывает как ухаживать и все подробно объясняет ,мне кажется у нас больше нет таких классных магазинов в городе с комнатными растениями! а еще у них большой выбор красивых горшков!Вообщем теперь я постоянный клиент!!!Спасииибо!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-02-16T12:09:44.160Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "11401274_2a0000018db1d2869c8de1bd67102ee8300e",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11401274/2a0000018db1d2869c8de1bd67102ee8300e/{size}",
+            "createdTime": 1708085383549,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Инкогнито 0316",
+              "publicId": "zpr279qabq2xzp0rmmm46eewt0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/61207/0m-1/{size}",
+              "updateTime": 1708085383549,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Людмила, благодарим за доверие и высокую оценку! Мы постараемся и впредь радовать Вас богатым выбором, высоким качеством и искренним сервисом 🫶",
+          "updatedTime": "2026-09-28T16:02:19.938Z"
+        },
+        "reviewId": "QH1eYhBgDo5OA9xfLb7ck-Zlx0e1u_vv_",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Людмила Тихонова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/0k-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "y9n9ntwc05tu3fb64pzggtn7fc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Магазин прекрасный! Радость и впечатление от  богатства выбора и качества растений ! Будет нашим любичиком \n",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mağaza güzel! Bitkilerin seçiminin ve kalitesinin zenginliğinin sevinci ve izlenimi! Bizim sevgilimiz olacak \n"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-28T08:26:13.230Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20858623_2a000001a0e71f11f7c5725c1f54e52e66b3",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20858623/2a000001a0e71f11f7c5725c1f54e52e66b3/{size}",
+            "createdTime": 1790583972928,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Людмила Тихонова",
+              "publicId": "y9n9ntwc05tu3fb64pzggtn7fc",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0k-1/{size}",
+              "updateTime": 1790583972928,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ксения, спасибо за приятный отзыв.",
+          "updatedTime": "2025-08-14T19:49:32.792Z"
+        },
+        "reviewId": "aqZWugHY0szQpnOIE-PplOzzIA7JWYj5",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Ксения",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/16491550/7CnKUuDn0mF34gLaoI8hgQeUAg-1/{size}",
+          "professionLevel": "Level 18 Local Expert",
+          "rtb": "Level 18 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ncdcgx4a8ur3z8g966772pnj38",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Фикус в Рязани —  рай для любителей растений! Большой выбор, все цветы ухоженные, цены адекватные!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Ryazan'daki Ficus, bitki severler için bir cennettir! Geniş seçim, tüm çiçekler bakımlı, fiyatlar yeterli!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-28T06:20:46.669Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16166974_2a000001984fb0bc2e725ec58b5aaf992032",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16166974/2a000001984fb0bc2e725ec58b5aaf992032/{size}",
+            "createdTime": 1753683642401,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ксения",
+              "publicId": "ncdcgx4a8ur3z8g966772pnj38",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/16491550/7CnKUuDn0mF34gLaoI8hgQeUAg-1/{size}",
+              "updateTime": 1753683642401,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "16749408_2a000001984fb0c9f8a43410ada2946b91a1",
+            "businessId": "74203980529",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16749408/2a000001984fb0c9f8a43410ada2946b91a1/{size}",
+            "createdTime": 1753683645039,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ксения",
+              "publicId": "ncdcgx4a8ur3z8g966772pnj38",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/16491550/7CnKUuDn0mF34gLaoI8hgQeUAg-1/{size}",
+              "updateTime": 1753683645039,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Дмитрий, спасибо за отзыв!\nПусть Ваши зеленые растут большими  красивыми 💚",
+          "updatedTime": "2026-09-25T18:51:43.597Z"
+        },
+        "reviewId": "wURL9v4vQTo3-sybDuHR8uZFTFe8_tb",
+        "businessId": "74203980529",
+        "author": {
+          "name": "Дмитрий Агафонов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/enc-49e4896afa9a8d94a2c0dedc18dfce4233a2b6183c6d1dc4ebf76db39fff41ff/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "bzq5du9vr95cf0rdfkd3d7mkqg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Классный ассортимент, часто прихожу сюда. Есть пересадка растений. Очень приветливый персонал!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir ürün yelpazesi, sık sık buraya geliyorum. Bitki nakli var. Çok güler yüzlü personel!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-25T07:51:20.411Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 145,
+      "loadedReviewsCount": 50,
+      "page": 1,
+      "totalPages": 3,
+      "reviewsRemained": 95
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "ficus"
+}

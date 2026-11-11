@@ -1,0 +1,537 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Оми — цветы в Рязани</title>
+<meta name="description" content="Лаконичные монобукеты, необычные оттенки роз и цветы для самых близких. Телефон: +7 (930) 880-53-53.">
+<meta name="theme-color" content="#3b071a">
+<link rel="icon" href="favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=20261110-square">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Florist", "name": "Оми", "telephone": "+7 (930) 880-53-53", "address": "ул. Дзержинского, 64/1, Рязань", "sameAs": ["https://yandex.ru/maps/org/237543101988/"]}</script>
+<script defer src="script.js?v=20261110">
+</script>
+</head>
+<body class="split" style="--bg:#fff9f8;--ink:#3b071a;--accent:#6b1636;--soft:#f1dce4;--line:#f1dce4;--muted:#3b071ac4;">
+<a class="skip" href="#main">Перейти к содержанию</a>
+<div class="topline">РЯЗАНЬ · ЦВЕТЫ ДЛЯ ВАШИХ БЛИЗКИХ</div>
+<header>
+<div class="wrap header-inner">
+<a class="brand" href="#main">
+<img src="assets/brand/logo.jpg" alt="Логотип Оми" width="62" height="62">
+<span>
+<strong>Оми</strong>
+<small>цветы и настроение</small>
+</span>
+</a>
+<nav class="nav" id="navigation" aria-label="Основное меню">
+<a href="#catalog">Каталог</a>
+<a href="#services">Услуги</a>
+<a href="#gallery">Фотографии</a>
+<a href="#reviews">Отзывы</a>
+<a href="#contacts">Контакты</a>
+</nav>
+<a class="header-phone" href="tel:+79308805353">+7 (930) 880-53-53</a>
+<button class="menu" aria-controls="navigation" aria-expanded="false">Меню</button>
+</div>
+</header>
+<main id="main">
+<section class="hero">
+<div class="wrap hero-grid">
+<div class="hero-copy">
+<p class="eyebrow">Оми · Рязань</p>
+<h1>Пусть цветы<br>скажут за вас.</h1>
+<p class="lead">Лаконичные монобукеты, необычные оттенки роз и цветы для самых близких.</p>
+<div class="actions">
+<a class="button" href="#catalog">Посмотреть каталог ↗</a>
+<a class="button secondary" href="tel:+79308805353">Связаться с магазином</a>
+</div>
+<p class="location">ул. Дзержинского, 64/1, Рязань<br>Ежедневно, 10:00–20:00</p>
+</div>
+<div class="hero-image">
+<img src="assets/gallery/04.jpg" alt="Оми: цветы и работы магазина" width="1070" height="1280" loading="eager" decoding="async">
+<img class="hero-accent" src="assets/gallery/07.jpg" alt="Оми: ещё одна работа" width="1000" height="1400">
+<span class="image-label">С вниманием к вашим чувствам</span>
+</div>
+</div>
+</section>
+<div class="trust">
+<div class="wrap trust-inner">
+<div>
+<strong>4,7 ★</strong>
+<small>25 оценок на Яндекс Картах</small>
+</div>
+<div>
+<strong>Ваш повод — ваш букет</strong>
+<small>Обсудите пожелания с магазином</small>
+</div>
+<div>
+<strong>Рядом, в Рязани</strong>
+<small>Адрес и маршрут — ниже</small>
+</div>
+</div>
+</div>
+<section class="section" id="catalog">
+<div class="wrap">
+<div class="section-head">
+<div>
+<p class="eyebrow">Выберите своё настроение</p>
+<h2>Цветы и подарки</h2>
+</div>
+<p>Цены из опубликованного каталога. Наличие и условия покупки уточните перед заказом.</p>
+</div>
+<div class="filters">
+<button class="filter" data-filter="all" aria-pressed="true">Всё</button>
+<button class="filter" data-filter="Цветы" aria-pressed="false">Цветы</button>
+<button class="filter" data-filter="Розы" aria-pressed="false">Розы</button>
+<button class="filter" data-filter="Букет" aria-pressed="false">Букет</button>
+<button class="filter" data-filter="Необычные цветы" aria-pressed="false">Необычные цветы</button>
+</div>
+<div class="tools">
+<span id="status" role="status">
+</span>
+<label>По цене <select id="sort">
+<option value="default">Как в каталоге</option>
+<option value="low">Сначала дешевле</option>
+<option value="high">Сначала дороже</option>
+</select>
+</label>
+</div>
+<p class="empty" id="empty" hidden>В этой категории пока нет предложений. Выберите другую категорию.</p>
+<div class="catalog">
+<article class="product" data-category="Цветы" data-price="2700.0">
+<button class="product-image" data-image="assets/catalog/001.jpg" data-kind="catalog" data-title="Гвоздика Киви" data-note="2 700 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Гвоздика Киви">
+<img src="assets/catalog/001.jpg" alt="Гвоздика Киви" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Цветы</p>
+<h3 title="Гвоздика Киви">Гвоздика Киви</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 700 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Цветы" data-price="2900.0">
+<button class="product-image" data-image="assets/catalog/002.jpg" data-kind="catalog" data-title="Розы в бордо" data-note="2 900 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Розы в бордо">
+<img src="assets/catalog/002.jpg" alt="Розы в бордо" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Цветы</p>
+<h3 title="Розы в бордо">Розы в бордо</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 900 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Розы" data-price="2600.0">
+<button class="product-image" data-image="assets/catalog/003.jpg" data-kind="catalog" data-title="Розы кустовые" data-note="2 600 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Розы кустовые">
+<img src="assets/catalog/003.jpg" alt="Розы кустовые" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Розы</p>
+<h3 title="Розы кустовые">Розы кустовые</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 600 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="2900.0">
+<button class="product-image" data-image="assets/catalog/004.jpg" data-kind="catalog" data-title="Ромашки в крафте" data-note="2 900 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Ромашки в крафте">
+<img src="assets/catalog/004.jpg" alt="Ромашки в крафте" width="933" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Ромашки в крафте">Ромашки в крафте</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 900 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="2900.0">
+<button class="product-image" data-image="assets/catalog/005.jpg" data-kind="catalog" data-title="Розы и эвкалипт" data-note="2 900 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Розы и эвкалипт">
+<img src="assets/catalog/005.jpg" alt="Розы и эвкалипт" width="1120" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Розы и эвкалипт">Розы и эвкалипт</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 900 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="2500.0">
+<button class="product-image" data-image="assets/catalog/006.jpg" data-kind="catalog" data-title="Моно-Альстромерии" data-note="2 500 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Моно-Альстромерии">
+<img src="assets/catalog/006.jpg" alt="Моно-Альстромерии" width="1120" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Моно-Альстромерии">Моно-Альстромерии</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 500 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="2600.0">
+<button class="product-image" data-image="assets/catalog/007.jpg" data-kind="catalog" data-title="Хризантема и гвоздика кустовая" data-note="2 600 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Хризантема и гвоздика кустовая">
+<img src="assets/catalog/007.jpg" alt="Хризантема и гвоздика кустовая" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Хризантема и гвоздика кустовая">Хризантема и гвоздика кустовая</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 600 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="3200.0">
+<button class="product-image" data-image="assets/catalog/008.jpg" data-kind="catalog" data-title="Розы Мандарин" data-note="3 200 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Розы Мандарин">
+<img src="assets/catalog/008.jpg" alt="Розы Мандарин" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Розы Мандарин">Розы Мандарин</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">3 200 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="3600.0">
+<button class="product-image" data-image="assets/catalog/009.jpg" data-kind="catalog" data-title="Розы и Орхидеи" data-note="3 600 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Розы и Орхидеи">
+<img src="assets/catalog/009.jpg" alt="Розы и Орхидеи" width="1001" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Розы и Орхидеи">Розы и Орхидеи</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">3 600 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="3400.0">
+<button class="product-image" data-image="assets/catalog/010.jpg" data-kind="catalog" data-title="Африканская Роза" data-note="3 400 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Африканская Роза">
+<img src="assets/catalog/010.jpg" alt="Африканская Роза" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Африканская Роза">Африканская Роза</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">3 400 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="2400.0">
+<button class="product-image" data-image="assets/catalog/011.jpg" data-kind="catalog" data-title="Альстромерии" data-note="2 400 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Альстромерии">
+<img src="assets/catalog/011.jpg" alt="Альстромерии" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Альстромерии">Альстромерии</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 400 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Букет" data-price="2900.0">
+<button class="product-image" data-image="assets/catalog/012.jpg" data-kind="catalog" data-title="Хризантема Алтай и Ромашка" data-note="2 900 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Хризантема Алтай и Ромашка">
+<img src="assets/catalog/012.jpg" alt="Хризантема Алтай и Ромашка" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Букет</p>
+<h3 title="Хризантема Алтай и Ромашка">Хризантема Алтай и Ромашка</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 900 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+<article class="product" data-category="Необычные цветы" data-price="2900.0">
+<button class="product-image" data-image="assets/catalog/013.jpg" data-kind="catalog" data-title="Розы цветные 🩵" data-note="2 900 ₽. Наличие, состав и итоговую стоимость уточните перед заказом." data-source="https://yandex.ru/maps/org/237543101988/prices/" aria-label="Рассмотреть: Розы цветные 🩵">
+<img src="assets/catalog/013.jpg" alt="Розы цветные 🩵" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<div class="product-body">
+<p class="category">Необычные цветы</p>
+<h3 title="Розы цветные 🩵">Розы цветные 🩵</h3>
+<p class="category">1 шт.</p>
+<div class="product-bottom">
+<span class="price ">2 900 ₽</span>
+<a class="pick" href="tel:+79308805353">Уточнить наличие ↗</a>
+</div>
+</div>
+</article>
+</div>
+<button id="more" class="button secondary more" hidden>Показать ещё</button>
+<p class="price-note">Цена относится только к указанному товару и его описанию. Если количество не указано, уточните единицу продажи у магазина. Сведения проверены 10.11.2026. Цены и ассортимент могут измениться. <a href="https://yandex.ru/maps/org/237543101988/prices/" target="_blank" rel="noopener">
+<u>Прайс на Яндекс Картах ↗</u>
+</a>
+</p>
+</div>
+</section>
+<section class="section soft" id="services">
+<div class="wrap">
+<div class="section-head">
+<div>
+<p class="eyebrow">Больше, чем цветы</p>
+<h2>Как мы можем помочь</h2>
+</div>
+<p>Выберите, что нужно для вашего случая. Детали заказа и стоимость согласуйте с магазином.</p>
+</div>
+<div class="services">
+<article class="service">
+<span class="service-icon" aria-hidden="true">↗</span>
+<h3>Доставка</h3>
+<p>Адрес, время и стоимость доставки согласуйте при заказе.</p>
+<small>Стоимость уточняйте</small>
+</article>
+<article class="service">
+<span class="service-icon" aria-hidden="true">⌂</span>
+<h3>Самовывоз</h3>
+<p>Договоритесь о составе заказа и удобном времени визита.</p>
+<small>Стоимость уточняйте</small>
+</article>
+<article class="service">
+<span class="service-icon" aria-hidden="true">♡</span>
+<h3>Свадебная флористика</h3>
+<p>Обсудите палитру, цветы и оформление вашего события.</p>
+<small>Стоимость уточняйте</small>
+</article>
+<article class="service">
+<span class="service-icon" aria-hidden="true">✉</span>
+<h3>Открытки</h3>
+<p>Дополните цветы личным пожеланием. Наличие и цену уточняйте.</p>
+<small>Стоимость уточняйте</small>
+</article>
+<article class="service">
+<span class="service-icon" aria-hidden="true">✳</span>
+<h3>Сухоцветы</h3>
+<p>Обсудите доступные цветы и варианты композиции.</p>
+<small>Стоимость уточняйте</small>
+</article>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="wrap about-grid">
+<img src="assets/gallery/03.jpg" alt="Оми: атмосфера магазина" width="1050" height="1400" loading="lazy" decoding="async">
+<div class="about-copy">
+<p class="eyebrow">Будем знакомы</p>
+<h2>Оми.<br>Место для красивых поводов.</h2>
+<p>Лаконичные монобукеты, необычные оттенки роз и цветы для самых близких.</p>
+<p>Расскажите, кого хотите порадовать, какие оттенки вам нравятся и какой бюджет вы планируете. Состав, упаковку и время получения обсудите с сотрудниками.</p>
+<ul class="about-list">
+<li>ул. Дзержинского, 64/1, Рязань</li>
+<li>Ежедневно, 10:00–20:00</li>
+<li>Связь с магазином: <a href="tel:+79308805353">
+<u>+7 (930) 880-53-53</u>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="section soft" id="gallery">
+<div class="wrap">
+<div class="section-head">
+<div>
+<p class="eyebrow">Поближе к красоте</p>
+<h2>Цветы, работы и атмосфера</h2>
+</div>
+<p>Загляните в магазин и найдите настроение для следующего заказа.</p>
+</div>
+<div class="gallery">
+<button data-image="assets/gallery/01.jpg" data-kind="gallery" data-title="Оми · фото 1" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 1 магазина Оми">
+<img src="assets/gallery/01.jpg" alt="Оми: фотография из карточки магазина" width="933" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/02.jpg" data-kind="gallery" data-title="Оми · фото 2" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 2 магазина Оми">
+<img src="assets/gallery/02.jpg" alt="Оми: фотография из карточки магазина" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/03.jpg" data-kind="gallery" data-title="Оми · фото 3" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 3 магазина Оми">
+<img src="assets/gallery/03.jpg" alt="Оми: фотография из карточки магазина" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/04.jpg" data-kind="gallery" data-title="Оми · фото 4" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 4 магазина Оми">
+<img src="assets/gallery/04.jpg" alt="Оми: фотография из карточки магазина" width="1070" height="1280" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/05.jpg" data-kind="gallery" data-title="Оми · фото 5" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 5 магазина Оми">
+<img src="assets/gallery/05.jpg" alt="Оми: фотография из карточки магазина" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/06.jpg" data-kind="gallery" data-title="Оми · фото 6" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 6 магазина Оми">
+<img src="assets/gallery/06.jpg" alt="Оми: фотография из карточки магазина" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/07.jpg" data-kind="gallery" data-title="Оми · фото 7" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 7 магазина Оми">
+<img src="assets/gallery/07.jpg" alt="Оми: фотография из карточки магазина" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/08.jpg" data-kind="gallery" data-title="Оми · фото 8" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 8 магазина Оми">
+<img src="assets/gallery/08.jpg" alt="Оми: фотография из карточки магазина" width="1000" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/09.jpg" data-kind="gallery" data-title="Оми · фото 9" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 9 магазина Оми">
+<img src="assets/gallery/09.jpg" alt="Оми: фотография из карточки магазина" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+<button data-image="assets/gallery/10.jpg" data-kind="gallery" data-title="Оми · фото 10" data-note="Фотография из карточки магазина. Состав и стоимость заказа обсуждаются отдельно." data-source="https://yandex.ru/maps/org/237543101988/photos/" aria-label="Открыть фото 10 магазина Оми">
+<img src="assets/gallery/10.jpg" alt="Оми: фотография из карточки магазина" width="1050" height="1400" loading="lazy" decoding="async">
+</button>
+</div>
+<p class="gallery-caption">Фотографии из карточки магазина на Яндекс Картах. Это примеры работ и атмосферы; текущее наличие уточняйте.</p>
+</div>
+</section>
+<section class="section" id="reviews">
+<div class="wrap">
+<div class="section-head">
+<div>
+<p class="eyebrow">Опыт покупателей</p>
+<h2>Что говорят о магазине</h2>
+</div>
+<p>4,7 из 5 · 25 оценок на Яндекс Картах.<br>Ниже — краткие пересказы выбранных отзывов со ссылками на оригиналы.</p>
+</div>
+<div class="reviews">
+<article class="review">
+<span class="stars" aria-label="Оценка 5 из 5">★★★★★</span>
+<p>Автор хвалит оформление букетов, общение с флористом и памятку по уходу.</p>
+<div class="review-footer">
+<div>
+<strong>Данил Игоревич</strong>
+<time datetime="2026-09-07">2026-09-07</time>
+</div>
+<a href="https://yandex.ru/maps/org/237543101988/reviews/?reviewId=O0FjUi2QRVc1fwrAWlUncGDicRlgZq" target="_blank" rel="noopener">Читать оригинал ↗</a>
+</div>
+</article>
+<article class="review">
+<span class="stars" aria-label="Оценка 5 из 5">★★★★★</span>
+<p>Автор отмечает своевременную доставку и внимание к пожеланиям при заказе.</p>
+<div class="review-footer">
+<div>
+<strong>Ангелина Ф.</strong>
+<time datetime="2026-09-04">2026-09-04</time>
+</div>
+<a href="https://yandex.ru/maps/org/237543101988/reviews/?reviewId=N4LpmADi4tbqF3X8EKudJrM5OwxyR8H4n" target="_blank" rel="noopener">Читать оригинал ↗</a>
+</div>
+</article>
+<article class="review">
+<span class="stars" aria-label="Оценка 5 из 5">★★★★★</span>
+<p>Покупательница рассказывает, что состав букета скорректировали по её просьбе и прислали фото.</p>
+<div class="review-footer">
+<div>
+<strong>Варвара Т.</strong>
+<time datetime="2025-12-02">2025-12-02</time>
+</div>
+<a href="https://yandex.ru/maps/org/237543101988/reviews/?reviewId=tPM9TUQHWJM97oSjMLmPWx6Kjj8chDa" target="_blank" rel="noopener">Читать оригинал ↗</a>
+</div>
+</article>
+<article class="review">
+<span class="stars" aria-label="Оценка 5 из 5">★★★★★</span>
+<p>Автору понравились розы сорта «Мандарин», упаковка и инструкция по уходу.</p>
+<div class="review-footer">
+<div>
+<strong>Анна</strong>
+<time datetime="2025-12-17">2025-12-17</time>
+</div>
+<a href="https://yandex.ru/maps/org/237543101988/reviews/?reviewId=IYTuzCf43TGEXvR0HcmsQOJ3w-pC4PO6" target="_blank" rel="noopener">Читать оригинал ↗</a>
+</div>
+</article>
+</div>
+<div class="actions">
+<a class="button secondary" href="https://yandex.ru/maps/org/237543101988/reviews/" target="_blank" rel="noopener">Все отзывы на Яндекс Картах ↗</a>
+</div>
+</div>
+</section>
+<section class="section soft">
+<div class="wrap faq">
+<div>
+<p class="eyebrow">Перед заказом</p>
+<h2>Пара полезных ответов</h2>
+</div>
+<div>
+<details>
+<summary>Как оформить заказ?</summary>
+<p>Позвоните по указанному номеру и обсудите с магазином состав, бюджет и время получения. Заказ считается согласованным после подтверждения сотрудником.</p>
+</details>
+<details>
+<summary>Совпадёт ли заказ с фотографией?</summary>
+<p>Фотографии показывают примеры из карточки магазина. Сезонность и наличие могут влиять на состав. Попросите подтвердить цветы и упаковку перед заказом.</p>
+</details>
+<details>
+<summary>Какая цена будет окончательной?</summary>
+<p>Цены взяты из опубликованного прайса на дату проверки. Итог зависит от выбранного состава, размера, упаковки и доставки. Подтвердите стоимость у магазина до оплаты.</p>
+</details>
+<details>
+<summary>Как найти магазин?</summary>
+<p>ул. Дзержинского, 64/1, Рязань. Используйте кнопку «Построить маршрут» ниже. Режим работы: Ежедневно, 10:00–20:00.</p>
+</details>
+</div>
+</div>
+</section>
+<section class="section" id="contacts">
+<div class="wrap contact">
+<div class="contact-copy">
+<p class="eyebrow">До встречи</p>
+<h2>Ваш следующий букет — здесь.</h2>
+<a class="contact-phone" href="tel:+79308805353">+7 (930) 880-53-53</a>
+<p>ул. Дзержинского, 64/1, Рязань<br>Ежедневно, 10:00–20:00</p>
+<div class="actions">
+<a class="button" href="tel:+79308805353">Позвонить ↗</a>
+<a class="button secondary" href="https://yandex.ru/maps/org/237543101988/" target="_blank" rel="noopener">Построить маршрут ↗</a>
+</div>
+<div class="socials">
+<a href="https://t.me/89308805353" target="_blank" rel="noopener">telegram ↗</a>
+<a href="https://vk.ru/omiflora62" target="_blank" rel="noopener">vkontakte ↗</a>
+</div>
+</div>
+<img src="assets/gallery/02.jpg" alt="Оми: фотография магазина" width="1000" height="1400" loading="lazy" decoding="async">
+</div>
+</section>
+</main>
+<footer class="footer">
+<div class="wrap footer-inner">
+<span>© 2026 Оми · Рязань</span>
+<span>Сведения и фотографии: <a href="https://yandex.ru/maps/org/237543101988/" target="_blank" rel="noopener">
+<u>Яндекс Карты ↗</u>
+</a> · Проверено 10.11.2026</span>
+</div>
+</footer>
+<a class="button mobile-call" href="tel:+79308805353">Позвонить в магазин ↗</a>
+<dialog class="dialog" id="viewer" aria-labelledby="viewer-title">
+<button class="dialog-close" aria-label="Закрыть фотографию">×</button>
+<div class="dialog-content">
+<img class="dialog-image" id="viewer-image" alt="">
+<div class="dialog-copy">
+<p class="eyebrow">Поближе</p>
+<h2 id="viewer-title">
+</h2>
+<p id="viewer-note">
+</p>
+<a id="viewer-source" class="dialog-source" target="_blank" rel="noopener">Источник фотографии ↗</a>
+<div class="dialog-controls">
+<button id="prev" aria-label="Предыдущее фото">←</button>
+<span id="viewer-count" aria-live="polite">
+</span>
+<button id="next" aria-label="Следующее фото">→</button>
+</div>
+</div>
+</div>
+</dialog>
+</body>
+</html>

@@ -1,0 +1,453 @@
+{
+  "name": "МарТа",
+  "address": "Рязань, Соборная ул., 3",
+  "phone": "+7 (4912) 25-51-20",
+  "folder": "МарТа",
+  "oid": "1009383301",
+  "source": "https://yandex.ru/maps/org/1009383301/",
+  "checked": "2026-11-10",
+  "rating": {
+    "ratingCount": 85,
+    "ratingValue": 4.599999904632568,
+    "reviewCount": 33
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "electronic_money",
+          "name": "electronic money"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/1090799/2a00000184e14d4b0f0f9e94d0b1fc121f9c/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/4719974/2a000001775a04abe04d2d94981a0bade1e3/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 647,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17737331/2a0000019ee8cfa756f68b81a61e967f605a/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/859900/2a0000015db6f20955399b137dd9a3f30e0d/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 437,
+      "height": 568,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20185783/2a0000019d02dd3003bb2f2acd7eb4744cdc/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15282671/2a000001962e9f76865e7cf2c65c665c282f/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5483032/2a0000017e0f2c92621a85c52222e1f56200/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15018138/2a000001949391e5b9ca98cb72d8cacdaadb/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17735792/2a0000019d2ee4f680e95152d2b0132787a8/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 646,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19720204/2a0000019d02dd63cd0d126ffa3ae9ebc81b/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Маша Купцова",
+      "text": "Безумно красивые цветы по приемлемой цене🙌🏻\nЕдинственный цветочный около Кремля, где реально хорошие композиции👏🏻\nХороший продавец в заведении с милым помощником🦜🫶",
+      "rating": 5,
+      "date": "2026-06-21",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=VzdOU_pJsOTOv_tYaTtxuaWGIZrWau1_-"
+    },
+    {
+      "author": "Тайфун",
+      "text": "Хороший магазин и хорошая продавщица. Часто покупал хризантемы на могилу боевого товарища. Для участников СВО и ветеранам боевых действий есть хорошая скидка. Огромное спасибо, не за скидку а за само понимание, за сочувствие. Рекомендую!",
+      "rating": 5,
+      "date": "2025-11-01",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=KevwRaUSL5HpV7qZtm21QIh4f7n8PyhA"
+    },
+    {
+      "author": "Эль Х.",
+      "text": "Испортилось заведение, теперь даже 2 дня цветы не держатся",
+      "rating": 1,
+      "date": "2026-05-20",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=2WMVxx7VNNGc_yM9Kta31kpofHVstN"
+    },
+    {
+      "author": "горелов  кирилл",
+      "text": "Очень, очень неприятно и обидно за такой \"букет\"!\nРозы не простояли и 2х часов! \nНет, розы не заморозили при перевозке, а сами бутоны уже были \"пустыми\". Не стали проверять каждый, так как доверяли магазину и не раз покупали там цветы.\nСпециально заранее позвонил и спросил, есть ли в наличии розы и какого качества. Все хорошо, заверили в магазине. Покупал в подарок на день рождения. \nБольше ни ногой туда! ",
+      "rating": 1,
+      "date": "2021-12-31",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=0g1mDlnSP_TOprtNu3q0u9P_TaEhdFZc"
+    },
+    {
+      "author": "Екатерина",
+      "text": "Много лет покупаю цветы только здесь, свежие, красивые и большой выбор плюс без сомнений доверяю собрать нужный букет описав лишь желаемую цветовую гамму. Ни разу не разочаровалась ",
+      "rating": 5,
+      "date": "2024-02-25",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=E72ZacOYmtlw50Ow6CYHb9lsTlDk7aPR"
+    },
+    {
+      "author": "Ольга Б.",
+      "text": "Отличный салон цветов. Дочь пошла в 7 класс, всё семь лет заказываем букеты на первое сентября только у них. \nЯ называю стоимость на какую нуден мне букет, и приезжают забирать. Букеты всегда шикарные. \nПриемлимые цены. \nРекомендую! ",
+      "rating": 5,
+      "date": "2023-09-03",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=_U9SJx9vFHl_lKHA1TlZh-itAIMNayr3d"
+    },
+    {
+      "author": "Елена Качикина",
+      "text": "Идеальные букеты! Цена -качество это девиз этого магазина! После  сравнения многих цветочных магазинов, покупаю цветы только здесь!",
+      "rating": 5,
+      "date": "2024-09-24",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=1vnEf3-5bz2SU2eni2zzXUcWhMPjAsBi"
+    },
+    {
+      "author": "Светлана М.",
+      "text": "Нравится как делают сборные букеты, и цены адекватные.  Рекомендую.",
+      "rating": 5,
+      "date": "2025-08-15",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=zbcLQAzDYH8OnxPe_z7Y-SLxcqg4X3"
+    },
+    {
+      "author": "Артем",
+      "text": "Про цветы ничего не скажу, но когда на тебя смотрят как на сами знаете что, уже и не хочется покупать никакие цветы.\nЧто сказать, рязанский сервис, а чего я хотел...\nПоставлю целых 2 балла за то, что в морду не сунули.\nЦветы, вероятно, хорошие.\nЖаль владельца магазина, по ходу с кадрами беда.",
+      "rating": 2,
+      "date": "2024-05-29",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=_kmWnXTkd1vwgv3ljIvy1NINsUa_Sk"
+    },
+    {
+      "author": "Марина",
+      "text": "Прекрасный магазин с большим выбором цветов и адекватными ценами! Цветы всегда свежие. Флористы собирают красивейшие пышные букеты! Всегда остаюсь довольна.",
+      "rating": 5,
+      "date": "2022-06-12",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=WFXuzK6FtdNQ1fsow6Fl8NMyXzAgKG9"
+    },
+    {
+      "author": "Валерия Ф.",
+      "text": "Отвратительное отношение сотрудников. Женщина на мой вопрос «какие есть цветы?» сказала «других нет, не нравится не берите» ничего не показала, закрыла дверь и ушла ",
+      "rating": 1,
+      "date": "2024-05-16",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=AkMs4TiM3WijROs8BVbT92qgmrFins9"
+    },
+    {
+      "author": "Алексей Тукмаков",
+      "text": "Много где покупал цветы, но здесь работает лучший флорист по имени Анжела!\nТакую красоту делает за 800-900 рублей.\nРекомендую!",
+      "rating": 5,
+      "date": "2020-10-05",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=F4nHXeFM28T9VdgLcL9FF8CT7ZlfycYsi"
+    },
+    {
+      "author": "Antony",
+      "text": "Отличный магазин цветов: большой выбор, работают профессионалы, цветы стоят дома больше недели.",
+      "rating": 5,
+      "date": "2018-12-10",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=B2UQgZBJBhiSZ4fGndPFkoz4OXBZsJL"
+    },
+    {
+      "author": "Александр Маршанцев",
+      "text": "Отличные цветы и композиции. Будем всегда здесь",
+      "rating": 5,
+      "date": "2025-03-28",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=j6gC5wWNbOccqfZWKcj1tj6HND4wMc2c"
+    },
+    {
+      "author": "Алексей",
+      "text": "всегда отличные букеты, отдельное спасибо флористу Анжеле за ее прекрасный вкус!",
+      "rating": 5,
+      "date": "2020-06-24",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=lNwYiyDMHn9KfpGRSX4xBgSW4x09w8M"
+    },
+    {
+      "author": "IngaKustova",
+      "text": "Самые свежие цветы, красивые букеты, отзывчивые продавцы только там))",
+      "rating": 5,
+      "date": "2021-09-06",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=qmIEJvAy3v0Gp6VPXxerZbgh9r4UbXeS"
+    },
+    {
+      "author": "Юрий Бусев",
+      "text": "Прекрасные флористы, букеты просто шедевры. Всем рекомендую. Изюминка в попугае\n",
+      "rating": 5,
+      "date": "2021-12-10",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=YfXRx5nenB9-uAdkLP9NZWXRCXdPhzR"
+    },
+    {
+      "author": "Ирина С.",
+      "text": "Очень хороший салон, флористы молодцы, спасибо за необыкновенные букеты.",
+      "rating": 5,
+      "date": "2018-10-04",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=4C_EXq4rt7VjCRVeM6ZLSWV3HaG9lB"
+    },
+    {
+      "author": "Pit Scream",
+      "text": "Обратились по поводу свадебного букета. Сначала нас перекидывали из мессенджера в мессенджер, потом сказали что можно в любой день приехать, посмотреть примеры, похожие на то, что мы хотели. Приехали на следующий день, продавец, которая работала невежливо разговаривала, а потом сказала, что вообще-то надо было договариваться о дне, в который мы приедем и сейчас ей нечего нам показать. Потратили наше время, от дальнейших взаимодействий с магазином отказались, не рекомендую никому",
+      "rating": 1,
+      "date": "2021-08-18",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=ZCAvHm7mnAUV9w7upI4r5g2xdqA8Th"
+    },
+    {
+      "author": "Анатолий Анатольевич",
+      "text": "Отлично собирают букеты за вменяемые деньги.",
+      "rating": 5,
+      "date": "2024-09-01",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=Ssb4iWbWsdxpn8BUQ-XSlibOSPwCgKX6"
+    },
+    {
+      "author": "Наталия М.",
+      "text": "Букеты собирают на любой вкус, разные, всегда красивые.",
+      "rating": 5,
+      "date": "2021-08-06",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=D3sirLoHepQ7n2fh9o-OYU7ucirgKa"
+    },
+    {
+      "author": "Ионика",
+      "text": "Всегда свежие цветы и интересные идеи букетов!",
+      "rating": 5,
+      "date": "2021-05-19",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=n0s4EyozFJ1NihUXfHe-lgulSLur_0NE"
+    },
+    {
+      "author": "Independent audit",
+      "text": "Всегда свежие цветы! Обслуживание на высоте!",
+      "rating": 5,
+      "date": "2019-06-01",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=H5rjLyrXUes3rVl3_AhSF_d13aIYnLel"
+    },
+    {
+      "author": "Всеволод Игнатьев",
+      "text": "Отлично",
+      "rating": 5,
+      "date": "2025-09-20",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=v2e0sq8k2Nt2ea97Eq5HCnPQjJabZSeAR"
+    },
+    {
+      "author": "юлия федюнина",
+      "text": "Хорошие девчонки, всегда собирают красивые букеты",
+      "rating": 5,
+      "date": "2023-01-22",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=dt11r3eAU6iuydOa2_mSsxR-SH0Ld0M"
+    },
+    {
+      "author": "chuikova-2011",
+      "text": "Ассортимент хороший, всегда предложат альтернативу.",
+      "rating": 5,
+      "date": "2022-02-13",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=IF83rsjR0p60IgEhOPC2-FcH3eDZuMQU"
+    },
+    {
+      "author": "геннадий сазонов",
+      "text": "Рекомендую ",
+      "rating": 5,
+      "date": "2025-04-07",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=1S4R1sQowUBrVhoZy05Q1vkbJDxn9e1"
+    },
+    {
+      "author": "Кирилл Назаркин",
+      "text": "Классные цветы и классный попугай",
+      "rating": 5,
+      "date": "2020-02-06",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=Bbwv1bPc_pYIQsh5Ze9cm5ITy1oqllBd"
+    },
+    {
+      "author": "Вячеслав Воробьев",
+      "text": "Купили букет в подарок невесте... Не дорого и очень красиво!!!\nПопугай Мартин подарил нам перышко)))\nДевченки молодцы!!!",
+      "rating": 5,
+      "date": "2023-07-11",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=u5CnIEYIKOpQDw04pZCOoYchy8B1sKM"
+    },
+    {
+      "author": "Роман Соловов",
+      "text": "Являюсь клиентом долгие годы . Молодцы.",
+      "rating": 5,
+      "date": "2019-10-20",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=CJKRKQe1gFymaJY64RcNL3ybaTBmfw"
+    },
+    {
+      "author": "Татьяна Алексеевна Гладких",
+      "text": "Отличное обслуживание",
+      "rating": 5,
+      "date": "2019-01-14",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=XoffjzlFm873LxzdHYyEgbIP5fpW7yh5v"
+    },
+    {
+      "author": "Формат",
+      "text": "Мой любимый магазин цветов, всегда там покупаю",
+      "rating": 5,
+      "date": "2019-12-10",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=j3OyI66q_5kwRLhpHwDKLS7nlXPWU7H"
+    },
+    {
+      "author": "Михаил",
+      "text": "Замечательная лавка.",
+      "rating": 5,
+      "date": "2019-12-31",
+      "source": "https://yandex.ru/maps/org/1009383301/reviews/?reviewId=2CKlHJ9GeqXjQRwU9CdKgtaycCST-H"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

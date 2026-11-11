@@ -1,0 +1,1288 @@
+{
+  "name": "Райские сады",
+  "address": "Рязань, Введенская ул., 112",
+  "phone": "+7 (993) 734-94-95",
+  "folder": "Райские сады",
+  "oid": "61022098215",
+  "source": "https://yandex.ru/maps/org/61022098215/",
+  "checked": "2026-11-10",
+  "rating": {
+    "ratingCount": 51,
+    "ratingValue": 5,
+    "reviewCount": 47
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "inflate_balloons_with_helium",
+      "value": true,
+      "name": "inflate balloons with helium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "cash",
+          "name": "cash"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "gifts",
+          "name": "gifts"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "parking_disabled",
+      "value": true,
+      "name": "parking for people with disabilities",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "indoor_plants",
+      "value": true,
+      "name": "indoor plants",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "planter",
+      "value": true,
+      "name": "flowerpot",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "doubloons_loyalty_card",
+      "value": true,
+      "name": "Discount card",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_garden_center",
+      "value": [
+        {
+          "id": "soils_and_fertilizers",
+          "name": "soils and fertilizers"
+        },
+        {
+          "id": "seeds",
+          "name": "seeds"
+        },
+        {
+          "id": "ornamental_plants",
+          "name": "ornamental plants"
+        },
+        {
+          "id": "pots_and_planters",
+          "name": "pots and planters"
+        },
+        {
+          "id": "cut_flowers",
+          "name": "cut flowers"
+        }
+      ],
+      "name": "products",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_in_flask",
+      "value": true,
+      "name": "flowers in a flask",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "florarium",
+      "value": true,
+      "name": "florarium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_pa",
+          "name": "Partially available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "disable_captions",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/rayskiesady",
+      "readableHref": "@rayskiesady"
+    }
+  ],
+  "products": [
+    {
+      "name": "11 французких роз",
+      "category": "Букеты",
+      "price": "4750",
+      "description": "Состав\nУпаковка дизайнерская - 7 шт.\nсухоцвет стифа - 2 шт.\nроза пинк мондиаль (эквадор) - 11 шт.",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/001.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a049172b94865f4fef7ac2a510a6/{size}"
+    },
+    {
+      "name": "Французские розы ко дню всех влюбленных",
+      "category": "Букеты",
+      "price": "3458",
+      "description": "Состав\nЭвкалипт - 3 шт.\nОазис флористический - 1 шт.\nСухоцвет лагурус - 7 шт.\nроза фридом (эквадор) - 9 шт.\nшляпная коробка д.12 - 1 шт.",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/002.jpg",
+      "width": 1200,
+      "height": 800,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ca87922673aa64d8ade8ef2bf6d/{size}"
+    },
+    {
+      "name": "Розы , букет роз , французские розы , букет французских роз, хризантема. хризантемы , букет из хризантем",
+      "category": "Букеты",
+      "price": "3150",
+      "description": "Яркий и выразительный букет роз в теплых оранжево-золотистых оттенках станет эффектным подарком для любого важного события. Каждая роза отличается крупным бутоном и необычной формой лепестков, а роскошные французские розы придают композиции особый...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/003.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/9854027/2a000001a047eeb89ed9cea34494c4e56a77/{size}"
+    },
+    {
+      "name": "Розы , букет роз , французские розы , букет французских роз, хризантема. хризантемы , букет из хризантем",
+      "category": "Букеты",
+      "price": "4300",
+      "description": "Яркий и выразительный букет роз в теплых оранжево-золотистых оттенках станет эффектным подарком для любого важного события. Каждая роза отличается крупным бутоном и необычной формой лепестков, а роскошные французские розы придают композиции особый...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/004.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001a0490922623e63d3300191f7eb82/{size}"
+    },
+    {
+      "name": "Розы , альстромерия , альстромерии , Букет из французских роз и альстромерии — Нежная композиция из роз и альстромерии",
+      "category": "Букеты",
+      "price": "3963",
+      "description": "Изысканный букет из роз с альстромерией — это гармоничное сочетание нежности, романтики и утонченной красоты. Воздушные французские розы прекрасно дополняются яркими соцветиями альстромерии, создавая объемную и элегантную композицию, которая стане...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/005.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a0490af56406bcfadf365a156d2a/{size}"
+    },
+    {
+      "name": "Хризантемы , хризантема , ромашка , ромашки , Букет из ромашек и хризантем — Белые хризантемы с ромашками",
+      "category": "Букеты",
+      "price": "4633",
+      "description": "Букет из ромашек с хризантемой — это лёгкая, нежная и невероятно трогательная цветочная композиция, которая сочетает природную красоту и искренность чувств. Белоснежные хризантемы и миниатюрные ромашки создают гармоничный ансамбль, наполненный све...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/006.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a000001a0490d17dbd97934b356c4fa6715/{size}"
+    },
+    {
+      "name": "Розы , кустовые розы , Букет из 7 кустовых роз — Нежные кустовые розы | Букет роз",
+      "category": "Букеты",
+      "price": "2883",
+      "description": "Букет из 7 кустовых роз — это изысканная цветочная композиция, которая сочетает нежность, элегантность и природную красоту. Свежие розы в тёплом кремово-персиковом оттенке создают атмосферу уюта, романтики и искренних чувств. Такой букет роз стане...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/007.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/2805495/2a000001a0490fc6a1d830988d5961214de1/{size}"
+    },
+    {
+      "name": "Розы , пионовидные розы , букет из 7 пионовидных кустовых роз — Розовые пионовидные кустовые розы | Букет роз премиум",
+      "category": "Букеты",
+      "price": "4446",
+      "description": "Букет из 7 пионовидных роз — это изысканная цветочная композиция, которая сочетает романтичность, нежность и современный стиль. Пышные Кустовые розы с множеством аккуратных бутонов создают ощущение лёгкости и объёма, а насыщенный розовый оттенок д...",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/008.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a000001a049127db8469e0e705220016fe2/{size}"
+    },
+    {
+      "name": "Розы , кустовые розы , пионовидные розы , кустоывые пионовидные розы Букет из 11 кустовых пионовидных роз",
+      "category": "Букеты",
+      "price": "6371",
+      "description": "Подарите близкому человеку нежность и искренние эмоции вместе с роскошным букетом из 11 кустовых пионовидных роз. Благодаря множеству пышных бутонов на каждой ветке композиция выглядит объемной, воздушной и невероятно эффектной. Этот букет станет ...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/009.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a0491419a801b23bca3d7ff6c9ae/{size}"
+    },
+    {
+      "name": "Розы , букет из 11 кустовых роз , букет из 11 роз , букет роз , кустовые розы",
+      "category": "Букеты",
+      "price": "4816",
+      "description": "Элегантный букет роз из 11 кустовых роз — это нежный, объемный и романтичный подарок в мягкой розовой гамме. Свежие розы выглядят аккуратно, изысканно и женственно, а пастельные розовые розы делают композицию особенно трогательной и легкой.\n\nТакой...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/010.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001a04915650ab20cc120182690b102/{size}"
+    },
+    {
+      "name": "Розы, кустовые розы , Букет из 13 кустовых роз — Букет роз",
+      "category": "Букеты",
+      "price": "4345",
+      "description": "Изысканный букет роз из 13 веток кустовых роз — это нежная и элегантная композиция, которая станет прекрасным подарком для любого важного события. Пышные кустовые розы с множеством миниатюрных бутонов создают объемный букет, наполненный легкостью,...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/011.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/1356083/2a000001a04918be63d239f4f1d93d0535fe/{size}"
+    },
+    {
+      "name": "Розы , букет из 13 кустовых роз , букет из 13 роз , букет роз , кустовые розы",
+      "category": "Букеты",
+      "price": "5474",
+      "description": "Пышный букет роз из 13 кустовых роз — это выразительный, нежный и эффектный подарок для особого повода. Свежие розы в пастельной гамме выглядят мягко, романтично и дорого, а красивые розовые розы создают атмосферу заботы, внимания и теплого отноше...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/012.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/10253960/2a000001a0491cb17953602f08c342d35391/{size}"
+    },
+    {
+      "name": "Розы , кустовые розы 13шт, кустовые пионовидные розы , Букет из розовых кустовых пионовидных роз — Нежный букет кустовых роз",
+      "category": "Букеты",
+      "price": "7374",
+      "description": "Очаровательный букет из кустовых роз станет прекрасным подарком для любого повода. Нежные розовые кустовые розы с пышными пионовидными бутонами создают воздушную композицию, наполненную романтикой, легкостью и утонченностью. Такой букет роз идеаль...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/013.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/5235338/2a000001a0491e3c6299c7dbee298837f084/{size}"
+    },
+    {
+      "name": "Розы , кустовые розы , Букет из кустовых роз — Нежные кустовые розы | Букет роз премиум | Авторский букет из кустовых роз",
+      "category": "Букеты",
+      "price": "4875",
+      "description": "сли вы ищете элегантный подарок, который подарит яркие эмоции и запомнится надолго, этот букет роз станет идеальным выбором. Пышные кустовые розы нежного кремово-персикового оттенка создают воздушную композицию, наполненную лёгкостью, романтикой и...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/014.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a0492088005f2a5acca4f6fc7eee/{size}"
+    },
+    {
+      "name": "Розы, букет роз, французские розы, букет французских роз, букет розовых французских роз",
+      "category": "Букет роз",
+      "price": "3800",
+      "description": "Розы — классический и востребованный подарок для самых разных событий. Этот букет роз собран из эффектных цветов нежного розового оттенка. Французские розы отличаются крупными выразительными бутонами, необычной формой лепестков и роскошным объемом...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/015.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a09c1ef47b1a52cf78b1f4592e95/{size}"
+    },
+    {
+      "name": "Хризантема, букет хризантем, хризантема одноголовая, белые хризантемы",
+      "category": "Букет хризантем",
+      "price": "3374",
+      "description": "Нежная белая хризантема — эффектный цветок с крупным пышным соцветием, который прекрасно смотрится в современной флористике. Этот букет хризантем выполнен в спокойной бело-зеленой гамме и дополнен декоративной зеленью. Хризантема одноголовая созда...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/016.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a09c2d06fb398ece89b289c54f6b/{size}"
+    },
+    {
+      "name": "Астры, букет астр с диантусами, астры и диантусы, композиция из астр и диантусов",
+      "category": "Корзина с цветами (микс)",
+      "price": "2470",
+      "description": "Астры и диантусы собраны в яркую цветочную композицию в декоративной корзине. Пышные астры создают основной объем, а нежные диантусы дополняют композицию розовыми оттенками. Такой букет астр с диантусами выглядит насыщенно, празднично и выразитель...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/017.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a09c0d0f9ba84f888eb3b7be2f61/{size}"
+    },
+    {
+      "name": "Розы, кустовые розы 15шт, пионовидные розы, кустовые пионовидные розы , Букет из розовых кустовых роз",
+      "category": "Букеты цветы доставка",
+      "price": "8298",
+      "description": "Этот роскошный букет из розовых кустовых роз создан для тех, кто ценит нежность, изысканность и современную флористику. Пышные пионовидные кустовые розы насыщенного розового оттенка образуют объёмную композицию, которая выглядит дорого, воздушно и...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/018.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001a04921ee94177a78b0345afe31c7/{size}"
+    },
+    {
+      "name": "Альстромерия альстромерии в сумочке",
+      "category": "Букеты цветы доставка",
+      "price": "3000",
+      "description": "Изысканный букет из 7 альстромерий — нежная композиция, которая станет трогательным знаком внимания. Розовые бутоны альстромерии раскрываются мягкими волнами, а сочная зелень подчёркивает их утончённую форму. Такой букет уместен на день рождения, ...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/019.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a0492399c927c0422406d1abe8ea/{size}"
+    },
+    {
+      "name": "Альстромерия альстромерии в сумочке 9 шт",
+      "category": "Букеты цветы доставка",
+      "price": "3000",
+      "description": "Элегантный букет из 9 альстромерий с эвкалиптом — стильная композиция, которая сочетает нежность и природную фактуру. Розовые бутоны альстромерии раскрываются мягкими волнами, а веточки эвкалипта добавляют ансамблю свежести и лёгкой прохлады. Офор...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/020.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/9896919/2a000001a04941c085295afa639dd7f7a919/{size}"
+    },
+    {
+      "name": "Букет роз с хризантемой альстромерией роза альстромерия хризантема зризантемы",
+      "category": "Букеты цветы доставка",
+      "price": "7895",
+      "description": "Нежная и выразительная цветочная композиция, в которой букет роз выглядит особенно эффектно. Букет роз с хризантемой сочетает романтичность и свежесть, а букет роз с альстромерией добавляет композиции воздушность. Нежная альстромерия и яркие альст...",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/021.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/9854027/2a000001a04943acc289ac4bbd904bd64bc5/{size}"
+    },
+    {
+      "name": "Розы, французские розы , композиция с французскими розами",
+      "category": "Букеты цветы доставка",
+      "price": "4100",
+      "description": "Элегантная композиция с розами в классической белой гамме — изысканный подарок для особенного случая. Роскошные французские розы с крупными раскрытыми бутонами создают выразительный объем, а каждая роза подчеркивает нежность и благородство оформле...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/022.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a049456e1fa6c76b92aa74767c0d/{size}"
+    },
+    {
+      "name": "Хризантема , хризантемы , лилия , лилии , Букет из лилий с хризантемой — Белые лилии и одноголовые хризантемы",
+      "category": "Букеты цветы доставка",
+      "price": "4193",
+      "description": "Букет из лилий с хризантемой — это элегантная цветочная композиция, сочетающая благородную красоту, свежесть и утончённый стиль. Роскошная лилия, пышная хризантема одноголовая и нежная зелень создают гармоничный букет, который станет прекрасным по...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/023.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a04946ad4ada05aec3c2778be0da/{size}"
+    },
+    {
+      "name": "Хризантема , хризантемы , гвоздика , гвоздики , Букет из хризантем и гвоздик — Зеленые и белые хризантемы | Букет из гвоздик",
+      "category": "Букеты цветы доставка",
+      "price": "2900",
+      "description": "Элегантный букет из хризантем и гвоздик — это стильная композиция, которая сочетает свежесть, оригинальность и современную флористику. Воздушные белые хризантемы, яркие зелёные хризантемы сантини и нежные гвоздики создают гармоничный ансамбль, кот...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/024.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/9854027/2a000001a04948305e1aec8bd0d0131313ea/{size}"
+    },
+    {
+      "name": "Хризантемы , хризантема , Букет из одноголовых хризантем — Белые хризантемы премиум | Хризантема одноголовая",
+      "category": "Букеты цветы доставка",
+      "price": "3598",
+      "description": "Букет из хризантем — это элегантная цветочная композиция, которая сочетает благородную простоту, объём и безупречную свежесть. Белоснежные хризантемы с крупными пышными соцветиями создают ощущение лёгкости, гармонии и утончённого вкуса. Такой буке...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/025.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/12412149/2a000001a04949ba9ce5bc709da8515d2d90/{size}"
+    },
+    {
+      "name": "Альстромерии , альстромерия , хризантема , хризантемы , Композиция с хризантемой и альстромерией",
+      "category": "Букеты цветы доставка",
+      "price": "2338",
+      "description": "Нежная цветочная композиция в розовых оттенках сочетает воздушность, легкость и романтичное настроение. Пышная хризантема гармонично дополняет изящные цветы, а нежная альстромерия придает оформлению легкость и выразительность. Свежие хризантемы и ...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/026.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a0494afededb5a34948dd8417799/{size}"
+    },
+    {
+      "name": "Букет роз с хризантемой , хризантема , хризантемы , роза , розы , кустовые розы",
+      "category": "Букеты цветы доставка",
+      "price": "8160",
+      "description": "Элегантный букет роз с хризантемой — это гармоничное сочетание нежности, свежести и природной красоты. В композиции удачно сочетаются изящные розы, пышная кустовая роза и воздушные хризантемы, создавая стильный букет, который станет прекрасным под...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/027.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/17791271/2a000001a0494cb9b3be4a642058e5188960/{size}"
+    },
+    {
+      "name": "Розы , кустовые розы , букет из 9 кустовых роз , букет из 9 роз , букет роз , кустовые розы",
+      "category": "Букеты цветы доставка",
+      "price": "4178",
+      "description": "Нежный букет роз из 9 кустовых роз в мягкой розовой гамме — это аккуратный, романтичный и универсальный подарок для любого повода. Свежие розы выглядят изящно, женственно и деликатно, а нежные розовые розы создают ощущение заботы, внимания и тепло...",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/028.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/10324913/2a000001a0494eb26a849fd62a71e182709a/{size}"
+    },
+    {
+      "name": "Розовые розы, хризантемы, Букет роз с хризантемой - нежный букет с французскими розами",
+      "category": "Букеты цветы доставка",
+      "price": "5234",
+      "description": "Нежный букет роз с пышной хризантемой — это стильный, романтичный и выразительный подарок для особого повода. Свежие розы в мягкой розовой гамме выглядят изысканно и дорого, а объемная хризантема добавляет композиции воздушность, фактуру и праздни...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/029.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001a0495741e53c89a2f87d0989e871/{size}"
+    },
+    {
+      "name": "Хризантемы, хризантема белая , ромашка , ромашки , букет из ромашек и хризантем",
+      "category": "Букеты цветы доставка",
+      "price": "3200",
+      "description": "Подарите себе и своим близким ощущение бесконечного лета, тепла и искренней радости с нашей новой флористической композицией. Вы только посмотрите, как гармонично, чисто и воздушно выглядит этот стильный букет хризантем. Такой нежный и одновременн...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/030.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a0495c87c936e2d3038c3690fecf/{size}"
+    },
+    {
+      "name": "Розы , Альстромерии, Букет роз с альстромерией — Французские розы и альстромерии | Букет французских роз | Нежный букет из роз",
+      "category": "Букеты цветы доставка",
+      "price": "2945",
+      "description": "Этот изысканный букет из роз и альстромерий создан для тех, кто ценит нежность, утончённость и элегантную флористику. Воздушная композиция объединяет премиальные французские розы, нежные альстромерии и современное оформление, благодаря чему букет ...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/031.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/17791271/2a000001a0495ead63bdcde15c7bb6ef21a9/{size}"
+    },
+    {
+      "name": "Хризантемы , хризантема , гвоздика , гвоздики , Букет из хризантем с гвоздикой | Нежный букет из гвоздик и хризантем",
+      "category": "Букеты цветы доставка",
+      "price": "2900",
+      "description": "Нежный букет из хризантем и гвоздик — идеальный способ выразить тёплые чувства без лишних слов. Воздушная композиция в пастельных оттенках сочетает в себе утончённость кустовых хризантем и трогательную красоту гвоздик. Такой букет станет уместным ...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/032.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a049603dd55a84718068fc34d014/{size}"
+    },
+    {
+      "name": "Хризантема хризантемы с ромашкой в зеленой сумочке",
+      "category": "Букеты цветы доставка",
+      "price": "2198",
+      "description": "Нежная композиция из хризантем и ромашек в стильной зелёной сумочке — современный формат букета, который удобно держать и дарить. Крупные бутоны кустовых хризантем задают объём и выразительность, а россыпь ромашек добавляет ансамблю лёгкости и при...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/033.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a049618d7645722e229c9d5ceba7/{size}"
+    },
+    {
+      "name": "Хризантемы , хризантема , маттиола , Букет хризантем и маттиолы",
+      "category": "Букеты цветы доставка",
+      "price": "2500",
+      "description": "Нежный букет в розово-сиреневой гамме — это красивый и воздушный цветочный подарок для романтичного поздравления. Светлая хризантема добавляет композиции объем, мягкость и выразительность, а изящная маттиола делает оформление более нежным, фактурн...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/034.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a04964fe0d97f3f9d8ce3a613b88/{size}"
+    },
+    {
+      "name": "Хризантема и ромашка в сумочке",
+      "category": "Букеты цветы доставка",
+      "price": "2991",
+      "description": "Нежная композиция из хризантем, ромашек и эвкалипта в стильной розовой сумочке — современный формат букета, который удобно держать и дарить. Крупные бутоны кустовых хризантем задают объём и выразительность, россыпь ромашек добавляет ансамблю лёгко...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/035.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/10118156/2a000001a0496bc9f49f3f4f8d11d0c194b3/{size}"
+    },
+    {
+      "name": "Хризантемы, Букет хризантем с маттиолой - Хризантема и маттиола в стильной упаковке",
+      "category": "Букеты цветы доставка",
+      "price": "2900",
+      "description": "Букет хризантем с маттиолой — это нежная и утончённая цветочная композиция, сочетающая в себе элегантность белых цветов и романтичность сиреневых оттенков. Этот букет хризантем станет прекрасным подарком для любого повода, помогая выразить самые и...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/036.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a0496cf87ca65dd85bfd520eb315/{size}"
+    },
+    {
+      "name": "Хризантема хризантемы в шляпной коробке",
+      "category": "Букеты цветы доставка",
+      "price": "2500",
+      "description": "Воздушная композиция из хризантем в стильной розовой шляпной коробке — современная альтернатива традиционному букету. Нежные бутоны в пастельной гамме (от белоснежных до пудрово‑розовых) раскрываются мягкими волнами, а веточки эвкалипта добавляют ...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/037.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001a0496ec42903b349736ccd90c50d/{size}"
+    },
+    {
+      "name": "Шляпная коробка с розами и ромашками , роза , розы ромашка ромашки кустовые розы , пионовидные розы",
+      "category": "Букеты цветы доставка",
+      "price": "8695",
+      "description": "Нежная и эффектная композиция в розовой шляпной коробке сочетает крупные и кустовые розы, матиолу, ромашки и декоративную зелень. Такая композиция с розой выглядит пышно и романтично, а композиция с розой и матиолой привлекает необычным сочетанием...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/038.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/9495815/2a000001a049729eeaba02db87a95b46124c/{size}"
+    },
+    {
+      "name": "Лилии , лилия , букет лилий , букет из лилий",
+      "category": "Букеты !",
+      "price": "5265",
+      "description": "Нежный и элегантный букет из пяти лилий — эффектный подарок, который привлекает внимание крупными белоснежными цветами и множеством бутонов. Белые лилии выглядят благородно и торжественно, а каждая раскрывающаяся лилия постепенно делает композицию...",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/61022098215/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/039.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/12412149/2a000001a047f28b4990c2a8731e178d2f81/{size}"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15232415/2a00000197c22f65138e1523679a77145a69/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16410529/2a00000197c9ef37fd613f7dc63699e69077/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 788,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15709664/2a00000197c47319ef90f3c35472df7f549e/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 719,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16325379/2a0000019a2eba9bcc2f565e96019239857c/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15452616/2a0000019a027f503354b15defe30332c4b9/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 719,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16485345/2a0000019a2ebba7898537b2f95da1748eda/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15452616/2a00000197c2305ae04eaa9229820332f8f6/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16270073/2a00000197c22941b1b596844320a6dd4470/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14907426/2a00000197c2304c115c21a7091c763ca6d6/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20191917/2a0000019e59c3a7b307a7110d5e2d8b5aa9/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Лена Сидорова",
+      "text": "Отличный цветочный магазин! Всегда свежие цветы, аккуратная упаковка, вежливые сотрудники. Замечательные букеты — и по настроению, и по бюджету. Очень благодарна за такой сервис! За цветами на любой случай и хорошим настроением только сюда.",
+      "rating": 5,
+      "date": "2026-09-19",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=nNWd9Kf8bFF6ny6jT2-d79S6l5tKzr"
+    },
+    {
+      "author": "Маргарита Г.",
+      "text": "Отличный цветочный бутик! Заказывала букет маме, осталась в полном восторге. Цветы свежие, выглядят как только что срезанные. Очень порадовал ассортимент: глаза разбегаются от разнообразия. Атмосфера в магазине очень приятная, персонал вежливый и ненавязчивый. Цены полностью соответствуют качеству. Рекомендую от всей души!",
+      "rating": 5,
+      "date": "2026-10-03",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=J1azXlIKx0GQsNzxy9hRCO32dUcgPVe"
+    },
+    {
+      "author": "Виктория Ч.",
+      "text": "Всегда свежие цветы, очень красивые букеты, был опыт со многими цветочными в нашем городе, но настолько качественных цветов нет ни у кого, большое спасибо за ваш труд 🫶",
+      "rating": 5,
+      "date": "2026-09-26",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=gDexCuxesM_tHVJ7d2I4Te3gD4rAF8"
+    },
+    {
+      "author": "Денис Борисенко",
+      "text": "Просто лучшие! Рекомендую! Вытерпели меня, что задавал 100 вопросов , потом перенес на неопределенный срок заказ, потом опять все же объявился и снова множество изменений просил через сообщения, т к выходило у самого все не по плану . Выполняли все просьбы отвечали на вопросы и подстраивались под меняющиеся условия. Очень понравилось взаимодействие и верность слову. Спасибо!",
+      "rating": 5,
+      "date": "2026-09-30",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=mmAlFXnGZxWRX5_wXfCfKNKSbIMX2s6R"
+    },
+    {
+      "author": "Валерия Р.",
+      "text": "Очень понравился! Большой выбор свежих цветов, красивые букеты и внимательные флористы. Помогли быстро собрать букет — получилось стильно и со вкусом.\nВидно, что в салон вложено много любви и старания.\nОбязательно приду ещё!",
+      "rating": 5,
+      "date": "2025-07-09",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=lO6OfuFXM4pk5ae1mlvsL2dEpwWUgf4"
+    },
+    {
+      "author": "Никита",
+      "text": "Отличное место, нужен был букет, зашел сюда, все великолепно, очень понравилось. Цветы свежие, помогли с выбором, и быстро собрали. ",
+      "rating": 5,
+      "date": "2026-05-24",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=N_nfYU8OgzQD6PX_Hpfb72z8OPc9yGC9J"
+    },
+    {
+      "author": "Влада Сидорова",
+      "text": "Молодой человек покупал букетик в этом месте, тут работают отзывчивые флористы, которые помогли с выбором, цветы свежие, букет очень понравился!",
+      "rating": 5,
+      "date": "2026-09-21",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=CufE2GIbZoTsiCJupV4wMou9nXbRpH"
+    },
+    {
+      "author": "Владислав С.",
+      "text": "Хожу в этот цветочный магазин уже не первый раз — и каждый раз выручают. Букеты всегда выглядят аккуратно и со вкусом, видно, что флористы реально понимают, что делают, а не просто «собирают цветы». Цены адекватные для такого уровня, цветы свежие, стоят долго. Отдельный плюс — сервис: спокойно подсказывают, не навязывают лишнего и реально стараются сделать красиво.",
+      "rating": 5,
+      "date": "2026-02-09",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=w98WmuUOgV1Nqr5zL2LnQ0aQl8Pbtl9d"
+    },
+    {
+      "author": "Анастасия Соколова",
+      "text": "Искала букет, который передаст мою любовь и благодарность маме. Флористы помогли создать идеальную композицию: нежные розы, эустома и зелень, всё в мягких оттенках. Букет получился элегантным, не кричащим, но очень трогательным. Мама сразу поставила его на самое видное место. Ваша работа — это настоящее искусство!",
+      "rating": 5,
+      "date": "2025-12-14",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=2-XWzFTQc2h9lg5ntDW0StNsqQ1eVq"
+    },
+    {
+      "author": "Татьяна Кирилкина",
+      "text": "Камерный магазин цветов, девушка-флорист помогла составить букет, я осталась довольна ее работой, получилось мило, имениннице понравилось!\nПриятное место, обязательно буду обращаться снова. Отдельное спасибо флористу за заинтересованность и желание помочь с выбором, сервис делаю люди!",
+      "rating": 5,
+      "date": "2026-10-03",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=Q0mILRoUFy1sTKFJ7MKqTUB7Xz6jvmh"
+    },
+    {
+      "author": "Евгений Каретников",
+      "text": "Собрали красивый букет. Цветы стояли 2 недели. Отличное отношение к клиентам. Цены отличные. А главное есть доставка. Еще не раз заеду туда за букетом. ",
+      "rating": 5,
+      "date": "2026-01-29",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=FTSn1ICXK92_MvRXyRdx_XGIOVMH4Qod"
+    },
+    {
+      "author": "vieri 32",
+      "text": "Уже третий раз заказываю здесь цветы - и каждый раз без нареканий. Всегда свежие букеты, быстрая сборка, вежливые консультанты. Ни разу не было проблем с доставкой или качеством. Для меня это место, где точно не подведут.",
+      "rating": 5,
+      "date": "2025-12-06",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=NIAd8opcu56U-LD7xqfpZUVt3w3TYLp"
+    },
+    {
+      "author": "Денис Понкратов",
+      "text": "Спасибо большое флористам очень выручили. Нужны были цветы с доставкой в течении получаса. Вошли в положение, быстро собрали букет и доставили. Всем рекомендую обязательно обращусь еще.",
+      "rating": 5,
+      "date": "2026-09-08",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=EKvN8prbriLrH3ilAONBib88G4e3yJuQ"
+    },
+    {
+      "author": "Алексей Владимирович",
+      "text": "Заказывал букет жене на День Рождения.\nОна осталась в полном восторге. Цены адекватные за такое качество и индивидуальный подход. \nТеперь знаю, где буду брать цветы для всех семейных праздников. Спасибо!",
+      "rating": 5,
+      "date": "2025-11-23",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=nJG7D-rfQOTCyQuNryn7W88pRAqNZjo3l"
+    },
+    {
+      "author": "Арина",
+      "text": "Был срочно нужен букет на юбилей. Флорист быстро, красиво и пышно собрал букет. Простоял долго, особенно французские розы, зайду еще не раз. ",
+      "rating": 5,
+      "date": "2026-08-30",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=HiXlPt8nUX9Mu8F59GU-qL574eTGbhAxn"
+    },
+    {
+      "author": "Артем К.",
+      "text": "Зашёл по дороге с работы, готовые букеты не подошли. Собрали новый минут за 15, учли бюджет и пожелания по цветам. Нормальное обслуживание, без навязывания лишнего. ",
+      "rating": 5,
+      "date": "2026-09-11",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=4MDzBAthYlV-RSZ89tFltk92BerCAvH"
+    },
+    {
+      "author": "Людмила Хитрова",
+      "text": "Очень атмосферное место! Потрясающая витрина, всегдв есть огромный выбор, композиции составляют очень профессионально! Большое спасибо флористу Анастасии, качественно и со вкусом всегда составляет букеты! А композиции на новый года выше всех похвал! ",
+      "rating": 5,
+      "date": "2026-02-12",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=m1PjYQQPXqiZTvAWCS64k5X3Ai2qsjLnL"
+    },
+    {
+      "author": "Андрей Буртолик",
+      "text": "Покупал букет на день рождения жены. Назвал сумму и попросил собрать без слишком яркой упаковки. Получилось аккуратно, цветы свежие. Жене понравилось.",
+      "rating": 5,
+      "date": "2026-09-06",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=B3Ni4_ckEyZVe6pI-9lEvpz23pxdwH"
+    },
+    {
+      "author": "Мария Н.",
+      "text": "Быстро оформили заказ он-лайн, к нужному времени уже было все готово 👌🏻 \nУдобная парковка прям рядом с цветочным 👍",
+      "rating": 5,
+      "date": "2025-12-22",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=jNZU7vsST-YhZSTFu7S4EsdVtYmZQN"
+    },
+    {
+      "author": "Михаил М.",
+      "text": "Хорошее место со свежими букетами  ! Большой выбор,  профессиональные флористы. Вообще все на высшем уровне, рекомендую !",
+      "rating": 5,
+      "date": "2026-09-23",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=g_PLQ3oVnNyM8RqGA2oZoZH09-zu_Lv"
+    },
+    {
+      "author": "Татьяна С.",
+      "text": "Огромное спасибо за ваш труд! Цветы всегда свежайшие, стоят очень долго. Флорист — настоящий волшебник, собрал именно такой букет, о котором я мечтала. Теперь только к вам!",
+      "rating": 5,
+      "date": "2025-10-06",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=D_CuwGoF7P4I4mmy6Pu5GSljBqkpCv-x"
+    },
+    {
+      "author": "Данила С.",
+      "text": "Высокое качество цветов и профессиональный сервис. Букет был собран точно по пожеланиям, цветы свежие и долго стояли. Рекомендую",
+      "rating": 5,
+      "date": "2025-10-11",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=n0XfaxrtvRMNMAqBVzjYJNnhpBJF2kiH"
+    },
+    {
+      "author": "Виктория Сергеева",
+      "text": "Отличный магазин! Порадовало обслуживание — учли все пожелания, качество цветов на высоте. Полностью оправдали мои ожидания. Рекомендую всем, кто ценит качество и внимательное обслуживание!",
+      "rating": 5,
+      "date": "2026-02-12",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=hZFu5lFVzrYO7yXEz1uhFjrJPrC0Keco"
+    },
+    {
+      "author": "Элина Д.",
+      "text": "Очень долго искала хороший цветочный магазин в Рязани и нашла. Свежие цветы, красиво собранная композиция и оперативная доставка - благодарю ♥️",
+      "rating": 5,
+      "date": "2026-10-29",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=ddIEcSKvsjORiL7YaNr8AcIpwCwHci"
+    },
+    {
+      "author": "Sergey Lyashenko",
+      "text": "Давно искал хороший цветочный магазин рядом с домом, и вот наконец нашел! Отличный ассортимент свежесрезанных цветов, приятные цены и вежливое обслуживание. Букеты красивые, составлены профессионально и аккуратно упакованы. Особенно понравилось, что можно заказать доставку прямо домой или на работу. Очень удобно и быстро. Большое спасибо сотрудникам за помощь в выборе и оперативность. Однозначно рекомендую этот магазин.",
+      "rating": 5,
+      "date": "2025-07-16",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=nGTRVmrngriR-qvhhqIkIozBWCoc1zrrt"
+    },
+    {
+      "author": "Светлана Титкова",
+      "text": "Спасибо большое за ваше мастерство, за вашу чуткость, за то, что не смотря на сумбурное объяснение, составили букет именно так, как хотелось. Очень красиво получилось. 👍👍👍 буду рассказывать о вас всем.\n\n",
+      "rating": 5,
+      "date": "2026-02-12",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=-0A8wzsx314hj2QxlR20BZprUYaeqe"
+    },
+    {
+      "author": "Ольга Десятова",
+      "text": "Свежие цветы, дружелюбный персонал. Учли пожелания и красиво оформили букеты. Рекомендую ",
+      "rating": 5,
+      "date": "2026-09-04",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=5yQfORs3HheWxKRHkiQb7OTfZ8fW43"
+    },
+    {
+      "author": "Павел К.",
+      "text": "Очень отличный и хороший магазин, добрый и отзывчивый персонал, все расскажут и покажут, цветы очень качественные, хорошие и красивые ",
+      "rating": 5,
+      "date": "2025-11-21",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=rH7flEqnfjRWj_iF0msKOravcKGQunFz"
+    },
+    {
+      "author": "Downtown62 D.",
+      "text": "Не ожидала, что в реале будет ещё красивее, чем на фото. Нежнейшие цветы , всё свежее, аромат на всю квартиру, Обязательно вернусь 🫶",
+      "rating": 5,
+      "date": "2026-02-13",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=_HatsYd1zJBzFuZynuW7NZ0e2H-4hlE"
+    },
+    {
+      "author": "Александр М.",
+      "text": "Ребята молодцы, супер свежие цветы и понимающие флористы однозначно пять звезд.",
+      "rating": 5,
+      "date": "2026-10-03",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=lE4x0Oq5Wnan5v5JLiASlwRbryS8Ra"
+    },
+    {
+      "author": "Руслан",
+      "text": "Очень понравилось место быстро и красиво всё сделано, рекомендую ",
+      "rating": 5,
+      "date": "2026-10-04",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=YF3mPoIn49ptrtHyBafc7So6b5_FY0j"
+    },
+    {
+      "author": "Сергей С.",
+      "text": "Ребята молодцы, всегда радуют классными цветами, за что им большое спасибо. Но пора бы сделать скидку постоянному клиенту ))))))))",
+      "rating": 5,
+      "date": "2026-09-24",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=BSfSLXCr8gjfJ1OrH3IDNQwmEdpxDOv"
+    },
+    {
+      "author": "Mahoney",
+      "text": "Хорошее место, свежие цветы, стоят очень долго. Заходите не пожалеете !",
+      "rating": 5,
+      "date": "2026-10-01",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=0UqYNDHJhj0hBx74ODd0ZjEXoM9B_VEP1"
+    },
+    {
+      "author": "людмила романова",
+      "text": "Очень уютное место, очень красивые букеты. Причем не банальные, а с изюминкой. Таких нигде не видела. Классно, что есть доставка",
+      "rating": 5,
+      "date": "2026-02-19",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=_57dRm6VkTr-3b5VSMESFNBpbOLWm-I"
+    },
+    {
+      "author": "Oleg T.",
+      "text": "Отличные цветы, букет простоял две недели, желаю вам успеха.\n",
+      "rating": 5,
+      "date": "2026-02-14",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=RPiC96BvuzjJ78AkQgn6bR9Dc4jDPUkrC"
+    },
+    {
+      "author": "Серега Ю.",
+      "text": "Супер место, всегда свежие розы,  вежливый персонал, всем рекомендую.",
+      "rating": 5,
+      "date": "2026-09-16",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=zWLKbJMMSM2CVgN5lFEQY7yuL5TYBV"
+    },
+    {
+      "author": "Владимир Н.",
+      "text": "Отличный магазин, уютная обстановка, вежливые продавцы! ",
+      "rating": 5,
+      "date": "2025-08-19",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=E-mMEahqftwvs-2KBid7TszqZu8cPUcr"
+    },
+    {
+      "author": "Standsweaty",
+      "text": "Отличный магазин, цветы свежие, продавцы приятные!",
+      "rating": 5,
+      "date": "2026-09-19",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=XhHG2qHaKvod4MaWHAIYWYEZDMj6rJ"
+    },
+    {
+      "author": "Юлия Васильевна Я.",
+      "text": "Прекрасный магазин, букет собирают  на любой вкус, цвет и кошелёк.",
+      "rating": 5,
+      "date": "2026-02-17",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=gQMy_ysB2tJuWe5iBDdy0wOXy2fq4YyN"
+    },
+    {
+      "author": "Павел Широков",
+      "text": "Покупал цветы, простояли почти месяц,  всем рекомендую. ",
+      "rating": 5,
+      "date": "2026-09-05",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=E5pOhIqWPO1-yZUnrY5xwmN2t0cknkE"
+    },
+    {
+      "author": "Дмитрий Титков",
+      "text": "очень красивые букеты",
+      "rating": 5,
+      "date": "2025-06-30",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=ACj2PpvAiDBqeJPRUkx0FgC4_lWIAI"
+    },
+    {
+      "author": "женя колобаев",
+      "text": "Покупаю здесь цветы постоянно, ни разу не прдвели , рекомендую.",
+      "rating": 5,
+      "date": "2026-09-19",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=cdgmpoAFi_mKgTdTjC8xMaROSu6_HDUY"
+    },
+    {
+      "author": "Виталий Шубаркин",
+      "text": "Классный магазин, ради меня открылись на 2 часа раньше, очень выручили спасибо большое !!!!!!",
+      "rating": 5,
+      "date": "2026-02-10",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=7gSQUK2SLBojFl668ZtzKnFfyOt7OSe9x"
+    },
+    {
+      "author": "Максим Ростов",
+      "text": "Магазин бомба цветы стоят очень долго",
+      "rating": 5,
+      "date": "2026-09-03",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=ADgdNeFzOVkzKX7owTOiuPLhEnQs2D"
+    },
+    {
+      "author": "Инкогнито 4532",
+      "text": "Спасибо данному магазину, постоянно  выручаете! ",
+      "rating": 5,
+      "date": "2026-09-22",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=VMU88HrzIzSaVuYzPTdXGqykWG9b3Bm"
+    },
+    {
+      "author": "Артём",
+      "text": "Очень не расторопные. ",
+      "rating": 4,
+      "date": "2026-06-27",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=pqnVHiUMfj-Tz-qZuI33_EhXaDUt2Rzb"
+    },
+    {
+      "author": "Иван Горбунов",
+      "text": "Супер магазин, всем рекомендую!",
+      "rating": 5,
+      "date": "2026-09-26",
+      "source": "https://yandex.ru/maps/org/61022098215/reviews/?reviewId=RdNFuDKPvfliDogz79uj9JhejyDl-hca_"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1024,
+    "height": 1024,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/15394162/2a0000019bcb2592d7912e236451b3322d06/%s"
+  }
+}

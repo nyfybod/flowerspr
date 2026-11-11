@@ -1,0 +1,696 @@
+{
+  "id": "161567194225",
+  "title": "GooDMood62.ru",
+  "address": "Ryazan, Tatarskaya Street, 58",
+  "fullAddress": "Ryazan, Tatarskaya Street, 58",
+  "coordinates": [
+    39.714123,
+    54.612743
+  ],
+  "phones": [
+    {
+      "number": "+7 (996) 616-28-28",
+      "type": "phone",
+      "value": "+79966162828"
+    },
+    {
+      "number": "+7 (952) 123-79-60",
+      "type": "phone",
+      "value": "+79521237960"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "electronic_money",
+          "name": "electronic money"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 24,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 10
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 9:00 AM–8:00 PM",
+  "socialLinks": [
+    {
+      "type": "viber",
+      "href": "https://viber.click/79521237960",
+      "readableHref": "viber.click/79521237960"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79521237960",
+      "readableHref": "+79521237960"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/shariryazan",
+      "readableHref": "vk.ru/shariryazan"
+    }
+  ],
+  "businessLinks": [],
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1637232/2a000001699d2b1b080c0133c9514b05e310/%s",
+      "id": "kIu1fLvgMOS0F4a-3Dp7xQ26o27zz8"
+    }
+  },
+  "photos": {
+    "count": 24,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5479189/2a0000017df889692e136d91760782f2fd10/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5479189/2a0000017df889692e136d91760782f2fd10/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/902827/2a000001600a3ebb0b81f879448943d8e53a/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14402904/2a000001945f9bba9ba78603459b064e97f0/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/901763/2a0000018769eb9df66a072b10168869deb3/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14110197/2a000001945f9bb66bd2f4b8999faa845314/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9753788/2a000001897820412b72197bcc1c4620790a/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/363317/2a0000016018549e1d80d9524fef7fef900a/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6382111/2a00000184678727fc8ed1ae958bb8ce8615/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11410105/2a00000191bd9b4ffe4b280d5f3f3bf0227e/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10232404/2a00000191bd9b4ffa67f7385eaaf039b3af/%s",
+        "alt": "Goods for holiday GooDMood62.ru, Ryazan, photo"
+      }
+    ]
+  },
+  "fullObjects": {
+    "hasPhotos": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "No category",
+        "categoryItems": [
+          {
+            "title": "Шар сердце 85 см",
+            "price": "850",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Kr_3f60j90bAVvIwk1E1Dn7WlP3TnLik2V3d8FCgL5o"
+          }
+        ]
+      }
+    ]
+  },
+  "topObjects": {
+    "hasPhotos": false,
+    "isYandexEda": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "popular",
+        "categoryItems": [
+          {
+            "title": "Шар сердце 85 см",
+            "price": "850",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Kr_3f60j90bAVvIwk1E1Dn7WlP3TnLik2V3d8FCgL5o"
+          }
+        ]
+      }
+    ],
+    "fullObjectsCount": 1,
+    "relevance": {
+      "lastUploadTime": "2026-10-05T19:05:02.992121Z",
+      "lastUpdateTime": "2024-09-04T15:17:12.968921Z"
+    },
+    "source": {
+      "id": "TYCOON",
+      "name": "Representative of the organization"
+    }
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2023-12-25T10:13:14.314Z"
+        },
+        "reviewId": "x5Ic4LqXhGQ0ZBeB9YbALql5t7pued",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Pavel S.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/0u-9/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "xn3q51yk9z8pyu467araux17r0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Сделали всё чётко!На запрос в ВК ответили мгновенно.Сам был в другом городе и дистанционно смогли все решить.Шары красивые и зайчик тоже.Все довольны.По ценам не мониторил,главное удобство.\nОЧЕНЬ РЕКОМЕНДУЮ!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-07-21T11:04:22.057Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "BUk8cp2AcKUvKm2xk0c2ty5aFWe0-nODi",
+            "businessId": "161567194225",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9753788/2a000001897820412b72197bcc1c4620790a/{size}",
+            "createdTime": 1689937528529,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Pavel S.",
+              "publicId": "xn3q51yk9z8pyu467araux17r0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/27503/0u-9/{size}",
+              "updateTime": 1689937528529,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "N5cBVewpR9KAFRtLIkV2fOeyMXGM54xA",
+            "businessId": "161567194225",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9720767/2a00000189782040e3826aa1668443840dc8/{size}",
+            "createdTime": 1689937528317,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Pavel S.",
+              "publicId": "xn3q51yk9z8pyu467araux17r0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/27503/0u-9/{size}",
+              "updateTime": 1689937528317,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за такой отзыв!)",
+          "updatedTime": "2023-02-20T16:57:21.409Z"
+        },
+        "reviewId": "1JvXi-1epAsfxhC0aF5J3LLdshCTijp1",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Анастасия Ф.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/28439/WWn0JL8YgEzFfjNtmD5KUbRhc-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "w3vhxak4hy53cfj4zh8ejwag24",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Искала место для заказа шаров на выписку, было необходимо реализовать задумку за считанные минуты. Сделали крупный заказ , компания справилась на отлично.  Красоту доставили спустя 1 час 20 минут после заказа. В подарок приложили букет из шариков. Довольна и рекомендую ♥️",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-11-11T16:30:25.741Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "IgfcGDtfifSWHazmU0PnFQNtiXGVQBJ",
+            "businessId": "161567194225",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6382111/2a00000184678727fc8ed1ae958bb8ce8615/{size}",
+            "createdTime": 1668184225125,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Анастасия Ф.",
+              "publicId": "w3vhxak4hy53cfj4zh8ejwag24",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/28439/WWn0JL8YgEzFfjNtmD5KUbRhc-1/{size}",
+              "updateTime": 1668184225125,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "j9uQB1ti0tQptDi5E9Rixv4R9UmDHHRwW",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Дарья Зотова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/43978/0g-3/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wqzzz2u8tkxfztvduj9cw4fau8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Ужасная компания, ***, никому не советую. Оформила заранее заказ через сайт, никто не связался со мной по заказу. Телефон недоступен. Написала сама в чат на сайте, менеджер Владислав сказал, что мой заказ есть, но доставка будет платная, (хотя по условиям с того же сайта  должна быть бесплатной), так как они цены не поднимают, а шары в закупке подорожали. Об этом никто не предупредил, на сайте таких условий покупки нет!!! Пришлось согласиться, ведь у ребёнка день рождения, но обещала написать о ситуации в Роспотребнадзор. После чего они заявили, что шары закончились.  Уровень!!! ",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 1,
+        "updatedTime": "2022-08-25T10:18:08.842Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за оценку",
+          "updatedTime": "2021-03-09T11:18:13.097Z"
+        },
+        "reviewId": "fi9kRCwKBxlTRbVE-KCz9BOwGwon0C",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Алёна",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/21493/enc-9ce4548775bc7d1a066d2c2722bdc4c6b258976f2c3ad874aa76c9afbae08952/{size}",
+          "professionLevel": "Level 25 Local Expert",
+          "rtb": "Level 25 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4a2b10t9q8f61c6ep97pk1jk14",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный сервис и цены, привезли шарики домой, ещё и букетик бонусом, цены дешевле, чем без доставки у других, а тут и оперативно, и недорого, и бесплатная доставка,  и бонус. Одни положительные эмоции, ребята вы СУПЕР🤩",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2021-03-07T17:45:52.179Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "fdFNTAGoFUpwABtRp8trxBB6ItJoceQ",
+            "businessId": "161567194225",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4544819/2a000001780dcb990776a060ff34b319edae/{size}",
+            "createdTime": 1615139152173,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Алёна",
+              "publicId": "4a2b10t9q8f61c6ep97pk1jk14",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/21493/enc-9ce4548775bc7d1a066d2c2722bdc4c6b258976f2c3ad874aa76c9afbae08952/{size}",
+              "updateTime": 1615139152173,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2020-04-08T20:21:49.579Z"
+        },
+        "reviewId": "-D4bjgksRFGsDk2q0TQD6WzxSiN1sxx",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Юля Г.",
+          "avatarUrl": "",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "1t2phjvg1z0w3yfcjdxqu66w10",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказывала у Вас шарики ко дню рождения. Доставили все вовремя, красиво оформили и все были в восторге! Спасибо за хорошее настроение и высокое качество: шары красивые и летают уже неделю👍🏻 \nОгромное спасибо, всем рекомендую! \n\nБуду пользоваться Вашими услугами и дальше!",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2020-02-05T11:13:59.813Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2023-02-20T16:57:25.723Z"
+        },
+        "reviewId": "paliWODdygTUISsWTLyL2qWjK5ik2RjE",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Pavel Pavel",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/54535/0h-6/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "58hqb9yan7v8gdwfk6wb6jjg9g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Позвонил по телефону по поводу шариков,приехал,всё быстро надули,по цене также как и везде.",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-09-10T17:11:51.437Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Здравствуйте, Дмитрий. Вы оставили заявку в 13:30 на самовывоз 14:00, все шарики которые вы выбрали есть в наличии. Время надува не более 7 минут. Магазин работает ежедневно с 9:00 до 21:00. Будем рады вас видеть!",
+          "updatedTime": "2022-05-26T07:35:53.409Z"
+        },
+        "reviewId": "yZ2IyFsrAb6akLmWk8Gc662UFqZ3xM",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Willinside",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/20706/enc-d30e7725fa0f8be110d3c0724bb1f002d4244a9ff2dd625fc99e2cbf3aa36589/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "m1w06d27xgc5ced8v8hjtthk3r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Никакой обратной связи. Оформили заказа, никто не перезвонил в течении недели! Нет возможности связаться самостоятельно. Номера все отключены. В чате на сайте никто не отвечает. Трёхлетний ребенок остался без шаров на день рождения.",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 1,
+        "updatedTime": "2022-05-22T10:36:51.302Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "IhVA0fP3ohx-BcVolrGcrBlCUk7_7kJF",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Наталья",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказывала шарики на рождение племянника. \nСпасибо магазину!!! Владислав очень оперативно помог с выбором , доставка точно ко времени , шарики стоят уже больше двух недель, все как я хотела 🥰\nОчень понятен и удобен сайт , в группе в контакте тоже интуитивно понятно как оформить и увидеть весь ассортимент. Сразу видно профессионалы своего дела, начиная с оформления сайта , заканчивая поддержкой клиента! \nОгромное спасибо всем и процветания!!!",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2020-04-16T10:12:02.353Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2023-02-20T16:57:11.125Z"
+        },
+        "reviewId": "f2PHYiUJlDxosBaJLchk06hrIsrF3HT",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Алина Латыпова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/30061/enc-1236f28bfff2b92f1886dcbbc8718b269b3698e0e1ceeb12ac7b0858b885f617/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4xefre3ymaatqve5kqd12knw3w",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Спасибо за шары! не первый раз заказываю. Всегда качественно и во время! ",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-11-13T17:48:47.667Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо, будем стараться",
+          "updatedTime": "2025-04-24T06:11:04.869Z"
+        },
+        "reviewId": "i-SDqxTu_cF8Ud7PzVWocsmVH1gRnk",
+        "businessId": "161567194225",
+        "author": {
+          "name": "Anton",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27274/131NAkRnCGZ5tijP7UGFCLsjgeY-1/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "На сайте цена шарика 95р. По факту 120. Но, долго работают, спасли ❤",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Sitede topun fiyatı 95 ruble. Aslında 120. Ama uzun süre çalışıyorlar, kurtardılar ❤"
+        },
+        "rating": 4,
+        "updatedTime": "2025-03-08T16:18:17.241Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 10,
+      "loadedReviewsCount": 10,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "urls": [
+    "http://goodmood62.ru/"
+  ],
+  "seoname": "goodmood62_ru"
+}

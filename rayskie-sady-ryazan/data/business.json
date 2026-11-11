@@ -1,0 +1,2874 @@
+{
+  "id": "61022098215",
+  "title": "The Gardens of Paradise",
+  "address": "Ryazan, Vvedenskaya Street, 112",
+  "fullAddress": "Ryazan, Vvedenskaya Street, 112",
+  "coordinates": [
+    39.743759,
+    54.619724
+  ],
+  "phones": [
+    {
+      "number": "+7 (993) 734-94-95",
+      "type": "phone",
+      "value": "+79937349495"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "inflate_balloons_with_helium",
+      "value": true,
+      "name": "inflate balloons with helium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "cash",
+          "name": "cash"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "gifts",
+          "name": "gifts"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "parking_disabled",
+      "value": true,
+      "name": "parking for people with disabilities",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "indoor_plants",
+      "value": true,
+      "name": "indoor plants",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "planter",
+      "value": true,
+      "name": "flowerpot",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "doubloons_loyalty_card",
+      "value": true,
+      "name": "Discount card",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_garden_center",
+      "value": [
+        {
+          "id": "soils_and_fertilizers",
+          "name": "soils and fertilizers"
+        },
+        {
+          "id": "seeds",
+          "name": "seeds"
+        },
+        {
+          "id": "ornamental_plants",
+          "name": "ornamental plants"
+        },
+        {
+          "id": "pots_and_planters",
+          "name": "pots and planters"
+        },
+        {
+          "id": "cut_flowers",
+          "name": "cut flowers"
+        }
+      ],
+      "name": "products",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_in_flask",
+      "value": true,
+      "name": "flowers in a flask",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "florarium",
+      "value": true,
+      "name": "florarium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_pa",
+          "name": "Partially available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "disable_captions",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 51,
+    "ratingValue": 5,
+    "reviewCount": 47
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 9:00 AM–9:00 PM",
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/rayskiesady",
+      "readableHref": "@rayskiesady"
+    }
+  ],
+  "businessLinks": [],
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15394162/2a0000019bcb2592d7912e236451b3322d06/%s",
+      "tag": [
+        "owner_photo"
+      ],
+      "id": "2a0000019bcb2592d7912e236451b3322d06"
+    }
+  },
+  "photos": {
+    "count": 87,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15232415/2a00000197c22f65138e1523679a77145a69/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15232415/2a00000197c22f65138e1523679a77145a69/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16410529/2a00000197c9ef37fd613f7dc63699e69077/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15709664/2a00000197c47319ef90f3c35472df7f549e/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16325379/2a0000019a2eba9bcc2f565e96019239857c/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15452616/2a0000019a027f503354b15defe30332c4b9/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16485345/2a0000019a2ebba7898537b2f95da1748eda/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15452616/2a00000197c2305ae04eaa9229820332f8f6/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16270073/2a00000197c22941b1b596844320a6dd4470/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14907426/2a00000197c2304c115c21a7091c763ca6d6/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20191917/2a0000019e59c3a7b307a7110d5e2d8b5aa9/%s",
+        "alt": "Flower shop The Gardens of Paradise, Ryazan, photo"
+      }
+    ]
+  },
+  "fullObjects": {
+    "hasPhotos": true,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "Букеты",
+        "categoryItems": [
+          {
+            "title": "11 французких роз",
+            "description": "Состав\nУпаковка дизайнерская - 7 шт.\nсухоцвет стифа - 2 шт.\nроза пинк мондиаль (эквадор) - 11 шт.",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a049172b94865f4fef7ac2a510a6/{size}",
+            "price": "4750",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.4ECHzwpzd3pCApg8Jq7uIeS2-0Q2XIS5ymFXsLGWDuw"
+          },
+          {
+            "title": "Французские розы ко дню всех влюбленных",
+            "description": "Состав\nЭвкалипт - 3 шт.\nОазис флористический - 1 шт.\nСухоцвет лагурус - 7 шт.\nроза фридом (эквадор) - 9 шт.\nшляпная коробка д.12 - 1 шт.",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ca87922673aa64d8ade8ef2bf6d/{size}",
+            "price": "3458",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.aBXTJpznjh38gjlQQ068Jy_Rt6VAzBWt--029A9nCPM"
+          },
+          {
+            "title": "Розы , букет роз , французские розы , букет французских роз, хризантема. хризантемы , букет из хризантем",
+            "description": "Яркий и выразительный букет роз в теплых оранжево-золотистых оттенках станет эффектным подарком для любого важного события. Каждая роза отличается крупным бутоном и необычной формой лепестков, а роскошные французские розы придают композиции особый...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/9854027/2a000001a047eeb89ed9cea34494c4e56a77/{size}",
+            "price": "3150",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.MDmVn-wgfi9NEor5ywggzQfIg8zgRuIMhNVHovf6RtU"
+          },
+          {
+            "title": "Розы , букет роз , французские розы , букет французских роз, хризантема. хризантемы , букет из хризантем",
+            "description": "Яркий и выразительный букет роз в теплых оранжево-золотистых оттенках станет эффектным подарком для любого важного события. Каждая роза отличается крупным бутоном и необычной формой лепестков, а роскошные французские розы придают композиции особый...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001a0490922623e63d3300191f7eb82/{size}",
+            "price": "4300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.-fzWPF5voLrJf-JXMg-M_SXlxf121BMjzIYqqfliONE"
+          },
+          {
+            "title": "Розы , альстромерия , альстромерии , Букет из французских роз и альстромерии — Нежная композиция из роз и альстромерии",
+            "description": "Изысканный букет из роз с альстромерией — это гармоничное сочетание нежности, романтики и утонченной красоты. Воздушные французские розы прекрасно дополняются яркими соцветиями альстромерии, создавая объемную и элегантную композицию, которая стане...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a0490af56406bcfadf365a156d2a/{size}",
+            "price": "3963",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Y6Vs85bm85RNdMwY9xpn680uVlWfu2XDBybJkIOUzGE"
+          },
+          {
+            "title": "Хризантемы , хризантема , ромашка , ромашки , Букет из ромашек и хризантем — Белые хризантемы с ромашками",
+            "description": "Букет из ромашек с хризантемой — это лёгкая, нежная и невероятно трогательная цветочная композиция, которая сочетает природную красоту и искренность чувств. Белоснежные хризантемы и миниатюрные ромашки создают гармоничный ансамбль, наполненный све...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a000001a0490d17dbd97934b356c4fa6715/{size}",
+            "price": "4633",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.WaoHCDy8X_4AfD_tfy0i_tFHPjg2BpBiK4_-hmt_ggc"
+          },
+          {
+            "title": "Розы , кустовые розы , Букет из 7 кустовых роз — Нежные кустовые розы | Букет роз",
+            "description": "Букет из 7 кустовых роз — это изысканная цветочная композиция, которая сочетает нежность, элегантность и природную красоту. Свежие розы в тёплом кремово-персиковом оттенке создают атмосферу уюта, романтики и искренних чувств. Такой букет роз стане...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2805495/2a000001a0490fc6a1d830988d5961214de1/{size}",
+            "price": "2883",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.2Z0mSqstPErTxS2EHSW_S4csZLZi7T_5-1xPugCxTe0"
+          },
+          {
+            "title": "Розы , пионовидные розы , букет из 7 пионовидных кустовых роз — Розовые пионовидные кустовые розы | Букет роз премиум",
+            "description": "Букет из 7 пионовидных роз — это изысканная цветочная композиция, которая сочетает романтичность, нежность и современный стиль. Пышные Кустовые розы с множеством аккуратных бутонов создают ощущение лёгкости и объёма, а насыщенный розовый оттенок д...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a000001a049127db8469e0e705220016fe2/{size}",
+            "price": "4446",
+            "currency": "₽",
+            "matchKey": "v1.E-t3gntcZ_y0SUlwm5JXWWWQ2JwMwYbx_vMDhUk5HKQ"
+          },
+          {
+            "title": "Розы , кустовые розы , пионовидные розы , кустоывые пионовидные розы Букет из 11 кустовых пионовидных роз",
+            "description": "Подарите близкому человеку нежность и искренние эмоции вместе с роскошным букетом из 11 кустовых пионовидных роз. Благодаря множеству пышных бутонов на каждой ветке композиция выглядит объемной, воздушной и невероятно эффектной. Этот букет станет ...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a0491419a801b23bca3d7ff6c9ae/{size}",
+            "price": "6371",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.3kRzCGU4TzBSvYikNVaIboxWlforGkNKTn6v5i4jCsg"
+          },
+          {
+            "title": "Розы , букет из 11 кустовых роз , букет из 11 роз , букет роз , кустовые розы",
+            "description": "Элегантный букет роз из 11 кустовых роз — это нежный, объемный и романтичный подарок в мягкой розовой гамме. Свежие розы выглядят аккуратно, изысканно и женственно, а пастельные розовые розы делают композицию особенно трогательной и легкой.\n\nТакой...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001a04915650ab20cc120182690b102/{size}",
+            "price": "4816",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.in_e0BogkA9YK0I39YrCpEaXNjOQ79wIPi7JA_CZ3Zo"
+          },
+          {
+            "title": "Розы, кустовые розы , Букет из 13 кустовых роз — Букет роз",
+            "description": "Изысканный букет роз из 13 веток кустовых роз — это нежная и элегантная композиция, которая станет прекрасным подарком для любого важного события. Пышные кустовые розы с множеством миниатюрных бутонов создают объемный букет, наполненный легкостью,...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1356083/2a000001a04918be63d239f4f1d93d0535fe/{size}",
+            "price": "4345",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.72U3yLsufLHZ4h9smQW0IWud5HU6qInAe2L8zHs5Hbg"
+          },
+          {
+            "title": "Розы , букет из 13 кустовых роз , букет из 13 роз , букет роз , кустовые розы",
+            "description": "Пышный букет роз из 13 кустовых роз — это выразительный, нежный и эффектный подарок для особого повода. Свежие розы в пастельной гамме выглядят мягко, романтично и дорого, а красивые розовые розы создают атмосферу заботы, внимания и теплого отноше...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/10253960/2a000001a0491cb17953602f08c342d35391/{size}",
+            "price": "5474",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.p6EAiaCp77dd3iot8RkVYXn4stmrsdczJ63dG-oviok"
+          },
+          {
+            "title": "Розы , кустовые розы 13шт, кустовые пионовидные розы , Букет из розовых кустовых пионовидных роз — Нежный букет кустовых роз",
+            "description": "Очаровательный букет из кустовых роз станет прекрасным подарком для любого повода. Нежные розовые кустовые розы с пышными пионовидными бутонами создают воздушную композицию, наполненную романтикой, легкостью и утонченностью. Такой букет роз идеаль...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5235338/2a000001a0491e3c6299c7dbee298837f084/{size}",
+            "price": "7374",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.uXJ_wu5uma0QrRjiFXfKArvUnEQi0YZ9Mcti0woPpqM"
+          },
+          {
+            "title": "Розы , кустовые розы , Букет из кустовых роз — Нежные кустовые розы | Букет роз премиум | Авторский букет из кустовых роз",
+            "description": "сли вы ищете элегантный подарок, который подарит яркие эмоции и запомнится надолго, этот букет роз станет идеальным выбором. Пышные кустовые розы нежного кремово-персикового оттенка создают воздушную композицию, наполненную лёгкостью, романтикой и...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a0492088005f2a5acca4f6fc7eee/{size}",
+            "price": "4875",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.D6qjH2i5D7m83LlDy21t5LTGRN-ogs0ORSDaWB-amIs"
+          }
+        ]
+      },
+      {
+        "categoryName": "Букет роз",
+        "categoryItems": [
+          {
+            "title": "Розы, букет роз, французские розы, букет французских роз, букет розовых французских роз",
+            "description": "Розы — классический и востребованный подарок для самых разных событий. Этот букет роз собран из эффектных цветов нежного розового оттенка. Французские розы отличаются крупными выразительными бутонами, необычной формой лепестков и роскошным объемом...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a09c1ef47b1a52cf78b1f4592e95/{size}",
+            "price": "3800",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.B9RdQVX03vhnroiAGODoHVQp-oUbOBCS6778WaWXO8k"
+          }
+        ]
+      },
+      {
+        "categoryName": "Букет хризантем",
+        "categoryItems": [
+          {
+            "title": "Хризантема, букет хризантем, хризантема одноголовая, белые хризантемы",
+            "description": "Нежная белая хризантема — эффектный цветок с крупным пышным соцветием, который прекрасно смотрится в современной флористике. Этот букет хризантем выполнен в спокойной бело-зеленой гамме и дополнен декоративной зеленью. Хризантема одноголовая созда...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a09c2d06fb398ece89b289c54f6b/{size}",
+            "price": "3374",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Qz0VMHvHF5l9lYtWiKh3eS5ITrfpBt3AwBTFCHNuwCU"
+          }
+        ]
+      },
+      {
+        "categoryName": "Корзина с цветами (микс)",
+        "categoryItems": [
+          {
+            "title": "Астры, букет астр с диантусами, астры и диантусы, композиция из астр и диантусов",
+            "description": "Астры и диантусы собраны в яркую цветочную композицию в декоративной корзине. Пышные астры создают основной объем, а нежные диантусы дополняют композицию розовыми оттенками. Такой букет астр с диантусами выглядит насыщенно, празднично и выразитель...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a09c0d0f9ba84f888eb3b7be2f61/{size}",
+            "price": "2470",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.LV8tYu5jKp5z-BZBV85oz-vEw9_b6Pp7waZblRUEerE"
+          }
+        ]
+      },
+      {
+        "categoryName": "Букеты цветы доставка",
+        "categoryItems": [
+          {
+            "title": "Розы, кустовые розы 15шт, пионовидные розы, кустовые пионовидные розы , Букет из розовых кустовых роз",
+            "description": "Этот роскошный букет из розовых кустовых роз создан для тех, кто ценит нежность, изысканность и современную флористику. Пышные пионовидные кустовые розы насыщенного розового оттенка образуют объёмную композицию, которая выглядит дорого, воздушно и...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001a04921ee94177a78b0345afe31c7/{size}",
+            "price": "8298",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.0vdnNdxkuqMRMhK18U9j-i0CPkopvKtLYzgbvgGpJE4"
+          },
+          {
+            "title": "Альстромерия альстромерии в сумочке",
+            "description": "Изысканный букет из 7 альстромерий — нежная композиция, которая станет трогательным знаком внимания. Розовые бутоны альстромерии раскрываются мягкими волнами, а сочная зелень подчёркивает их утончённую форму. Такой букет уместен на день рождения, ...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a0492399c927c0422406d1abe8ea/{size}",
+            "price": "3000",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.yMudd_R0iKyl6tA0Upo0-CqR-e-q6o0WXPZi4QgCip8"
+          },
+          {
+            "title": "Альстромерия альстромерии в сумочке 9 шт",
+            "description": "Элегантный букет из 9 альстромерий с эвкалиптом — стильная композиция, которая сочетает нежность и природную фактуру. Розовые бутоны альстромерии раскрываются мягкими волнами, а веточки эвкалипта добавляют ансамблю свежести и лёгкой прохлады. Офор...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/9896919/2a000001a04941c085295afa639dd7f7a919/{size}",
+            "price": "3000",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.eJUkzN7ynSh-kEtSNEICqMGp-uHvWfMkFEOlSPz9mzc"
+          },
+          {
+            "title": "Букет роз с хризантемой альстромерией роза альстромерия хризантема зризантемы",
+            "description": "Нежная и выразительная цветочная композиция, в которой букет роз выглядит особенно эффектно. Букет роз с хризантемой сочетает романтичность и свежесть, а букет роз с альстромерией добавляет композиции воздушность. Нежная альстромерия и яркие альст...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/9854027/2a000001a04943acc289ac4bbd904bd64bc5/{size}",
+            "price": "7895",
+            "currency": "₽",
+            "matchKey": "v1.U4qwaC4vgQRgjzOcvZRvpY7PliABNo7JLsA2j8Ed7_s"
+          },
+          {
+            "title": "Розы, французские розы , композиция с французскими розами",
+            "description": "Элегантная композиция с розами в классической белой гамме — изысканный подарок для особенного случая. Роскошные французские розы с крупными раскрытыми бутонами создают выразительный объем, а каждая роза подчеркивает нежность и благородство оформле...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a049456e1fa6c76b92aa74767c0d/{size}",
+            "price": "4100",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.J15Oh6qQwCpucQuD6fWbe9V0dbHtpkQ0Qv8ZLPzkXLQ"
+          },
+          {
+            "title": "Хризантема , хризантемы , лилия , лилии , Букет из лилий с хризантемой — Белые лилии и одноголовые хризантемы",
+            "description": "Букет из лилий с хризантемой — это элегантная цветочная композиция, сочетающая благородную красоту, свежесть и утончённый стиль. Роскошная лилия, пышная хризантема одноголовая и нежная зелень создают гармоничный букет, который станет прекрасным по...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a04946ad4ada05aec3c2778be0da/{size}",
+            "price": "4193",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.W4icffdnE83KxJTy-dACtwqT35ZZYm75l_Pj_n2hWjs"
+          },
+          {
+            "title": "Хризантема , хризантемы , гвоздика , гвоздики , Букет из хризантем и гвоздик — Зеленые и белые хризантемы | Букет из гвоздик",
+            "description": "Элегантный букет из хризантем и гвоздик — это стильная композиция, которая сочетает свежесть, оригинальность и современную флористику. Воздушные белые хризантемы, яркие зелёные хризантемы сантини и нежные гвоздики создают гармоничный ансамбль, кот...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/9854027/2a000001a04948305e1aec8bd0d0131313ea/{size}",
+            "price": "2900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.srN3lH8p5BnZ4VzBSYblw1kzQxmfRQzQ7GSkvreZaiw"
+          },
+          {
+            "title": "Хризантемы , хризантема , Букет из одноголовых хризантем — Белые хризантемы премиум | Хризантема одноголовая",
+            "description": "Букет из хризантем — это элегантная цветочная композиция, которая сочетает благородную простоту, объём и безупречную свежесть. Белоснежные хризантемы с крупными пышными соцветиями создают ощущение лёгкости, гармонии и утончённого вкуса. Такой буке...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/12412149/2a000001a04949ba9ce5bc709da8515d2d90/{size}",
+            "price": "3598",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.gFP2Sn9jaAqgZHgRwgK8T6mQFcYH_7EBTnTK_9m3JkU"
+          },
+          {
+            "title": "Альстромерии , альстромерия , хризантема , хризантемы , Композиция с хризантемой и альстромерией",
+            "description": "Нежная цветочная композиция в розовых оттенках сочетает воздушность, легкость и романтичное настроение. Пышная хризантема гармонично дополняет изящные цветы, а нежная альстромерия придает оформлению легкость и выразительность. Свежие хризантемы и ...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a0494afededb5a34948dd8417799/{size}",
+            "price": "2338",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.BraCCDmSQd8W03unav2Rub2re_q_hKX9jOrF_nThkzY"
+          },
+          {
+            "title": "Букет роз с хризантемой , хризантема , хризантемы , роза , розы , кустовые розы",
+            "description": "Элегантный букет роз с хризантемой — это гармоничное сочетание нежности, свежести и природной красоты. В композиции удачно сочетаются изящные розы, пышная кустовая роза и воздушные хризантемы, создавая стильный букет, который станет прекрасным под...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/17791271/2a000001a0494cb9b3be4a642058e5188960/{size}",
+            "price": "8160",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.uc-CCt3q9eQuev5EhFDiCpLrvgBXDo2q_hQ9GT-Tsc4"
+          },
+          {
+            "title": "Розы , кустовые розы , букет из 9 кустовых роз , букет из 9 роз , букет роз , кустовые розы",
+            "description": "Нежный букет роз из 9 кустовых роз в мягкой розовой гамме — это аккуратный, романтичный и универсальный подарок для любого повода. Свежие розы выглядят изящно, женственно и деликатно, а нежные розовые розы создают ощущение заботы, внимания и тепло...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/10324913/2a000001a0494eb26a849fd62a71e182709a/{size}",
+            "price": "4178",
+            "currency": "₽",
+            "matchKey": "v1.aT1uLrWz5i36A41F_3x7n-_Xg5dnzRPOgZrxEJ28QL4"
+          },
+          {
+            "title": "Розовые розы, хризантемы, Букет роз с хризантемой - нежный букет с французскими розами",
+            "description": "Нежный букет роз с пышной хризантемой — это стильный, романтичный и выразительный подарок для особого повода. Свежие розы в мягкой розовой гамме выглядят изысканно и дорого, а объемная хризантема добавляет композиции воздушность, фактуру и праздни...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001a0495741e53c89a2f87d0989e871/{size}",
+            "price": "5234",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.n-FQNU6Oii4EpSRW13_F5ooPaXHhhDvIAWIGIKLUdTo"
+          },
+          {
+            "title": "Хризантемы, хризантема белая , ромашка , ромашки , букет из ромашек и хризантем",
+            "description": "Подарите себе и своим близким ощущение бесконечного лета, тепла и искренней радости с нашей новой флористической композицией. Вы только посмотрите, как гармонично, чисто и воздушно выглядит этот стильный букет хризантем. Такой нежный и одновременн...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a0495c87c936e2d3038c3690fecf/{size}",
+            "price": "3200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.oZ_CPcgo3b-XX-l_nlsxY2PlIINKdagR95PP2gOBaXo"
+          },
+          {
+            "title": "Розы , Альстромерии, Букет роз с альстромерией — Французские розы и альстромерии | Букет французских роз | Нежный букет из роз",
+            "description": "Этот изысканный букет из роз и альстромерий создан для тех, кто ценит нежность, утончённость и элегантную флористику. Воздушная композиция объединяет премиальные французские розы, нежные альстромерии и современное оформление, благодаря чему букет ...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/17791271/2a000001a0495ead63bdcde15c7bb6ef21a9/{size}",
+            "price": "2945",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.eV6hW8nnmFLUUGG3LNkrOdQMvEgIRBb_bRvZ4RkENlg"
+          },
+          {
+            "title": "Хризантемы , хризантема , гвоздика , гвоздики , Букет из хризантем с гвоздикой | Нежный букет из гвоздик и хризантем",
+            "description": "Нежный букет из хризантем и гвоздик — идеальный способ выразить тёплые чувства без лишних слов. Воздушная композиция в пастельных оттенках сочетает в себе утончённость кустовых хризантем и трогательную красоту гвоздик. Такой букет станет уместным ...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a049603dd55a84718068fc34d014/{size}",
+            "price": "2900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.t_88RqP5k1BQahMTLnvoyTMZwpBwAmzTgxNSnvvyLks"
+          },
+          {
+            "title": "Хризантема хризантемы с ромашкой в зеленой сумочке",
+            "description": "Нежная композиция из хризантем и ромашек в стильной зелёной сумочке — современный формат букета, который удобно держать и дарить. Крупные бутоны кустовых хризантем задают объём и выразительность, а россыпь ромашек добавляет ансамблю лёгкости и при...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a049618d7645722e229c9d5ceba7/{size}",
+            "price": "2198",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.AR1vezHMjirDn4uXgxHQlfMEiEfY0UXi55IU_Fb3lqM"
+          },
+          {
+            "title": "Хризантемы , хризантема , маттиола , Букет хризантем и маттиолы",
+            "description": "Нежный букет в розово-сиреневой гамме — это красивый и воздушный цветочный подарок для романтичного поздравления. Светлая хризантема добавляет композиции объем, мягкость и выразительность, а изящная маттиола делает оформление более нежным, фактурн...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20340178/2a000001a04964fe0d97f3f9d8ce3a613b88/{size}",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.xPdTLQ32FHZDPk2rAiCjGLT3JM1pIHr4lIHH9cYLSPY"
+          },
+          {
+            "title": "Хризантема и ромашка в сумочке",
+            "description": "Нежная композиция из хризантем, ромашек и эвкалипта в стильной розовой сумочке — современный формат букета, который удобно держать и дарить. Крупные бутоны кустовых хризантем задают объём и выразительность, россыпь ромашек добавляет ансамблю лёгко...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/10118156/2a000001a0496bc9f49f3f4f8d11d0c194b3/{size}",
+            "price": "2991",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Hm6MweRLAjobrGE-c_x5yO0HumdMXFjzkq53CkZt4Hg"
+          },
+          {
+            "title": "Хризантемы, Букет хризантем с маттиолой - Хризантема и маттиола в стильной упаковке",
+            "description": "Букет хризантем с маттиолой — это нежная и утончённая цветочная композиция, сочетающая в себе элегантность белых цветов и романтичность сиреневых оттенков. Этот букет хризантем станет прекрасным подарком для любого повода, помогая выразить самые и...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a0496cf87ca65dd85bfd520eb315/{size}",
+            "price": "2900",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.yUsM6T6JPEFTDQaPO1uYI4kxvXTgKKnL-TYWTqFMg-0"
+          },
+          {
+            "title": "Хризантема хризантемы в шляпной коробке",
+            "description": "Воздушная композиция из хризантем в стильной розовой шляпной коробке — современная альтернатива традиционному букету. Нежные бутоны в пастельной гамме (от белоснежных до пудрово‑розовых) раскрываются мягкими волнами, а веточки эвкалипта добавляют ...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001a0496ec42903b349736ccd90c50d/{size}",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.pG_GaSMrkAfRO3EfuYqgjJehvB1vu5M-I6UzoozwtVA"
+          },
+          {
+            "title": "Шляпная коробка с розами и ромашками , роза , розы ромашка ромашки кустовые розы , пионовидные розы",
+            "description": "Нежная и эффектная композиция в розовой шляпной коробке сочетает крупные и кустовые розы, матиолу, ромашки и декоративную зелень. Такая композиция с розой выглядит пышно и романтично, а композиция с розой и матиолой привлекает необычным сочетанием...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/9495815/2a000001a049729eeaba02db87a95b46124c/{size}",
+            "price": "8695",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.JEtoot4W7nmx0Prki2SbSBVU_vNkJ--6lB3m7FCHKuo"
+          }
+        ]
+      },
+      {
+        "categoryName": "Букеты !",
+        "categoryItems": [
+          {
+            "title": "Лилии , лилия , букет лилий , букет из лилий",
+            "description": "Нежный и элегантный букет из пяти лилий — эффектный подарок, который привлекает внимание крупными белоснежными цветами и множеством бутонов. Белые лилии выглядят благородно и торжественно, а каждая раскрывающаяся лилия постепенно делает композицию...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/12412149/2a000001a047f28b4990c2a8731e178d2f81/{size}",
+            "price": "5265",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.rxdbZmD9kgMjwEJXfiwLfoCFeAuMa5EhDYwQdTLYoFY"
+          }
+        ]
+      }
+    ]
+  },
+  "topObjects": {
+    "hasPhotos": true,
+    "isYandexEda": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "popular",
+        "categoryItems": [
+          {
+            "title": "11 французких роз",
+            "description": "Состав\nУпаковка дизайнерская - 7 шт.\nсухоцвет стифа - 2 шт.\nроза пинк мондиаль (эквадор) - 11 шт.",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a000001a049172b94865f4fef7ac2a510a6/{size}",
+            "price": "4750",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.4ECHzwpzd3pCApg8Jq7uIeS2-0Q2XIS5ymFXsLGWDuw"
+          },
+          {
+            "title": "Розы , букет роз , французские розы , букет французских роз, хризантема. хризантемы , букет из хризантем",
+            "description": "Яркий и выразительный букет роз в теплых оранжево-золотистых оттенках станет эффектным подарком для любого важного события. Каждая роза отличается крупным бутоном и необычной формой лепестков, а роскошные французские розы придают композиции особый...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001a0490922623e63d3300191f7eb82/{size}",
+            "price": "4300",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.-fzWPF5voLrJf-JXMg-M_SXlxf121BMjzIYqqfliONE"
+          },
+          {
+            "title": "Хризантемы , хризантема , ромашка , ромашки , Букет из ромашек и хризантем — Белые хризантемы с ромашками",
+            "description": "Букет из ромашек с хризантемой — это лёгкая, нежная и невероятно трогательная цветочная композиция, которая сочетает природную красоту и искренность чувств. Белоснежные хризантемы и миниатюрные ромашки создают гармоничный ансамбль, наполненный све...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a000001a0490d17dbd97934b356c4fa6715/{size}",
+            "price": "4633",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.WaoHCDy8X_4AfD_tfy0i_tFHPjg2BpBiK4_-hmt_ggc"
+          },
+          {
+            "title": "Розы , пионовидные розы , букет из 7 пионовидных кустовых роз — Розовые пионовидные кустовые розы | Букет роз премиум",
+            "description": "Букет из 7 пионовидных роз — это изысканная цветочная композиция, которая сочетает романтичность, нежность и современный стиль. Пышные Кустовые розы с множеством аккуратных бутонов создают ощущение лёгкости и объёма, а насыщенный розовый оттенок д...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/16345524/2a000001a049127db8469e0e705220016fe2/{size}",
+            "price": "4446",
+            "currency": "₽",
+            "matchKey": "v1.E-t3gntcZ_y0SUlwm5JXWWWQ2JwMwYbx_vMDhUk5HKQ"
+          },
+          {
+            "title": "Розы, кустовые розы , Букет из 13 кустовых роз — Букет роз",
+            "description": "Изысканный букет роз из 13 веток кустовых роз — это нежная и элегантная композиция, которая станет прекрасным подарком для любого важного события. Пышные кустовые розы с множеством миниатюрных бутонов создают объемный букет, наполненный легкостью,...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1356083/2a000001a04918be63d239f4f1d93d0535fe/{size}",
+            "price": "4345",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.72U3yLsufLHZ4h9smQW0IWud5HU6qInAe2L8zHs5Hbg"
+          },
+          {
+            "title": "Розы , кустовые розы , Букет из кустовых роз — Нежные кустовые розы | Букет роз премиум | Авторский букет из кустовых роз",
+            "description": "сли вы ищете элегантный подарок, который подарит яркие эмоции и запомнится надолго, этот букет роз станет идеальным выбором. Пышные кустовые розы нежного кремово-персикового оттенка создают воздушную композицию, наполненную лёгкостью, романтикой и...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a000001a0492088005f2a5acca4f6fc7eee/{size}",
+            "price": "4875",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.D6qjH2i5D7m83LlDy21t5LTGRN-ogs0ORSDaWB-amIs"
+          },
+          {
+            "title": "Розы, кустовые розы 15шт, пионовидные розы, кустовые пионовидные розы , Букет из розовых кустовых роз",
+            "description": "Этот роскошный букет из розовых кустовых роз создан для тех, кто ценит нежность, изысканность и современную флористику. Пышные пионовидные кустовые розы насыщенного розового оттенка образуют объёмную композицию, которая выглядит дорого, воздушно и...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001a04921ee94177a78b0345afe31c7/{size}",
+            "price": "8298",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.0vdnNdxkuqMRMhK18U9j-i0CPkopvKtLYzgbvgGpJE4"
+          },
+          {
+            "title": "Букет роз с хризантемой альстромерией роза альстромерия хризантема зризантемы",
+            "description": "Нежная и выразительная цветочная композиция, в которой букет роз выглядит особенно эффектно. Букет роз с хризантемой сочетает романтичность и свежесть, а букет роз с альстромерией добавляет композиции воздушность. Нежная альстромерия и яркие альст...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/9854027/2a000001a04943acc289ac4bbd904bd64bc5/{size}",
+            "price": "7895",
+            "currency": "₽",
+            "matchKey": "v1.U4qwaC4vgQRgjzOcvZRvpY7PliABNo7JLsA2j8Ed7_s"
+          },
+          {
+            "title": "Хризантемы , хризантема , Букет из одноголовых хризантем — Белые хризантемы премиум | Хризантема одноголовая",
+            "description": "Букет из хризантем — это элегантная цветочная композиция, которая сочетает благородную простоту, объём и безупречную свежесть. Белоснежные хризантемы с крупными пышными соцветиями создают ощущение лёгкости, гармонии и утончённого вкуса. Такой буке...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/12412149/2a000001a04949ba9ce5bc709da8515d2d90/{size}",
+            "price": "3598",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.gFP2Sn9jaAqgZHgRwgK8T6mQFcYH_7EBTnTK_9m3JkU"
+          },
+          {
+            "title": "Розовые розы, хризантемы, Букет роз с хризантемой - нежный букет с французскими розами",
+            "description": "Нежный букет роз с пышной хризантемой — это стильный, романтичный и выразительный подарок для особого повода. Свежие розы в мягкой розовой гамме выглядят изысканно и дорого, а объемная хризантема добавляет композиции воздушность, фактуру и праздни...",
+            "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001a0495741e53c89a2f87d0989e871/{size}",
+            "price": "5234",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.n-FQNU6Oii4EpSRW13_F5ooPaXHhhDvIAWIGIKLUdTo"
+          }
+        ]
+      }
+    ],
+    "fullObjectsCount": 39,
+    "relevance": {
+      "lastUploadTime": "2026-10-05T19:21:00.765004Z",
+      "lastUpdateTime": "2026-09-13T19:10:23.954508Z"
+    },
+    "source": {
+      "id": "TYCOON",
+      "name": "Representative of the organization"
+    }
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "businessComment": {
+          "text": "Лена, спасибо за такой тёплый отзыв! Очень приятно, что вы отметили свежесть цветов, аккуратную упаковку и работу сотрудников. Мы стараемся собирать букеты под настроение, повод и бюджет каждого клиента.\n\nБудем рады снова видеть вас в нашем цветочном магазине в Рязани. Подберём цветы на любой случай, соберём букет на заказ и при необходимости организуем бесплатную доставку цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо, что выбираете нас для хорошего настроения!",
+          "updatedTime": "2026-09-20T10:30:01.451Z"
+        },
+        "reviewId": "nNWd9Kf8bFF6ny6jT2-d79S6l5tKzr",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Лена Сидорова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/35885/QfLSZAy8sGJGkheL7vz6drRJIU-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "k61ha39cz1caj2r1bhy31t6bdg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный цветочный магазин! Всегда свежие цветы, аккуратная упаковка, вежливые сотрудники. Замечательные букеты — и по настроению, и по бюджету. Очень благодарна за такой сервис! За цветами на любой случай и хорошим настроением только сюда.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika çiçekçi dükkanı! Her zaman taze çiçekler, temiz ambalajlar, kibar çalışanlar. Hem ruh halinize hem de bütçenize göre harika buketler. Böyle bir hizmet için çok minnettarım! Her durum için çiçekler için ve sadece burada iyi bir ruh hali için."
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-19T19:19:49.292Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17756658_2a000001a0bb14dae1cb93ff26322c2823f8",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17756658/2a000001a0bb14dae1cb93ff26322c2823f8/{size}",
+            "createdTime": 1789845103199,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лена Сидорова",
+              "publicId": "k61ha39cz1caj2r1bhy31t6bdg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/35885/QfLSZAy8sGJGkheL7vz6drRJIU-1/{size}",
+              "updateTime": 1789845103199,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20655612_2a000001a0bb14dc47924eddafbb1b8bcb31",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20655612/2a000001a0bb14dc47924eddafbb1b8bcb31/{size}",
+            "createdTime": 1789845104004,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лена Сидорова",
+              "publicId": "k61ha39cz1caj2r1bhy31t6bdg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/35885/QfLSZAy8sGJGkheL7vz6drRJIU-1/{size}",
+              "updateTime": 1789845104004,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20933263_2a000001a0bb14dbbac5cceafd8a93d80ad1",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20933263/2a000001a0bb14dbbac5cceafd8a93d80ad1/{size}",
+            "createdTime": 1789845103851,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лена Сидорова",
+              "publicId": "k61ha39cz1caj2r1bhy31t6bdg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/35885/QfLSZAy8sGJGkheL7vz6drRJIU-1/{size}",
+              "updateTime": 1789845103851,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Маргарита, спасибо за такой подробный отзыв и рекомендацию от всей души! 🫶 Очень рады, что букет для мамы оставил у вас столько приятных впечатлений. Спасибо, что отметили свежесть цветов, разнообразие ассортимента и уютную атмосферу нашего цветочного бутика в Рязани. Нам хочется, чтобы выбирать цветы было так же приятно, как дарить их! Обязательно передадим ваши добрые слова флористам.\n\nБудем ждать вас снова! С удовольствием соберём букет на заказ для мамы и других близких, а бесплатная доставка цветов по Рязани до двери поможет порадовать их, даже если не получится зайти лично.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по телефону 8 993 734 94 95.",
+          "updatedTime": "2026-10-04T05:53:50.980Z"
+        },
+        "reviewId": "J1azXlIKx0GQsNzxy9hRCO32dUcgPVe",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Маргарита Г.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31804/0c-9/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "h0g4hngqp9cbyvgcx936ujd29c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный цветочный бутик! Заказывала букет маме, осталась в полном восторге. Цветы свежие, выглядят как только что срезанные. Очень порадовал ассортимент: глаза разбегаются от разнообразия. Атмосфера в магазине очень приятная, персонал вежливый и ненавязчивый. Цены полностью соответствуют качеству. Рекомендую от всей души!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika çiçek butiği! Anneme bir buket sipariş ettim, tamamen memnun kaldım. Çiçekler taze, yeni kesilmiş gibi görünüyorlar. Ürün yelpazesinden çok memnun kaldım: gözler çeşitlilikten uzaklaşıyor. Mağazadaki atmosfer çok hoş, personel kibar ve göze batmayan. Fiyatlar tamamen kaliteye uygundur. Tüm kalbimle tavsiye ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-03T11:12:43.159Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Виктория, спасибо за такие тёплые слова! 🫶 Особенно ценно получить высокую оценку от человека, которому есть с чем сравнить. Рады, что свежесть цветов и красота наших букетов снова и снова радуют вас. Флористам обязательно передадим вашу благодарность!\n\nБудем ждать вас в нашем цветочном магазине в Рязани за любимыми цветами и новыми сочетаниями. Соберём букет на заказ по вашим пожеланиям, а бесплатная доставка цветов по Рязани до двери поможет порадовать близких, даже если не получится зайти лично.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.",
+          "updatedTime": "2026-09-27T15:06:10.240Z"
+        },
+        "reviewId": "gDexCuxesM_tHVJ7d2I4Te3gD4rAF8",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Виктория Ч.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0f-6/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "z1hua8k9947rqa2q52xp3yfrp8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Всегда свежие цветы, очень красивые букеты, был опыт со многими цветочными в нашем городе, но настолько качественных цветов нет ни у кого, большое спасибо за ваш труд 🫶",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Her zaman taze çiçekler, çok güzel buketler, şehrimizde pek çok çiçekle deneyimim oldu ama hiç kimsenin bu kadar kaliteli çiçekleri yok, çalışmanız için çok teşekkür ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-26T09:30:56.133Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "21030379_2a000001a0dd0db8eab7e2ead7507430884f",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21030379/2a000001a0dd0db8eab7e2ead7507430884f/{size}",
+            "createdTime": 1790415062564,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Виктория Ч.",
+              "publicId": "z1hua8k9947rqa2q52xp3yfrp8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/47747/0f-6/{size}",
+              "updateTime": 1790415062564,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "21117938_2a000001a0dd0ddd2b03548d68712e991ae4",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21117938/2a000001a0dd0ddd2b03548d68712e991ae4/{size}",
+            "createdTime": 1790415073449,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Виктория Ч.",
+              "publicId": "z1hua8k9947rqa2q52xp3yfrp8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/47747/0f-6/{size}",
+              "updateTime": 1790415073449,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Денис, спасибо за такие тёплые слова и рекомендацию! 🫶 Мы вас не «терпели», а с удовольствием помогали разобраться в деталях 😊 Планы могут меняться, и мы рады, что смогли учесть ваши пожелания. Особенно приятно, что вы отметили верность слову - для нас важно соблюдать договорённости и быть на связи на каждом этапе заказа. Обязательно передадим вашу благодарность флористам!\n\nБудем ждать вас снова в нашем цветочном магазине в Рязани! Соберём букет на заказ по вашим пожеланиям, а бесплатная доставка цветов по Рязани до двери поможет порадовать близких, даже если не получится зайти лично.\n\nДля вас — персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по телефону 8 993 734 94 95.",
+          "updatedTime": "2026-10-03T07:30:55.739Z"
+        },
+        "reviewId": "mmAlFXnGZxWRX5_wXfCfKNKSbIMX2s6R",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Денис Борисенко",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/0o-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "gawqwnjgaapw9eq3nmmvnpmb68",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Просто лучшие! Рекомендую! Вытерпели меня, что задавал 100 вопросов , потом перенес на неопределенный срок заказ, потом опять все же объявился и снова множество изменений просил через сообщения, т к выходило у самого все не по плану . Выполняли все просьбы отвечали на вопросы и подстраивались под меняющиеся условия. Очень понравилось взаимодействие и верность слову. Спасибо!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Sadece en iyileri! Tavsiye ederim! Bana 100 soru sorduğuma katlandılar, sonra siparişi süresiz olarak erteledim, sonra yine ortaya çıktı ve mesajlar aracılığıyla birçok değişiklik talep ettim, çünkü her şey plana göre çıkmadı. Tüm istekleri yerine getirdiler, soruları cevapladılar ve değişen koşullara uyum sağladılar. Söze olan etkileşimi ve sadakati çok beğendim. Teşekkür ederiz!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-30T20:44:09.996Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "\nВалерия, спасибо! Ваши слова о любви и старании особенно тронули нашу команду. Мы много внимания уделяем и самому салону, и каждому букету, поэтому очень приятно, что вы это заметили. Рады, что флористы быстро помогли с выбором, а результат пришёлся вам по вкусу!\n\nВозвращайтесь в наш цветочный магазин в Рязани за новыми сочетаниями и любимыми цветами. Соберём стильный букет на заказ с учётом ваших пожеланий. А если захотите порадовать кого-то на расстоянии, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nК следующей встрече для вас есть приятный бонус - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:48:41.351Z"
+        },
+        "reviewId": "lO6OfuFXM4pk5ae1mlvsL2dEpwWUgf4",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Валерия Р.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36777/0b-8/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "zq8d8xmqjdcg3yrgmdbk2bfvkw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень понравился! Большой выбор свежих цветов, красивые букеты и внимательные флористы. Помогли быстро собрать букет — получилось стильно и со вкусом.\nВидно, что в салон вложено много любви и старания.\nОбязательно приду ещё!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok beğendim! Çok çeşitli taze çiçekler, güzel buketler ve özenli çiçekçiler. Buketi hızlı bir şekilde toplamaya yardımcı oldular — şık ve zevkli olduğu ortaya çıktı.\nSalona çok fazla sevgi ve çaba harcandığı açıktır.\nKesinlikle tekrar geleceğim!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-09T13:16:27.915Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16866637_2a00000197ef999d3ed869e67c8144c0e794",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16866637/2a00000197ef999d3ed869e67c8144c0e794/{size}",
+            "createdTime": 1752071512904,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Валерия Р.",
+              "publicId": "zq8d8xmqjdcg3yrgmdbk2bfvkw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/36777/0b-8/{size}",
+              "updateTime": 1752071512904,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Никита, спасибо! Здорово, что вы зашли к нам и остались довольны. Иногда выбрать букет сложнее, чем кажется, поэтому приятно знать, что помощь флориста пришлась кстати, а сборка не заставила вас долго ждать.\n\nТеперь вы знаете, куда заглянуть за свежими цветами в Рязани! Поможем подобрать букет на день рождения, свидание или просто без повода. А если приехать не получится, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nК следующему заказу для вас есть приятный бонус - персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Заходите ещё!\n",
+          "updatedTime": "2026-09-13T16:34:23.455Z"
+        },
+        "reviewId": "N_nfYU8OgzQD6PX_Hpfb72z8OPc9yGC9J",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Никита",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25817/0l-9/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ra763kdey5811v13xnnfy80d6g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличное место, нужен был букет, зашел сюда, все великолепно, очень понравилось. Цветы свежие, помогли с выбором, и быстро собрали. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir yer, bir bukete ihtiyacım vardı, buraya geldim, her şey harika, çok beğendim. Çiçekler taze, seçime yardımcı oldu ve çabucak toplandı. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-05-24T11:33:59.707Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20191917_2a0000019e59c3a7b307a7110d5e2d8b5aa9",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20191917/2a0000019e59c3a7b307a7110d5e2d8b5aa9/{size}",
+            "createdTime": 1779622457408,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Никита",
+              "publicId": "ra763kdey5811v13xnnfy80d6g",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/0l-9/{size}",
+              "updateTime": 1779622457408,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Влада, спасибо, что поделились впечатлениями! Как приятно получить отзыв от той, для кого выбирали букет. Рады, что подсказки флористов помогли вашему молодому человеку определиться, а цветы пришлись вам по душе!\n\nБудем рады новым встречам в нашем цветочном магазине в Рязани. Поможем подобрать букет для свидания, праздника или неожиданного сюрприза. А бесплатная доставка цветов по Рязани до двери сделает подарок ещё удобнее.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.",
+          "updatedTime": "2026-09-22T14:23:13.027Z"
+        },
+        "reviewId": "CufE2GIbZoTsiCJupV4wMou9nXbRpH",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Влада Сидорова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/68143/0y-8/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wyvybqy3w2jbn1jah7vg45ft64",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Молодой человек покупал букетик в этом месте, тут работают отзывчивые флористы, которые помогли с выбором, цветы свежие, букет очень понравился!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Genç adam bu yerde bir buket satın alıyordu, seçime yardımcı olan sempatik çiçekçiler burada çalışıyor, çiçekler taze, buketi çok beğendim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-21T11:58:09.726Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20840239_2a000001a0c3d4b0075fd49333736843702e",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20840239/2a000001a0c3d4b0075fd49333736843702e/{size}",
+            "createdTime": 1789991894878,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Влада Сидорова",
+              "publicId": "wyvybqy3w2jbn1jah7vg45ft64",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/68143/0y-8/{size}",
+              "updateTime": 1789991894878,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Владислав, спасибо, что возвращаетесь к нам и так подробно делитесь впечатлениями! Вы отметили многое, над чем флористы работают каждый день: сочетания цветов, аккуратность оформления и внимательное отношение к пожеланиям. Особенно приятно, что вы чувствуете себя комфортно при выборе и довольны тем, как долго стоят букеты.\n\nБудем рады и дальше быть вашим цветочным магазином в Рязани. Соберём букет на заказ под нужный повод и бюджет, подскажем варианты оформления. Если не получится зайти лично, можно воспользоваться бесплатной доставкой цветов по Рязани до двери.\n\nДля вас как постоянного покупателя - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо за доверие к нашей команде!\n",
+          "updatedTime": "2026-09-13T16:41:09.940Z"
+        },
+        "reviewId": "w98WmuUOgV1Nqr5zL2LnQ0aQl8Pbtl9d",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Владислав С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/0r-4/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "qbme1n0u5xbv0136hrj67jwtvm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хожу в этот цветочный магазин уже не первый раз — и каждый раз выручают. Букеты всегда выглядят аккуратно и со вкусом, видно, что флористы реально понимают, что делают, а не просто «собирают цветы». Цены адекватные для такого уровня, цветы свежие, стоят долго. Отдельный плюс — сервис: спокойно подсказывают, не навязывают лишнего и реально стараются сделать красиво.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu çiçekçiye ilk defa gitmiyorum - ve her seferinde yardım ediyorlar. Buketler her zaman temiz ve zevkli görünür, çiçekçilerin sadece «çiçek toplamakla\" değil, ne yaptıklarını gerçekten anladıkları açıktır. Fiyatlar bu seviye için yeterli, çiçekler taze, uzun sürüyor. Ayrı bir artı hizmet: sakince soruyorlar, gereksiz şeyler empoze etmiyorlar ve gerçekten güzelce yapmaya çalışıyorlar."
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-09T06:52:24.460Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Анастасия, спасибо, что поделились такой тёплой историей! То, что мама сразу поставила букет на самое видное место, очень трогает. Рады, что нежные розы, эустома и мягкие оттенки помогли передать вашу любовь и благодарность. Обязательно передадим ваши слова флористам!\n\nПриходите в наш цветочный магазин в Рязани за новыми букетами для мамы и других дорогих вам людей. Подберём цветы на заказ с учётом их вкусов, а бесплатная доставка цветов по Рязани до двери поможет устроить сюрприз, даже если вы далеко.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:43:13.608Z"
+        },
+        "reviewId": "2-XWzFTQc2h9lg5ntDW0StNsqQ1eVq",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Анастасия Соколова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/68143/0y-7/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "2gej87nge3y2h5pzcntpwpg4w4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Искала букет, который передаст мою любовь и благодарность маме. Флористы помогли создать идеальную композицию: нежные розы, эустома и зелень, всё в мягких оттенках. Букет получился элегантным, не кричащим, но очень трогательным. Мама сразу поставила его на самое видное место. Ваша работа — это настоящее искусство!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Anneme sevgimi ve minnettarlığımı aktaracak bir buket arıyordum. Çiçekçiler mükemmel bir kompozisyon oluşturmaya yardımcı oldular: hepsi yumuşak tonlarda narin güller, eustoma ve yeşillikler. Buket zarif, gösterişli değil ama çok dokunaklı çıktı. Annem onu hemen en belirgin yerine koydu. İşiniz gerçek bir sanattır!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-14T07:00:39.048Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Татьяна, спасибо за такой душевный отзыв! 🫶 Очень приятно, что вы остались довольны букетом, а именинница оценила ваш подарок. Вы точно подметили: сервис делают люди! Нам важно, чтобы можно было спокойно обсудить свои идеи, получить помощь с выбором и уйти с цветами, которые нравятся. Рады, что вам захотелось вернуться!\n\nБудем ждать вас снова в нашем уютном цветочном магазине в Рязани! Поможем выбрать свежие цветы и соберём букет на заказ по вашим пожеланиям. А бесплатная доставка цветов по Рязани до двери поможет устроить приятный сюрприз близким.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по телефону 8 993 734 94 95.",
+          "updatedTime": "2026-10-04T05:57:23.422Z"
+        },
+        "reviewId": "Q0mILRoUFy1sTKFJ7MKqTUB7Xz6jvmh",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Татьяна Кирилкина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/0k-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kv9evrkeu08eu48f8e5nmyc2dg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Камерный магазин цветов, девушка-флорист помогла составить букет, я осталась довольна ее работой, получилось мило, имениннице понравилось!\nПриятное место, обязательно буду обращаться снова. Отдельное спасибо флористу за заинтересованность и желание помочь с выбором, сервис делаю люди!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Oda çiçekçi dükkanı, çiçekçi kız buketi hazırlamaya yardım etti, işinden memnun kaldım, sevimli çıktı, doğum günü kızı hoşuna gitti!\nGüzel bir yer, kesinlikle tekrar döneceğim. Çiçekçiye ilginiz ve seçim konusunda yardım etme arzunuz için özel teşekkürler, insanlar hizmeti yapıyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-03T16:32:00.846Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Евгений, спасибо! Приятно узнать, что букет радовал вас целых две недели, а покупка оставила хорошие впечатления и по цене, и по общению с сотрудниками. Ваше «ещё не раз заеду» - лучшая причина встретить вас в следующий раз с ещё одной красивой идеей для букета!\n\nБудем ждать вас в нашем цветочном магазине в Рязани. Подберём свежие цветы под ваш повод и бюджет. А доставка у нас бесплатная: привезём букет по Рязани прямо до двери, если захотите сделать сюрприз близким или сэкономить время на поездке.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:41:55.217Z"
+        },
+        "reviewId": "FTSn1ICXK92_MvRXyRdx_XGIOVMH4Qod",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Евгений Каретников",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/58107/0c-7/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "gg10u3rkbw0t53dqy7g37ff54m",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Собрали красивый букет. Цветы стояли 2 недели. Отличное отношение к клиентам. Цены отличные. А главное есть доставка. Еще не раз заеду туда за букетом. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel bir buket topladılar. Çiçekler 2 hafta ayakta kaldı. Müşterilere karşı mükemmel tutum. Fiyatlar harika. Ve en önemlisi teslimat var. Bir kereden fazla buketi almak için oraya uğrayacağım. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-01-29T23:24:06.165Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "16299341_2a0000019c0c1238bed1153d8d2bc224a93d",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16299341/2a0000019c0c1238bed1153d8d2bc224a93d/{size}",
+            "createdTime": 1769729047581,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Евгений Каретников",
+              "publicId": "gg10u3rkbw0t53dqy7g37ff54m",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0c-7/{size}",
+              "updateTime": 1769729047581,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо, что выбираете нас уже в третий раз! «Место, где точно не подведут» - большое доверие, которым мы дорожим. Приятно, что каждый заказ оставил хорошие впечатления: от общения и сборки букета до доставки и свежести цветов.\n\nКогда снова захотите порадовать близких, будем рады собрать для вас букет на заказ в Рязани. Обсудим пожелания, подберём цветы под ваш бюджет и организуем бесплатную доставку цветов по Рязани до двери.\n\nДля вас как постоянного покупателя есть персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо, что возвращаетесь!\n",
+          "updatedTime": "2026-09-13T16:43:58.236Z"
+        },
+        "reviewId": "NIAd8opcu56U-LD7xqfpZUVt3w3TYLp",
+        "businessId": "61022098215",
+        "author": {
+          "name": "vieri 32",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26057/0k-9/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "eamg58385j7v9t0mu4dj1wvnu0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Уже третий раз заказываю здесь цветы - и каждый раз без нареканий. Всегда свежие букеты, быстрая сборка, вежливые консультанты. Ни разу не было проблем с доставкой или качеством. Для меня это место, где точно не подведут.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Burada üçüncü kez çiçek sipariş ediyorum - ve her seferinde şikayet etmeden. Her zaman taze buketler, hızlı montaj, kibar danışmanlar. Hiçbir zaman teslimat veya kalite ile ilgili bir sorun olmadı. Benim için burası kesinlikle hayal kırıklığına uğratılmayacakları bir yer."
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-06T18:34:30.321Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Денис, спасибо за тёплые слова и рекомендацию! Рады, что смогли выручить вас, быстро собрать букет и доставить его вовремя. Обязательно передадим вашу благодарность флористам!\n\nБудем рады новым заказам в нашем цветочном магазине в Рязани. Поможем подобрать букет с учётом повода, пожеланий и бюджета, а бесплатная доставка цветов по Рязани позволит порадовать близких прямо у их двери.\n\nДля вас — персональная скидка на следующий заказ! Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо за доверие, Денис!",
+          "updatedTime": "2026-09-13T16:25:02.931Z"
+        },
+        "reviewId": "EKvN8prbriLrH3ilAONBib88G4e3yJuQ",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Денис Понкратов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/49368/enc-d7c78138b423552a756076acbbbfccd08561ddf435a40e70a7cde83fe66d5f16/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "511ea2w01h8v1q6bzw8v8ppxe0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Спасибо большое флористам очень выручили. Нужны были цветы с доставкой в течении получаса. Вошли в положение, быстро собрали букет и доставили. Всем рекомендую обязательно обращусь еще.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çiçekçilere çok teşekkür ederim, çok yardımcı oldular. Yarım saat içinde teslim edilecek çiçeklere ihtiyacımız vardı. Pozisyona girdiler, çabucak bir buket topladılar ve teslim ettiler. Herkese kesinlikle tekrar döneceğimi tavsiye ederim."
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-08T15:48:12.671Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Алексей Владимирович, спасибо за добрые слова! Восторг вашей жены - замечательный результат, и мы рады, что букет стал частью её дня рождения. Особенно приятно, что теперь вы готовы доверить нам цветы для других семейных праздников.\n\nБудем рады помочь с каждым новым поводом в нашем цветочном магазине в Рязани. Подберём букет на день рождения или годовщину с учётом вкусов получателя и вашего бюджета. А если захотите устроить сюрприз, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. До новых встреч!\n",
+          "updatedTime": "2026-09-13T16:44:40.469Z"
+        },
+        "reviewId": "nJG7D-rfQOTCyQuNryn7W88pRAqNZjo3l",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Алексей Владимирович",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/29310/kv48nCCm6KQV8sWRDa6YPGgoCHM-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "vjccjr303qph4r9503qqvfvv2c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказывал букет жене на День Рождения.\nОна осталась в полном восторге. Цены адекватные за такое качество и индивидуальный подход. \nТеперь знаю, где буду брать цветы для всех семейных праздников. Спасибо!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Karıma Doğum Günü için bir buket sipariş ettim.\nO tamamen memnun kaldı. Fiyatlar bu kalite ve bireysel yaklaşım için yeterlidir. \nŞimdi tüm aile tatilleri için nereden çiçek alacağımı biliyorum. Teşekkür ederiz!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-11-23T17:47:00.300Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17863912_2a0000019ab1d37c5575c2109b302e4c0779",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17863912/2a0000019ab1d37c5575c2109b302e4c0779/{size}",
+            "createdTime": 1763920019304,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Алексей Владимирович",
+              "publicId": "vjccjr303qph4r9503qqvfvv2c",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/29310/kv48nCCm6KQV8sWRDa6YPGgoCHM-1/{size}",
+              "updateTime": 1763920019304,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Арина, спасибо, что рассказали о букете! Когда до юбилея остаётся мало времени, хочется поскорее решить вопрос с цветами. Рады, что флорист смог быстро собрать пышный букет, который ещё долго радовал после праздника. А французским розам - отдельный привет за стойкость!\n\nЗаходите ещё, будем рады подобрать для вас новое сочетание цветов. В нашем цветочном магазине в Рязани можно заказать букет на юбилей или другой повод с учётом ваших пожеланий и бюджета. Если удобнее получить его по адресу, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:31:53.057Z"
+        },
+        "reviewId": "HiXlPt8nUX9Mu8F59GU-qL574eTGbhAxn",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Арина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0l-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wxnfhg02dw6yqk7fx24y06d7vr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Был срочно нужен букет на юбилей. Флорист быстро, красиво и пышно собрал букет. Простоял долго, особенно французские розы, зайду еще не раз. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Yıldönümü için acilen bir bukete ihtiyacım vardı. Çiçekçi buketi hızlı, güzel ve bereketli bir şekilde topladı. Uzun süre durdum, özellikle Fransız gülleri, bir kereden fazla uğrayacağım. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-08-30T17:18:25.505Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Артём, спасибо за отзыв! Рады, что смогли быстро собрать букет с учётом вашего бюджета и пожеланий. Спасибо, что отметили обслуживание: нам важно, чтобы покупка цветов оставляла приятное впечатление.\n\nБудем рады снова видеть вас в нашем цветочном магазине в Рязани! Поможем выбрать цветы, соберём букет на заказ и при необходимости организуем бесплатную доставку до двери по городу.\n\nВ благодарность за обратную связь дарим вам персональную скидку на следующую покупку . Условия можно уточнить у наших сотрудников.  До новых встреч!",
+          "updatedTime": "2026-09-13T16:21:36.380Z"
+        },
+        "reviewId": "4MDzBAthYlV-RSZ89tFltk92BerCAvH",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Артем К.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45566/0t-6/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "r8p7yvqbgg38nt04guqh4tdyem",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Зашёл по дороге с работы, готовые букеты не подошли. Собрали новый минут за 15, учли бюджет и пожелания по цветам. Нормальное обслуживание, без навязывания лишнего. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "İşten yola çıktım, bitmiş buketlere uymadı. 15 dakikada yeni bir dakika topladılar, bütçeyi ve renk isteklerini dikkate aldılar. Gereksiz yere zorlanmadan normal bakım. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-11T06:20:01.803Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Людмила, спасибо за столько добрых слов! Обязательно передадим Анастасии вашу благодарность. Очень приятно, что вы возвращаетесь за её букетами и помните новогодние композиции даже после праздников. А слова о витрине радуют отдельно: хочется, чтобы уже с порога появлялось желание рассмотреть каждый цветок!\n\nБудем рады новой встрече в нашем цветочном магазине в Рязани. Подберём для вас букет или цветочную композицию под настроение и повод. Если удобнее получить заказ дома или отправить его близким, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо, что цените работу нашей команды!\n",
+          "updatedTime": "2026-09-13T16:38:33.867Z"
+        },
+        "reviewId": "m1PjYQQPXqiZTvAWCS64k5X3Ai2qsjLnL",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Людмила Хитрова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63256/enc-334107dd3d0dd94b931111c98edc4772c81c2d452ddabbfe6088dccbccba39a1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ub6kz5rw06e45bwjcr6vbm8k2r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень атмосферное место! Потрясающая витрина, всегдв есть огромный выбор, композиции составляют очень профессионально! Большое спасибо флористу Анастасии, качественно и со вкусом всегда составляет букеты! А композиции на новый года выше всех похвал! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok atmosferik bir yer! Harika bir vitrin, her zaman çok çeşitli seçenekler var, kompozisyonlar çok profesyonelce yapılıyor! Çiçekçi Anastasia'ya çok teşekkür ederim, her zaman kaliteli ve zevkli buketler yapar! Ve yeni yıl için besteler tüm övgülerin üstünde! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-12T09:02:44.453Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Андрей, спасибо за отзыв! Очень рады, что букет понравился вашей жене. Приятно, что вы отметили свежесть цветов и аккуратное оформление. Флористы постарались учесть ваш бюджет и пожелание по сдержанной упаковке.\n\nВ нашем цветочном магазине в Рязани можно заказать букет на день рождения, годовщину или просто в знак внимания. Подберём цветы и оформление по вашим пожеланиям, а при необходимости организуем бесплатную доставку цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ! Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Будем рады видеть вас снова!\n",
+          "updatedTime": "2026-09-13T16:27:03.957Z"
+        },
+        "reviewId": "B3Ni4_ckEyZVe6pI-9lEvpz23pxdwH",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Андрей Буртолик",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31804/0m-7/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "qnvjnjj5dbw5eabp81tq17nxfw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Покупал букет на день рождения жены. Назвал сумму и попросил собрать без слишком яркой упаковки. Получилось аккуратно, цветы свежие. Жене понравилось.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Karımın doğum günü için bir buket aldım. Miktarı aradım ve çok parlak ambalajlar olmadan toplamamı istedim. Düzgün çıktı, çiçekler taze. Karım hoşuna gitti."
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-06T12:00:45.434Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Мария, спасибо за отзыв! Здорово, что получилось оформить заказ онлайн и забрать готовый букет к нужному времени. А парковка рядом с магазином делает такую поездку ещё удобнее, особенно когда день расписан по минутам 👌🏻\n\nОбращайтесь к нам снова за цветами в Рязани! Соберём букет на заказ по вашим пожеланиям и согласуем время получения. Если удобнее обойтись без поездки, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующую покупку для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:42:32.298Z"
+        },
+        "reviewId": "jNZU7vsST-YhZSTFu7S4EsdVtYmZQN",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Мария Н.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0l-7/{size}",
+          "professionLevel": "Level 11 Local Expert",
+          "rtb": "Level 11 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "mexuh130gpnbvx5adrxf7bnagm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Быстро оформили заказ он-лайн, к нужному времени уже было все готово 👌🏻 \nУдобная парковка прям рядом с цветочным 👍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Hızlı bir şekilde çevrimiçi sipariş verdiler, doğru zamanda her şey hazırdı \nÇiçeğin hemen yanında uygun park yeri"
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-22T06:51:15.507Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17649278_2a0000019b44d3b1a2e2b601eada7a5ff772",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17649278/2a0000019b44d3b1a2e2b601eada7a5ff772/{size}",
+            "createdTime": 1766386286177,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Мария Н.",
+              "publicId": "mexuh130gpnbvx5adrxf7bnagm",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/47747/0l-7/{size}",
+              "updateTime": 1766386286177,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Михаил, спасибо за рекомендацию! Приятно, что вам понравились и выбор свежих букетов, и работа флористов. За словами «всё на высшем уровне» для нашей команды стоит самое главное - вы остались довольны покупкой!\n\nЗаглядывайте в наш цветочный магазин в Рязани снова. Поможем выбрать готовый букет или соберём цветы на заказ под ваш повод, вкус и бюджет. Если удобнее получить букет по адресу, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.",
+          "updatedTime": "2026-09-25T06:11:50.709Z"
+        },
+        "reviewId": "g_PLQ3oVnNyM8RqGA2oZoZH09-zu_Lv",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Михаил М.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25358/0d-8/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "22pc516mppg5xc6nxqbj992t1g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хорошее место со свежими букетами  ! Большой выбор,  профессиональные флористы. Вообще все на высшем уровне, рекомендую !",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Taze buketlerle güzel bir yer! Geniş seçim, profesyonel çiçekçiler. Genel olarak, her şey en üst düzeyde, tavsiye ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-23T14:01:03.577Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Татьяна, спасибо за такой тёплый отзыв! Собрать букет, о котором вы мечтали, и услышать «теперь только к вам» - большая радость для флориста. Обязательно передадим ему ваши слова. Здорово, что цветы долго радуют вас и после покупки!\n\nПриходите с новыми идеями в наш цветочный магазин в Рязани. Подберём сочетания любимых цветов и соберём букет на заказ для вас или ваших близких. Если удобнее получить его дома, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Будем рады снова воплотить ваши пожелания!\n",
+          "updatedTime": "2026-09-13T16:46:32.061Z"
+        },
+        "reviewId": "D_CuwGoF7P4I4mmy6Pu5GSljBqkpCv-x",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Татьяна С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0m-5/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "nrnxz5t06u965rj8c2rw894320",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Огромное спасибо за ваш труд! Цветы всегда свежайшие, стоят очень долго. Флорист — настоящий волшебник, собрал именно такой букет, о котором я мечтала. Теперь только к вам!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çalışmanız için çok teşekkür ederim! Çiçekler her zaman en tazedir, çok uzun ömürlüdür. Çiçekçi gerçek bir sihirbazdır, tam olarak hayalini kurduğum buketi topladı. Şimdi sadece size!"
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-06T17:31:48.782Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Данила, спасибо за рекомендацию! Здорово, что букет получился именно таким, как вы хотели, и долго радовал свежестью. Передадим флористам ваши слова: им будет приятно узнать, что вы оценили и сборку, и обслуживание.\n\nКогда появится новый повод для цветов, обращайтесь в наш цветочный магазин в Рязани. Соберём букет на заказ по вашим пожеланиям, подберём оформление и при необходимости организуем бесплатную доставку цветов по Рязани до двери.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо за доверие!\n",
+          "updatedTime": "2026-09-13T16:45:55.503Z"
+        },
+        "reviewId": "n0XfaxrtvRMNMAqBVzjYJNnhpBJF2kiH",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Данила С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/J3fyUv5bqDmUGwflTbIf9piTg-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "7rkmbay2qpp4whn7jxtd9rb148",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Высокое качество цветов и профессиональный сервис. Букет был собран точно по пожеланиям, цветы свежие и долго стояли. Рекомендую",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Yüksek kaliteli renkler ve profesyonel hizmet. Buket tam olarak isteklerine göre toplandı, çiçekler taze ve uzun süre ayakta kaldı. Öneriyorum"
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-11T09:28:14.083Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Виктория, спасибо за отзыв и рекомендацию! Приятно, что всё сложилось так, как вы рассчитывали: и цветы понравились, и ваши пожелания были услышаны. Такие отзывы помогают флористам увидеть, что их внимание к деталям замечают и ценят.\n\nКогда снова понадобятся цветы в Рязани, будем рады собрать для вас букет на заказ с учётом любимых оттенков, повода и бюджета. Можно заглянуть в магазин или воспользоваться бесплатной доставкой цветов по Рязани до двери.\n\nДля следующего заказа у вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо за доверие!\n",
+          "updatedTime": "2026-09-13T16:39:43.349Z"
+        },
+        "reviewId": "hZFu5lFVzrYO7yXEz1uhFjrJPrC0Keco",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Виктория Сергеева",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/35885/KJdENb7ckTHGJGgzs2na1I3NnM-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "k8q1yfawmfdk71bhedpa52nvgm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин! Порадовало обслуживание — учли все пожелания, качество цветов на высоте. Полностью оправдали мои ожидания. Рекомендую всем, кто ценит качество и внимательное обслуживание!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza! Hizmetten memnun kaldım - tüm istekleri dikkate aldık, çiçeklerin kalitesi zirvede. Beklentilerimi tamamen karşıladık. Kaliteye ve özenli hizmete değer veren herkese tavsiye ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-12T06:41:55.392Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Элина, спасибо, что выбрали нас! ♥️ Особенно приятно, что после долгих поисков вам пришёлся по душе именно наш магазин. Рады, что вам понравилась композиция из свежих цветов и что мы быстро её доставили!\n\nЗаглядывайте в наш цветочный магазин, когда захочется порадовать себя или близких. Соберём букет на заказ по вашим пожеланиям, а если не получится зайти лично, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можно уточнить у нас в магазине или по телефону 8 993 734 94 95.",
+          "updatedTime": "2026-11-08T09:32:17.331Z"
+        },
+        "reviewId": "ddIEcSKvsjORiL7YaNr8AcIpwCwHci",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Элина Д.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/21121462/Sgm28JlQVWfWeRQBK2fjAptAs-1/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4vmxvtkct0kyjwxzqxvtbbctg4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень долго искала хороший цветочный магазин в Рязани и нашла. Свежие цветы, красиво собранная композиция и оперативная доставка - благодарю ♥️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok uzun zamandır Ryazan'da iyi bir çiçekçi dükkanı arıyordum ve buldum. Taze çiçekler, güzelce toplanmış kompozisyon ve hızlı teslimat - teşekkür ederim ♥️"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-29T13:29:29.109Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "21010120_2a000001a187d9efef43f13caf29353cd7c4",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21010120/2a000001a187d9efef43f13caf29353cd7c4/{size}",
+            "createdTime": 1793280570304,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Элина Д.",
+              "publicId": "4vmxvtkct0kyjwxzqxvtbbctg4",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/21121462/Sgm28JlQVWfWeRQBK2fjAptAs-1/{size}",
+              "updateTime": 1793280570304,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Сергей, спасибо за подробный отзыв! Здорово, что поиски цветочного магазина рядом с домом привели вас к нам. Приятно, что вы отметили столько деталей: от выбора свежих цветов и цен до аккуратной упаковки. Сотрудникам обязательно передадим вашу благодарность за помощь и оперативность!\n\nБудем рады стать вашим привычным местом для покупки цветов в Рязани. Поможем выбрать готовый букет или соберём букет на заказ с учётом повода и бюджета. А доставка цветов по Рязани у нас бесплатная - привезём домой или на работу, как вам удобнее.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо, что рекомендуете нас!\n",
+          "updatedTime": "2026-09-13T16:47:52.855Z"
+        },
+        "reviewId": "nGTRVmrngriR-qvhhqIkIozBWCoc1zrrt",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Sergey Lyashenko",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/68143/iNrqk6IdHn9jv4FeZ64nrsFmZk-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Давно искал хороший цветочный магазин рядом с домом, и вот наконец нашел! Отличный ассортимент свежесрезанных цветов, приятные цены и вежливое обслуживание. Букеты красивые, составлены профессионально и аккуратно упакованы. Особенно понравилось, что можно заказать доставку прямо домой или на работу. Очень удобно и быстро. Большое спасибо сотрудникам за помощь в выборе и оперативность. Однозначно рекомендую этот магазин.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Uzun zamandır evin yanında güzel bir çiçekçi dükkanı arıyordum ve sonunda buldum! Mükemmel taze kesilmiş çiçek yelpazesi, uygun fiyatlar ve güler yüzlü hizmet. Buketler güzeldir, profesyonelce derlenmiş ve özenle paketlenmiştir. Özellikle eve veya işe doğrudan teslimat siparişi verebilmenizi beğendim. Çok kullanışlı ve hızlı. Çalışanlara seçim ve çabukluktaki yardımları için çok teşekkür ederim. Bu mağazayı kesinlikle tavsiye ederim."
+        },
+        "rating": 5,
+        "updatedTime": "2025-07-16T16:16:26.733Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Светлана, спасибо за такой душевный отзыв! Не всегда легко описать букет, который представляешь, и совсем не обязательно разбираться в названиях цветов. Для этого рядом флорист: выслушать, подсказать и почувствовать ваши пожелания. Очень рады, что получилось именно так, как вам хотелось! А за желание рассказывать о нас другим - отдельная благодарность.\n\nПриходите в наш цветочный магазин в Рязани с новыми идеями. Соберём букет на заказ под ваш повод и настроение, а при необходимости организуем бесплатную доставку цветов по Рязани до двери.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Будем рады видеть вас снова!\n",
+          "updatedTime": "2026-09-13T16:39:10.959Z"
+        },
+        "reviewId": "-0A8wzsx314hj2QxlR20BZprUYaeqe",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Светлана Титкова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/0u-5/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "8f99pzfq7t7xe1qpr0k30jujhg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Спасибо большое за ваше мастерство, за вашу чуткость, за то, что не смотря на сумбурное объяснение, составили букет именно так, как хотелось. Очень красиво получилось. 👍👍👍 буду рассказывать о вас всем.\n\n",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Becerileriniz, duyarlılığınız için, karışık açıklamaya rağmen buketi tam olarak istediğim gibi hazırladığınız için çok teşekkür ederim. Çok güzel çıktı. Sizden hepinize bahsedeceğim.\n\n"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-12T08:29:37.052Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Ольга, спасибо! Очень приятно, что вы отметили и сами букеты, и то, как вас встретили. За красивым оформлением стоят ваши пожелания и работа флориста, который внимательно к ним прислушался. Здорово, что результат вам понравился!\n\nЗаглядывайте к нам за цветами в Рязани, когда появится повод или просто захочется кого-то порадовать. Обсудим оттенки, подберём сочетания и соберём букет на заказ. А если удобнее получить его дома или отправить близкому человеку, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующую покупку для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо, что рекомендуете нас другим!\n",
+          "updatedTime": "2026-09-13T16:30:05.778Z"
+        },
+        "reviewId": "5yQfORs3HheWxKRHkiQb7OTfZ8fW43",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Ольга Десятова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36777/LQ4Sbm45ZR6zlqozMFq5UbWss-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "9mjctr8bqbxqjgrnw0t8n5wutr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Свежие цветы, дружелюбный персонал. Учли пожелания и красиво оформили букеты. Рекомендую ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Taze çiçekler, güler yüzlü personel. İstekleri dikkate aldık ve buketleri güzelce dekore ettik. Öneriyorum "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-04T13:01:21.222Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Павел, спасибо за столько добрых слов! Приятно, что вы оценили и цветы, и отношение наших сотрудников. Мы с удовольствием показываем разные варианты и отвечаем на вопросы, чтобы вам было легко выбрать букет по душе.\n\nЗаглядывайте в наш цветочный магазин в Рязани снова! Подберём цветы для подарка или соберём букет на заказ с учётом ваших пожеланий и бюджета. Если удобнее получить его по адресу, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Будем рады новой встрече!\n",
+          "updatedTime": "2026-09-13T16:45:19.040Z"
+        },
+        "reviewId": "rH7flEqnfjRWj_iF0msKOravcKGQunFz",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Павел К.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51169/dH7IGJaBEApEAfxFhgueF7yjjpc-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "98tp5ed79e95uffwcmbzdyp21w",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень отличный и хороший магазин, добрый и отзывчивый персонал, все расскажут и покажут, цветы очень качественные, хорошие и красивые ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok mükemmel ve iyi bir mağaza, nazik ve yardımsever personel, her şeyi anlatacak ve gösterecek, çiçekler çok kaliteli, iyi ve güzel "
+        },
+        "rating": 5,
+        "updatedTime": "2025-11-21T11:56:58.080Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за такой тёплый отзыв! 🫶 «Вживую ещё красивее, чем на фото» - особенно приятно слышать флористам. Рады, что нежные цветы и их аромат добавили уюта вашей квартире!\n\nВозвращайтесь за новой порцией цветочного настроения в наш магазин в Рязани. Подберём для вас букет в любимых оттенках, а если удобнее получить его дома, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Будем ждать вас снова!\n",
+          "updatedTime": "2026-09-13T16:37:32.664Z"
+        },
+        "reviewId": "_HatsYd1zJBzFuZynuW7NZ0e2H-4hlE",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Downtown62 D.",
+          "avatarUrl": "",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "mr1k6p4nd2f6q9w8qxemw9wapr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не ожидала, что в реале будет ещё красивее, чем на фото. Нежнейшие цветы , всё свежее, аромат на всю квартиру, Обязательно вернусь 🫶",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Gerçek hayatta fotoğraftan daha güzel olacağını beklemiyordum. En narin çiçekler, her şey taze, tüm daire için koku, Kesinlikle geri döneceğim"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-13T06:55:43.862Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Александр, спасибо за пять звёзд и добрые слова! 🫶 Очень рады, что вы оценили свежесть цветов и внимательность наших флористов. Нам важно понимать ваши пожелания и помогать выбирать букет, который порадует получателя. Обязательно передадим команде вашу похвалу!\n\nБудем ждать вас снова в нашем цветочном магазине в Рязани! Соберём букет на заказ по вашим пожеланиям, а бесплатная доставка цветов по Рязани до двери поможет сделать приятный сюрприз близким.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по телефону 8 993 734 94 95.",
+          "updatedTime": "2026-10-04T05:52:52.280Z"
+        },
+        "reviewId": "lE4x0Oq5Wnan5v5JLiASlwRbryS8Ra",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Александр М.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0h-2/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "nhp0tyam7y1tc25bp37magt4dr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Ребята молодцы, супер свежие цветы и понимающие флористы однозначно пять звезд.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Aferin çocuklar, süper taze çiçekler ve anlayışlı çiçekçiler kesinlikle beş yıldız."
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-03T07:32:58.252Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Руслан, спасибо за отзыв и рекомендацию! 🫶 Рады, что вам понравилось у нас и вы оценили, как быстро и красиво всё получилось. Приятно знать, что оставили хорошее впечатление. Заглядывайте ещё, будем рады новой встрече!\n\nВ нашем цветочном магазине в Рязани поможем выбрать свежие цветы и соберём букет на заказ для вашего повода. А если удобнее заказать сюрприз из дома, есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по телефону 8 993 734 94 95.",
+          "updatedTime": "2026-10-06T04:59:05.391Z"
+        },
+        "reviewId": "YF3mPoIn49ptrtHyBafc7So6b5_FY0j",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Руслан",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/60687/LWUmdMMvxj26qhpZ0VF2NWq4s-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "u721dp911yf4t50up4jj7rnrew",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень понравилось место быстро и красиво всё сделано, рекомендую ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Yeri çok beğendim, her şey hızlı ve güzel bir şekilde yapıldı, tavsiye ederim "
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-04T10:26:37.472Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Сергей, намёк на скидку принят! 😊 Спасибо, что возвращаетесь к нам за цветами и делитесь хорошим настроением. Постоянных покупателей особенно приятно видеть, а ваши слова обязательно передадим команде!\n\nСо скидкой пора исправляться: для вас есть персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n\nЖдём вас в нашем цветочном магазине в Рязани за новым букетом! Подберём цветы по вашему вкусу, а если не получится заглянуть лично, у нас есть бесплатная доставка цветов по Рязани до двери.",
+          "updatedTime": "2026-09-25T06:13:51.062Z"
+        },
+        "reviewId": "BSfSLXCr8gjfJ1OrH3IDNQwmEdpxDOv",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Сергей С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51169/4G624zQ489iuV8nUp7t1vOhPoA-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "sema-87-7.semkin",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Ребята молодцы, всегда радуют классными цветами, за что им большое спасибо. Но пора бы сделать скидку постоянному клиенту ))))))))",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Aferin çocuklar, her zaman harika çiçeklerle sevindiler, bunun için çok teşekkür ederim. Ancak düzenli bir müşteriye indirim yapmanın zamanı geldi))))))))"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-24T13:23:59.159Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за тёплый отзыв и рекомендацию! 🫶 Очень рады, что вы оценили свежесть наших цветов и что букет долго радовал вас. Для наших флористов это лучшая похвала!\n\nБудем ждать вас снова в нашем цветочном магазине в Рязани! Поможем выбрать цветы и соберём букет на заказ по вашим пожеланиям. А бесплатная доставка цветов по Рязани до двери поможет порадовать близких, даже если не получится зайти лично.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по телефону 8 993 734 94 95.",
+          "updatedTime": "2026-10-03T07:31:40.966Z"
+        },
+        "reviewId": "0UqYNDHJhj0hBx74ODd0ZjEXoM9B_VEP1",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Mahoney",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45131/tLfrtmB1XgTqOGjM0nZjiDRRRoU-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0hgnf17dcbnr3jghd450b91wcw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хорошее место, свежие цветы, стоят очень долго. Заходите не пожалеете !",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel bir yer, taze çiçekler, çok uzun duruyor. İçeri gelmekten pişman olmayacaksınız!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-10-01T06:59:12.409Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Людмила, спасибо! Как приятно, что вы заметили ту самую изюминку в наших букетах. Флористы с удовольствием подбирают сочетания цветов и детали оформления, и ваши слова наверняка порадуют их. Отдельное спасибо за «уютное место» - нам хочется, чтобы к нам было приятно заглянуть даже просто за настроением.\n\nБудем рады снова удивить вас необычным букетом в нашем цветочном магазине в Рязани. А доставка у нас ещё и бесплатная: привезём цветы по Рязани прямо до двери вам или тому, кого захотите порадовать.\n\nДля следующей покупки у вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:35:25.865Z"
+        },
+        "reviewId": "_57dRm6VkTr-3b5VSMESFNBpbOLWm-I",
+        "businessId": "61022098215",
+        "author": {
+          "name": "людмила романова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/30431/enc-c5519e5fa0119748ecf492a93d6c9a1799bf9a37f4672d017af36d3ea70a7567/{size}",
+          "professionLevel": "Level 16 Local Expert",
+          "rtb": "Level 16 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень уютное место, очень красивые букеты. Причем не банальные, а с изюминкой. Таких нигде не видела. Классно, что есть доставка",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok rahat bir yer, çok güzel buketler. Dahası, banal değil, bir bükülme ile. Onları hiçbir yerde görmedim. Teslimat olması harika"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-19T06:11:01.868Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Олег, спасибо за отзыв и добрые пожелания! Две недели любоваться букетом - приятное продолжение подарка. Очень рады, что наши цветы так долго радовали вас. Ваши слова обязательно передадим флористам!\n\nЕсли снова захотите порадовать кого-то букетом, заглядывайте в наш цветочный магазин в Рязани. Подберём цветы и оформление по вашему вкусу, а при необходимости организуем бесплатную доставку цветов по Рязани прямо до двери.\n\nДля вас есть персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо, что выбрали нас!\n",
+          "updatedTime": "2026-09-13T16:36:50.275Z"
+        },
+        "reviewId": "RPiC96BvuzjJ78AkQgn6bR9Dc4jDPUkrC",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Oleg T.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0d-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ya5urfrttcx61wapwembkxrtu4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличные цветы, букет простоял две недели, желаю вам успеха.\n",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika çiçekler, buket iki hafta bekletildi, size başarılar dilerim.\n"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-14T15:52:51.344Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Сергей, спасибо за рекомендацию! Рады, что за свежими розами вы приходите к нам. А добрые слова о сотрудниках обязательно передадим команде, им будет приятно!\n\nЗаглядывайте в наш цветочный магазин в Рязани снова. Поможем выбрать оттенок роз, соберём букет под ваш повод и бюджет. Если удобнее получить подарок по адресу, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.",
+          "updatedTime": "2026-09-20T10:32:31.814Z"
+        },
+        "reviewId": "zWLKbJMMSM2CVgN5lFEQY7yuL5TYBV",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Серега Ю.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/69015/0t-5/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "a065ajfqa9trr80zk0zwrgp2m8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Супер место, всегда свежие розы,  вежливый персонал, всем рекомендую.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Süper yer, her zaman taze güller, kibar personel, herkese tavsiye ederim."
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-16T10:20:25.490Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Владимир, спасибо! Приятно, что вам было уютно у нас и понравилось общение с сотрудниками. Хочется, чтобы уже сам выбор цветов приносил удовольствие, поэтому вашим словам очень рады.\n\nЗаглядывайте в наш цветочный магазин в Рязани снова. Поможем выбрать готовый букет или соберём цветы на заказ под ваш повод и бюджет. А если не получится приехать, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:47:09.916Z"
+        },
+        "reviewId": "E-mMEahqftwvs-2KBid7TszqZu8cPUcr",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Владимир Н.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36689/0u-7/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "2v4d6bktcz6zqydzr549g7x6ar",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин, уютная обстановка, вежливые продавцы! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir mağaza, rahat bir ortam, kibar satıcılar! "
+        },
+        "rating": 5,
+        "updatedTime": "2025-08-19T07:11:56.281Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "спасибо за отзыв! Рады, что вы отметили свежесть цветов и приятное общение с нашими сотрудниками. Для нас важно, чтобы выбор букета оставлял хорошее впечатление.\n\nБудем рады видеть вас в нашем цветочном магазине в Рязани. Поможем подобрать свежие цветы и собрать букет на заказ с учётом повода и бюджета. Также доступна бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.",
+          "updatedTime": "2026-09-20T10:31:21.768Z"
+        },
+        "reviewId": "XhHG2qHaKvod4MaWHAIYWYEZDMj6rJ",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Standsweaty",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/62162/uGLgmvIQ8mdeikwyPSQlZY03PE-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "044m7rnm6ep7rkg7gpaq4pmhgm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин, цветы свежие, продавцы приятные!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza, çiçekler taze, satıcılar hoş!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-19T03:54:46.960Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Юлия, спасибо за тёплый отзыв! Вы очень точно описали наш подход: у каждого свои любимые цветы, представление о красивом букете и бюджет. Приятно, что вы оценили возможность выбрать то, что подходит именно вам.\n\nЗаглядывайте в наш цветочный магазин в Рязани за букетом к празднику или просто для хорошего настроения. Обсудим пожелания и соберём букет на заказ. А если удобнее порадовать близких на расстоянии, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующую покупку для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Будем рады новой встрече!\n",
+          "updatedTime": "2026-09-13T16:36:14.500Z"
+        },
+        "reviewId": "gQMy_ysB2tJuWe5iBDdy0wOXy2fq4YyN",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Юлия Васильевна Я.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0t-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "w1kp3ncejqfjf1gnegm1rpdu20",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный магазин, букет собирают  на любой вкус, цвет и кошелёк.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika bir mağaza, her zevke, renge ve cüzdana uygun bir buket toplanıyor."
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-17T07:53:44.888Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Павел, спасибо за отзыв и рекомендацию! Очень приятно узнать, что цветы радовали вас почти месяц. Для наших флористов такие слова - лучшая благодарность!\n\nБудем рады снова видеть вас в нашем цветочном магазине в Рязани. Поможем выбрать свежие цветы, соберём букет на заказ с учётом ваших пожеланий и бюджета. Также у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ! Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:28:07.265Z"
+        },
+        "reviewId": "E5pOhIqWPO1-yZUnrY5xwmN2t0cknkE",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Павел Широков",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45848/Cgso4RMmdsp2sLRz1zaDzYpBME-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "31fvbt24g4b11fzaxq0zmrf1u0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Покупал цветы, простояли почти месяц,  всем рекомендую. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çiçek aldım, neredeyse bir ay durdular, herkese tavsiye ederim. "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-05T20:22:25.662Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Дмитрий, спасибо! Приятно, что наши букеты привлекли ваше внимание. Передадим флористам ваш комплимент - они с удовольствием придумывают сочетания цветов и подбирают оформление.\n\nЗаглядывайте в наш цветочный магазин в Рязани: поможем выбрать букет для подарка или соберём на заказ по вашим пожеланиям. Также у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:49:12.963Z"
+        },
+        "reviewId": "ACj2PpvAiDBqeJPRUkx0FgC4_lWIAI",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Дмитрий Титков",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45566/0t-6/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kddftwm2y1e0855bpdfbdje7u0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "очень красивые букеты",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "çok güzel buketler"
+        },
+        "rating": 5,
+        "updatedTime": "2025-06-30T18:20:34.137Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15270672_2a00000197c211bbe3391d78a3f58a4dac9b",
+            "businessId": "61022098215",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15270672/2a00000197c211bbe3391d78a3f58a4dac9b/{size}",
+            "createdTime": 1751307633268,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Дмитрий Титков",
+              "publicId": "kddftwm2y1e0855bpdfbdje7u0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/45566/0t-6/{size}",
+              "updateTime": 1751307633268,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Женя, спасибо за доверие и за то, что постоянно выбираете наш магазин! Очень приятно знать, что мы ни разу вас не подвели. Будем и дальше следить за свежестью цветов, качеством букетов и внимательным обслуживанием.\n\nКогда снова понадобятся цветы в Рязани, обращайтесь. Соберём букет на заказ с учётом повода и бюджета, а при необходимости организуем бесплатную доставку цветов по городу.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Спасибо за рекомендацию!",
+          "updatedTime": "2026-09-20T10:30:38.793Z"
+        },
+        "reviewId": "cdgmpoAFi_mKgTdTjC8xMaROSu6_HDUY",
+        "businessId": "61022098215",
+        "author": {
+          "name": "женя колобаев",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/58107/0c-7/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "jtvyr3vk66qe9wjm5qnr4bu60r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Покупаю здесь цветы постоянно, ни разу не прдвели , рекомендую.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Burada sürekli çiçek satın alıyorum, hiç açmadım, tavsiye ederim."
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-19T18:07:47.745Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Виталий, спасибо за отзыв! Здорово, что в тот день получилось открыть магазин раньше и выручить вас. Такие слова делают ранний подъём особенно приятным!\n\nКогда снова понадобятся цветы в Рязани, обращайтесь. Поможем подобрать букет на заказ, а время получения можно заранее обсудить с сотрудниками. Также у нас есть бесплатная доставка цветов по Рязани до двери.\n\nНа следующий заказ для вас есть персональная скидка. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Рады, что смогли помочь!\n",
+          "updatedTime": "2026-09-13T16:40:21.591Z"
+        },
+        "reviewId": "7gSQUK2SLBojFl668ZtzKnFfyOt7OSe9x",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Виталий Шубаркин",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/17694366/veg2NxrJdpaIqQqK0tL8YHJD68-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "bvmzrxg27g919057g3hrxuk6km",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Классный магазин, ради меня открылись на 2 часа раньше, очень выручили спасибо большое !!!!!!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza, benim için 2 saat erken açıldılar, çok yardımcı oldular, çok teşekkür ederim!!!!!!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-10T12:48:57.531Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Максим, «магазин бомба» - вот это заряд настроения для всей команды! Спасибо за отзыв. Особенно приятно, что цветы долго радуют вас, ведь хочется, чтобы удовольствие от букета продолжалось и после покупки.\n\nКогда снова понадобятся цветы в Рязани, заходите! Подберём букет под ваш повод и бюджет. А если не будет времени заглянуть в магазин, выручит наша бесплатная доставка цветов по Рязани до двери.\n\nДля вас есть персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.\n",
+          "updatedTime": "2026-09-13T16:30:59.863Z"
+        },
+        "reviewId": "ADgdNeFzOVkzKX7owTOiuPLhEnQs2D",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Максим Ростов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0r-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "qb2n57qk96ayk1j7ek0tfzd610",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Магазин бомба цветы стоят очень долго",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bomba mağazası çiçekler çok uzun sürüyor"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-03T18:12:50.150Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо, что возвращаетесь к нам! Очень приятно знать, что мы уже не раз смогли вас выручить. Ценим ваше доверие и всегда рады помочь с выбором цветов.\n\nКогда снова понадобится букет в Рязани, обращайтесь! Подберём цветы под ваш повод и бюджет, соберём букет на заказ. Также у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас как постоянного покупателя - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.",
+          "updatedTime": "2026-09-22T14:24:27.382Z"
+        },
+        "reviewId": "VMU88HrzIzSaVuYzPTdXGqykWG9b3Bm",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Инкогнито 4532",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/56823/0g-7/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "t9vy42cgce4c836e2z5h89y8nm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Спасибо данному магазину, постоянно  выручаете! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu mağazaya teşekkür ederim, sürekli yardım ediyorsunuz! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-22T09:53:33.022Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Артём, спасибо, что сообщили. Извините, что заставили вас ждать. Хотим разобраться, на каком этапе возникла задержка. Подскажите, пожалуйста, примерно во сколько вы приходили и чего пришлось долго ждать? Можно связаться с нами по номеру 8 993 734 94 95.\n\nНам важно, чтобы в нашем цветочном магазине в Рязани было удобно и выбрать готовый букет, и заказать сборку по своим пожеланиям. Если время ограничено, можно заранее обсудить заказ с сотрудниками и воспользоваться бесплатной доставкой цветов по Рязани до двери.\n\nХотели бы предложить вам персональную скидку на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95. Надеемся, у нас будет возможность оставить у вас более приятное впечатление.\n",
+          "updatedTime": "2026-09-13T16:33:32.729Z"
+        },
+        "reviewId": "pqnVHiUMfj-Tz-qZuI33_EhXaDUt2Rzb",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Артём",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/0g-5/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "gk7m2atfn89jwmmhk03976hrfm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень не расторопные. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok aceleci değiller. "
+        },
+        "rating": 4,
+        "updatedTime": "2026-06-27T10:03:56.479Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Иван, спасибо за рекомендацию! Коротко, но как приятно всей нашей команде. Рады, что магазин оставил у вас такое впечатление!\n\nЗаходите к нам за цветами в Рязани: поможем выбрать готовый букет или соберём на заказ по вашим пожеланиям и бюджету. А если удобнее получить его дома, у нас есть бесплатная доставка цветов по Рязани до двери.\n\nДля вас - персональная скидка на следующий заказ. Подробности можете уточнить у наших сотрудников или по номеру телефона 8 993 734 94 95.",
+          "updatedTime": "2026-09-27T15:05:13.398Z"
+        },
+        "reviewId": "RdNFuDKPvfliDogz79uj9JhejyDl-hca_",
+        "businessId": "61022098215",
+        "author": {
+          "name": "Иван Горбунов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/68143/0u-2/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "akvkr590htn8pn3tgd3dzaeeug",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Супер магазин, всем рекомендую!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Süper mağaza, herkese tavsiye ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-26T16:32:38.333Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 47,
+      "loadedReviewsCount": 47,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "the_gardens_of_paradise"
+}

@@ -1,0 +1,239 @@
+{
+  "name": "Аленький цветок",
+  "address": "Рязань, Пролетарская ул., 17, этаж 1",
+  "phone": "+7 (910) 635-64-65",
+  "folder": "Аленький цветок",
+  "oid": "17359860043",
+  "source": "https://yandex.ru/maps/org/17359860043/",
+  "checked": "2026-11-10",
+  "rating": {
+    "ratingCount": 15,
+    "ratingValue": 4.5,
+    "reviewCount": 10
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ]
+  ],
+  "features": [],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5099617/2a000001821b30482e4b817f9ca92530b110/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20412588/2a0000019ea7745ec3ff0142e6bb9e43bd53/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16329243/2a0000019c6fd953a2de92bff2da912064d4/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019ea7745f65745d6376bc275dc702/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17677530/2a0000019c705107b9f8beca5e898cf5bba1/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/4479219/2a000001821b3cbb40c926ad02083ebed3fb/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19799298/2a0000019ea7745c4df97b57edca799a9efc/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5099617/2a000001821b3fde869e49516088daf14e1b/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6249106/2a000001821b3445f1aff9fa47721f3437b4/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5483747/2a000001821b3e2f8554b1de48f8c87878b0/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Софья Минкина",
+      "text": "Наверное уже не помню какое количество букетов заказала в салоне цветов Аленький у Ольги 😊 огромное количество и это точно! Всегда всё сделано на высшем уровне! Девочки выручают в любой момент если срочно срочно нужен букетик, доставляют быстро. А так же дарят подарочки 🤗 Букеты стильные, красивые а цветочки свежие! Огромное спасибо за воплощение красоты ❤️",
+      "rating": 5,
+      "date": "2026-06-08",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=SfzAkDmzR6Wf1I85bdeuZG0e46lUEH"
+    },
+    {
+      "author": "Даниил Б.",
+      "text": "Сделали с купленными цветами все, как сказала девушка продавец после попадания домой, но абсолютно все, что купил в магазине, стало быстро вянуть. За цветами следим, но радовались не долго. К слову букет, купленный в другом месте , стоит уже две недели. А здесь корзина на третий день уже никакая. ",
+      "rating": 1,
+      "date": "2025-10-15",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=1KBN9CRAquomcbX4SWnhN3ZQrPHXNLmdI"
+    },
+    {
+      "author": "Александр Литвинов",
+      "text": "Быстро, чисто, удобно и без чего-то лишнего. Остались только приятные впечатления. Неплохо было бы сделать полноценную оплату картой, тогда идеально будет всё.",
+      "rating": 5,
+      "date": "2025-04-19",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=9ZYU8HZGwaHMW0JkCRUL-QxPMc-QaZQyr"
+    },
+    {
+      "author": "Кирилл Жариков",
+      "text": "Покупал розы в подарок в этом месте, сделали очень красивый и современный букет, сестре очень потравился! Очень доброжелательная владелица Ольга, рассказала, как ухаживать за букетом, чтобы он дольше стоял! Спасибо! ",
+      "rating": 5,
+      "date": "2024-07-23",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=tTgY-qthftp1dsUj-oQq1MXy4FuUr0DQy"
+    },
+    {
+      "author": "татьяна",
+      "text": "Отличный,красивый салон цветов! Цветочки свежие, красивые букеты,композиции. Приветливая девушка продавец. ",
+      "rating": 5,
+      "date": "2024-09-15",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=Tq_4LNeZ3_b911QGa25foWdHHDKtaG"
+    },
+    {
+      "author": "Elen",
+      "text": "Мне нравится этот салон цветов! Он небольшой, но так со вкусом всё подобрано. Много подарков и сувениров, которые я не видела больше нигде в городе. Из живых цветов всегда есть что то интересненькое. Девчонки флористы молодцы!",
+      "rating": 5,
+      "date": "2024-09-23",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=c5NUwEyr6iT1BMs9Ec2vqZrsjbmpo_"
+    },
+    {
+      "author": "Александр Кириллов",
+      "text": "Два раза уже покупал там цветы. \nУдобно. Качественно. Рекомендовал друзьям. ",
+      "rating": 5,
+      "date": "2024-10-10",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=G7Tx7V_uAeTzNjFvTKZNR8PgaHS0YdF"
+    },
+    {
+      "author": "Иван Морин",
+      "text": "Хорошее место помогли подобрать цветы на день мамы всë понравилось. Отличный сервис.",
+      "rating": 5,
+      "date": "2022-11-29",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=Y6KXVTXDFqmM6tzZ0R19vRNIcfBo6emR"
+    },
+    {
+      "author": "Anastasia P.",
+      "text": "Все прошло отлично, клиентоориентированность на высоте ",
+      "rating": 5,
+      "date": "2024-07-08",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=QevYQjmuHajdR5yUpvG1SrlBjzTCkpkiz"
+    },
+    {
+      "author": "сергей зверев",
+      "text": "Ольга Валентиновна Красава как человек и как женщина",
+      "rating": 5,
+      "date": "2024-05-18",
+      "source": "https://yandex.ru/maps/org/17359860043/reviews/?reviewId=_Nd6FmFie_urRuyOw0I_4rci-vwAzQG"
+    }
+  ],
+  "services": [],
+  "logo": null
+}
