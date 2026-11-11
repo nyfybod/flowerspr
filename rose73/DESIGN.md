@@ -52,3 +52,9 @@ Photo viewer uses a native dialog for focus trapping, background isolation and E
 
 ## Do's and Don'ts
 Use the source product's own image with its price; do not pair unrelated gallery photos with priced bouquets. Prices, rating, counts and source links are a dated snapshot checked 2026-11-09, not live inventory. Catalogue source says updated 21 August without a displayed year. Delivery, wedding floristry and wrapping have no published tariff; state that these are agreed separately. Toy prices exclude flowers shown in photos. Reviews are clearly labelled summaries with authentic names, dates, ratings and original-source links. Never invent prices, delivery guarantees or testimonials.
+
+## Индивидуальная особенность — 11.11.2026
+
+Сохраняется нежный фирменный характер, но первый экран превращается в фотоальбом. Небольшой последовательный опрос помогает сформулировать пожелание флористу.
+
+Цвета и исходные данные магазина сохранены. Фотографии — квадрат 1:1; CSS в individuality.css, поведение в individuality.js. Реальные фото не получают вымышленные цены. Интерактивы работают в браузере и не отправляют заказ. Видимый фокус, reduced-motion, мобильная ширина 320px.
