@@ -31,7 +31,7 @@
   selectButtons.forEach((b,i)=>b.addEventListener('click',()=>{selected=i;pressed(b,selectButtons);out.textContent=notes[i];}));
   $('#s-plants').addEventListener('click',()=>{const filter=[...document.querySelectorAll('.filter')].find(b=>b.dataset.filter===categories[selected]);filter?.click();document.querySelector('#catalog').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});});break;}
  case 'surprise':
-  $('#s-unwrap').addEventListener('click',e=>{const open=document.body.dataset.unwrapped!=='true';document.body.dataset.unwrapped=String(open);e.currentTarget.setAttribute('aria-expanded',String(open));e.currentTarget.textContent=open?'Завязать ленты снова':'Развязать ленты ↗';out.textContent=open?'Вот он, ваш цветочный сюрприз. Состав и наличие уточните у флориста.':'Одна фотография. Много приятных эмоций.';});break;
+  $('#s-unwrap').addEventListener('click',e=>{const card=$('#s-surprise-card'),open=card.hidden;card.hidden=!open;e.currentTarget.setAttribute('aria-expanded',String(open));e.currentTarget.textContent=open?'Скрыть пожелание':'Открыть пожелание ↗';out.textContent=open?'Эти слова можно добавить к вашему букету.':'Пара тёплых слов для вашего подарка.';});break;
  case 'calendar': {
   const input=$('#s-date');const now=new Date();const local=new Date(now.getTime()-now.getTimezoneOffset()*60000).toISOString().slice(0,10);input.value=local;
   const update=()=>{

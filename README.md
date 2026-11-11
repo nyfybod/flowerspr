@@ -13,7 +13,7 @@
 | [Цветочный Переулок](https://nyfybod.github.io/flowerspr/tsvetochny-pereulok-ryazan/) | Прогулка по переулку |
 | [Райские сады](https://nyfybod.github.io/flowerspr/rayskie-sady-ryazan/) | Цветочный гербарий |
 | [Фикус](https://nyfybod.github.io/flowerspr/ficus-ryazan/) | Найдём место для растения |
-| [Это мне?!](https://nyfybod.github.io/flowerspr/eto-mne-ryazan/) | Открыть цветочный сюрприз |
+| [Это мне?!](https://nyfybod.github.io/flowerspr/eto-mne-ryazan/) | Маленькое пожелание |
 | [Время Цветов](https://nyfybod.github.io/flowerspr/vremya-tsvetov-ryazan/) | Поставьте повод в календарь |
 | [Импорт Флора](https://nyfybod.github.io/flowerspr/import-flora-ryazan/) | Ваш лист закупки |
 | [МарТа](https://nyfybod.github.io/flowerspr/marta-ryazan/) | Окно на Соборную |
