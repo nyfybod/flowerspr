@@ -1,0 +1,320 @@
+{
+  "name": "Модный букет",
+  "address": "Астрахань, ул. Володарского, 14",
+  "phone": "+7 (8512) 20-04-13",
+  "folder": "Модный букет",
+  "oid": "1106242378",
+  "source": "https://yandex.ru/maps/org/1106242378/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 33,
+    "ratingValue": 4.800000190734863,
+    "reviewCount": 18
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 19,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/club63185493",
+      "readableHref": "vk.ru/club63185493"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5486790/2a0000017d6389ce950ffadd07f7d9db13bc/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/1773749/2a00000185165f536bab64acd3f89961bbde/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 768,
+      "height": 1024,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/239474/2a0000015e9f54bda3ea9ecd621e87aa7596/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14272474/2a000001957223dd1fb6bac30b8e92151426/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13203115/2a0000018ef9a3675649bef9418ed3f98457/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 750,
+      "height": 563,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/481843/2a00000161fdcb3e377f706ad3957e52d28c/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16157592/2a00000198bb455e9f1775ba50b9611649be/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13206104/2a000001957223de9457c1352787aa501b71/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 768,
+      "height": 1024,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/859900/2a0000015e9f54bd5c7a8a98092f0d15c76f/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/1899063/2a0000016b42720794ab9d1ab5ca6dc4c152/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Нина Шеина",
+      "text": "🌸💐🌺 Не могу не поделиться восторгом от моего любимого цветочного салона! ✨ Здесь просто невероятный выбор цветов - от нежных роз и лилий до ярких гербер. 🌺 Глаза разбегаются от такого изобилия красок и ароматов!\n\nНо самое главное - это атмосфера тепла и доброжелательности, царящая в салоне . 💖 Милые девушки-флористы всегда с радостью помогут выбрать букет, подскажут по уходу за цветами и ответят на все вопросы. 😊 Их улыбки и позитивный настрой заряжают позитивом на весь день! ☀️\n\nОтдельное спасибо за безупречную доставку! 🚚 Букеты всегда приходят свежими, аккуратно упакованными и точно в срок. 🎁 Это очень важно, особенно когда речь идет о подарке для близких людей. ❤️\n\nСпасибо вам за ваш труд и за то, что дарите людям радость! 💐 Вы настоящие волшебники, создающие красоту и тепло! ✨",
+      "rating": 5,
+      "date": "2025-03-07",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=uQ0KRrsRzqQTwmVSnH4HhrRWKqV784KKh"
+    },
+    {
+      "author": "Мария С.",
+      "text": "Всегда красивые и стильные букеты. Очень удобно заказывать. Можно позвонить и к определенному времени заказать букет. Девочки  все быстро сделают и пришлют фото. Даже возможно доставку. Мне как человеку занятому это очень удобные функции. Всем рекомендую этот флористический салон🌸👌🏻",
+      "rating": 5,
+      "date": "2020-06-22",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=2fY-T0Bn0PW8njb2ifFoQ6qjZdpgTx"
+    },
+    {
+      "author": "Таран Полина",
+      "text": "Воспользовались онлайн заказом через чат в Телеграмм. Очень понравился консультант. Быстро предложила варианты на нашу сумму. Сами букеты оказались сногсшибательными. ",
+      "rating": 5,
+      "date": "2024-01-05",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=lLvKcUxE0gQwb0lMqPaE_WaB17HCqd"
+    },
+    {
+      "author": "Евгения Ф.",
+      "text": "Ооооочень классный салон!!! Сотрудники невероятно отзывчтвые и понимающие! Заказали букет с поздней доставкой, всё выполнено на высшем уровне! Не говоря уже о самой композиции ❤️👍🏼 ценовой сегмент шикарный! Будем теперь ваши постоянные клиенты! Спасибо!!!!!! ",
+      "rating": 5,
+      "date": "2023-10-23",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=3a7_sRzJIY99HMlqXXh41-w7P6VP2KW5"
+    },
+    {
+      "author": "Юлия Б.",
+      "text": "Салон очень понравился! Услышав мои пожелания, предложили различные виды букетов! Собрали отличный вариант! Доставили в срок! Однозначно рекомендую этот флористический салон!",
+      "rating": 5,
+      "date": "2020-05-30",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=x84DXP5Mi3PFg2ZJWFtm1rKjrn7RaQWUU"
+    },
+    {
+      "author": "Гюзель Курбаналиева",
+      "text": "Заказывала там букет невесты, продавцы пообещали собрать нужный букет, взяли предоплату, но по факту, когда приехали забирать сделали абсолютно не то о чём договорились. Осталась недовольна их ассортиментом цветов, качеством обслуживания! Не советую этот магазин!",
+      "rating": 1,
+      "date": "2023-06-22",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=OXDTn60SHlUDmiDzGCSHo_OpUgIa03B"
+    },
+    {
+      "author": "Кирилл Павлович",
+      "text": "Отличное заведение. Цветы яркие и очень вкусно пахнут и долго сохраняют запах. Бабушке очень понравились.",
+      "rating": 5,
+      "date": "2024-06-12",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=3Cm_MkQmORyqt87Zb55SKp-uT_NurQ"
+    },
+    {
+      "author": "Бешир Аль-Фетахи",
+      "text": "Хороший выбор свежих цветов, много раз брал цветы и они прожили долгое время при нормальном уходе.",
+      "rating": 5,
+      "date": "2024-09-29",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=m0OvD2JEdC9GMVAKezymCgywqHSxnmXqj"
+    },
+    {
+      "author": "Газимагомедов Магомедимин",
+      "text": "Очень классный салон и приятно - отзывчивые сотрудники . Буду пользоваться их услугами в дальнейшем .",
+      "rating": 5,
+      "date": "2025-07-06",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=vy8XUlTp_G4fMu_mjn-VIGEeie7sRhdKC"
+    },
+    {
+      "author": "Владимир Владимир",
+      "text": "Постоянно покупаю цветы ТОЛЬКО сдесь. Всегда свежие, стоят дома в воде долго. Девочки флористы всегда, что то новое делают. Молодцы. ",
+      "rating": 5,
+      "date": "2023-10-23",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=i6eQm2L5r0Wdd8Bs_dLlkn-wgDcrE9s"
+    },
+    {
+      "author": "Инна Барсамян",
+      "text": "Заказывала 3-4 раза с другого города, ни разу  не пожалела. Помогают во всем и букеты всегда красивые! Спасибо Ваи огромное!!!❤️",
+      "rating": 5,
+      "date": "2020-06-06",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=8Y6DWHP2FpCq68KAnCkIDvmnsRkfF6zoi"
+    },
+    {
+      "author": "Миляев Антон Павлович",
+      "text": "Советую всем, четко быстро, всегда помогут и подскажут, пользовался доставкой оценка-отлично👌🏻",
+      "rating": 5,
+      "date": "2022-12-09",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=lGjnQtOm8KRiMqO43KtQNrr_3HjAXH"
+    },
+    {
+      "author": "Арина А.",
+      "text": "Собирают букеты от души и сердца! Рекомендую 🩷",
+      "rating": 5,
+      "date": "2025-06-14",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=aPwgSkLNiwdK5mvAlzqpS5jV0ImDrRPsK"
+    },
+    {
+      "author": "Леонид",
+      "text": "Хорошее обслуживание,к тому же удобная доставка,так же порадовали бонусы",
+      "rating": 5,
+      "date": "2022-12-15",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=SKbHDG6WRPDleFxE6jdquHa57o0FnMt"
+    },
+    {
+      "author": "sharmiren",
+      "text": "Шикарные букеты и приятные флористы",
+      "rating": 5,
+      "date": "2020-04-15",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=LoO61-sZ9LCvsvRUIh1JYxwdqkrWSgbv"
+    },
+    {
+      "author": "Татьяна Суслова",
+      "text": "Хотела выпить чашечку чая, нет. Продают в больших объёмах. Странно.",
+      "rating": 3,
+      "date": "2022-07-04",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=ghzdDEkbMBwYwmlZvkrNpi9CrLEuUs"
+    },
+    {
+      "author": "Валерий Жирнов",
+      "text": "Выбор и исполнение",
+      "rating": 5,
+      "date": "2020-02-29",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=HhOk57RB1Nd4S_fGW6mUhb5wB9v3dz-"
+    },
+    {
+      "author": "Антонина Литвинова",
+      "text": "Нет оплатой -картой. 21 век",
+      "rating": 2,
+      "date": "2023-04-08",
+      "source": "https://yandex.ru/maps/org/1106242378/reviews/?reviewId=AEmYLCZTmsTjlKJVfkz2vJ9f0upwQ4e"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

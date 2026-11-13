@@ -1,0 +1,1028 @@
+{
+  "id": "62789267998",
+  "title": "Флоранс",
+  "address": "Astrakhan, Generala Yepisheva Street, 20Б",
+  "fullAddress": "Astrakhan, Generala Yepisheva Street, 20Б",
+  "coordinates": [
+    48.017459,
+    46.335703
+  ],
+  "phones": [
+    {
+      "number": "+7 (905) 362-07-55",
+      "type": "phone",
+      "value": "+79053620755",
+      "info": "Флорист"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "delivery_cost",
+      "value": "500–1e+08 ₽",
+      "name": "Cost of delivery",
+      "type": "text",
+      "important": false
+    },
+    {
+      "id": "corporate_events",
+      "value": true,
+      "name": "corporate events",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wedding_planning",
+      "value": true,
+      "name": "wedding planning",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 41,
+    "ratingValue": 4.800000190734863,
+    "reviewCount": 22
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 8:00 AM–9:00 PM",
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/florancestudio",
+      "readableHref": "@florancestudio"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79053620755",
+      "readableHref": "+79053620755"
+    }
+  ],
+  "businessLinks": [],
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6302373/2a0000017fc5ad928bfc1b0e02da314e450c/%s",
+      "id": "od6dnqX9_vBtaGTT7AU8l6YvwIwnEnP"
+    }
+  },
+  "photos": {
+    "count": 30,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5449402/2a0000017d63ad0f25350733daf737bd5923/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5449402/2a0000017d63ad0f25350733daf737bd5923/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14296990/2a000001963f496ac7906777ebb21881e85d/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15993332/2a000001971219b68948eb888ecc79c7923e/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1666174/2a0000016e1fda44502341cee1ae23f6d10a/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15288852/2a000001963f49674cebfa7c686c40c1745d/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14296990/2a000001963f4959b509ed63950283cdc38d/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19521209/2a0000019da5c1c61383eb8b8b760ef8f46b/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/12813969/2a0000018e004da311381a2047c7426fe0e1/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16161139/2a0000019b0c669a4b01da57aadc38d3fa6b/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15126910/2a000001963f4947228c1df6aa93fda346c2/%s",
+        "alt": "Flower shop Флоранс, Astrahan, photo"
+      }
+    ]
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "reviewId": "7u_MrMPM-ivLG68kmvPnWFb_jUOKgDL",
+        "businessId": "62789267998",
+        "author": {
+          "name": "alenca31",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36689/0u-7/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "9q5hgt6f991d790nuqdk48e55c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный салон с профессиональными флористами. Все быстро и всегда очень красиво - на любую сумму. Свежие цветы и разнообразные материалы для создания гармоничных композиций. Букеты всегда -\"не оторвать глаз\". Девочки оформляли зону ожидания кинотеатра Большое кино в Алимпике - теперь там волшебно.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Profesyonel çiçekçilerle güzel salon. Her şey hızlı ve her zaman çok güzel - herhangi bir miktar için. Uyumlu kompozisyonlar oluşturmak için taze çiçekler ve çeşitli malzemeler. Buketler her zaman \"gözlerini ayırma\" dır. Kızlar sinemanın bekleme alanını düzenliyorlardı Alimpik'te büyük sinema - şimdi orada büyülü."
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-21T14:04:27.306Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "f8hCz8BILE_yKG7TwqJwXj2EH7MN0LAA",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Юрий Юрий",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25358/0h-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "1up000jvf6062db65r1grcat20",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Салон цветов \"Флоранс\" спрятался среди других магазинчиков на улице Генерала Епишева. Но едва вы приоткрываете дверь, как вашему взору открывается уютное помещение наполненое красотой и ароматами. Цветы здесь собрались со всего мира, но главное это персонал, который создаст вам сказку, за которой вы и пришли. ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-11-15T08:27:13.590Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "z3dir0sRBGf9yEw5womminXokyA_-AN",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Mary Roosevelt",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/58107/0f-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0228h137jcb1q4kwcmpywryz50",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Приобретаю только в этом цветочном магазине. Всегда свежие цветы, приветливые продавцы, и приятные цены. Букет стоит 5-й день и радует меня😍",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-03-02T17:54:38.081Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "10834132_2a0000018e004dad0ba2951c8aa93e5afd02",
+            "businessId": "62789267998",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10834132/2a0000018e004dad0ba2951c8aa93e5afd02/{size}",
+            "createdTime": 1709402077523,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Mary Roosevelt",
+              "publicId": "0228h137jcb1q4kwcmpywryz50",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-1/{size}",
+              "updateTime": 1709402077523,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "12813969_2a0000018e004da311381a2047c7426fe0e1",
+            "businessId": "62789267998",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/12813969/2a0000018e004da311381a2047c7426fe0e1/{size}",
+            "createdTime": 1709402074763,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Mary Roosevelt",
+              "publicId": "0228h137jcb1q4kwcmpywryz50",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/58107/0f-1/{size}",
+              "updateTime": 1709402074763,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "hhH352tfneL6csKN0EPaoJwSNdmH-rmN",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Эвелина Левченко",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27274/mjfz9cxj9jmpTlj1jPYTtzJamF4-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ecfvcya6md4t7kgnqzhrzeq4ag",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасные девушки, которые быстро помогли определиться с выбором не в зависимости от того, что мы даже не знали чего мы хотели, пожалуй лучшая студия в Астрахани!💐🌸🫂🩷",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Ne istediğimizi bile bilmesek de bir seçime karar vermede hızlı bir şekilde yardımcı olan güzel kızlar, Astrakhan'daki belki de en iyi stüdyo!💐🌸🫂🩷"
+        },
+        "rating": 5,
+        "updatedTime": "2025-05-27T14:23:19.869Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15993332_2a000001971219b68948eb888ecc79c7923e",
+            "businessId": "62789267998",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15993332/2a000001971219b68948eb888ecc79c7923e/{size}",
+            "createdTime": 1748355367086,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Эвелина Левченко",
+              "publicId": "ecfvcya6md4t7kgnqzhrzeq4ag",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/27274/mjfz9cxj9jmpTlj1jPYTtzJamF4-1/{size}",
+              "updateTime": 1748355367086,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за хорошую оценку нашей работы и доверие! Для нас очень важен Ваш отзыв и мы и далее будем стараться радовать своих клиентов! ",
+          "updatedTime": "2024-02-15T19:48:15.839Z"
+        },
+        "reviewId": "Dn7QJuMQ_39_IxgGRuGPTUSBaRxnty02",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Нуне Бахтибекян",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63032/hsVqlkNGsjZoOAnCbpSVZVlUgCU-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "3ddygwau9t4z2qabmu0avvtcrr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": " Флоранс ,один из лучших магазинов цветов.на все мероприятия беру букеты здесь.цветы всегда свежие и стоят долго.при этом ,цены просто замечательные.в самом салоне уютно и работники и хозяйка очень приятные и вежливые.спасибо.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-02-11T06:45:03.281Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "YJU7cVrPTTnzFmcDRXlW7hOUqcY9bb",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Булгакова Ольга",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/65952/0s-2/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "gm0cbz4qk4r08kr89m5nh1ez5w",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень компетентные флористы,часто пользуемся т к есть доставка. Учитывают собыьия,возраст, материальные возможности.Всем кому отправляли букеты были довольны.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-08-19T11:53:28.195Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "9707320_2a0000018a0da49ee417f195620d8d151123",
+            "businessId": "62789267998",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9707320/2a0000018a0da49ee417f195620d8d151123/{size}",
+            "createdTime": 1692446007910,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Булгакова Ольга",
+              "publicId": "gm0cbz4qk4r08kr89m5nh1ez5w",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/65952/0s-2/{size}",
+              "updateTime": 1692446007910,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "FFMLvwkIg0AZ2o9R_CCM97VR_pOSXq",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Артём Гладченко",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0l-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "runxvnzj2afac44p8dvzk7ckec",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Профессионалы в своём деле! Каждая композиция, каждый букет собраны с душой и теплом! Видно, что любят своё дело и к каждому клиенту индивидуальный и творческий подход! Это классно! Салон, где всегда встречают с улыбкой и поднимают настроение на весь день! Спасибо за то, что Вы есть!!!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-10-27T06:36:10.787Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "1i-HykboAuPoUSiivLaPZ-IK4kr0cW",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Владимир",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31804/0c-9/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ebvka940n3azvwqn2exrtvryqr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Красивый букетик собрали, флорист Нателла адекватный, доброжелательная, отличное место, ещё обязательно придём! ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-09-16T15:17:35.223Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "9237948_2a0000018a9e91a5885c85099bdf76f10d30",
+            "businessId": "62789267998",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9237948/2a0000018a9e91a5885c85099bdf76f10d30/{size}",
+            "createdTime": 1694877462062,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 1,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Владимир",
+              "publicId": "ebvka940n3azvwqn2exrtvryqr",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31804/0c-9/{size}",
+              "updateTime": 1694877462062,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "pw74IR2mlZQb6xrW3wX1P_yfi2ObwSEr",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Петр Чигаров",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/58107/m32yyew1jDSKpEnj4BRmawm4Vo-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "fc3quyjvxdndqha40r1b2bze04",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Самые приветливые флористы и замечательные люди, букеты, композиции очень красивы и сделаны с любовью и теплом. Спасибо Вам огромное.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-02-13T19:22:17.218Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "3wT8SNE9MX2ZB0ik5dqWeAwPGE9uXL8T",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Елена С",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/68143/BNaPjBRplIeSvTsOWtRsfBcZgI-1/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "nb35fe0p93tdfy2n3gr2drjwug",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказывала букеты для близких! Ни разу не подвели! Цветы свежие! Композиции необычные!цены адекватные!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-10-07T10:40:49.572Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "G-qBEKv9cQGowDHT3MAAISVhBwJpaAm",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Лариса К",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/0b-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0rq6a4bh7f9wad4hjhtrxr1c70",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Всегда пользуюсь услугами этого магазина.  Прекрасный выбор цветов и букетов! Доброжелательный персонал слелает Ваш праздник ярким и достойным.  Большое спасибо. ",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-06-03T16:44:24.356Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "o7KQStL7dj7ZXWEr8G6WZE7m5QLnt_",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Алена Корниенко",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/ID7xkZMj3vxIYjdpueYV3lwcVqI-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "423jf24y8xz3ggrz9zkdyr31pg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Шикарный букет, доставили вовремя. Имениннице понравилось))) Ловите большую благодарность❤️",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-06-28T07:37:21.935Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "rg_4Pko-W8fDPDWvx0gblMZPsHMfK4gt",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Даниял",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40138/sJUjPM3dxVPXsFoubpUshfqM9k-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "197pknnfeab800qbxwcb68qnz4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин свежих и красивых цветов!!! Персонал очень доброжелательный и знающий свою работу",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-01-13T12:01:15.797Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "FD8497NZsQx6DSP66QtKsf1jfnQuRw-",
+        "businessId": "62789267998",
+        "author": {
+          "name": "382453 Яцун",
+          "avatarUrl": "",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "qm3wke0dftqbd15kf12ycpe8xm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный салон, всегда свежие цветы по приемлемым ценам, граматное обслуживание, приветливые продавцы, лучший салон города!",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2021-08-14T14:28:56.808Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Здравствуйте! Спасибо за Ваш отзыв, он поможет нам  улучшить наш сервис. Напишите, пожалуйста, когда Вы купили у нас несвежий букет и если можно, пришлите, пожалуйста фото, чтоб мы могли разобраться в данной ситуации, тк мы  следим за свежестью ассортимента и удивлены отзывом о качестве товара. ",
+          "updatedTime": "2024-02-16T03:32:44.737Z"
+        },
+        "reviewId": "6G6ZeS71UHegKAj5WP4wto_-F4_u0MK4_",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Alexey Kirillov",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/59871/0y-5/{size}",
+          "professionLevel": "Level 12 Local Expert",
+          "rtb": "Level 12 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "h9r0z92yxz2wy2xpw3p3t3cnjg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Неплохой цветочный. Но иногда готовые букеты из увядающих цветов на последнем издыхании продают.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 4,
+        "updatedTime": "2024-01-03T11:54:10.913Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "KuKYrDbf6y2N0jqIYi8XF5JJ5C21Stf-",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Катерина ч.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/34189/bWjiNkRy0xeWU9REOmFJRpXR8-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wht0mbejbb21wtq5tebkg1nazw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Всегда свежие цветы, оригинальные букеты,,, а самое главное что есть доставка.",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2020-08-22T20:42:25.114Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "QTFBTxbl7eBvwJpOUNwEWWtnY8-koxTqs",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Анна",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/ncs75Y109peAMoCzP2iMxewXk-1/{size}",
+          "professionLevel": "Level 11 Local Expert",
+          "rtb": "Level 11 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "vjqbm8mmafuwvgnmn7ra0qk5pm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Всегда свежие цветы. Большой выбор.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-07-03T20:22:46.291Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "qYJb_QrRj-68eVsMOvTB10BXF1v6n4k",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Евгения М.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/0m-9/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "zgznm1ymgy6juyrenmfxra23fg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный салон, приятный, приветливый персонал,  демократичные цены!",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-11-20T17:08:53.229Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "ywC3ZrS4D3F_StWV00s685DQhlrodAat",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Виктория С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0k-8/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "b1z5uah6xq45dbjtb5e8a16fgg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный салон, свежие цветы, красивые букеты 💐Рекомендую 🙂👍",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-02-28T15:06:28.206Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "AjSRywn0hmf27o8RCWQeWWEp4CGD8B",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Мадина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/0u-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4fmjbxeynean8tbrgfkt4e9g7c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный салон, шикарные цветы! ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-03-02T19:29:41.356Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "4SVmtX4QstnWVmFFC8KJjDFStXfgwIZ6d",
+        "businessId": "62789267998",
+        "author": {
+          "name": "Владимир Баранов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/20706/enc-ef9c7c91f1e5c6ff2fe6416764602656/{size}",
+          "professionLevel": "Level 15 Local Expert",
+          "rtb": "Level 15 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "yj329uwf0kr6g3zrpyc4qfhtdr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный сервис! Адекватный доброжелательный персонал! Благодарю!)",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2021-08-29T13:34:44.579Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "woJ1rEgpDPhGTqeDf1g73IsP4_wCAO",
+        "businessId": "62789267998",
+        "author": {
+          "name": "лариса чертопятова",
+          "avatarUrl": "",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "zb98xq64u6fv44z5c87v2d8vpc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Цветы красивые, свежие, но очень дорогие!",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 3,
+        "updatedTime": "2021-04-25T18:52:56.593Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 22,
+      "loadedReviewsCount": 22,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "florans"
+}

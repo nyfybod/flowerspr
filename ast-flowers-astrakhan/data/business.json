@@ -1,0 +1,1067 @@
+{
+  "id": "50930689193",
+  "title": "Ast Flowers",
+  "address": "Astrakhan, Pobedy Street, 54",
+  "fullAddress": "Astrakhan, Pobedy Street, 54",
+  "coordinates": [
+    48.057512,
+    46.354896
+  ],
+  "phones": [
+    {
+      "number": "+7 (961) 814-48-60",
+      "type": "phone",
+      "value": "+79618144860",
+      "info": "Флорист"
+    },
+    {
+      "number": "+7 (999) 645-82-62",
+      "type": "phone",
+      "value": "+79996458262",
+      "info": "Администратор"
+    }
+  ],
+  "features": [
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "free_delivery",
+      "value": true,
+      "name": "Free delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_for_florists",
+      "value": true,
+      "name": "products for florists",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery_cost",
+      "value": "200–800 ₽",
+      "name": "Cost of delivery",
+      "type": "text",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "processing_speed",
+      "value": [
+        {
+          "id": "per_hour",
+          "name": "per hour"
+        }
+      ],
+      "name": "Delivery time",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_pa",
+          "name": "Partially available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "minimum_order",
+      "value": "1000 ₽",
+      "name": "Minimum order",
+      "type": "text",
+      "important": false
+    },
+    {
+      "id": "edible_bouquets",
+      "value": true,
+      "name": "edible bouquets, food floristry",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 45,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 13
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 9:00 AM–8:00 PM",
+  "socialLinks": [
+    {
+      "type": "viber",
+      "href": "https://viber.click/79618144860",
+      "readableHref": "viber.click/79618144860"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79618144860",
+      "readableHref": "+79618144860"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/channel/UCXcogpPiky9weO5F4BJlTUg",
+      "readableHref": "www.youtube.com/@UCXcogpPiky9weO5F4BJlTUg"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/channel/UCXcogpPiky9weO5F4BJlTUg?feature=emb_ch_name_ex",
+      "readableHref": "www.youtube.com/@UCXcogpPiky9weO5F4BJlTUg"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/signin?context=popup&next=https://www.youtube.com/post_login",
+      "readableHref": "www.youtube.com/@signin"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwMTA0MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwMTA4MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwMTA5MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwNDAyMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwNzEyMjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMDA1MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMTA5MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMjAyMjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMzA3MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxNjA2MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyMDA3MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyMTAxMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNDA1MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNTA0MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNjAyMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNzAzMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyOTA5MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "telegram",
+      "href": "https://t.me/ast_flowers",
+      "readableHref": "@ast_flowers"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79996458262",
+      "readableHref": "+79996458262"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/ast_flowers",
+      "readableHref": "vk.ru/ast_flowers"
+    }
+  ],
+  "businessLinks": [],
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/963534/2a000001623b259e96568b114e70747ef341/%s",
+      "id": "78343467"
+    }
+  },
+  "photos": {
+    "count": 110,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2816622/2a000001759103193023f577f7b4014ed370/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2816622/2a000001759103193023f577f7b4014ed370/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4079181/2a00000179ee8522f7747d77c4fa49832a23/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6334827/2a0000017f99d069f695d2d7491308bd9004/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13851722/2a000001954344bd93bd40dffba6745d842f/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/876204/2a000001623b26718f4cf10a5aff0174ff64/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13951679/2a000001954344ace3736c0b7bd4a9cab5f3/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5477999/2a0000017f99d0848024ebdb242f811daafa/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5533948/2a0000017f99d0811085dbf57678942d21b3/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3912953/2a000001759107b5edce9e9356bf2c22bb7b/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14763246/2a0000019543449f3091e5a362107d7cf619/%s",
+        "alt": "Flower shop Ast Flowers, Astrahan, photo"
+      }
+    ]
+  },
+  "fullObjects": {
+    "hasPhotos": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "Монобукет кустовые розы",
+        "categoryItems": [
+          {
+            "title": "Кустовые розы Mansfield park",
+            "description": "нежныйе кустовые садовые розы сорта Mansfield park, в матовой минималистичной упаковке",
+            "price": "3990",
+            "volume": "11 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.yFA0ASyaVnkObSecB5Sb2kD3AviaDUbnH_fJ7TSKBPE"
+          }
+        ]
+      }
+    ]
+  },
+  "topObjects": {
+    "hasPhotos": false,
+    "isYandexEda": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "popular",
+        "categoryItems": [
+          {
+            "title": "Кустовые розы Mansfield park",
+            "description": "нежныйе кустовые садовые розы сорта Mansfield park, в матовой минималистичной упаковке",
+            "price": "3990",
+            "volume": "11 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.yFA0ASyaVnkObSecB5Sb2kD3AviaDUbnH_fJ7TSKBPE"
+          }
+        ]
+      }
+    ],
+    "fullObjectsCount": 1,
+    "relevance": {
+      "lastUploadTime": "2026-11-10T22:08:15.083692Z",
+      "lastUpdateTime": "2025-02-26T17:49:40.337611Z"
+    },
+    "source": {
+      "id": "TYCOON",
+      "name": "Representative of the organization"
+    }
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "reviewId": "kTYMR7ubfrNJw7203BMLTBJOZHPFGxNr0",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Нина Холощенкова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/68143/enc-f53dde433569554e53ababe515297c1bcfc129ce76b85fd104400d5bb312f1d3/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "671y7kr7014kzuky3q6gybhkur",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Первое взаимодействие с фирмой было положительным. Второй раз - отрицательное. Запросила информацию в вотсап по стоимости тюльпанов 6 марта, мне ответили. 7 марта захотела оформить заказ, но оказалось предзаказ закрыт. В оправдание написали - вся информация в Инстаграм. Не все люди там автоматически есть, представляете? Странная отписка. Если бы 6 марта в переписке меня оповестили о предзаказе, что было бы очень уместно и логично, претензий было бы ноль. Учу вас как работать, в Вотсапе кроме цены надо было ответить \"Обратите внимание, сейчас на букеты действует предзаказ...\"",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 1,
+        "updatedTime": "2024-03-07T06:12:51.832Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо, будем стараться",
+          "updatedTime": "2025-02-26T18:18:23.158Z"
+        },
+        "reviewId": "ZIgzLEnL7rIaX7WBONRQ_wNuanXmEb",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Эльмира Старкова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25817/0o-2/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "1xpka0qvv2yy9w52mt5z8ecjz4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не сказала бы, что самый лучший магазин цветов, но букет, который купила для сестры в подарок был очень оригинальным  и нежным. Удивили новыми необычными цветами, спасибо ❤и кстати стояли как и сказали очень долго 👍",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 4,
+        "updatedTime": "2023-05-18T12:02:06.814Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Здравствуйте, вы практически наш Постоянный клиент, очень жаль, что так вышло, что 3 заказа оказались печальные.\n\nНо мы не раз сталкивались с недовольством, что цветы завяли у клиента, через какое то время, в то время как у нас в холодильнике эти же цветы в хорошем состоянии. По нашему мнению логично, если цветы в одном месте вянут, а в другом месте нормально стоят, то дело не в цветах, а в месте и уходе.\n\nБудет очень жаль  потерять такого клиента как вы, поэтому мы очень были бы рады, если бы вы могли нам дать ещё 1 шанс. Мы хотим подарить вам скидку 300 на любой букет в том числе акционный, а также вам будет начислен в декабре кэшбек 10% вместо 5.\nВ свою очередь мы постараемся отнестись с большей внимательностью к цветам при вашем заказе.",
+          "updatedTime": "2021-12-04T05:15:12.561Z"
+        },
+        "reviewId": "ho0kGf4dpBVeCA0hAnQfWPAb23UMMI-eU",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Сергей",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/60687/enc-3ee75f519e7e68b1eb04ef2fe518bbfbe0b939e0fe9e1061213ce84d13f38e34/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "g8qc48aw5z2k3271e956gu856m",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не знаю про весь ассортимент, но «букет дня» брал раза 3. Как правило, на следующий день они уже почти все вянут. Работники данной организации рассказывают, что мы не правильно ухаживаем( подрезаем и меняем воду). Беру те же самые Цветы в другом магазине, как минимум 3 дня стоят, если даже не подходить к ним. Больше в данную организацию не обращусь. На фото букет, который забрал в 11:30, утром следующего дня в 7:00 утра уже была такая картина. И так с тремя заказами. ",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 1,
+        "updatedTime": "2021-10-31T16:22:32.091Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "-Nxq1U-jSKe9WrhB06wftVlZyuDKWZ9",
+            "businessId": "50930689193",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5495309/2a0000017cd727f1af98d9516a4a03156ff2/{size}",
+            "createdTime": 1635697294186,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Сергей",
+              "publicId": "g8qc48aw5z2k3271e956gu856m",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/60687/enc-3ee75f519e7e68b1eb04ef2fe518bbfbe0b939e0fe9e1061213ce84d13f38e34/{size}",
+              "updateTime": 1635697294186,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "LADd21ZHZskq52YPRGbwOy2CfFXY0fI",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Камилла Иманова",
+          "avatarUrl": "",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "vyet7nn9ee0kqpar00t2mkbzpr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Заказала на день рождения мамы 7 роз с красной лентой. В итоге у цветов не было товарного вида, стебли тонкие, оборванные листочки, сухие, заветреные. Вместо того чтобы извиниться и предложить скидку или альтернативные пути решения, девушка хамила, выставляла меня виноватой. В конце она согласилась вернуть деньги, если привезём розы, пришлось тратиться на курьера, так она сказала, что флористы выходить на улицу не будут. Вернули не полную сумму, удержали 200 рублей за доставку. Сервис никакой, отсутствует уважение к покупателю. Называется заказал, получи \"кота в мешке\" ",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 1,
+        "updatedTime": "2021-04-07T09:30:36.837Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "9tDDt3ahpllKl2JzuZ70QmOAcHt_djPV",
+            "businessId": "50930689193",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4599571/2a00000178abab55885c40edd22bd13257ea/{size}",
+            "createdTime": 1617787836431,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Камилла Иманова",
+              "publicId": "vyet7nn9ee0kqpar00t2mkbzpr",
+              "imageUrlTemplate": "",
+              "updateTime": 1617787836431,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "mviLIDrn6gu_l-iKf_16XF-pjBXFrOJph",
+            "businessId": "50930689193",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4489303/2a00000178abab55572227725943c8beeb74/{size}",
+            "createdTime": 1617787836491,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Камилла Иманова",
+              "publicId": "vyet7nn9ee0kqpar00t2mkbzpr",
+              "imageUrlTemplate": "",
+              "updateTime": 1617787836491,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2025-02-26T18:18:53.608Z"
+        },
+        "reviewId": "6DfBDkJJ_kpZKDBExveR5morWpKQWtR",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Фатима Серова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27274/9w9mAuJaVhsHfmY4kcWFkMd4mw-1/{size}",
+          "professionLevel": "Level 12 Local Expert",
+          "rtb": "Level 12 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "tdm0r8ptknzbte4ng7h5m0fzt4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хороший цветочный магазин, всегда в наличии красивые цветы 🙌🏻 и самые доступные цены в городе 🌿 также есть доставка и флористы соберут любой букет на ваш вкус и кошелёк 😌",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-12-24T15:06:34.739Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "wpJx_Ete736M5yd-fCBEnvqd7Da9GX",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Бледнова Анастасия",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/37154/0s-8/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0260e0zg436hxdr27kgjah1nnw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Ужасный магазин. Доставна просто ужас. Заказываешь на праздник человеку букет, а потом бегаешь по улице в надежде найти курьера, так как он сказал, что из машины выходить не собирается. Одно хамство, люди вообще не адекватные. За что плачу не понятно. Человеческого отношения нет",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 1,
+        "updatedTime": "2021-12-28T17:57:54.085Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за вашу оценку\n",
+          "updatedTime": "2025-02-26T18:17:37.293Z"
+        },
+        "reviewId": "SORWVboDWQ0ArEQsGGFrWIJZ98O_631a",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Степан Абаев",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/34189/aOjPZNOHFp05Nt1gJxXHugYDR8-1/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "dfgcny8yggj7mvkah1vg4ar1bm",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Шикарные букеты, отзывчивые и грамотные флористы, особенно блондинка) мастер своего дела✌️😉",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-02-08T17:26:03.393Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик",
+          "updatedTime": "2025-02-26T18:15:46.794Z"
+        },
+        "reviewId": "2RF99LhBPKIpvyw0bRjkrYZny_QJNz",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Наталья Стукал",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/64336/Eg07QI4HAVoFaKUz0GANY4U8LE-1/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ggmvmgwmetg876wwa90xr5ma4c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень красивые цветы и главное свежие всегда 🌹",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok güzel çiçekler ve en önemlisi her zaman taze"
+        },
+        "rating": 5,
+        "updatedTime": "2025-01-30T18:52:26.746Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв",
+          "updatedTime": "2025-02-26T18:15:55.186Z"
+        },
+        "reviewId": "1l8bT9Jc66QPK3p0kaQseejIrkEw8a",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Инкогнито 3646",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/RNdcKWhzHCOxFINUAuOVXuni0o-1/{size}",
+          "professionLevel": "Level 11 Local Expert",
+          "rtb": "Level 11 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Всегда красиво оформленные, шикарные букеты,девчонки трудятся без остановки",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Her zaman güzelce dekore edilmiş, şık buketler, kızlar durmadan çalışırlar"
+        },
+        "rating": 5,
+        "updatedTime": "2024-12-16T04:29:41.169Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "h5lVsY9FCz3AjyUixkh7XX0GDjlN1bpRK",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Дени Умерзак Lawyer",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/0r-4/{size}",
+          "professionLevel": "Level 18 Local Expert",
+          "rtb": "Level 18 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "9n2avk6rqg93gbbva8xe01m6qc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличное удаленное Обслуживание. Консультируют по Телефону с удовольствием. ",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2021-04-17T09:15:16.010Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "AHvHyXRCOBp9D0OXRUfQ66MLaaYDaRkn",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Erbulat8100",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/30061/xRaWnmVUzvMc5yVp6g4NMBgyKwo-1/{size}",
+          "professionLevel": "Level 13 Local Expert",
+          "rtb": "Level 13 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "hwb84kc6qc9yvnee5faxxxzx84",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Жаль нет всего в наличии, а приходится заказывать заранее.",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2021-08-15T12:00:47.671Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2025-02-26T18:15:58.158Z"
+        },
+        "reviewId": "jV_JV2jUwuji0aVgFuSjsYs3YdfaZG",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Артур Хакимов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31078/KeCjWh7rQgl7EAMStpd8i9hi98-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "e4pfywf3c3ebqx7mxz37c4341g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Класс",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-11-17T17:48:48.476Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "lVU8Fi9_gTi85uVCyjMQR29Zvf2-97MY",
+        "businessId": "50930689193",
+        "author": {
+          "name": "Дмитрий Савенков",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38663/enc-61929a4bc9c44de391f1338340985583b57c8b05fe218b9a944e75db58e5ee4f/{size}",
+          "professionLevel": "Level 16 Local Expert",
+          "rtb": "Level 16 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "16kft7gc7h4ryagmpvdazqhbf4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Цены космос!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 1,
+        "updatedTime": "2023-10-01T11:04:16.266Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 13,
+      "loadedReviewsCount": 13,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "ast_flowers"
+}

@@ -1,0 +1,37 @@
+{
+  "checked": "2026-11-13",
+  "source": "https://yandex.ru/maps/org/39400678975/prices/",
+  "relevance": null,
+  "products": [
+    {
+      "name": "Роза Азена",
+      "category": "No category",
+      "price": "60",
+      "description": "Роза Кении, 40 см",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/39400678975/prices/",
+      "sourceUrl": null,
+      "photo": null
+    },
+    {
+      "name": "101 Роза",
+      "category": "No category",
+      "price": "6000",
+      "description": "Акция на 101 розу — 6000₽",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/39400678975/prices/",
+      "sourceUrl": null,
+      "photo": null
+    },
+    {
+      "name": "101 Роза",
+      "category": "No category",
+      "price": "6000",
+      "description": "Акция на 101 розу Кения, 40 см",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/39400678975/prices/",
+      "sourceUrl": null,
+      "photo": null
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "name": "Ast Flowers",
+  "address": "Астрахань, ул. Победы, 54",
+  "phone": "+7 (961) 814-48-60",
+  "folder": "Ast Flowers",
+  "oid": "50930689193",
+  "source": "https://yandex.ru/maps/org/50930689193/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 45,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 13
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "free_delivery",
+      "value": true,
+      "name": "Free delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_for_florists",
+      "value": true,
+      "name": "products for florists",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery_cost",
+      "value": "200–800 ₽",
+      "name": "Cost of delivery",
+      "type": "text",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "processing_speed",
+      "value": [
+        {
+          "id": "per_hour",
+          "name": "per hour"
+        }
+      ],
+      "name": "Delivery time",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_pa",
+          "name": "Partially available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "minimum_order",
+      "value": "1000 ₽",
+      "name": "Minimum order",
+      "type": "text",
+      "important": false
+    },
+    {
+      "id": "edible_bouquets",
+      "value": true,
+      "name": "edible bouquets, food floristry",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "viber",
+      "href": "https://viber.click/79618144860",
+      "readableHref": "viber.click/79618144860"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79618144860",
+      "readableHref": "+79618144860"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/channel/UCXcogpPiky9weO5F4BJlTUg",
+      "readableHref": "www.youtube.com/@UCXcogpPiky9weO5F4BJlTUg"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/channel/UCXcogpPiky9weO5F4BJlTUg?feature=emb_ch_name_ex",
+      "readableHref": "www.youtube.com/@UCXcogpPiky9weO5F4BJlTUg"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/signin?context=popup&next=https://www.youtube.com/post_login",
+      "readableHref": "www.youtube.com/@signin"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwMTA0MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwMTA4MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwMTA5MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwNDAyMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMwNzEyMjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMDA1MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMTA5MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMjAyMjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxMzA3MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMxNjA2MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyMDA3MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyMTAxMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNDA1MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNTA0MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNjAyMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyNzAzMjAyMg&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "youtube",
+      "href": "https://www.youtube.com/watch?list=TLGG2vDzXYNOETMyOTA5MjAyMQ&v=LBRSVEwlEmQ",
+      "readableHref": "www.youtube.com/@watch"
+    },
+    {
+      "type": "telegram",
+      "href": "https://t.me/ast_flowers",
+      "readableHref": "@ast_flowers"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79996458262",
+      "readableHref": "+79996458262"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/ast_flowers",
+      "readableHref": "vk.ru/ast_flowers"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/2816622/2a000001759103193023f577f7b4014ed370/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1200,
+      "height": 901,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/4079181/2a00000179ee8522f7747d77c4fa49832a23/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6334827/2a0000017f99d069f695d2d7491308bd9004/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1147,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13851722/2a000001954344bd93bd40dffba6745d842f/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1080,
+      "height": 1349,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/876204/2a000001623b26718f4cf10a5aff0174ff64/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13951679/2a000001954344ace3736c0b7bd4a9cab5f3/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5477999/2a0000017f99d0848024ebdb242f811daafa/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5533948/2a0000017f99d0811085dbf57678942d21b3/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1080,
+      "height": 1346,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/3912953/2a000001759107b5edce9e9356bf2c22bb7b/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14763246/2a0000019543449f3091e5a362107d7cf619/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Нина Холощенкова",
+      "text": "Первое взаимодействие с фирмой было положительным. Второй раз - отрицательное. Запросила информацию в вотсап по стоимости тюльпанов 6 марта, мне ответили. 7 марта захотела оформить заказ, но оказалось предзаказ закрыт. В оправдание написали - вся информация в Инстаграм. Не все люди там автоматически есть, представляете? Странная отписка. Если бы 6 марта в переписке меня оповестили о предзаказе, что было бы очень уместно и логично, претензий было бы ноль. Учу вас как работать, в Вотсапе кроме цены надо было ответить \"Обратите внимание, сейчас на букеты действует предзаказ...\"",
+      "rating": 1,
+      "date": "2024-03-07",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=kTYMR7ubfrNJw7203BMLTBJOZHPFGxNr0"
+    },
+    {
+      "author": "Эльмира Старкова",
+      "text": "Не сказала бы, что самый лучший магазин цветов, но букет, который купила для сестры в подарок был очень оригинальным  и нежным. Удивили новыми необычными цветами, спасибо ❤и кстати стояли как и сказали очень долго 👍",
+      "rating": 4,
+      "date": "2023-05-18",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=ZIgzLEnL7rIaX7WBONRQ_wNuanXmEb"
+    },
+    {
+      "author": "Сергей",
+      "text": "Не знаю про весь ассортимент, но «букет дня» брал раза 3. Как правило, на следующий день они уже почти все вянут. Работники данной организации рассказывают, что мы не правильно ухаживаем( подрезаем и меняем воду). Беру те же самые Цветы в другом магазине, как минимум 3 дня стоят, если даже не подходить к ним. Больше в данную организацию не обращусь. На фото букет, который забрал в 11:30, утром следующего дня в 7:00 утра уже была такая картина. И так с тремя заказами. ",
+      "rating": 1,
+      "date": "2021-10-31",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=ho0kGf4dpBVeCA0hAnQfWPAb23UMMI-eU"
+    },
+    {
+      "author": "Камилла Иманова",
+      "text": "Заказала на день рождения мамы 7 роз с красной лентой. В итоге у цветов не было товарного вида, стебли тонкие, оборванные листочки, сухие, заветреные. Вместо того чтобы извиниться и предложить скидку или альтернативные пути решения, девушка хамила, выставляла меня виноватой. В конце она согласилась вернуть деньги, если привезём розы, пришлось тратиться на курьера, так она сказала, что флористы выходить на улицу не будут. Вернули не полную сумму, удержали 200 рублей за доставку. Сервис никакой, отсутствует уважение к покупателю. Называется заказал, получи \"кота в мешке\" ",
+      "rating": 1,
+      "date": "2021-04-07",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=LADd21ZHZskq52YPRGbwOy2CfFXY0fI"
+    },
+    {
+      "author": "Фатима Серова",
+      "text": "Хороший цветочный магазин, всегда в наличии красивые цветы 🙌🏻 и самые доступные цены в городе 🌿 также есть доставка и флористы соберут любой букет на ваш вкус и кошелёк 😌",
+      "rating": 5,
+      "date": "2022-12-24",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=6DfBDkJJ_kpZKDBExveR5morWpKQWtR"
+    },
+    {
+      "author": "Бледнова Анастасия",
+      "text": "Ужасный магазин. Доставна просто ужас. Заказываешь на праздник человеку букет, а потом бегаешь по улице в надежде найти курьера, так как он сказал, что из машины выходить не собирается. Одно хамство, люди вообще не адекватные. За что плачу не понятно. Человеческого отношения нет",
+      "rating": 1,
+      "date": "2021-12-28",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=wpJx_Ete736M5yd-fCBEnvqd7Da9GX"
+    },
+    {
+      "author": "Степан Абаев",
+      "text": "Шикарные букеты, отзывчивые и грамотные флористы, особенно блондинка) мастер своего дела✌️😉",
+      "rating": 5,
+      "date": "2024-02-08",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=SORWVboDWQ0ArEQsGGFrWIJZ98O_631a"
+    },
+    {
+      "author": "Наталья Стукал",
+      "text": "Очень красивые цветы и главное свежие всегда 🌹",
+      "rating": 5,
+      "date": "2025-01-30",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=2RF99LhBPKIpvyw0bRjkrYZny_QJNz"
+    },
+    {
+      "author": "Инкогнито 3646",
+      "text": "Всегда красиво оформленные, шикарные букеты,девчонки трудятся без остановки",
+      "rating": 5,
+      "date": "2024-12-16",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=1l8bT9Jc66QPK3p0kaQseejIrkEw8a"
+    },
+    {
+      "author": "Дени Умерзак Lawyer",
+      "text": "Отличное удаленное Обслуживание. Консультируют по Телефону с удовольствием. ",
+      "rating": 5,
+      "date": "2021-04-17",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=h5lVsY9FCz3AjyUixkh7XX0GDjlN1bpRK"
+    },
+    {
+      "author": "Erbulat8100",
+      "text": "Жаль нет всего в наличии, а приходится заказывать заранее.",
+      "rating": 5,
+      "date": "2021-08-15",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=AHvHyXRCOBp9D0OXRUfQ66MLaaYDaRkn"
+    },
+    {
+      "author": "Артур Хакимов",
+      "text": "Класс",
+      "rating": 5,
+      "date": "2024-11-17",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=jV_JV2jUwuji0aVgFuSjsYs3YdfaZG"
+    },
+    {
+      "author": "Дмитрий Савенков",
+      "text": "Цены космос!",
+      "rating": 1,
+      "date": "2023-10-01",
+      "source": "https://yandex.ru/maps/org/50930689193/reviews/?reviewId=lVU8Fi9_gTi85uVCyjMQR29Zvf2-97MY"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1200,
+    "height": 1200,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/963534/2a000001623b259e96568b114e70747ef341/%s"
+  }
+}

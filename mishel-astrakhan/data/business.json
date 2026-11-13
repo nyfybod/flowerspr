@@ -1,0 +1,1654 @@
+{
+  "type": "business",
+  "requestId": "1794567539891989-467871995-addrs-upper-yp-83",
+  "index": 0,
+  "analyticsId": "0",
+  "title": "Мишель",
+  "description": "Astrakhan, Kirova Street, 87А3",
+  "address": "Astrakhan, Kirova Street, 87А3",
+  "coordinates": [
+    48.039323,
+    46.33547
+  ],
+  "displayCoordinates": [
+    48.039323,
+    46.33547
+  ],
+  "bounds": [
+    [
+      48.035218,
+      46.332626
+    ],
+    [
+      48.043429,
+      46.338313
+    ]
+  ],
+  "uri": "ymapsbm1://org?oid=78347172490",
+  "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9NzgzNDcxNzI0OTA=",
+  "requestSerpId": "1794567539891989-467871995-addrs-upper-yp-83",
+  "id": "78347172490",
+  "metro": [],
+  "stops": [
+    {
+      "id": "stop__9809001",
+      "name": "Медколледж",
+      "distance": "203 m",
+      "distanceValue": 203.01,
+      "coordinates": [
+        48.040092986,
+        46.334807612
+      ],
+      "type": "common"
+    },
+    {
+      "id": "stop__9808999",
+      "name": "Parobichev Hill",
+      "distance": "210 m",
+      "distanceValue": 210.705,
+      "coordinates": [
+        48.03919063,
+        46.33410005
+      ],
+      "type": "common"
+    },
+    {
+      "id": "5546084367",
+      "name": "Городская поликлиника № 1",
+      "distance": "340 m",
+      "distanceValue": 343.294,
+      "coordinates": [
+        48.035877941,
+        46.336326507
+      ],
+      "type": "common"
+    },
+    {
+      "id": "stop__9808996",
+      "name": "Улица Бэра",
+      "distance": "620 m",
+      "distanceValue": 622.372,
+      "coordinates": [
+        48.033026589,
+        46.334280655
+      ],
+      "type": "common"
+    },
+    {
+      "id": "stop__9808974",
+      "name": "Медицинская академия",
+      "distance": "680 m",
+      "distanceValue": 682.036,
+      "coordinates": [
+        48.037599455,
+        46.340998981
+      ],
+      "type": "common"
+    }
+  ],
+  "photos": {
+    "count": 70,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19708557/2a0000019eaafda79e5f3db32284710062a1/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19708557/2a0000019eaafda79e5f3db32284710062a1/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18128678/2a0000019eaafdb3ed55b41bb2b98063acdc/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20963904/2a000001a0d6f305fefa752d47df4da841c8/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20879492/2a000001a094b9075a54bd07c4316b3b6fa3/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21148955/2a000001a094b9095c50b0b8c6aef2112699/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20308240/2a000001a094b8ffcce6e0469b6e0663ba47/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17781590/2a000001a0943f3eaaffcaac5a7086e123ca/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20879492/2a000001a0943f39ad576641b386900eded9/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21162407/2a000001a0943f39a679851ff88571105047/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20765460/2a000001a0943f399ea0a7edd4ee7316228b/%s",
+        "alt": "Flower shop Мишель, Astrahan, photo"
+      }
+    ]
+  },
+  "entrances": [
+    {
+      "coordinates": [
+        48.03914542,
+        46.33564975
+      ],
+      "azimuth": 265.57664897949803,
+      "tilt": 0
+    }
+  ],
+  "routePoint": {
+    "context": "djJ8ChQKEgkWWJW3AgVIQBGOlC2S9ipHQBIqChIJSbvRx_wESEARsGSex-4qR0ASDTc4MzQ3MTcyNDkwXzAdAACAPyA_"
+  },
+  "panorama": {
+    "id": "1360309395_762759178_23_1719296296",
+    "direction": [
+      -117,
+      10
+    ],
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        48.0396328153,
+        46.3355785937
+      ]
+    },
+    "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1360309395_762759178_23_1719296296&size=500%2C240&azimuth=-117&tilt=10&api_key=maps&signature=f6QnKgrlQq9ci4yAZyIuxySQ3KhfFBrW77vtYtp5yL8=",
+    "alt": "Panorama — flower shop Мишель, Astrahan"
+  },
+  "shortTitle": "Мишель",
+  "fullAddress": "Astrakhan, Kirova Street, 87А3",
+  "country": "Russian Federation",
+  "status": "open",
+  "businessLinks": [],
+  "ratingData": {
+    "ratingCount": 13,
+    "ratingValue": 4.699999809265137,
+    "reviewCount": 12
+  },
+  "sources": [
+    {
+      "id": "yandex",
+      "name": "Yandex",
+      "href": "https://www.yandex.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": "184108325",
+      "name": "Flower shop",
+      "class": "flower shop",
+      "seoname": "flower_shop",
+      "pluralName": "Flower shops"
+    },
+    {
+      "id": "184108319",
+      "name": "flowers and bouquets delivery",
+      "class": "flower shop",
+      "seoname": "flowers_and_bouquets_delivery",
+      "pluralName": "Flowers and bouquets delivery services"
+    }
+  ],
+  "phones": [
+    {
+      "number": "+7 (927) 583-16-00",
+      "type": "phone",
+      "value": "+79275831600"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessability",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_a",
+          "name": "Available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "contactless_payment",
+          "name": "contactless payment"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "online_payment",
+          "name": "online"
+        },
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "ramp",
+      "value": true,
+      "name": "Ramp",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "planter",
+      "value": true,
+      "name": "flowerpot",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "full_access",
+          "name": "full access"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "mediaOrderTemplate": "p,v,p,v,v,p,v*,p*",
+  "featureGroups": [
+    {
+      "name": "Accessibility",
+      "featureIds": [
+        "wheelchair_accessability",
+        "ramp",
+        "wheelchair_access",
+        "wheelchair_accessible_vocabulary"
+      ]
+    }
+  ],
+  "businessProperties": {
+    "has_verified_owner": false,
+    "geoproduct_poi_color": "#60A8F0",
+    "geoproduct_poi_label_color": "#428FDB"
+  },
+  "seoname": "mishel",
+  "geoId": 37,
+  "compositeAddress": {
+    "country": "Russian Federation",
+    "area": "Astrakhan Urban District",
+    "locality": "Astrakhan",
+    "street": "Kirova Street",
+    "house": "87А3"
+  },
+  "modularCard": {
+    "showClaimOrganization": true,
+    "showTaxiButton": true,
+    "showFeedbackButton": true,
+    "showReviews": true,
+    "showAddPhotoButton": true,
+    "showCompetitors": true,
+    "showDirectBanner": true,
+    "showAdditionalAds": true,
+    "showWorkHours": true,
+    "showContacts": true,
+    "showFriendsLiked": false,
+    "showVisualPricesTab": false,
+    "showHotelEnrichment": false,
+    "promoBadgeFeature": [],
+    "offerBadgeId": [],
+    "showCourierButton": false,
+    "hotelReviewsStubType": 0
+  },
+  "modularPin": {
+    "subtitleHints": [
+      {
+        "text": "4.7",
+        "type": "RATING",
+        "properties": null
+      },
+      {
+        "text": "Open until 8:00 PM",
+        "type": "WORKING_HOURS",
+        "properties": {
+          "workingHours": {
+            "shortText": "Until 8:00 PM",
+            "isOpen": true
+          }
+        }
+      }
+    ],
+    "allowMultilineSubtitle": false
+  },
+  "modularSnippet": {
+    "showNeurosummary": false,
+    "showMentionedOnSite": false,
+    "showTitle": "SHORT_TITLE",
+    "showAddress": "SHORT_ADDRESS",
+    "showCategory": "ALL_CATEGORIES",
+    "showRating": "FIVE_STAR_RATING",
+    "showPhoto": "LOGO",
+    "showWorkHours": true,
+    "showVerified": false,
+    "showDistanceFromTransit": false,
+    "showBookmark": false,
+    "showEta": false,
+    "showGeoproductOffer": false,
+    "subtitleHint": [],
+    "galleryButton": [],
+    "shownGoodsNumber": 3,
+    "showDescription": false,
+    "showCollectionBadge": true,
+    "showFriendsLiked": false,
+    "showCourierButton": false,
+    "showYandexEatsOrderButton": false,
+    "infoBlock": [],
+    "serpActionButtons": [
+      1,
+      3,
+      5,
+      0
+    ],
+    "awards": [],
+    "promoBadgeFeature": [],
+    "offerBadgeId": [],
+    "showHotelEnrichment": false
+  },
+  "tzOffset": 14400,
+  "workingTimeText": "daily, 8:00 AM–8:00 PM",
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "currentWorkingStatus": {
+    "isOpenNow": true,
+    "text": "Open until 8:00 PM",
+    "shortText": "Until 8:00 PM",
+    "tag": []
+  },
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019f5f94b074177abfb2b5c993b568/%s",
+      "tag": [
+        "owner_photo"
+      ],
+      "id": "2a0000019f5f94b074177abfb2b5c993b568"
+    }
+  },
+  "subtitleItems": [
+    {
+      "type": "working_hours",
+      "text": "Until 8:00 PM",
+      "property": [
+        {
+          "key": "is_open",
+          "value": "1"
+        },
+        {
+          "key": "short_text",
+          "value": "Until 8:00 PM"
+        },
+        {
+          "key": "text",
+          "value": "Open until 8:00 PM"
+        }
+      ]
+    },
+    {
+      "type": "rating",
+      "text": "9.4",
+      "property": [
+        {
+          "key": "value",
+          "value": "9.4"
+        },
+        {
+          "key": "value_5",
+          "value": "4.7"
+        }
+      ]
+    }
+  ],
+  "metrika": {
+    "counter": 110728136,
+    "goals": {
+      "call": "make-call",
+      "cta": "cta-button",
+      "route": "make-route",
+      "site": "site",
+      "whatsapp": "whatsapp",
+      "telegram": "telegram",
+      "viber": "viber",
+      "vkontakte": "vkontakte",
+      "youtube": "social-youtube",
+      "odnoklassniki": "social-odnoklassniki",
+      "stories": "stories-button",
+      "taxi": "call-taxi",
+      "booking": "booking",
+      "subscribe": "subscribe",
+      "send-to-phone": "send-to-phone",
+      "booking-open": "booking-open",
+      "share": "share",
+      "booking-confirmed": "booking-confirmed",
+      "booking-visited": "booking-visited",
+      "start-route": "start-route",
+      "visited-organization": "visited-organization"
+    }
+  },
+  "routeToChoose": [],
+  "parentRubrics": [
+    78442730327,
+    125907999099,
+    184108049,
+    184108313
+  ],
+  "hasStories": false,
+  "needSimilarOrgsRequest": true,
+  "needCompetitorRequest": true,
+  "region": {
+    "id": 37,
+    "type": 6,
+    "capitalId": 0,
+    "hierarchy": [
+      225,
+      10946,
+      37
+    ],
+    "seoname": "astrahan",
+    "bounds": [
+      [
+        47.8641935,
+        46.235784837793645
+      ],
+      [
+        48.1961565,
+        46.45921883779364
+      ]
+    ],
+    "longitude": 48.030175,
+    "latitude": 46.347616,
+    "zoom": 12,
+    "names": {
+      "ablative": "",
+      "accusative": "",
+      "dative": "",
+      "directional": "",
+      "genitive": "Astrahan",
+      "instrumental": "",
+      "locative": "",
+      "nominative": "Astrahan",
+      "preposition": "in",
+      "prepositional": ""
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Maps",
+      "type": "root",
+      "url": "https://yandex.com/maps/"
+    },
+    {
+      "name": "Astrahan",
+      "type": "region",
+      "url": "https://yandex.com/maps/37/astrahan/",
+      "region": {
+        "center": [
+          48.030175,
+          46.347616
+        ],
+        "zoom": 12
+      }
+    },
+    {
+      "category": {
+        "id": "184108325",
+        "name": "Flower shop",
+        "class": "flower shop",
+        "seoname": "flower_shop",
+        "pluralName": "Flower shops"
+      },
+      "name": "Flower shops",
+      "type": "category",
+      "url": "https://yandex.com/maps/37/astrahan/category/flower_shop/184108325/"
+    },
+    {
+      "name": "Мишель",
+      "type": "search",
+      "url": "https://yandex.com/maps/org/mishel/78347172490/"
+    }
+  ],
+  "reviewResults": {
+    "reviews": [
+      {
+        "businessComment": {
+          "text": "Спасибо за Ваш отзыв ❤️",
+          "updatedTime": "2026-07-14T07:45:45.521Z"
+        },
+        "reviewId": "cVT6oHJ7qtdkshn1YpUsDDcP_yiSbWUxd",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Ирина Кистень",
+          "avatarUrl": "",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "au0b1hfhdxtw9b7geva0j64buw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин! Цветы всегда свежие, в широком ассортименте, букеты собираются со вкусом и с душой, за что отдельное спасибо флористам! Живу в другом городе, поэтому заказываю доставку. Всего все на 10 из 10👌 На сообщения отвечают оперативно, помогают с выбором, а владелица магазина очень отзывчивая и душевная.\nОт души вам процветания и побольше заказов! 🌺",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Harika mağaza! Çiçekler her zaman tazedir, geniş bir yelpazede buketler zevkle ve ruhla toplanır, bunun için çiçekçilere özel teşekkürler! Başka bir şehirde yaşıyorum, bu yüzden teslimat siparişi veriyorum. Toplamda, 10 kişiden 10'u Mesajlara derhal cevap veriyor, seçime yardımcı oluyor ve mağazanın sahibi çok duyarlı ve içten.\nKalbinizden refah ve daha fazla sipariş alın! 🌺"
+        },
+        "rating": 5,
+        "updatedTime": "2026-06-09T06:06:50.020Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "18128678_2a0000019eaafdb3ed55b41bb2b98063acdc",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18128678/2a0000019eaafdb3ed55b41bb2b98063acdc/{size}",
+            "createdTime": 1780985215216,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ирина Кистень",
+              "publicId": "au0b1hfhdxtw9b7geva0j64buw",
+              "imageUrlTemplate": "",
+              "updateTime": 1780985215216,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19708557_2a0000019eaafda79e5f3db32284710062a1",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19708557/2a0000019eaafda79e5f3db32284710062a1/{size}",
+            "createdTime": 1780985212067,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ирина Кистень",
+              "publicId": "au0b1hfhdxtw9b7geva0j64buw",
+              "imageUrlTemplate": "",
+              "updateTime": 1780985212067,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "edD7bpmL3cM1cm-usmQKaiokfLd65mE",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Азалия Ш.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/59871/0a-4/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wy11wtq7ar8h43btdh6ger62r0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Являюсь клиенткой этого прекрасного салона с момента открытия, и остаюсь ею до сих пор. Однозначно это лучший цветочный салон в городе, где клиентоориентированность , качество и красота стоит на первом месте. Букеты от Мишель приятно дарить и получать в подарок ☺️\nЗдесь могут реализовать ваш запрос на красивый и изысканный букет к важному событию, но и так жевсегда есть хороший выбор готовых композиций.  Желаю дальнейшего процветания и успеха салону Мишель 🫰🏻",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Açılışından bu yana bu güzel salonun müşterisiyim ve bugün hala öyle kalıyorum. Kesinlikle bu, müşteri odaklılık , kalite ve güzelliğin ilk sırada yer aldığı şehirdeki en iyi çiçek salonudur. Michelle'den buketler hediye olarak vermek ve almak güzel ☺️\nBurada önemli bir olay için güzel ve zarif bir buket talebinizi gerçekleştirebilirler, ancak bu şekilde bile her zaman iyi bir hazır kompozisyon seçimi vardır.  Michel salonuna daha fazla refah ve başarı diliyorum"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-12T08:25:52.489Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20308240_2a000001a094b8ffcce6e0469b6e0663ba47",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20308240/2a000001a094b8ffcce6e0469b6e0663ba47/{size}",
+            "createdTime": 1789201549123,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Азалия Ш.",
+              "publicId": "wy11wtq7ar8h43btdh6ger62r0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/59871/0a-4/{size}",
+              "updateTime": 1789201549123,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20879492_2a000001a094b9075a54bd07c4316b3b6fa3",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20879492/2a000001a094b9075a54bd07c4316b3b6fa3/{size}",
+            "createdTime": 1789201551526,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Азалия Ш.",
+              "publicId": "wy11wtq7ar8h43btdh6ger62r0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/59871/0a-4/{size}",
+              "updateTime": 1789201551526,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "21148955_2a000001a094b9095c50b0b8c6aef2112699",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21148955/2a000001a094b9095c50b0b8c6aef2112699/{size}",
+            "createdTime": 1789201551461,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Азалия Ш.",
+              "publicId": "wy11wtq7ar8h43btdh6ger62r0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/59871/0a-4/{size}",
+              "updateTime": 1789201551461,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "rZGD0ut3ddkIoS6ip3FZB2e8gngya7Ynk",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Радик Б",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/62162/0YbVAGCQLpf5yOOF7HL8ivwqs-1/{size}",
+          "professionLevel": "Level 7 Local Expert",
+          "rtb": "Level 7 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4mr6zcvjhh9tf0tfa8vhewmnr8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не впервый раз посещаю цветочный магазин \"Мишель\" и всегда остаюсь под большим впечатлением! Во-первых, поражает разнообразие цветов и композиций – глаза просто разбегаются от такого изобилия. Каждый букет оформлен с любовью и вниманием к деталям, что сразу чувствуется.\nОсобенно порадовала вежливость и профессионализм сотрудников. Они не только помогли выбрать идеальный букет, но и дали рекомендации по уходу за цветами, что оказалось очень полезным.\nЦены вполне адекватные, а качество цветов на высоте. Порадовало также наличие свежих, только что срезанных цветов, что всегда является залогом долгого цветения.\nВ общем, если вы ищете место, где можно приобрести красивые и качественные цветы, то этот магазин – отличный выбор. Постоянно покупаю в этом магазине и рекомендую своим друзьям и знакомым!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "İlk defa \"Michelle\" çiçekçisini ziyaret etmiyorum ve her zaman büyük bir izlenim bırakıyorum! Birincisi, renklerin ve kompozisyonların çeşitliliği şaşırtıcıdır - gözler bu kadar bolluktan uzaklaşır. Her buket, hemen hissedilen detaylara sevgi ve özenle dekore edilmiştir.\nÇalışanların nezaketinden ve profesyonelliğinden özellikle memnun kaldım. Sadece mükemmel buketi seçmeye yardımcı olmakla kalmadılar, aynı zamanda çiçeklerin bakımı için de önerilerde bulundular, bu da çok faydalı oldu.\nFiyatlar oldukça yeterli ve çiçeklerin kalitesi zirvede. Ayrıca, her zaman uzun çiçeklenmenin anahtarı olan taze, yeni kesilmiş çiçeklerin varlığından da memnun oldum.\nGenel olarak, güzel ve kaliteli çiçekler satın alabileceğiniz bir yer arıyorsanız, bu mağaza mükemmel bir seçimdir. Bu mağazadan sürekli satın alıyorum ve arkadaşlarıma ve tanıdıklarıma tavsiye ediyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-25T05:04:08.825Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20963904_2a000001a0d6f305fefa752d47df4da841c8",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20963904/2a000001a0d6f305fefa752d47df4da841c8/{size}",
+            "createdTime": 1790312648509,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Радик Б",
+              "publicId": "4mr6zcvjhh9tf0tfa8vhewmnr8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/62162/0YbVAGCQLpf5yOOF7HL8ivwqs-1/{size}",
+              "updateTime": 1790312648509,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "9KY9cISUpnMjr8Fall-EqehGVxtiZtHz",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Ольга Д.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/56823/0g-2/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "d9cmkgp14pkgw0hwepw2d04kx0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Самый лучший и любимый салон цветов  😍Только здесь всегда свежие ,красивые и качественные цветы !🤩Всегда все продуманно до деталей ,от открытки ,до ленты ,все сочетается и смотрится очень стильно !Любовьться букетами - одно наслаждение 😌\nОчень уютный салон и самые добрые флористы 😇\nЦветы всегда стоят очень долго и радуют 🥰Очень рекомендую от всей души 😎",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "En iyi ve en sevilen çiçek salonu 😍Sadece burada her zaman taze, güzel ve kaliteli çiçekler var!открытки Kartpostaldan kurdeleye kadar her şey her zaman ayrıntılara kadar düşünülür, her şey bir araya gelir ve çok şık görünür!Buketlere aşık olmak bir zevktir\nÇok rahat bir salon ve en nazik çiçekçiler\nÇiçekler her zaman çok uzun süre dayanır ve sizi memnun eder души Tüm kalbimle şiddetle tavsiye ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-11T13:10:25.613Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20217881_2a000001a0909738dfb2681bc1e480f00483",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20217881/2a000001a0909738dfb2681bc1e480f00483/{size}",
+            "createdTime": 1789132225423,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ольга Д.",
+              "publicId": "d9cmkgp14pkgw0hwepw2d04kx0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/56823/0g-2/{size}",
+              "updateTime": 1789132225423,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "C-QMLcgqzhtnLlxrSAzfybkdctEV6F",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Сима Джелилова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/25817/0m-4/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ry784qkrux6p4856e5mfw0zwb0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Лучший цветочный салон!\nЦветы абсолютно всегда свежие,все букеты собраны со вкусом,приятное обслуживание.\nВладелица очень добрая и отзывчивая,если затрудняетесь с выбором,всегда поможет и подскажет!\nПроцветания магазину 🌹 🌺 ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "En iyi çiçek salonu!\nÇiçekler kesinlikle her zaman tazedir, tüm buketler zevkle toplanır, hoş bir hizmettir.\nSahibi çok nazik ve yardımseverdir, seçim yapmakta zorlanıyorsanız, size her zaman yardımcı olacak ve size söyleyecektir!\nMağazaya refah "
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-14T11:30:20.263Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "13789674_2a0000019f60646f5385f2775f0d717364e9",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13789674/2a0000019f60646f5385f2775f0d717364e9/{size}",
+            "createdTime": 1784028624611,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Сима Джелилова",
+              "publicId": "ry784qkrux6p4856e5mfw0zwb0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/0m-4/{size}",
+              "updateTime": 1784028624611,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20185783_2a0000019f60646740524a37c04880abbcc4",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20185783/2a0000019f60646740524a37c04880abbcc4/{size}",
+            "createdTime": 1784028622274,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Сима Джелилова",
+              "publicId": "ry784qkrux6p4856e5mfw0zwb0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/0m-4/{size}",
+              "updateTime": 1784028622274,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "MUKJ3M8qai_wbHRhkw2vcHr_B3cL1t",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Динара Умерова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ghc7yxe23e0a6xd143y93bqg3g",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Самый лучший салон цветов, всегда войдут в любой бюджет, подсторятся, самые свежие и шикарные цветы, удобное местоположение, да и доставка всегда выручит. Процветания и еще бОльших клиентов)))",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "En iyi çiçek salonu, her zaman her bütçeye girecek, en taze ve en şık çiçekler, uygun bir yer olacak ve teslimat her zaman yardımcı olacaktır. Refah ve hatta daha büyük müşteriler)))"
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-17T14:19:38.580Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "18748915_2a0000019f70726f21f135e65e4dac68679e",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18748915/2a0000019f70726f21f135e65e4dac68679e/{size}",
+            "createdTime": 1784297977020,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Динара Умерова",
+              "publicId": "ghc7yxe23e0a6xd143y93bqg3g",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1784297977020,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19883212_2a0000019f70727229e0d9b924519d33a99f",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19883212/2a0000019f70727229e0d9b924519d33a99f/{size}",
+            "createdTime": 1784297978163,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Динара Умерова",
+              "publicId": "ghc7yxe23e0a6xd143y93bqg3g",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1784297978163,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20179596_2a0000019f70726ec5ca8419ab3167278f37",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20179596/2a0000019f70726ec5ca8419ab3167278f37/{size}",
+            "createdTime": 1784297976152,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Динара Умерова",
+              "publicId": "ghc7yxe23e0a6xd143y93bqg3g",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/31078/0o-4/{size}",
+              "updateTime": 1784297976152,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Ht1TGXb0i7Rk3crNPn3iBHZmE-dwMQuK6",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Елена Сорокина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/59871/0a-4/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "yd6ekqxq21gm8a5jvh5g94carc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Лучший цветочный салон! Свежайшие и шикарные цветы, которые стойко переносят любую дорогу. Всегда найдут вариант под ваш бюджет и подстроятся под любые хотелки.  Удобно расположены, а доставка стабильно выручает в последний момент. Спасибо за вашу работу, желаю дальнейшего процветания и расширения маштабов деятельности",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "En iyi çiçek salonu! Her yola sürekli dayanabilen en taze ve en şık çiçekler. Her zaman bütçenize uygun bir seçenek bulacaklar ve herhangi bir isteğe uyum sağlayacaklar.  Elverişli bir konuma sahiptir ve teslimat son anda sürekli olarak yardımcı olur. Çalışmanız için teşekkür ederim, daha fazla refah ve faaliyet ölçeklerinin genişletilmesini diliyorum"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-11T07:09:34.569Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "cAunw7lQ8xm5EERk-mbTuaOOE82IZp8",
+        "businessId": "78347172490",
+        "author": {
+          "name": "sugababesElena",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Все наши семейные празники и важные события сопровождаются букетами от Мишель уже на протяжении пяти лет ! С благодарностью желаем вам процветания и с удовольствием скрасим свои будни и праздники вашими букетами ! Кстати , по работе всегла получается прекрасное сотрудничество к своим сертификатам на косметологию я поедлагаю красивые букеты Мишель 💛💛💛☀️☀️☀️",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Tüm aile kutlamalarımıza ve önemli olaylarımıza beş yıldır Michelle'in buketleri eşlik ediyor! Minnettarlıkla size refah dileriz ve günlük hayatımızı ve tatillerimizi buketlerinizle sevinçle aydınlatacağız! Bu arada, iş yerinde her zaman harika bir işbirliği elde ediyorum kozmetoloji sertifikalarım için Michelle'in güzel buketlerini yiyorum☀☀️☀️☀️"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-12T06:12:49.778Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17781590_2a000001a0943f3eaaffcaac5a7086e123ca",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17781590/2a000001a0943f3eaaffcaac5a7086e123ca/{size}",
+            "createdTime": 1789193569548,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "sugababesElena",
+              "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+              "updateTime": 1789193569548,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20307868_2a000001a0943f397e78bd89a5f5538d37cc",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20307868/2a000001a0943f397e78bd89a5f5538d37cc/{size}",
+            "createdTime": 1789193567786,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "sugababesElena",
+              "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+              "updateTime": 1789193567786,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20765460_2a000001a0943f399ea0a7edd4ee7316228b",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20765460/2a000001a0943f399ea0a7edd4ee7316228b/{size}",
+            "createdTime": 1789193567806,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "sugababesElena",
+              "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+              "updateTime": 1789193567806,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20840239_2a000001a0943f394adfa3b0d686407f7938",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20840239/2a000001a0943f394adfa3b0d686407f7938/{size}",
+            "createdTime": 1789193567662,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "sugababesElena",
+              "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+              "updateTime": 1789193567662,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20879492_2a000001a0943f39ad576641b386900eded9",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20879492/2a000001a0943f39ad576641b386900eded9/{size}",
+            "createdTime": 1789193567921,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "sugababesElena",
+              "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+              "updateTime": 1789193567921,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "21062325_2a000001a0943f395aad6a65d7505ac7b179",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21062325/2a000001a0943f395aad6a65d7505ac7b179/{size}",
+            "createdTime": 1789193567693,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "sugababesElena",
+              "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+              "updateTime": 1789193567693,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "21162407_2a000001a0943f39a679851ff88571105047",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21162407/2a000001a0943f39a679851ff88571105047/{size}",
+            "createdTime": 1789193567808,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "sugababesElena",
+              "publicId": "bkq2rwmew1mme75k0vy0r9c5t8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/4skvkYivoE19f5xjo1M4n4BQAMI-1/{size}",
+              "updateTime": 1789193567808,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "qZ15cswPYIe5reOKsmqEXh7Ub19DnMB",
+        "businessId": "78347172490",
+        "author": {
+          "name": "М",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26057/0k-9/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "yx0u828tame7hrffa4xeadc65r",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хотела бы поделиться своим вречатлением после посещения салона «Мишель».Цветы всегда свежие,персонал вежлив,клиентоориентированность на высоком уровне,доставка без задержек.Рекомендую данный салон.Вас приятно удивит красота и сборка букетов!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Michel Salonunu ziyaret ettikten sonra zamanımı paylaşmak istiyorum.Çiçekler her zaman taze, personel kibar, müşteri odaklılık yüksek, gecikmesiz teslimat.Bu salonu tavsiye ederim.Buketlerin güzelliği ve montajı sizi hoş bir şekilde şaşırtacak!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-11T07:10:37.570Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "uH7qcltg52l1oeqg3MyWRSPQomZatCJQ",
+        "businessId": "78347172490",
+        "author": {
+          "name": "константин константинов",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/58107/0c-7/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "de0g4g95423td3j8tqz2fb3kjg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный салон цветов! Я являюсь клиентом с 2019 года ! Сервис всегда на высшем уровне !!! Отличная стилистика , букеты просто шикарны, цветы замечательного качества,  доставка всегда осуществляется к нужному времени в любое всемя суток !!! Клиентоориентированны и лояльны !!! Молодцы спасибо вам !!! ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel çiçek salonu! Ben 2019'dan beri müşteriyim! Hizmet her zaman birinci sınıftır!!! Mükemmel üslup, buketler tek kelimeyle muhteşem, çiçekler harika kalitede, teslimat her zaman günün her saatinde doğru zamanda gerçekleştirilir!!! Müşteri odaklı ve sadık !!! Aferin size teşekkür ederim !!! "
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-15T20:43:31.817Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "G9HotfmQcfJ3fEwO-QXBGxF3kgPfBq",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Динара Аведова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/0k-1/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "kcenc7cd03096vv37mzhf4u0km",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличный магазин с большим выбором.Цветы доставили вовремя, и они простояли очень долго. Спасибо за вашу работу!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Geniş seçeneklere sahip harika bir mağaza.Çiçekler zamanında teslim edildi ve çok uzun süre dinlendiler. Çalışmanız için teşekkür ederim!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-16T06:37:55.114Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "17692458_2a0000019f69a57a9ae08e877e802f29be45",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17692458/2a0000019f69a57a9ae08e877e802f29be45/{size}",
+            "createdTime": 1784183882982,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Динара Аведова",
+              "publicId": "kcenc7cd03096vv37mzhf4u0km",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/53031/0k-1/{size}",
+              "updateTime": 1784183882982,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "-9d7TpwNoJBz8HItmbqy7dJ5n07hHnp7_",
+        "businessId": "78347172490",
+        "author": {
+          "name": "Лидия Сатвалдиева",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45566/xGiYrVJhbt9GKHwxoCp8jZ7mXkc-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "tv9z35z59bt3d4p8arn4ujwmn8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Мы часто заказываем в Мишель букеты , всегда собранны со вкусом и не повторяющиеся 😍😍😍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Biz sık sık kitap Michel buketleri , her zaman собранны zevkli ve yinelenen 😍😍😍"
+        },
+        "rating": 5,
+        "updatedTime": "2026-09-11T06:55:03.014Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "15696528_2a000001a08f3f83ab10887a262155f82a72",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15696528/2a000001a08f3f83ab10887a262155f82a72/{size}",
+            "createdTime": 1789109702755,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лидия Сатвалдиева",
+              "publicId": "tv9z35z59bt3d4p8arn4ujwmn8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/45566/xGiYrVJhbt9GKHwxoCp8jZ7mXkc-1/{size}",
+              "updateTime": 1789109702755,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "20390960_2a000001a08f3f833ef9b8e85de2b4c355f3",
+            "businessId": "78347172490",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20390960/2a000001a08f3f833ef9b8e85de2b4c355f3/{size}",
+            "createdTime": 1789109701524,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Лидия Сатвалдиева",
+              "publicId": "tv9z35z59bt3d4p8arn4ujwmn8",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/45566/xGiYrVJhbt9GKHwxoCp8jZ7mXkc-1/{size}",
+              "updateTime": 1789109701524,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 12,
+      "loadedReviewsCount": 12,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "reviewPollData": {
+    "aspects": []
+  },
+  "geoWhere": {
+    "id": "6889350454",
+    "seoname": "ulitsa_kirova_87a3",
+    "kind": "house",
+    "coordinates": [
+      48.039323,
+      46.33547
+    ],
+    "displayCoordinates": [
+      48.039323,
+      46.33547
+    ],
+    "encodedCoordinates": "YEEYdgRpSkcEQFpsfX9ydHhkZA=="
+  },
+  "a11y": {
+    "hasReviews": false,
+    "photos": []
+  }
+}

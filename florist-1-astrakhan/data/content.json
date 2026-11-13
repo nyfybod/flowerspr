@@ -1,0 +1,490 @@
+{
+  "name": "Флорист № 1",
+  "address": "Астрахань, Эспланадная ул., 7/9",
+  "phone": "+7 (960) 863-66-11",
+  "folder": "Флорист № 1",
+  "oid": "78251873351",
+  "source": "https://yandex.ru/maps/org/78251873351/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 43,
+    "ratingValue": 4.699999809265137,
+    "reviewCount": 19
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/florist_number_one",
+      "readableHref": "@florist_number_one"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79608636611",
+      "readableHref": "+79608636611"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/floristnumberone",
+      "readableHref": "vk.ru/floristnumberone"
+    }
+  ],
+  "products": [
+    {
+      "name": "Коробка 2в1: цветы+свечи",
+      "category": "Цветы в коробке",
+      "price": "4000",
+      "description": "Отличный подарок для любителей романтики, уюта и тех, кто любит наполнять своё пространство ароматами. Коробочка состоит из живых цветов и свечей. Свечи выполнены из натурального соевого воска с добавлением премиум-масел. Скорее звони и заказывай!",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/78251873351/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/001.jpg",
+      "width": 768,
+      "height": 1024,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000182f8214523318e216e0eeab64e3e/{size}"
+    },
+    {
+      "name": "Коробочка счастья",
+      "category": "Цветы в коробке",
+      "price": "3500",
+      "description": "Цветы в коробке - это невероятно красиво и оригинально. Не веришь? Проверь)",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/78251873351/prices/",
+      "sourceUrl": null,
+      "image": "assets/catalog/002.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000182f82352f7f61f14c1bed88684bf/{size}"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9714262/2a0000018aa7b8777c19749a9a415a392a2a/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13267750/2a000001902ac8cbee4d6e25fedbe1ef0958/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18144645/2a0000019c512dd29caf228e6e65efcf73d8/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19695432/2a0000019c512dd1e76427d1c0027463d2a6/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19689422/2a0000019c512e824b8f0de367afe8d51ff0/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 788,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17637863/2a0000019c512d47fc54af48930a41383a54/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/8072647/2a000001890b6673f30ec32023ebf151a403/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18769949/2a0000019c512e408e947cf9383c28422238/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18173477/2a0000019c512e3908490849ee11fb097b6b/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18143431/2a0000019c512cbbfdb0882072f54d321b77/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Екатерина К.",
+      "text": "Всегда свежие цветы, доброжелательные флористы и быстро понимают пожелания, собирают и доставляют букеты😍 Рекомендую!",
+      "rating": 5,
+      "date": "2026-02-24",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=9JodP51Xj-axmbJ7cXCGmepJdDlEYg_f"
+    },
+    {
+      "author": "Юлия Бузарова",
+      "text": "Заказываю тут букеты уже более трех лет. нравится лояльное отношение, индивидуальный подход, помощь в выборе цветов в зависимости от возрастной категории человека, которому собирается букет.\nцветы всегда свежие, стоят долго, очень приятный аромат. так же в наличии всегда есть свечи и диффузоры для дома, поэтому можно собрать полноценный подарок! \nвсем знакомым рекомендую только этот салон цветов! они лучшие в своем деле ",
+      "rating": 5,
+      "date": "2023-12-26",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=22Dv6Oh1_zcXThkbgpnzjqL8YSl0dZ"
+    },
+    {
+      "author": "Алекса",
+      "text": "Не единожды брали тут букеты. Выбор не слишком большой, но на любой кошелек. Персонал поможет выбрать, посоветовать. Атмосфера доброжелательная.",
+      "rating": 5,
+      "date": "2024-12-09",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=cDIDwm4HgMqKV4U1Zf2UlMVToWX295L"
+    },
+    {
+      "author": "Богдан Шуренков",
+      "text": "Пять из пяти возможных звезд, регулярно покупаю тут цветы! Всегда встречают с улыбкой и отталкиваются от моих предпочтений, но если их нет, всегда посоветуют какой-нибудь хороший вариант❤️",
+      "rating": 5,
+      "date": "2023-12-26",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=L5wzZSMsEilwh9vIMGHA4v_BnAJSEMNuc"
+    },
+    {
+      "author": "Екатерина Карева",
+      "text": "Букет шикарный. Мама в восторге.\nОбслуживание на высшем уровне.\nДоставка в срок! Спасибо большое, за ваш профессионализм.",
+      "rating": 5,
+      "date": "2023-12-19",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=FUr7UdIkbZw26QFrVK7iFXd25mpxzuh-P"
+    },
+    {
+      "author": "никита русанов",
+      "text": "Хороший магазин \nЗаказываю постоянно букеты только там \nВсем очень советую \nОтзывчивые работники все покажут все расскажут \nОгромный выбор цветов ",
+      "rating": 5,
+      "date": "2023-12-26",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=T973S81wFEcIvxODbwQBy5pGoN_nVJBoD"
+    },
+    {
+      "author": "Юрий",
+      "text": "Потрясающие букеты на любой случай жизни. Я в полном восхищении, если честно. Собрали красивый букет, прислали фото на утверждение, доставили - и всё это в короткий срок. Супруга в восторге от букета. Спасибо. Теперь я с вами",
+      "rating": 5,
+      "date": "2022-09-15",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=eV-r3iAsGp4fMWe3cjreACunenTkIyWWb"
+    },
+    {
+      "author": "Дмитрий З.",
+      "text": "Цветы покупаю только здесь.\nЗамечательный, отзывчивый персонал всегда готовый прийти на помощь. Ещё не разу не разочаровался. Есть доставка получателю и накопительные скидки постоянным клиентам.\nОдним словом - Профессионалы. Да. Профессионалы своего дела.\nБраво Вам!!! ",
+      "rating": 5,
+      "date": "2023-01-27",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=db5BmIpbQfGdgGMjdNYC3gMs_iokflTz"
+    },
+    {
+      "author": "Роман Ильченко",
+      "text": "Отличный магазин,свежие цветы,хороший выбор,грамотные флористы.",
+      "rating": 5,
+      "date": "2025-04-29",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=NFQlR3Xs_W4j7APzo8Be0O6sCAlKIu"
+    },
+    {
+      "author": "Ирина Конина",
+      "text": "Лучший цветочный в Астрахани, всегда свежие букеты и эстетичное исполнение😍Спасибо Вам за Ваш труд! ",
+      "rating": 5,
+      "date": "2023-12-26",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=h9phmqD0gE4H4jwIJ6a-fFgCOvlVsk"
+    },
+    {
+      "author": "Рина",
+      "text": "цветочки тут красивые!",
+      "rating": 5,
+      "date": "2025-11-04",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=Qftznq17zEORhA3vAkSRFNFsW6aHy2"
+    },
+    {
+      "author": "Артем Артемьев",
+      "text": "Отличный цветочный салон, всегда свежие цветы, очень большой выбор, цены разумные!!! Рекомендую!!! ",
+      "rating": 5,
+      "date": "2022-06-05",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=bTg4R2Iw8KUxP4SPaxTPTiExXTARYv"
+    },
+    {
+      "author": "Елена Л.",
+      "text": "Цветы свежие. Букет стоял долго, однако, флористы не очень располагающие в общении,не приятные. Лишний раз не посоветуют ничего, и твои пожелания не учтут. Работают без души ",
+      "rating": 3,
+      "date": "2023-02-14",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=MtgH9As-R2XXmIlYlqH901NA9otmgm4e"
+    },
+    {
+      "author": "Виталий Казначеев",
+      "text": "Классные новогодние подарочные кампозиции",
+      "rating": 5,
+      "date": "2023-12-27",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=kiiwTqQ3ETJBJAaNL_8EsGRp3FS7P7E_m"
+    },
+    {
+      "author": "Светлана",
+      "text": "За цветами только во Флорист 1! Самые лучшие !",
+      "rating": 5,
+      "date": "2021-03-26",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=iX6jfqjhEwy91d4e3x8Yso1z4Sw5uw4"
+    },
+    {
+      "author": "diema lk",
+      "text": "Хороший стильный набор товаров",
+      "rating": 5,
+      "date": "2023-12-27",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=a2cOpKGzHI_VcFnRsTgOAsnv7QJ9ob-mv"
+    },
+    {
+      "author": "Алина Аберталина",
+      "text": "Лучшая цветочная студия 🌸 букеты на все случаи приобретаю только здесь 🥹🥰",
+      "rating": 5,
+      "date": "2025-04-03",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=4myuDUXmcpDgn417_tESmJBvX5A9Kx-mX"
+    },
+    {
+      "author": "александр чубайс",
+      "text": "Очень удобный магазин и вежливый персонал",
+      "rating": 5,
+      "date": "2021-12-14",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=61P7nnvsSXo6Xvlm-5xwZtl4aIVgNv"
+    },
+    {
+      "author": "Ахмед Р.",
+      "text": "👍🏻",
+      "rating": 5,
+      "date": "2024-02-22",
+      "source": "https://yandex.ru/maps/org/78251873351/reviews/?reviewId=YIEGP8295Jyg3Qx8lA_HikrqlHYgEn_s"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 970,
+    "height": 1292,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/5296145/2a0000017f7a6e89f9d56562f46555f1dad3/%s"
+  }
+}

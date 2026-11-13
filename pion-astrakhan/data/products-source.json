@@ -1,0 +1,37 @@
+{
+  "checked": "2026-11-13",
+  "source": "https://yandex.ru/maps/org/77638348033/prices/",
+  "relevance": null,
+  "products": [
+    {
+      "name": "Букет дня",
+      "category": "ЦВЕТЫ",
+      "price": "990",
+      "description": "Ежедневная акция на разный сорт розы. Сорт  и цвет розы для участия в акции выбирает сам магазин.",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/77638348033/prices/",
+      "sourceUrl": null,
+      "photo": null
+    },
+    {
+      "name": "Букет из кустовой розы",
+      "category": "ЦВЕТЫ",
+      "price": "2500",
+      "description": "Букет из 5 веточек кустовой розы! Упакован в дизайнерскую упаковку,перевязан лентой.",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/77638348033/prices/",
+      "sourceUrl": null,
+      "photo": null
+    },
+    {
+      "name": "Букет из белых хризантем",
+      "category": "ЦВЕТЫ",
+      "price": "1200",
+      "description": "Букет из кустовой хризантемы,с добавлением эвкалипта. Упакован в дизайнерскую упаковку,перевязан атласной лентой",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/77638348033/prices/",
+      "sourceUrl": null,
+      "photo": null
+    }
+  ]
+}

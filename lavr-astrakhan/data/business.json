@@ -1,0 +1,469 @@
+{
+  "id": "173964306387",
+  "title": "Лавр",
+  "address": "Astrakhan, Admiralteyskaya Street, 4",
+  "fullAddress": "Astrakhan, Admiralteyskaya Street, 4",
+  "coordinates": [
+    48.024415,
+    46.345524
+  ],
+  "phones": [
+    {
+      "number": "+7 (903) 347-04-32",
+      "type": "phone",
+      "value": "+79033470432"
+    }
+  ],
+  "features": [
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 18,
+    "ratingValue": 4.5,
+    "reviewCount": 7
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 8:00 AM–8:00 PM",
+  "businessLinks": [],
+  "photos": {
+    "count": 18,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5101995/2a00000181d3eb8e1abd17c02d63d459cb40/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5101995/2a00000181d3eb8e1abd17c02d63d459cb40/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16888214/2a000001993ce5b260d2030c21b8c505f406/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11004775/2a0000018cba9d947ef50ee2ef3ffef4a50a/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11004775/2a0000018c59ef35677c83ad348e492b03ea/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9752112/2a000001886088f98b4ffcd69994995887a6/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11383855/2a0000018ca709a2e06fb483031bb4698d60/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10767865/2a0000018ca70821dd6a75d393de0378e862/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6477742/2a0000019043f8240c0feaafd0e3098952bc/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10092863/2a0000018bd4448fc403a8d54a941cf88a30/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9368060/2a0000018960af5ce2f5072fbfe5bee92c7c/%s",
+        "alt": "Flower shop Лавр, Astrahan, photo"
+      }
+    ]
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "reviewId": "yHjlnqJeHRMSxVJNjegKZKvJT8GKYf",
+        "businessId": "173964306387",
+        "author": {
+          "name": "Дарья",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40841/enc-b1a079bc68b070ca9cb514d7462336a30b35c0b90bfee349e77b2a6f1933d85a/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "a816z6np11gv91p73mtw0a95v0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Благодарность цветочному салону за их профессионализм и качество работы. Они всегда готовы предложить свежие цветы и сделать красивый букет для любого случая. Я рекомендую этот салон всем, кто ищет качественные услуги по созданию букетов.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çiçek salonuna profesyonellikleri ve iş kaliteleri için teşekkür ederiz. Her zaman taze çiçekler sunmaya ve her durum için güzel bir buket yapmaya hazırlar. Bu salonu kaliteli buket oluşturma hizmetleri arayan herkese tavsiye ediyorum."
+        },
+        "rating": 5,
+        "updatedTime": "2026-08-08T15:06:47.438Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "19292509_2a0000019fb396f3f9375e03f8bf84ec5e3b",
+            "businessId": "173964306387",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19292509/2a0000019fb396f3f9375e03f8bf84ec5e3b/{size}",
+            "createdTime": 1785424443824,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Дарья",
+              "publicId": "a816z6np11gv91p73mtw0a95v0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/40841/enc-b1a079bc68b070ca9cb514d7462336a30b35c0b90bfee349e77b2a6f1933d85a/{size}",
+              "updateTime": 1785424443824,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          },
+          {
+            "type": "photo",
+            "id": "19300673_2a0000019fb3967d9c9e11e6ee613b86b714",
+            "businessId": "173964306387",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19300673/2a0000019fb3967d9c9e11e6ee613b86b714/{size}",
+            "createdTime": 1785424413526,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Дарья",
+              "publicId": "a816z6np11gv91p73mtw0a95v0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/40841/enc-b1a079bc68b070ca9cb514d7462336a30b35c0b90bfee349e77b2a6f1933d85a/{size}",
+              "updateTime": 1785424413526,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "rs0NJWZD5fT6wfoWRDdKKRz8ySVVCxaD",
+        "businessId": "173964306387",
+        "author": {
+          "name": "Коршунова Анастасия",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/59871/0u-8/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "6m41uz4kzmudhrk3a09cjb61tg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Я не первый раз езжу именно в этот магазин. Девушка собирает всегда очень красивые букеты, всегда советуется, также подстраивает композицию под определенную стоимость \nЯ не знаю, наверное это талант \nЛавр действительно лучший магазин цветов \nЦены также очень хорошие , выбор большой , все свежайшие 😍😍😍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu mağazaya ilk defa gitmiyorum. Kız her zaman çok güzel buketler toplar, her zaman tavsiye edilir ve kompozisyonu belirli bir maliyete göre ayarlar \nBilmiyorum, bu muhtemelen bir yetenek \nDefne gerçekten en iyi çiçekçi dükkanı \nFiyatlar da çok iyi, seçim harika, hepsi en taze 😍😍😍"
+        },
+        "rating": 5,
+        "updatedTime": "2025-10-10T15:35:38.288Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "eeaCS0-oogsnczngucqo4ryKg5AXmrSr",
+        "businessId": "173964306387",
+        "author": {
+          "name": "Надежда Сереченко",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/64336/FVPovHC2R2l6O7VWTR0hc6TbBo-1572878802/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "0myyvtbx2qe7ea5fxy5q6q8qwr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Самый лучший салон цветов \"Лавр\". Валентина, просто создана для этой работы, всегда подберёт нужную композицию, учитывает всё до мелочей. Букеты, композиции, цветы в горшках, найдётся всё на любой цвет и кошелёк. Последнее приобретение это композиция для новогоднего декора. Спасибо❤️❤️❤️\n",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-12-11T17:31:40.309Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "11004775_2a0000018c59ef35677c83ad348e492b03ea",
+            "businessId": "173964306387",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11004775/2a0000018c59ef35677c83ad348e492b03ea/{size}",
+            "createdTime": 1702315899868,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Надежда Сереченко",
+              "publicId": "0myyvtbx2qe7ea5fxy5q6q8qwr",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/64336/FVPovHC2R2l6O7VWTR0hc6TbBo-1572878802/{size}",
+              "updateTime": 1702315899868,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "UpykP3DLSUyXXV2Iy1djKk2vzHekuH",
+        "businessId": "173964306387",
+        "author": {
+          "name": "Дэн",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/61207/0m-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "nh29gm41ymr34eup400ehf4494",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Магазин очень хороший. Мне нужно было купить цветы. Я сам с круиза, и мало того что цены очень хорошие так и обслуживание и не далеко. Цветы красивые девушка оценила. Еще раз спасибо за качественное обслуживание ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2024-07-27T16:30:11.883Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "JarWfyya-MWHChAH2iLPavVqnBuYln",
+        "businessId": "173964306387",
+        "author": {
+          "name": "Соколова Галина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36777/5LuDsXTy88XAMV7kIOnDX8yTUcA-1/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "54e4a2vvfy2hxrzx2jvm3mfnuw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Замечательеая хозяйка. Соберет букет любой направленности и стоимости. Цветы всегда свежие.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2025-01-07T11:07:19.625Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "M673fGUjzGdzQqi_ctfF9HSeliG3tz",
+        "businessId": "173964306387",
+        "author": {
+          "name": "Лилия С.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/CJsqIm6zTBjXTDmKzibmMUwaCiw-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "rah238dt51p0wfm5113t9936qr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Валентина всегда знает что подобрать и под какой случай🎊🔥",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Valentina her zaman neyi seçeceğini ve hangi durumda olacağını bilir"
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-05T14:23:15.194Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "zJZKR2VKgHoUDlyhgloAITqI98kupU",
+        "businessId": "173964306387",
+        "author": {
+          "name": "Лидия Горлова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/56823/78v0orEqrzBmX10qisf0kClsho-1/{size}",
+          "professionLevel": "Level 11 Local Expert",
+          "rtb": "Level 11 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "6k5cef5j1564xwdrh724xjy13c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Прекрасный цветочный салон! Сказочная атмосфера! Чудесные композиции!",
+        "textLanguage": "unknown",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2022-07-18T15:51:02.270Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 7,
+      "loadedReviewsCount": 7,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "lavr"
+}

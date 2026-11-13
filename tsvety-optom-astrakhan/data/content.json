@@ -1,0 +1,223 @@
+{
+  "name": "Цветы оптом",
+  "address": "Астрахань, ул. Раскольникова, 10, этаж 1",
+  "phone": "+7 (937) 131-31-31",
+  "folder": "Цветы оптом",
+  "oid": "139606714951",
+  "source": "https://yandex.ru/maps/org/139606714951/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 6,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 5
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16444693/2a000001990eab216ee3ace4c9ffea24a7bc/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15183726/2a0000019530c4a6afcb6baae40cfce1051a/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15037708/2a00000194789c3360ae7d43f276565890f6/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 576,
+      "height": 768,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20011141/2a0000019ccd63f3e1b0901691a3d888c1e0/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16444693/2a0000019799eb2434cfd3962041e7452e30/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15112342/2a0000019530d8b326bb809a0f956e090996/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14021521/2a0000019530b9e5580ce6b7a0fcafb8f4c0/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 720,
+      "height": 960,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15081387/2a00000194787b7539177451acd473499bc5/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13789674/2a000001a02b9953c64b9a63511d62e48a97/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20200163/2a0000019f61257e31508b1d518559b6d240/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Халиф Мусаевич",
+      "text": "Отличная оптовая база цветов Всегда свежие цветы большой выбор и приятные цены Видно что за качеством следят Персонал вежливый помогает с выбором Заказываем регулярно и ни разу не подвели Рекомендую всем кто занимается цветами",
+      "rating": 5,
+      "date": "2026-07-14",
+      "source": "https://yandex.ru/maps/org/139606714951/reviews/?reviewId=uVOK7tFqXAalR3I1qM8_6bPfUOlFzOdr"
+    },
+    {
+      "author": "Елизавета Микунова",
+      "text": "Добрый день\nПокупали оптом, какие же они ужасные, пять тысяч на ветер, такое и людям страшно дарить. \nНе рекомендую. ",
+      "rating": 1,
+      "date": "2026-03-08",
+      "source": "https://yandex.ru/maps/org/139606714951/reviews/?reviewId=tTUlooNCpku6mwaQ3prQDP5TmctXeOLGN"
+    },
+    {
+      "author": "Давид Саргсян",
+      "text": "Очень свежие и красивые розы , спасибо ",
+      "rating": 5,
+      "date": "2026-07-14",
+      "source": "https://yandex.ru/maps/org/139606714951/reviews/?reviewId=mDOzJub2L11tAc0PJcNrLkQszSQd5SR"
+    },
+    {
+      "author": "Денис Лотос",
+      "text": "Стараюсь приобретать цветы именно в этом магазине. По крайней мере розы очень стойкие, а это большой плюс👌",
+      "rating": 5,
+      "date": "2026-03-05",
+      "source": "https://yandex.ru/maps/org/139606714951/reviews/?reviewId=hZ2Eqa0clk5yhIBDwDwLwaDwQ1hWjh5ZG"
+    },
+    {
+      "author": "Людмила Белай",
+      "text": "Дешевые цветы, приятная атмосфера, радушные продавцы",
+      "rating": 5,
+      "date": "2025-03-13",
+      "source": "https://yandex.ru/maps/org/139606714951/reviews/?reviewId=Kxeqok5n8rTPdSVBthmBvT6VRtMmLp"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

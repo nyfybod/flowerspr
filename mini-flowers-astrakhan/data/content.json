@@ -1,0 +1,392 @@
+{
+  "name": "Mini flowers",
+  "address": "Астрахань, ул. Куликова, 34А",
+  "phone": "+7 (964) 888-20-21",
+  "folder": "Mini flowers",
+  "oid": "216915517716",
+  "source": "https://yandex.ru/maps/org/216915517716/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 12,
+    "ratingValue": 4.5,
+    "reviewCount": 11
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79648882021",
+      "readableHref": "+79648882021"
+    },
+    {
+      "type": "telegram",
+      "href": "https://t.me/+79648882021",
+      "readableHref": "@+79648882021"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/89648882021",
+      "readableHref": "+89648882021"
+    },
+    {
+      "type": "telegram",
+      "href": "https://t.me/miniflowers30",
+      "readableHref": "@miniflowers30"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15232415/2a00000198dcba65e05f15c3ba19144bb8b3/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16398472/2a0000019a017c1220a2ccafe656a97b69bf/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15232415/2a00000198dcafea21a619ee014ecf2b4a90/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16161139/2a00000198dcbf9863f22dc67ab55ba49e7c/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16341471/2a0000019a0170a248cffa63e91022bdad84/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16134335/2a00000198dcba66443cbee84decb1086264/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14917207/2a0000019a017deb376fab6bf7055265f899/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18384802/2a0000019c6a3bee6c917ef9764fd2797427/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16503558/2a00000198dcbf9936e1159bf38eea9b90d0/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16011054/2a00000198dcafe56dea469f19fcd5ff065d/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Римма",
+      "text": "Отличный магазин с прекрасными флористами.\nВсегда ориентированны на клиента и запоминают предпочтения постоянных клиентов , что очень радует. Благодаря вам получаю самые свежие и красивые цветы в подарок от мужа . \nИ сама всегда с удовольствием заказываю букеты в подарок . Хочу отметить , что девочки -флористы всегда рекомендуют модные и запоминающиеся сочетания , собирая букет , всем кому были подарены цветы оставались в восторге , поэтому  всегда рекомендую вас друзьям . Благодарю за трепетное отношение и радость , которую вы дарите ! \n",
+      "rating": 5,
+      "date": "2025-10-20",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=niw6x9bXZ51bC1FLPyvNtPSDVbbVUUH"
+    },
+    {
+      "author": "Нина М.",
+      "text": "Огромное спасибо магазину за чудесные цветы! В очередной раз убедилась, что сюда хочется возвращаться. Цветы всегда безумно свежие, стоят в вазе больше недели и не теряют вид. Отдельное спасибо флористам — собирают букеты просто как с обложки журнала, чувствуется рука мастера. И, конечно, отдельная любовь персоналу — всегда встречают с улыбкой, помогают с выбором, ни капли навязчивости. Очень приятные и душевные люди!",
+      "rating": 5,
+      "date": "2026-02-12",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=6ro9Csna-DaqGVROv-MFoxe_IIBwNkv"
+    },
+    {
+      "author": "ксения Букш",
+      "text": "очень хороший магазин,покупала цветы маме,собрали модный букет в красивой упаковке,цветы свежие. по цене не дорогой,еще шарики покупала дополнение с надписями маме. \nмама была в восторге,спасибо продавцу за помощь и сборку букета",
+      "rating": 5,
+      "date": "2025-10-22",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=wbntW8zgjRrSimxAdGQJ7I28gSq2OE"
+    },
+    {
+      "author": "Ксения Савельева",
+      "text": "Очень люблю этот цветочный магазин. Большой выбор букетов , цены приемлемые , качество цветов хорошее, могут собрать букет в вашей ценновой  политике, продавцы вежливые ,всегда улыбаются. Хожу  теперь только в этот магазин❤️❤️❤️",
+      "rating": 5,
+      "date": "2025-06-18",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=R5xVknyTMFveeEjlPH_6_ut2it3RG8"
+    },
+    {
+      "author": "Настя Букш",
+      "text": "Классный,цветочный магазин. Купили маме букет и шарики в подарок еще шоколадку дали. Букет красивый,свежий и не дорогой.\nСпасибо этому магазину. Теперь и мама и мы покупаем только тут.",
+      "rating": 5,
+      "date": "2025-10-22",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=7aBC1d3KeLJJ__HKtgnqE9pat6kFf-"
+    },
+    {
+      "author": "Алексей",
+      "text": "Отличный магазин, закзаывал 1001 розу , привезли все во время. Огромое спасибо администарции магазина за своевременое исполнения договора. ",
+      "rating": 5,
+      "date": "2025-12-01",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=Nkgq6kMuPpdo65igfPFy-Qkedpy9G4"
+    },
+    {
+      "author": "Марина Воронина",
+      "text": "Это мой любимый магазин. Заказываю постоянно только у них, имеются скидки, всегда свежие цветы, приятная атмосфера в магазине. Флористы всегда вежливы и учтивы. ",
+      "rating": 5,
+      "date": "2025-12-01",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=mtrruSjKkyAx5IqgEgWXyCxHt8pXj245"
+    },
+    {
+      "author": "Николай Кулин",
+      "text": "Купил цветы , доволен что быстро и качественно обслужили . Советую данный цветочный магазин . На праздник цветочки самое то!!!",
+      "rating": 5,
+      "date": "2026-03-22",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=7uXul4O5_N0CRQQHmPJNRZDzv8r0x5"
+    },
+    {
+      "author": "зина букш",
+      "text": "Отличный магазин. Всегда модные и свежие цветы. Главное цены актуально не высокие. Рекомендую этот магазин всем!!!",
+      "rating": 5,
+      "date": "2025-06-10",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=IskCho61tbiCk626JYLqONKBs-I6NlclD"
+    },
+    {
+      "author": "Инкогнито 5791",
+      "text": "Уютный магазин )) Хорошие цены , приятные флористы )) буду брать ещё)) 🌹🌹🌹",
+      "rating": 5,
+      "date": "2025-10-22",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=PPc2NSGTA0ECPCkn5mJlX0tCklA2bK"
+    },
+    {
+      "author": "Сергей Ткаченко",
+      "text": "Отличный магазин!",
+      "rating": 5,
+      "date": "2025-11-13",
+      "source": "https://yandex.ru/maps/org/216915517716/reviews/?reviewId=h1t6HPUE0zfU_YKer7SDoa2ddLEX25rZ"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1080,
+    "height": 1080,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/15251677/2a0000019a018171d29bf5c79b4e5ae9e2a7/%s"
+  }
+}

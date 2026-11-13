@@ -1,0 +1,507 @@
+{
+  "name": "Цветы в котах",
+  "address": "Астрахань, Минусинская ул., 8Б/2",
+  "phone": "+7 (965) 450-06-67",
+  "folder": "Цветы в котах",
+  "oid": "186623635891",
+  "source": "https://yandex.ru/maps/org/186623635891/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 40,
+    "ratingValue": 4.599999904632568,
+    "reviewCount": 23
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 30
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "inflate_balloons_with_helium",
+      "value": true,
+      "name": "inflate balloons with helium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "by_the_link",
+          "name": "by the link"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "parking_disabled",
+      "value": true,
+      "name": "parking for people with disabilities",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "indoor_plants",
+      "value": true,
+      "name": "indoor plants",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "max",
+      "href": "https://max.ru/Я+пользуюсь+мессенджером+MAX.+Присоединяйся!+u/f9LHodD0cOLSSfHBTmU2qQwZhRrYhFZDzRrsdfTNS9doo3OY_1HAXNYOOH4",
+      "readableHref": "max.ru/%D0%AF+%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%81%D1%8C+%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%BC+MAX.+%D0%9F%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B9%D1%81%D1%8F!+u/f9LHodD0cOLSSfHBTmU2qQwZhRrYhFZDzRrsdfTNS9doo3OY_1HAXNYOOH4"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/id863559242",
+      "readableHref": "vk.ru/id863559242"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/Я+ВКонтакте:+id863559242",
+      "readableHref": "vk.ru/%D0%AF+%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5:+id863559242"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14774583/2a000001980938a809e9db4f54e876a411e2/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1051,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14095226/2a00000191c97c6fdbf8163edd36fb9365c4/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 583,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19802846/2a000001a0e8ab5d40b7d72bf86978952941/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 583,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/21153954/2a000001a0e8ab5d5ad889c6cb3f0ee5c7c1/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 583,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20994058/2a000001a0e8ab5d64611fc8bbd587e8ffaf/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19838109/2a000001a0e8ab5d971db92eff318de08f17/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/21959253/2a000001a0e8ab5d995486687f7a17929710/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19884380/2a000001a0e8ab5da2f3c4c56c094ea1986f/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20933263/2a000001a0e8ab656bb2cf2cbc374dbf888f/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/21660916/2a000001a0e8ab66b0b50cf17667d3525a0d/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Людмила Л.",
+      "text": "Хочу выразить благодарность за этот восхитительный букет. Флорист с легкостью поняла, что мне нужно. Рекомендую этот салон цветов. ",
+      "rating": 5,
+      "date": "2026-07-27",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=JXoWSxFG3AP7Zivvik-JYT5eE73XbeiZ"
+    },
+    {
+      "author": "Астраханская область",
+      "text": "Муж покупает цветы всегда в этом магазине и всегда цветы стоят очень долго. Спасибо большое девочкам за красивые букеты! \n",
+      "rating": 5,
+      "date": "2026-08-03",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=PX9L_Ov3MBc1_jQqZN6A4rEyE9ERuVE-r"
+    },
+    {
+      "author": "Лилия",
+      "text": "Очень хочется написать о магазине Цветы в котах у Трёх Котов. Магазин очень уютный. Всегда в любое время очень большой ассортимент цветов. А какие приветливые продавцы!!! Девочки собирают очень красивые букеты! Как приятно, когда тебя обслуживают профессионалы своего дела, которые могут дать тебе дельный совет. Кроме того можно заказать и доставку букета по адресу и в определенный час. Как здорово, что есть магазины, которые поднимают настроение и приносят радость!!!",
+      "rating": 5,
+      "date": "2022-01-20",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=rOu4BqoN4QnxzV1zu5tSQgOpNJxL-vk"
+    },
+    {
+      "author": "оксана биктаева",
+      "text": "Покупаю всегда тут и цены приемлемы и цветы всегда свежие и сами флористы продавцы оч приятные люди 👍🥰🥰🥰🥰большое разнообразие цветов",
+      "rating": 5,
+      "date": "2025-03-20",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=9hTdZXmC5Ys-Y7jBI1ww9ni8lT0YbdN"
+    },
+    {
+      "author": "Даниил Федотов",
+      "text": "взял букет в пол 2 дня,уже начал осыпаться,плохие цветы,дали не свежие цветы,нет слов",
+      "rating": 1,
+      "date": "2025-09-17",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=h3IbqrOBjQuTs7KvV7B7A54N2Vx6Zfj"
+    },
+    {
+      "author": "Диана Анверовна",
+      "text": "Так любила этот магазин !!!!\nРядом с домом , приятный и вежливый персонал , красивые и всегда свежие цветы .\nНо вчера прям расстроилась муж на день рождения мне заказал у там букет , принёс домой , а в нем прям старые не свежие цветы , как будто этот букет у них стоял неделю !!! \nПросто было очень не приятно , вот даже сегодня утром пью кофе смотрю на этот букет и даже обидно , что так они не красиво поступили. Я все понимаю что им нужно быстрее распродать то что уже давно у них стоит и тухнет грубо говоря , но мы же тоже люди и цветы сейчас не дешевое удовольствие все таки !!! Вообщем на заказ лучше цветы там не брать , а если уж берёте надо очень хорошо осмотреть букет или лучше чтобы прям при вас его собрали .",
+      "rating": 1,
+      "date": "2023-02-06",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=uxAYgobc5xoh2_1ODlu3xFCDKgbPY9mM-"
+    },
+    {
+      "author": "Дарья Николаевна",
+      "text": "Очень нравится. Цветы свежие, всегда есть выбор и цены доступные. Ну и конечно флорист замечательный, всегда поможет, подскажет, очень приветливый.",
+      "rating": 5,
+      "date": "2023-07-30",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=CPDCcTKopouUO98hckxCejJGjwFKYml"
+    },
+    {
+      "author": "2Rist",
+      "text": "Большой выбор, Доставка. По ценам приемлемо. Нравиться флорист Анна, скажите что Вы хотите и на какую сумму, он предложит вам варианты. Советую!",
+      "rating": 5,
+      "date": "2022-01-10",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=A3cRcJzrM28TBOQjUzhfF42p3J-GtM"
+    },
+    {
+      "author": "Vera Voronova",
+      "text": "Очень разочаровал магазин, хотя раньше был одним из любимых. Причина-навязывают дорогие букеты, в которых цветы уже увядшие. Попросила собрать мою любимую корзинку-отказали. Девушка флорист, что работала прежде, очень внимательная была и преложит цветы хорошие-свежие, и скомпонует букетик, а сейчас-\"лишь бы втюхать\"....извините, но иначе не назовешь.",
+      "rating": 3,
+      "date": "2022-11-29",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=U6cSzB1VvOcdk6lnncBs2v7iJVpnOzmyj"
+    },
+    {
+      "author": "i@m30ast",
+      "text": "Цветы увядшие , выбора совсем нет,больше добавить нечего.",
+      "rating": 1,
+      "date": "2025-08-09",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=uIo76euTmu9dWzQCme8MTjZDDUrbO4hWg"
+    },
+    {
+      "author": "Vadim",
+      "text": "Хороший магазин цветов,выбор очень большой,цены подходящие,доставка .",
+      "rating": 5,
+      "date": "2024-03-21",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=Y9e3c5_r9x76-5jrYAuaOu_QthCOar"
+    },
+    {
+      "author": "Екатерина Б.",
+      "text": "Неоднократно заходила  в отдел   за цветами,  на этот раз была неприятно удивлена...Букеты собранные были слишком дорогие, попросила собрать подешевле, на что мне слишком навязчиво предлагали собранные..Потом флорист просто стал общаться с другим посетителем оставив меня без букета. УЖАСНОЕ ОТНОШЕНИЕ. Вечер и настроение испорчены. Больше никогда сюда не приду. ",
+      "rating": 1,
+      "date": "2020-11-17",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=tzz5RmMhIIz360rPozvlCSXizIJIWYf"
+    },
+    {
+      "author": "Юлия Горшкова",
+      "text": "Цветы покупаю только тут, всегда свежие и большой выбор, цены очень приятные 😄",
+      "rating": 5,
+      "date": "2021-12-29",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=t1gxVeEc-hWZD7fhlS0l-xSFKJi2Cy"
+    },
+    {
+      "author": "molla",
+      "text": "Лучший цветочный магазин,красивые букеты ,у женщины .что их составляет золотые руки ,брали там букет на роспись и на юбилей",
+      "rating": 5,
+      "date": "2022-05-02",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=7dfj2C_NWyGiGX486LB2fTds2h-yqPvP"
+    },
+    {
+      "author": "Наталья З.",
+      "text": "Никогда не заказывайте там цветы мало того что забыли поставить любимой дочке надпись.... так еще не простояли и суток кустовые цветы ... звонила то говорят у вас жарко в кв. Потом сказали вы сами виноваты наверно не сразу поставили в воду хотя сразу .... Потом сказали что надо было подрезать сразу, потом предложили опустить их в кипяток (в кипяток живой цветок) ....очень обидно за маму которая старалась мне заказала доставку на день рождения а прислали такое г... очень ругалась но извинения не услышала сказали что еще в суд подадут на мой повышенный тон ....",
+      "rating": 1,
+      "date": "2019-04-08",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=NwP9S5ExVsJxER2xYanjUiDKo_Rka2sh8"
+    },
+    {
+      "author": "ZARA",
+      "text": "Замучили включать музыку с 7 утра , сегодня 8.03.23, не возможно отдыхать в выходной день, кому нужна ваша музыка, напротив жилые дома, свои развлечения , при себе оставьте , бардачный магазин , бесят !!!!",
+      "rating": 1,
+      "date": "2023-04-13",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=8qYoLmt5BWvNx8dioDJlyX7EPVz3rP"
+    },
+    {
+      "author": "Светлана",
+      "text": "Часто покупаем там цветы. Девочки всегда вежливые и доброжелательные. Цены нормальные.",
+      "rating": 5,
+      "date": "2019-05-15",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=J7iI_EaRqvj4tt9hL8lL-T2L1GT3i92"
+    },
+    {
+      "author": "Марданов Ренат",
+      "text": "Нужно увеличить ассортимент, место ходовое, но выбор ограничен!",
+      "rating": 3,
+      "date": "2023-04-09",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=iEhsyg4Dj0TBcDiknr_7PsyXHkzKqBS"
+    },
+    {
+      "author": "Нина Д.",
+      "text": "Большой выбор  цветов, доставка.",
+      "rating": 5,
+      "date": "2019-07-18",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=df_PYLzL6nnKLOxWsTC-sr0-qbVFKDVCi"
+    },
+    {
+      "author": "Самолет Плюс Астрахань",
+      "text": "Ни чего особенного. Обычный цветочный. Выручает так как близко к дому",
+      "rating": 3,
+      "date": "2020-03-17",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=5LuW4oQJWXQevp6LFraaQrXreL99bo"
+    },
+    {
+      "author": "Анастасия Орлянская",
+      "text": "Приятные цены, хорошие сотрудники ",
+      "rating": 5,
+      "date": "2024-09-03",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=xUPttx9tU_XSp2OLwW3I1Vv7wwGyDmYS4"
+    },
+    {
+      "author": "Ильдар Вильданов",
+      "text": "Приветливые девчата.",
+      "rating": 5,
+      "date": "2020-10-11",
+      "source": "https://yandex.ru/maps/org/186623635891/reviews/?reviewId=MQkDuooxDhQCJjx47cG-GbRnMYpIlc"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

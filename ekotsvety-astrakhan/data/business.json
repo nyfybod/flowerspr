@@ -1,0 +1,608 @@
+{
+  "type": "business",
+  "requestId": "1794567501972455-3193542427-addrs-upper-yp-94",
+  "index": 0,
+  "analyticsId": "0",
+  "title": "Экоцветы",
+  "description": "Astrakhan, Anri Barbyusa Street, 25В",
+  "address": "Astrakhan, Anri Barbyusa Street, 25В",
+  "coordinates": [
+    48.054031,
+    46.361569
+  ],
+  "displayCoordinates": [
+    48.054031,
+    46.361569
+  ],
+  "bounds": [
+    [
+      48.049986,
+      46.358785
+    ],
+    [
+      48.058197,
+      46.36447
+    ]
+  ],
+  "uri": "ymapsbm1://org?oid=210568974697",
+  "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MjEwNTY4OTc0Njk3",
+  "requestSerpId": "1794567501972455-3193542427-addrs-upper-yp-94",
+  "id": "210568974697",
+  "metro": [],
+  "stops": [
+    {
+      "id": "4225835639",
+      "name": "Александро-Мариинская больница",
+      "distance": "70 m",
+      "distanceValue": 70.206,
+      "coordinates": [
+        48.053215712,
+        46.361605471
+      ],
+      "type": "common"
+    },
+    {
+      "id": "5194637776",
+      "name": "Астрахань – Железнодорожный вокзал",
+      "distance": "171 m",
+      "distanceValue": 171.3,
+      "coordinates": [
+        48.055974391,
+        46.361071116
+      ],
+      "type": "common"
+    },
+    {
+      "id": "5334931476",
+      "name": "Железнодорожный вокзал / Автовокзал",
+      "distance": "204 m",
+      "distanceValue": 204.642,
+      "coordinates": [
+        48.056482273,
+        46.361027646
+      ],
+      "type": "common"
+    },
+    {
+      "id": "stop__9808862",
+      "name": "Железнодорожный вокзал",
+      "distance": "282 m",
+      "distanceValue": 282.998,
+      "coordinates": [
+        48.056917161,
+        46.360582348
+      ],
+      "type": "common"
+    },
+    {
+      "id": "1621760699",
+      "name": "Astrakhan Bus Terminal",
+      "distance": "320 m",
+      "distanceValue": 322.963,
+      "coordinates": [
+        48.056913176,
+        46.36171424
+      ],
+      "type": "common"
+    }
+  ],
+  "photos": {
+    "count": 5,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/12448848/2a0000019a5f6a0a08fd98b453ed55fc40f5/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/12448848/2a0000019a5f6a0a08fd98b453ed55fc40f5/%s",
+        "alt": "Flower shop Экоцветы, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5483747/2a0000019a5f77b4aa4528fb5dfd80b03b3d/%s",
+        "alt": "Flower shop Экоцветы, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16130837/2a0000019a5f7742d1169badc83206172cbe/%s",
+        "alt": "Flower shop Экоцветы, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19613367/2a0000019de0296bdc4f9a735d8984836f1c/%s",
+        "alt": "Flower shop Экоцветы, Astrahan, photo"
+      }
+    ]
+  },
+  "entrances": [
+    {
+      "coordinates": [
+        48.05403099,
+        46.36155758
+      ],
+      "azimuth": 181.96120499234198,
+      "tilt": 0
+    }
+  ],
+  "routePoint": {
+    "context": "djJ8ChQKEgmggst86gZIQBFH3M6ERy5HQBIuChIJoc0eJmkHSEARy1vguC0uR0ASDjIxMDU2ODk3NDY5N18wHQAAgD8ghQIwABIuChIJZ4HyTnAHSEARinb0QxUuR0ASDjIxMDU2ODk3NDY5N18xHQAAgD8ghQIwAA,,"
+  },
+  "panorama": {
+    "id": "1360394743_762536023_23_1719996835",
+    "direction": [
+      36.4,
+      10
+    ],
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        48.0539403489,
+        46.3614840984
+      ]
+    },
+    "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1360394743_762536023_23_1719996835&size=500%2C240&azimuth=36.4&tilt=10&api_key=maps&signature=Rd6wHx9rFWkbMeNOd6IhC8xdUcz-mPn_J0XlNOWgVXk=",
+    "alt": "Panorama — flower shop Экоцветы, Astrahan"
+  },
+  "shortTitle": "Экоцветы",
+  "fullAddress": "Astrakhan, Anri Barbyusa Street, 25В",
+  "country": "Russian Federation",
+  "postalCode": "414056",
+  "status": "open",
+  "businessLinks": [],
+  "ratingData": {
+    "ratingCount": 3,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 2
+  },
+  "sources": [
+    {
+      "id": "yandex",
+      "name": "Yandex",
+      "href": "https://www.yandex.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": "184108325",
+      "name": "Flower shop",
+      "class": "flower shop",
+      "seoname": "flower_shop",
+      "pluralName": "Flower shops"
+    },
+    {
+      "id": "184108319",
+      "name": "flowers and bouquets delivery",
+      "class": "flower shop",
+      "seoname": "flowers_and_bouquets_delivery",
+      "pluralName": "Flowers and bouquets delivery services"
+    }
+  ],
+  "phones": [
+    {
+      "number": "+7 (988) 333-44-13",
+      "type": "phone",
+      "value": "+79883334413"
+    }
+  ],
+  "features": [
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "mediaOrderTemplate": "p,v,p,v,v,p,v*,p*",
+  "featureGroups": [],
+  "businessProperties": {
+    "has_verified_owner": false,
+    "geoproduct_poi_color": "#60A8F0",
+    "geoproduct_poi_label_color": "#428FDB"
+  },
+  "seoname": "ekotsvety",
+  "geoId": 217989,
+  "compositeAddress": {
+    "country": "Russian Federation",
+    "area": "Astrakhan Urban District",
+    "locality": "Astrakhan",
+    "street": "Anri Barbyusa Street",
+    "house": "25В"
+  },
+  "modularCard": {
+    "showClaimOrganization": true,
+    "showTaxiButton": true,
+    "showFeedbackButton": true,
+    "showReviews": true,
+    "showAddPhotoButton": true,
+    "showCompetitors": true,
+    "showDirectBanner": true,
+    "showAdditionalAds": true,
+    "showWorkHours": true,
+    "showContacts": true,
+    "showFriendsLiked": false,
+    "showVisualPricesTab": false,
+    "showHotelEnrichment": false,
+    "promoBadgeFeature": [],
+    "offerBadgeId": [],
+    "showCourierButton": false,
+    "hotelReviewsStubType": 0
+  },
+  "modularPin": {
+    "subtitleHints": [
+      {
+        "text": "4.2",
+        "type": "RATING",
+        "properties": null
+      },
+      {
+        "text": "Flower shop",
+        "type": "SIMPLE_TEXT",
+        "properties": null
+      }
+    ],
+    "allowMultilineSubtitle": false
+  },
+  "modularSnippet": {
+    "showNeurosummary": false,
+    "showMentionedOnSite": false,
+    "showTitle": "SHORT_TITLE",
+    "showAddress": "SHORT_ADDRESS",
+    "showCategory": "ALL_CATEGORIES",
+    "showRating": "FIVE_STAR_RATING",
+    "showPhoto": "SINGLE_PHOTO",
+    "showWorkHours": true,
+    "showVerified": false,
+    "showDistanceFromTransit": false,
+    "showBookmark": false,
+    "showEta": false,
+    "showGeoproductOffer": false,
+    "subtitleHint": [],
+    "galleryButton": [],
+    "shownGoodsNumber": 3,
+    "showDescription": false,
+    "showCollectionBadge": true,
+    "showFriendsLiked": false,
+    "showCourierButton": false,
+    "showYandexEatsOrderButton": false,
+    "infoBlock": [],
+    "serpActionButtons": [
+      1,
+      3,
+      5,
+      0
+    ],
+    "awards": [],
+    "promoBadgeFeature": [],
+    "offerBadgeId": [],
+    "showHotelEnrichment": false
+  },
+  "tzOffset": 14400,
+  "workingTimeText": "daily, 7:00 AM–11:00 PM",
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "currentWorkingStatus": {
+    "isOpenNow": true,
+    "text": "Open until 11:00 PM",
+    "shortText": "Until 11:00 PM",
+    "tag": []
+  },
+  "references": [
+    {
+      "id": "6724709324",
+      "scope": "nyak"
+    }
+  ],
+  "subtitleItems": [
+    {
+      "type": "working_hours",
+      "text": "Until 11:00 PM",
+      "property": [
+        {
+          "key": "is_open",
+          "value": "1"
+        },
+        {
+          "key": "short_text",
+          "value": "Until 11:00 PM"
+        },
+        {
+          "key": "text",
+          "value": "Open until 11:00 PM"
+        }
+      ]
+    },
+    {
+      "type": "rating",
+      "text": "8.4",
+      "property": [
+        {
+          "key": "value",
+          "value": "8.4"
+        },
+        {
+          "key": "value_5",
+          "value": "4.2"
+        }
+      ]
+    }
+  ],
+  "routeToChoose": [],
+  "parentRubrics": [
+    78442730327,
+    125907999099,
+    184108049,
+    184108313
+  ],
+  "hasStories": false,
+  "needSimilarOrgsRequest": true,
+  "needCompetitorRequest": true,
+  "region": {
+    "id": 37,
+    "type": 6,
+    "capitalId": 0,
+    "hierarchy": [
+      225,
+      10946,
+      37
+    ],
+    "seoname": "astrahan",
+    "bounds": [
+      [
+        47.8641935,
+        46.235784837793645
+      ],
+      [
+        48.1961565,
+        46.45921883779364
+      ]
+    ],
+    "longitude": 48.030175,
+    "latitude": 46.347616,
+    "zoom": 12,
+    "names": {
+      "ablative": "",
+      "accusative": "",
+      "dative": "",
+      "directional": "",
+      "genitive": "Astrahan",
+      "instrumental": "",
+      "locative": "",
+      "nominative": "Astrahan",
+      "preposition": "in",
+      "prepositional": ""
+    }
+  },
+  "breadcrumbs": [
+    {
+      "name": "Maps",
+      "type": "root",
+      "url": "https://yandex.com/maps/"
+    },
+    {
+      "name": "Astrahan",
+      "type": "region",
+      "url": "https://yandex.com/maps/37/astrahan/",
+      "region": {
+        "center": [
+          48.030175,
+          46.347616
+        ],
+        "zoom": 12
+      }
+    },
+    {
+      "category": {
+        "id": "184108325",
+        "name": "Flower shop",
+        "class": "flower shop",
+        "seoname": "flower_shop",
+        "pluralName": "Flower shops"
+      },
+      "name": "Flower shops",
+      "type": "category",
+      "url": "https://yandex.com/maps/37/astrahan/category/flower_shop/184108325/"
+    },
+    {
+      "name": "Экоцветы",
+      "type": "search",
+      "url": "https://yandex.com/maps/org/ekotsvety/210568974697/"
+    }
+  ],
+  "reviewResults": {
+    "reviews": [
+      {
+        "reviewId": "YvY7HXIXHyKIkx8ZUlIDPthJY9Llbom",
+        "businessId": "210568974697",
+        "author": {
+          "name": "М. О .В. 77777",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/36689/0u-7/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "dw3wz6zmg5yr6wb34cuu6dfp3c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень хороший магазин цены просто радуют, персонал вежливый 👍 рекомендую 👍👍👍",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Fiyatlar çok iyi bir mağazadan memnunlar, kibar personel tavsiye ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2025-12-06T10:40:51.039Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "IdwmSlRBP61d7R_guu4HlwRcnSme0kLw6",
+        "businessId": "210568974697",
+        "author": {
+          "name": "Герман Макаров",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/6214067/3X6ZAfPikqQaY1TUd1oSdL5N4-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "da73hzhp25vfyb53jzy84pdp04",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Хорошее место и персонал, рекомендую.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "İyi bir yer ve personel, tavsiye ederim."
+        },
+        "rating": 5,
+        "updatedTime": "2026-05-22T08:11:14.796Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 2,
+      "loadedReviewsCount": 2,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "reviewPollData": {
+    "aspects": []
+  },
+  "a11y": {
+    "hasReviews": false,
+    "photos": [
+      {
+        "id": "urn:yandex:sprav:photo:16130837-2a0000019a5f7742d1169badc83206172cbe",
+        "tags": [
+          {
+            "id": "Enter",
+            "name": "Entrance"
+          },
+          {
+            "id": "Accessibility",
+            "name": "Accessibility"
+          }
+        ],
+        "width": 1280,
+        "height": 720,
+        "url": "https://avatars.mds.yandex.net/get-altay/16130837/2a0000019a5f7742d1169badc83206172cbe/XXXL",
+        "showReactions": true,
+        "copyright": {
+          "name": "Яндекс",
+          "url": "https://ya.ru/",
+          "updateTime": "2025-11-07T05:31:16Z"
+        }
+      }
+    ]
+  },
+  "geoWhere": {
+    "id": "55935002",
+    "seoname": "ulitsa_anri_barbyusa_25v",
+    "kind": "house",
+    "coordinates": [
+      48.054092,
+      46.361628
+    ],
+    "displayCoordinates": [
+      48.054092,
+      46.361628
+    ],
+    "encodedCoordinates": "YEEYdgJkSUwFQFpsfX93cHphbA=="
+  }
+}

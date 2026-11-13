@@ -1,0 +1,426 @@
+{
+  "name": "Мишель",
+  "address": "Астрахань, ул. Кирова, 87А3",
+  "phone": "+7 (927) 583-16-00",
+  "folder": "Мишель",
+  "oid": "78347172490",
+  "source": "https://yandex.ru/maps/org/78347172490/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 13,
+    "ratingValue": 4.699999809265137,
+    "reviewCount": 12
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessability",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_a",
+          "name": "Available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "contactless_payment",
+          "name": "contactless payment"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "online_payment",
+          "name": "online"
+        },
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "ramp",
+      "value": true,
+      "name": "Ramp",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "planter",
+      "value": true,
+      "name": "flowerpot",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "full_access",
+          "name": "full access"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19708557/2a0000019eaafda79e5f3db32284710062a1/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18128678/2a0000019eaafdb3ed55b41bb2b98063acdc/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20963904/2a000001a0d6f305fefa752d47df4da841c8/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20879492/2a000001a094b9075a54bd07c4316b3b6fa3/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/21148955/2a000001a094b9095c50b0b8c6aef2112699/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20308240/2a000001a094b8ffcce6e0469b6e0663ba47/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 870,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17781590/2a000001a0943f3eaaffcaac5a7086e123ca/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 664,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20879492/2a000001a0943f39ad576641b386900eded9/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 820,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/21162407/2a000001a0943f39a679851ff88571105047/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 927,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/20765460/2a000001a0943f399ea0a7edd4ee7316228b/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Ирина Кистень",
+      "text": "Отличный магазин! Цветы всегда свежие, в широком ассортименте, букеты собираются со вкусом и с душой, за что отдельное спасибо флористам! Живу в другом городе, поэтому заказываю доставку. Всего все на 10 из 10👌 На сообщения отвечают оперативно, помогают с выбором, а владелица магазина очень отзывчивая и душевная.\nОт души вам процветания и побольше заказов! 🌺",
+      "rating": 5,
+      "date": "2026-06-09",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=cVT6oHJ7qtdkshn1YpUsDDcP_yiSbWUxd"
+    },
+    {
+      "author": "Азалия Ш.",
+      "text": "Являюсь клиенткой этого прекрасного салона с момента открытия, и остаюсь ею до сих пор. Однозначно это лучший цветочный салон в городе, где клиентоориентированность , качество и красота стоит на первом месте. Букеты от Мишель приятно дарить и получать в подарок ☺️\nЗдесь могут реализовать ваш запрос на красивый и изысканный букет к важному событию, но и так жевсегда есть хороший выбор готовых композиций.  Желаю дальнейшего процветания и успеха салону Мишель 🫰🏻",
+      "rating": 5,
+      "date": "2026-09-12",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=edD7bpmL3cM1cm-usmQKaiokfLd65mE"
+    },
+    {
+      "author": "Радик Б",
+      "text": "Не впервый раз посещаю цветочный магазин \"Мишель\" и всегда остаюсь под большим впечатлением! Во-первых, поражает разнообразие цветов и композиций – глаза просто разбегаются от такого изобилия. Каждый букет оформлен с любовью и вниманием к деталям, что сразу чувствуется.\nОсобенно порадовала вежливость и профессионализм сотрудников. Они не только помогли выбрать идеальный букет, но и дали рекомендации по уходу за цветами, что оказалось очень полезным.\nЦены вполне адекватные, а качество цветов на высоте. Порадовало также наличие свежих, только что срезанных цветов, что всегда является залогом долгого цветения.\nВ общем, если вы ищете место, где можно приобрести красивые и качественные цветы, то этот магазин – отличный выбор. Постоянно покупаю в этом магазине и рекомендую своим друзьям и знакомым!",
+      "rating": 5,
+      "date": "2026-09-25",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=rZGD0ut3ddkIoS6ip3FZB2e8gngya7Ynk"
+    },
+    {
+      "author": "Ольга Д.",
+      "text": "Самый лучший и любимый салон цветов  😍Только здесь всегда свежие ,красивые и качественные цветы !🤩Всегда все продуманно до деталей ,от открытки ,до ленты ,все сочетается и смотрится очень стильно !Любовьться букетами - одно наслаждение 😌\nОчень уютный салон и самые добрые флористы 😇\nЦветы всегда стоят очень долго и радуют 🥰Очень рекомендую от всей души 😎",
+      "rating": 5,
+      "date": "2026-09-11",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=9KY9cISUpnMjr8Fall-EqehGVxtiZtHz"
+    },
+    {
+      "author": "Сима Джелилова",
+      "text": "Лучший цветочный салон!\nЦветы абсолютно всегда свежие,все букеты собраны со вкусом,приятное обслуживание.\nВладелица очень добрая и отзывчивая,если затрудняетесь с выбором,всегда поможет и подскажет!\nПроцветания магазину 🌹 🌺 ",
+      "rating": 5,
+      "date": "2026-07-14",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=C-QMLcgqzhtnLlxrSAzfybkdctEV6F"
+    },
+    {
+      "author": "Динара Умерова",
+      "text": "Самый лучший салон цветов, всегда войдут в любой бюджет, подсторятся, самые свежие и шикарные цветы, удобное местоположение, да и доставка всегда выручит. Процветания и еще бОльших клиентов)))",
+      "rating": 5,
+      "date": "2026-07-17",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=MUKJ3M8qai_wbHRhkw2vcHr_B3cL1t"
+    },
+    {
+      "author": "Елена Сорокина",
+      "text": "Лучший цветочный салон! Свежайшие и шикарные цветы, которые стойко переносят любую дорогу. Всегда найдут вариант под ваш бюджет и подстроятся под любые хотелки.  Удобно расположены, а доставка стабильно выручает в последний момент. Спасибо за вашу работу, желаю дальнейшего процветания и расширения маштабов деятельности",
+      "rating": 5,
+      "date": "2026-09-11",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=Ht1TGXb0i7Rk3crNPn3iBHZmE-dwMQuK6"
+    },
+    {
+      "author": "sugababesElena",
+      "text": "Все наши семейные празники и важные события сопровождаются букетами от Мишель уже на протяжении пяти лет ! С благодарностью желаем вам процветания и с удовольствием скрасим свои будни и праздники вашими букетами ! Кстати , по работе всегла получается прекрасное сотрудничество к своим сертификатам на косметологию я поедлагаю красивые букеты Мишель 💛💛💛☀️☀️☀️",
+      "rating": 5,
+      "date": "2026-09-12",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=cAunw7lQ8xm5EERk-mbTuaOOE82IZp8"
+    },
+    {
+      "author": "М",
+      "text": "Хотела бы поделиться своим вречатлением после посещения салона «Мишель».Цветы всегда свежие,персонал вежлив,клиентоориентированность на высоком уровне,доставка без задержек.Рекомендую данный салон.Вас приятно удивит красота и сборка букетов!",
+      "rating": 5,
+      "date": "2026-09-11",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=qZ15cswPYIe5reOKsmqEXh7Ub19DnMB"
+    },
+    {
+      "author": "константин константинов",
+      "text": "Прекрасный салон цветов! Я являюсь клиентом с 2019 года ! Сервис всегда на высшем уровне !!! Отличная стилистика , букеты просто шикарны, цветы замечательного качества,  доставка всегда осуществляется к нужному времени в любое всемя суток !!! Клиентоориентированны и лояльны !!! Молодцы спасибо вам !!! ",
+      "rating": 5,
+      "date": "2026-07-15",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=uH7qcltg52l1oeqg3MyWRSPQomZatCJQ"
+    },
+    {
+      "author": "Динара Аведова",
+      "text": "Отличный магазин с большим выбором.Цветы доставили вовремя, и они простояли очень долго. Спасибо за вашу работу!",
+      "rating": 5,
+      "date": "2026-07-16",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=G9HotfmQcfJ3fEwO-QXBGxF3kgPfBq"
+    },
+    {
+      "author": "Лидия Сатвалдиева",
+      "text": "Мы часто заказываем в Мишель букеты , всегда собранны со вкусом и не повторяющиеся 😍😍😍",
+      "rating": 5,
+      "date": "2026-09-11",
+      "source": "https://yandex.ru/maps/org/78347172490/reviews/?reviewId=-9d7TpwNoJBz8HItmbqy7dJ5n07hHnp7_"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1200,
+    "height": 1200,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019f5f94b074177abfb2b5c993b568/%s"
+  }
+}

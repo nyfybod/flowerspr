@@ -1,0 +1,645 @@
+{
+  "name": "Nina Flowers",
+  "address": "Астрахань, ул. Куликова, 44",
+  "phone": "+7 (927) 573-99-92",
+  "folder": "Nina Flowers — ул. Куликова, 44",
+  "oid": "102178998781",
+  "source": "https://yandex.ru/maps/org/102178998781/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 54,
+    "ratingValue": 4.599999904632568,
+    "reviewCount": 28
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_cats_and_dogs",
+          "name": "allowed with cats and dogs"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "inflate_balloons_with_helium",
+      "value": true,
+      "name": "inflate balloons with helium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "holiday_goods",
+      "value": [
+        {
+          "id": "holiday_goods_soap_bubbles",
+          "name": "soap bubbles"
+        },
+        {
+          "id": "holiday_goods_gift_packaging",
+          "name": "gift packaging"
+        },
+        {
+          "id": "holiday_goods_candles",
+          "name": "candles"
+        },
+        {
+          "id": "holiday_goods_helium_balloons",
+          "name": "helium balloons"
+        },
+        {
+          "id": "holiday_goods_firecrackers",
+          "name": "firecrackers"
+        },
+        {
+          "id": "holiday_goods_air_balloons",
+          "name": "air balloons"
+        }
+      ],
+      "name": "holiday goods",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "new_years_decoration",
+      "value": true,
+      "name": "New Year's decoration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_and_balloon_shapes",
+      "value": true,
+      "name": "flowers and balloon shapes",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_for_florists",
+      "value": true,
+      "name": "products for florists",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "planter",
+      "value": true,
+      "name": "flowerpot",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "call_button",
+      "value": true,
+      "name": "Staff call button",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_garden_center",
+      "value": [
+        {
+          "id": "pots_and_planters",
+          "name": "pots and planters"
+        }
+      ],
+      "name": "products",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_na",
+          "name": "Not available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "stabilized_flowers",
+      "value": true,
+      "name": "stabilized flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "disable_captions",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/ninaflowers_vk",
+      "readableHref": "vk.ru/ninaflowers_vk"
+    },
+    {
+      "type": "max",
+      "href": "https://max.ru/channel_Nina_Flowers",
+      "readableHref": "max.ru/channel_Nina_Flowers"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9831576/2a000001902c56710c29d0f53f5d2893143e/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/1551063/2a00000189121fc0a156b4033caca90637de/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1200,
+      "height": 901,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9368060/2a0000018a6f441eb22609906f34c9a540b7/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 680,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10933525/2a0000018a1de3da97c2c94fad89b63d046a/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/12813249/2a000001902c564f467936cd1d8759256115/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6236655/2a000001902c565564009640dd455fb721fa/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1200,
+      "height": 1372,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13206609/2a0000019086bf78035f0fd32edc43e1eebf/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11302718/2a000001902c5634df379911ffa6949a653a/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1053,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/4699294/2a000001902c5669cf3085c815f55eb50ca8/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6514890/2a0000018a1dec1f81492711a04528867680/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Руки - крюки",
+      "text": "Выражаю огромную благодарность девочкам с данного магазина цветов . заказали доставку и поздравительную открытку. Получатель была очень довольна, и это мякго сказано. Все оперативно , с учётом пожеланий . \nЦветы супер 👍👍",
+      "rating": 5,
+      "date": "2026-08-18",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=B9hn9f0_uWSwNYTw3NA9xTaI6ccniEM8"
+    },
+    {
+      "author": "Ольга Бойко",
+      "text": "Очень приятно было когда продавец Александра предложила мне ассортимент цветов и показала как можно собрать букет. СПАСИБО ",
+      "rating": 5,
+      "date": "2026-08-03",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=yk9Urod66zAUzwW7tzxDB8BhylSQOiFe"
+    },
+    {
+      "author": "Али Аралбек",
+      "text": "Отклик на великолепный сервис и разнообразие:\n“В этом магазине нашёл всё, что нужно для праздника! Цветы свежайшие, ароматы потрясающие, а декор — просто великолепен. Особенно порадовал широкий выбор и отзывчивые сотрудники, которые помогли подобрать именно то, что мне нужно. Теперь знаю, куда обращаться для создания праздничного настроения!”",
+      "rating": 5,
+      "date": "2024-10-25",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=iICB-txKRdgVQUgok3u_ZuD_GAtmHitt0"
+    },
+    {
+      "author": "мария",
+      "text": "Ребенок пошел выбрать букет для мамы , через два дня цветы выкинули, завяли  (хотя дома  достали из упаковки , подрезали ) … ценник вообще не соответствует ожиданию ",
+      "rating": 1,
+      "date": "2025-12-03",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=2Ffg7qLSUfCtRunYWPJEpoacCn-Lpwyhf"
+    },
+    {
+      "author": "Анастасия Гусева",
+      "text": "Парень купил букет вчера около 21. 45 под  вечера под закрытие. Привез 21.55.Цветы очень красивые ,но показались мягковатые.. Фото утром сделала...просто в шоке. ...  Завяли !!! За ночь всего!!!Позвонили руководству - их ответ :-делайте что хотите ... Жалуйтесь...пишите ...Вот пишу ..Что это за отношение???!!!! Продаете цветы на выброс!!! Это не маленькие деньги и испорченное настроение!!! Буду писать жалобу в соответствующие инстанции. Пусть проверяют ваш \" бутик\" ",
+      "rating": 1,
+      "date": "2025-07-30",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=hGQ-r9XF4yFEzCdNiLAB3KVxlIcMKlTJV"
+    },
+    {
+      "author": "Стас Лишайников",
+      "text": "Сеть магазинов Nina Flowvers — это настоящее открытие для любителей свежих цветов! Уже третий год радуют покупателей великолепными букетами и композициями. В магазине всегда чисто и уютно, а отзывчивый коллектив готов помочь с выбором и предложить красивые варианты на любой бюджет. Особенно хочу отметить услуги по надуванию шаров гелием — они отлично дополняют любое празднование! Цены здесь действительно невысокие, а ответы в социальных сетях приходят быстро. Рекомендую всем, кто ищет качественные цветы и оригинальные украшения для своих мероприятий!",
+      "rating": 5,
+      "date": "2024-10-05",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=OTeBrItKDBIacO3jFTfcO7cwcd81Q0y"
+    },
+    {
+      "author": "Va1ett",
+      "text": "Недавно обратился в магазин Nina Flowers, чтобы заказать букет и несколько шаров для дня рождения. Остался очень доволен – цветы были свежими, композиция выглядела идеально, а шарики с гелием стали отличным украшением. Приятно удивили доступные цены и внимательный персонал. Отдельно отмечу, как быстро и оперативно ответили в социальных сетях и помогли выбрать букет под мой бюджет. Видно, что магазин заботится о своих клиентах. Рекомендую всем, кто ищет свежие цветы и качественные услуги по украшению праздников!\n\n",
+      "rating": 5,
+      "date": "2024-10-01",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=Ah1JzoT2UArYtdvXa1wXZ6aJHcS9IA"
+    },
+    {
+      "author": "David Dzeboev",
+      "text": "Покупал для того что бы загладить вину перед женой, в принципе ей понравилось. Цветы свежие, а обслуживание хорошее. Широкий ассортимент цветов, есть даже орхидеи в горшках.\n",
+      "rating": 5,
+      "date": "2024-09-29",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=_YAwCeranbOVPUOWmB85yvxvzsC8pk"
+    },
+    {
+      "author": "Алтынбек Ахмурзаев",
+      "text": "Всегда покупаю тут цветы, отличные красивые свежие букеты, на любой вкус👍 Доброжелательная флористка всегда подскажет и посоветует Вам цветы🤗",
+      "rating": 5,
+      "date": "2024-06-14",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=23UlLHrmero-15v4v0qIrV8tSLCBPZTe"
+    },
+    {
+      "author": "Марк Слипенчук",
+      "text": "Решил купить цветочки, покупал впервые незнал что брать, Цены не большие мне очень понравилось. Работники быстро собрали мне букет на мой бюджет. Рекомендую кто любит        пахнущие цветы и дешевые цены",
+      "rating": 5,
+      "date": "2024-10-24",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=AMrre-xiPOMgkb6ybYn_DUkKD4kce6Yq"
+    },
+    {
+      "author": "Абай Имашев",
+      "text": "Букетики очень хорошие спасибо продавцу очень вежливый 👍",
+      "rating": 5,
+      "date": "2026-09-20",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=a1X0TQ1jBlQD10bg-g16AO0tcnv6cZ"
+    },
+    {
+      "author": "Виталий Ф.",
+      "text": "Не первый раз покупаем цветы. Поздравляли коллег, заказали красивые букеты, все остались довольны и по цене все вышло доступно. Спасибо ",
+      "rating": 5,
+      "date": "2024-09-30",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=z3aVnErmbCAKINd7qPL5w8zUcYHnY8"
+    },
+    {
+      "author": "Ирина Лададенс",
+      "text": "Цветы всегда свежие!букеты собирают отличные! Спасибо",
+      "rating": 5,
+      "date": "2026-03-03",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=RJNrkIReaknUSalSGIUtCBseywhfR4MOE"
+    },
+    {
+      "author": "Александр Милов",
+      "text": "Очень понравился Ваш магазин Nina Flowers на  ул. Куликова, 44. Я бывал и в других ваших магазинах , обслуживание на высшем уровне, девочки всегда помогут собрать нужный букетик, и что главное цены у вас адекватные. А ещё надули шарики к букету и всё реально по нормальным ценам . Хочу пожелать вам только процветания в вашем цветочном бизнесе и конечно расширения . Спасибо вам !!!",
+      "rating": 5,
+      "date": "2024-10-13",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=xRvgtSn5p68c-iPDh9M5vAJySCpHiMhKo"
+    },
+    {
+      "author": "Инкогнито229",
+      "text": "Великолепный выбор цветов и отличное обслуживание! \nИз достоинств : большой выбор цветов на любые вкусы, низкие цены, приятная обстановка, отличное обслуживание. \nИз минусов : их нет. ",
+      "rating": 5,
+      "date": "2024-10-02",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=fzHGrSJplYCnxN2iDJsBrJi94Q1FzTG65"
+    },
+    {
+      "author": "Николай Никотин",
+      "text": "Очень понравилось оформление букета и приятные сотрудники",
+      "rating": 5,
+      "date": "2026-10-26",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=TAJlPwZqWPXKb3F9pirjQxf_bP86nhuBb"
+    },
+    {
+      "author": "Али Алиев",
+      "text": "Здравствуйте 👋🏻 \nПервый раз купил у вас цветы очень понравились запах приятный цена тоже приятная. Еще буду покупать спасибо огромное ",
+      "rating": 5,
+      "date": "2024-10-03",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=S9mBwsBJaA-vCfZa8Qe4MaP_bnbFuygH"
+    },
+    {
+      "author": "Тимур Ка",
+      "text": "Доставка цветов очень даже хорошая мне понравились сами цветы свежие и яркие, спасибо",
+      "rating": 5,
+      "date": "2024-10-28",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=Vs9XW0YayzpOTLo8driLygon_WigIW00L"
+    },
+    {
+      "author": "Расим Загиров",
+      "text": "Уже не первый раз приобретаю цветы тут. Вежливый консультант, цветы всегда на любой выбор 👍",
+      "rating": 5,
+      "date": "2024-09-27",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=pKhO-eUSqVXfT6mIbuUe8zM7zpAKLxQ"
+    },
+    {
+      "author": "коля горяйнов",
+      "text": "Магазин очень хороший покупал девушке цветы обслуживание очень понравилось\n",
+      "rating": 5,
+      "date": "2024-10-04",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=KhUPjpxPX_x5xMyJS2nZsmO_X5Z255"
+    },
+    {
+      "author": "Павел Дудошкин",
+      "text": "Всегда свежие букеты и доброжелательный персонал",
+      "rating": 5,
+      "date": "2024-08-05",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=gSMi_ZVzV-Oh4nbiIZVPI0xDISQS_zvDo"
+    },
+    {
+      "author": "Руслан Х.",
+      "text": "Как оказалось, не круглосуточно",
+      "rating": 1,
+      "date": "2026-04-14",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=AGRtuMI9aVclwrlZZZIFm7gJGGqFIYg"
+    },
+    {
+      "author": "Станислав",
+      "text": "Сеть этих магазинов Nina flowers превосходная, уже второй год покупаю в этом магазине цветы на праздники, в этот раз брал маме на день рождение, маме очень понравилось, сказала то что они пахнут великолепно, простояли  эти цветы у неё 4 дня. И ещё при входе в магазин очень ароматно пахнет теперь буду всю жизнь здесь покупать цветы, рекомендую!",
+      "rating": 5,
+      "date": "2024-10-26",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=HYrgWUiyhNVrP9DWJj55PtGpLftdKVU"
+    },
+    {
+      "author": "Ольга Л",
+      "text": "Очень хороший магазин цветы хорошие вкусно пахнут маме очень понравилось помогли выбрать цветок к маме",
+      "rating": 5,
+      "date": "2024-10-07",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=Z3Rv4fjseN389jaVstxusOcf-prHNHAW"
+    },
+    {
+      "author": "Ирина Егорова",
+      "text": "Вежливый персонал! Чисто! Большой выбор!",
+      "rating": 5,
+      "date": "2024-06-14",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=q6mQ1gSs4uvO0LbmiW7MJORxa-vyNlc"
+    },
+    {
+      "author": "Тигран",
+      "text": "Хорошие место. Покупаю цветы не в первый раз. Жене понравилось. Магазин рекомендую 👍",
+      "rating": 5,
+      "date": "2024-10-27",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=s6D0uBqga4W_4EyqKVBLZAkrsP49F4xq"
+    },
+    {
+      "author": "Зайпула Гамзаев",
+      "text": "Очень красивый букет подобрали👍 спасибо большое ",
+      "rating": 5,
+      "date": "2024-10-23",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=JntJygZBIVkDYekj8sK7vGL70TIdt96j6"
+    },
+    {
+      "author": "Вадим",
+      "text": "Хороший выбор, как то покупал здесь красивый букет, было дешевле чем Астрахани",
+      "rating": 5,
+      "date": "2023-09-15",
+      "source": "https://yandex.ru/maps/org/102178998781/reviews/?reviewId=Z-wxTeIz1tM_NT8mGtyYx6QjxlWcjgni"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 720,
+    "height": 720,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/14784035/2a00000195e206a1fa0702f0388dd0342ff6/%s"
+  }
+}

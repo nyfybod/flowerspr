@@ -1,0 +1,427 @@
+{
+  "id": "139606714951",
+  "title": "Цветы оптом",
+  "address": "Astrakhan, Raskolnikova Street, 10",
+  "fullAddress": "Astrakhan, Raskolnikova Street, 10",
+  "coordinates": [
+    48.044174,
+    46.354656
+  ],
+  "phones": [
+    {
+      "number": "+7 (937) 131-31-31",
+      "type": "phone",
+      "value": "+79371313131"
+    },
+    {
+      "number": "+7 (996) 305-03-64",
+      "type": "phone",
+      "value": "+79963050364"
+    }
+  ],
+  "features": [
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 6,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 5
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 18,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 10:00 AM–6:00 PM",
+  "businessLinks": [],
+  "photos": {
+    "count": 16,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16444693/2a000001990eab216ee3ace4c9ffea24a7bc/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16444693/2a000001990eab216ee3ace4c9ffea24a7bc/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15183726/2a0000019530c4a6afcb6baae40cfce1051a/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15037708/2a00000194789c3360ae7d43f276565890f6/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20011141/2a0000019ccd63f3e1b0901691a3d888c1e0/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16444693/2a0000019799eb2434cfd3962041e7452e30/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15112342/2a0000019530d8b326bb809a0f956e090996/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14021521/2a0000019530b9e5580ce6b7a0fcafb8f4c0/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15081387/2a00000194787b7539177451acd473499bc5/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13789674/2a000001a02b9953c64b9a63511d62e48a97/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20200163/2a0000019f61257e31508b1d518559b6d240/%s",
+        "alt": "Wholesale company Цветы оптом, Astrahan, photo"
+      }
+    ]
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "reviewId": "uVOK7tFqXAalR3I1qM8_6bPfUOlFzOdr",
+        "businessId": "139606714951",
+        "author": {
+          "name": "Халиф Мусаевич",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/48449/0c-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "47dt0mq18thmmzgqgxcvrw3v1c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отличная оптовая база цветов Всегда свежие цветы большой выбор и приятные цены Видно что за качеством следят Персонал вежливый помогает с выбором Заказываем регулярно и ни разу не подвели Рекомендую всем кто занимается цветами",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Mükemmel bir toptan çiçek tabanı Her zaman taze çiçekler geniş bir seçimdir ve uygun fiyatlara sahiptir, kibar personelin kaliteyi izlediği, düzenli olarak sipariş vermemize yardımcı olduğu açıktır ve çiçeklerle uğraşan herkese asla hayal kırıklığına uğratmadığımızı tavsiye ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-14T14:22:58.819Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20105000_2a0000019f610244705bc7fc682f6c6e0d63",
+            "businessId": "139606714951",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20105000/2a0000019f610244705bc7fc682f6c6e0d63/{size}",
+            "createdTime": 1784038968604,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Халиф Мусаевич",
+              "publicId": "47dt0mq18thmmzgqgxcvrw3v1c",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/48449/0c-1/{size}",
+              "updateTime": 1784038968604,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "tTUlooNCpku6mwaQ3prQDP5TmctXeOLGN",
+        "businessId": "139606714951",
+        "author": {
+          "name": "Елизавета Микунова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/57243/0g-5/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "25d50r1175d69yrcj1z4tg0hdg",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Добрый день\nПокупали оптом, какие же они ужасные, пять тысяч на ветер, такое и людям страшно дарить. \nНе рекомендую. ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "İyi günler\nToplu olarak satın aldılar, ne kadar korkunçlar, rüzgara beş bin, bunu insanlara vermekten de korkuyorlar. \nTavsiye etmiyorum. "
+        },
+        "rating": 1,
+        "updatedTime": "2026-03-08T12:20:05.290Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20011141_2a0000019ccd63f3e1b0901691a3d888c1e0",
+            "businessId": "139606714951",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20011141/2a0000019ccd63f3e1b0901691a3d888c1e0/{size}",
+            "createdTime": 1772972406284,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Елизавета Микунова",
+              "publicId": "25d50r1175d69yrcj1z4tg0hdg",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/57243/0g-5/{size}",
+              "updateTime": 1772972406284,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "mDOzJub2L11tAc0PJcNrLkQszSQd5SR",
+        "businessId": "139606714951",
+        "author": {
+          "name": "Давид Саргсян",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0u-6/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "45uw389gjp1nujpnwer8ygrwbw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень свежие и красивые розы , спасибо ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok taze ve güzel güller , teşekkürler "
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-14T15:01:08.417Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "20200163_2a0000019f61257e31508b1d518559b6d240",
+            "businessId": "139606714951",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20200163/2a0000019f61257e31508b1d518559b6d240/{size}",
+            "createdTime": 1784041277687,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Давид Саргсян",
+              "publicId": "45uw389gjp1nujpnwer8ygrwbw",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/47747/0u-6/{size}",
+              "updateTime": 1784041277687,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв",
+          "updatedTime": "2026-07-14T14:17:53.600Z"
+        },
+        "reviewId": "hZ2Eqa0clk5yhIBDwDwLwaDwQ1hWjh5ZG",
+        "businessId": "139606714951",
+        "author": {
+          "name": "Денис Лотос",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/50595/0t-8/{size}",
+          "professionLevel": "Level 6 Local Expert",
+          "rtb": "Level 6 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ukzh0tfcm95c0tn6c1rr11xxuw",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Стараюсь приобретать цветы именно в этом магазине. По крайней мере розы очень стойкие, а это большой плюс👌",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Bu mağazadan çiçek almaya çalışıyorum. En azından güller çok kalıcıdır ve bu büyük bir artıdır"
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-05T12:21:51.455Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Kxeqok5n8rTPdSVBthmBvT6VRtMmLp",
+        "businessId": "139606714951",
+        "author": {
+          "name": "Людмила Белай",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/58107/MqqaNISYXAnPS4JOIy362JHNa6Q-1/{size}",
+          "professionLevel": "Level 14 Local Expert",
+          "rtb": "Level 14 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "h1j4krzd2mk34yk7zfvd6btz08",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Дешевые цветы, приятная атмосфера, радушные продавцы",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Ucuz çiçekler, hoş bir atmosfer, misafirperver satıcılar"
+        },
+        "rating": 5,
+        "updatedTime": "2025-03-13T14:18:26.260Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 5,
+      "loadedReviewsCount": 5,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "tsvety_optom"
+}

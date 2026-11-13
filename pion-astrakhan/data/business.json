@@ -1,0 +1,525 @@
+{
+  "id": "77638348033",
+  "title": "Пион",
+  "address": "Astrakhan, Esplanadnaya Street, 15",
+  "fullAddress": "Astrakhan, Esplanadnaya Street, 15",
+  "coordinates": [
+    48.036803,
+    46.352302
+  ],
+  "phones": [
+    {
+      "number": "+7 (961) 799-86-87",
+      "type": "phone",
+      "value": "+79617998687"
+    },
+    {
+      "number": "+7 (937) 127-75-13",
+      "type": "phone",
+      "value": "+79371277513"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "billing_to_mobile_phones",
+          "name": "via sms"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_in_flask",
+      "value": true,
+      "name": "flowers in a flask",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "florarium",
+      "value": true,
+      "name": "florarium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "processing_speed",
+      "value": [
+        {
+          "id": "per_hour",
+          "name": "per hour"
+        }
+      ],
+      "name": "Delivery time",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_na",
+          "name": "Not available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "minimum_order",
+      "value": "990 ₽",
+      "name": "Minimum order",
+      "type": "text",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 7,
+    "ratingValue": 3.9000000953674316,
+    "reviewCount": 2
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "Mon-Fri 9:00 AM–9:00 PM; Sat,Sun 9:00 AM–10:00 PM",
+  "socialLinks": [
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79617998687",
+      "readableHref": "+79617998687"
+    }
+  ],
+  "businessLinks": [],
+  "photos": {
+    "count": 48,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11400692/2a0000019020c222de85e5f52a76a8d828b1/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11400692/2a0000019020c222de85e5f52a76a8d828b1/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6195924/2a0000019020c1024c820ce29b739a7bf204/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14010724/2a00000193d17e328540737fa0ec45e6117f/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9831576/2a0000019020bd326656ea51ddc4ab03bd61/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/9830591/2a0000019020c0ed0a7dfefd40600be1257d/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11302718/2a0000019020c12b3b69a3296bc04fd3d403/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6310045/2a0000019020c171b7c3ae0bd2ff23ea2297/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/12728107/2a0000019020c1165291886cc21dfb4908ee/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10505037/2a0000019020c0c15541cb4e443fd19b4b97/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13206609/2a0000019020c14a8d68d413217eec683b5e/%s",
+        "alt": "Flower shop Пион, Astrahan, photo"
+      }
+    ]
+  },
+  "fullObjects": {
+    "hasPhotos": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "ЦВЕТЫ",
+        "categoryItems": [
+          {
+            "title": "Букет дня",
+            "description": "Ежедневная акция на разный сорт розы. Сорт  и цвет розы для участия в акции выбирает сам магазин.",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.sHsj8nj6RKFm_2K-7HmN3hWikFrvYckHgLkA7McqHX0"
+          },
+          {
+            "title": "Букет из кустовой розы",
+            "description": "Букет из 5 веточек кустовой розы! Упакован в дизайнерскую упаковку,перевязан лентой.",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Fw0koin6-mXadAypBqheqIGBJj1-wJzjQabEhpFtF0w"
+          },
+          {
+            "title": "Букет из белых хризантем",
+            "description": "Букет из кустовой хризантемы,с добавлением эвкалипта. Упакован в дизайнерскую упаковку,перевязан атласной лентой",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.N9hkPjl1eqfEK_YHBfCnaVspKqUd4amjWCdrl-oU5Kw"
+          }
+        ]
+      }
+    ]
+  },
+  "topObjects": {
+    "hasPhotos": false,
+    "isYandexEda": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "popular",
+        "categoryItems": [
+          {
+            "title": "Букет дня",
+            "description": "Ежедневная акция на разный сорт розы. Сорт  и цвет розы для участия в акции выбирает сам магазин.",
+            "price": "990",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.sHsj8nj6RKFm_2K-7HmN3hWikFrvYckHgLkA7McqHX0"
+          },
+          {
+            "title": "Букет из кустовой розы",
+            "description": "Букет из 5 веточек кустовой розы! Упакован в дизайнерскую упаковку,перевязан лентой.",
+            "price": "2500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.Fw0koin6-mXadAypBqheqIGBJj1-wJzjQabEhpFtF0w"
+          },
+          {
+            "title": "Букет из белых хризантем",
+            "description": "Букет из кустовой хризантемы,с добавлением эвкалипта. Упакован в дизайнерскую упаковку,перевязан атласной лентой",
+            "price": "1200",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.N9hkPjl1eqfEK_YHBfCnaVspKqUd4amjWCdrl-oU5Kw"
+          }
+        ]
+      }
+    ],
+    "fullObjectsCount": 3,
+    "relevance": {
+      "lastUploadTime": "2026-11-10T22:02:59.195011Z",
+      "lastUpdateTime": "2024-06-16T11:49:40.558606Z"
+    },
+    "source": {
+      "id": "TYCOON",
+      "name": "Representative of the organization"
+    }
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "reviewId": "zgXiw0ZbKboEppuqAFLRzXDP_r8VM2",
+        "businessId": "77638348033",
+        "author": {
+          "name": "Emila~",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/PMwD6vvlSN7LX18mkhH3XZI61M-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Красивые стойкие букеты 😍, всегда помогут с выбором, подскажут, соберут букет по Вашим предпочтениям . Цены ниже чем в ближайших цветочных магазинах👍🏻",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel kalıcı buketler, seçim konusunda her zaman yardımcı olacak, size söyleyecekler, tercihlerinize göre bir buket toplayacaklar. Fiyatlar en yakın çiçekçilerden daha düşük👍🏻"
+        },
+        "rating": 5,
+        "updatedTime": "2025-08-20T20:10:11.627Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "uJflZichhhNbP-okIuBhK38suMOYXNEE",
+        "businessId": "77638348033",
+        "author": {
+          "name": "Максим",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45131/0y-4/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Не работает ",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çalışmıyor "
+        },
+        "rating": 4,
+        "updatedTime": "2026-02-04T16:22:35.314Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 2,
+      "loadedReviewsCount": 2,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "pion"
+}

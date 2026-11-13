@@ -1,0 +1,27 @@
+{
+  "checked": "2026-11-13",
+  "source": "https://yandex.ru/maps/org/216915517716/prices/",
+  "relevance": null,
+  "products": [
+    {
+      "name": "Свадебный букет",
+      "category": "Свадебный букет",
+      "price": "3500",
+      "description": "",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/216915517716/prices/",
+      "sourceUrl": null,
+      "photo": null
+    },
+    {
+      "name": "Свадебный букет с бутоньеркой",
+      "category": "СВАДЕБНЫЙ БУКЕТ",
+      "price": "5500",
+      "description": "",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/216915517716/prices/",
+      "sourceUrl": null,
+      "photo": null
+    }
+  ]
+}

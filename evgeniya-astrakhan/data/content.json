@@ -1,0 +1,526 @@
+{
+  "name": "Евгения",
+  "address": "Астрахань, площадь Свободы, 23",
+  "phone": "+7 (927) 572-99-32",
+  "folder": "Евгения",
+  "oid": "31464616424",
+  "source": "https://yandex.ru/maps/org/31464616424/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 46,
+    "ratingValue": 4.400000095367432,
+    "reviewCount": 14
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 0,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 0,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "prepayment",
+          "name": "prepayment"
+        },
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "indoor_plants",
+      "value": true,
+      "name": "indoor plants",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "free_delivery",
+      "value": true,
+      "name": "Free delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_for_florists",
+      "value": true,
+      "name": "products for florists",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery_cost",
+      "value": "350–1500 ₽",
+      "name": "Cost of delivery",
+      "type": "text",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_in_flask",
+      "value": true,
+      "name": "flowers in a flask",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "processing_speed",
+      "value": [
+        {
+          "id": "per_hour",
+          "name": "per hour"
+        }
+      ],
+      "name": "Delivery time",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_na",
+          "name": "Not available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "disable_captions",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "disable_photopoi",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "whatsapp",
+      "href": "http://wa.me/79275729932",
+      "readableHref": "+79275729932"
+    },
+    {
+      "type": "viber",
+      "href": "https://viber.click/79275729932",
+      "readableHref": "viber.click/79275729932"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14010724/2a00000192b9435bc977ef248a411a2b76e5/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13904936/2a00000192b943898a4564fac270670448ca/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 853,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14238289/2a00000192b94621ef4ee9d0ecbd501df8f2/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14460769/2a00000192b94694d4de217e0d5cb9469fdc/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 943,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14264437/2a00000192b94ba081350d57fe43da353884/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 909,
+      "height": 1281,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14238289/2a00000192b94bdccd8e6232d1e3e71517ff/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 896,
+      "height": 1281,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11356085/2a00000192b94c10359cc62e8afeb0431247/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 888,
+      "height": 1281,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13757584/2a00000192b94c6a8d14a0701dbee6bbc623/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14014620/2a00000192b8e153d3590335e19733dd1493/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11277832/2a00000192b8ee318bda6ac0e5b065fba547/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "МАЛИКА П.",
+      "text": "Самый шикарный магазин в Асрахане по доставке цветов , оправдала на 10 балов все мои ожидания . Я с махачкалы делала заказ для сестры , и консультант очень помог . Сестра была довольная . Вы профи своего дела , качестфо роз было супер . Свежые и запах прекрасный .  ❤️❤️❤️❤️💐💐💐💐💐",
+      "rating": 5,
+      "date": "2024-05-15",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=FDDoOucwSo-ED06fzLAyGqeZ0aTvBF"
+    },
+    {
+      "author": "Риат Ахунов",
+      "text": "Девушка консультант просто молодец, в первый день пошли к друзьям в гости предложила нам очень красивый букет, жене друга очень понравился. А на первое сентября такой букет классный был в виде сумочки, самый красивый в классе. Цветы- видно очень свежие, несмотря что у нас не было карты постоянного клиента, продавец сделала нам приятную скидку. Буду в Астрахани, обязательно заскочу ещё за цветами для друзей)",
+      "rating": 5,
+      "date": "2020-09-09",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=meKt9q_GLGUsFQ0TcdjliJHt0kc3557RM"
+    },
+    {
+      "author": "Артур",
+      "text": "На 8 марта заказали доставку, привезли во время, цветы свежие, рекомендую",
+      "rating": 5,
+      "date": "2024-03-08",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=kleFzgggED3HyVewJXCYBmopG3Q-TtX"
+    },
+    {
+      "author": "Полина Ермолова",
+      "text": "Всегда шикарные букеты и композиции, видно что делают с душой,всегда заказываю \nцветы тут.",
+      "rating": 5,
+      "date": "2023-07-03",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=U1kLpXEJYNmMrTbyV14MD8p6qt0cNp"
+    },
+    {
+      "author": "Вячеслав Ш.",
+      "text": "Маленький ассортимент и высокие цены, букет так и не смогли подобрать пришлось просто купить розы, не рекомендую к посещению и выбору цветов.",
+      "rating": 1,
+      "date": "2022-09-18",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=YTtuQwJe8SdlzpmSdVR4LLrrsaqCqF5C"
+    },
+    {
+      "author": "Олег",
+      "text": "Приятный продавец, красивые букеты, цены средние как по городу",
+      "rating": 5,
+      "date": "2024-03-24",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=J5iB28qTWsXCqVBJoXECtiw8U0BFNA"
+    },
+    {
+      "author": "Виктория Лукьянова",
+      "text": "Отличный магазин. Вежливый персонал, своевременная доставка.",
+      "rating": 5,
+      "date": "2023-07-03",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=hmPbo7_yXjLoPgFMcisaD36cRiu6qJiHv"
+    },
+    {
+      "author": "Иван Цибизов",
+      "text": "Цены адекватные и букеты долго стоят 👍",
+      "rating": 5,
+      "date": "2025-02-14",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=kSg4yyRSpsz7bd__XspchaWuDe_w9VXD"
+    },
+    {
+      "author": "Татьяна",
+      "text": "Отличный выбор цветов. Флорист очень приятная женщина и профессионал в своем деле!",
+      "rating": 5,
+      "date": "2022-10-24",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=rvyjCCw0x5aL9fXu49hVVvqbCKOTMp"
+    },
+    {
+      "author": "Natali21602",
+      "text": "И объяснили и помогли!плюс сделали скидку при покупке!огонь💯🫰🫶",
+      "rating": 5,
+      "date": "2023-03-18",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=TZrZJzGcSK_UkTz0nb3pnacaf9EJPWM39"
+    },
+    {
+      "author": "Анна З.",
+      "text": "Не первый год ходим в сеть цветочных Евгения, всегда все отлично",
+      "rating": 5,
+      "date": "2023-10-01",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=IrccUrDH_PgTpC3vM-Ox1qpBGw0F1Hj"
+    },
+    {
+      "author": "Светлана Назаренко",
+      "text": "Хороший магазин, отличные продавцы!",
+      "rating": 5,
+      "date": "2023-01-30",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=TavvWhdZA2K_EZfNbBAInlXu1yZ3v6w"
+    },
+    {
+      "author": "Marco",
+      "text": "Большой выбор цветов",
+      "rating": 5,
+      "date": "2023-02-11",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=F--VRkPBxfnP4cIqIlS3O5NSgMMkjwC"
+    },
+    {
+      "author": "Инкогнито 3535",
+      "text": "Самые красивые цветы в городе ",
+      "rating": 5,
+      "date": "2023-07-30",
+      "source": "https://yandex.ru/maps/org/31464616424/reviews/?reviewId=UvcWA6AxvpHwD_IK0CDoMsFU8qsm6tO3"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1000,
+    "height": 1000,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/13818104/2a00000192b8db9f2d462c480ac90d2bf197/%s"
+  }
+}

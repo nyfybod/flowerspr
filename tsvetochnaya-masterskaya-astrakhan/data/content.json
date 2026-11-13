@@ -1,0 +1,258 @@
+{
+  "name": "Цветочная мастерская",
+  "address": "Астрахань, Боевая ул., 72, корп. 3",
+  "phone": "+7 (917) 175-54-80",
+  "folder": "Цветочная мастерская",
+  "oid": "53230898916",
+  "source": "https://yandex.ru/maps/org/53230898916/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 17,
+    "ratingValue": 4.800000190734863,
+    "reviewCount": 12
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13294935/2a000001928eed45c7a442ca33c941e43412/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 899,
+      "height": 1051,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14813057/2a000001957060e66ccff97a81aafd9f9966/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 630,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9776062/2a0000018dc1f79e34011db878edc2834745/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 630,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6213366/2a0000018dc1f90aeeb3fb42e9be989b4d4b/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 630,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11564583/2a0000018dca3006a031b1d4be33ba0aef9c/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 630,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/938969/2a0000018dc1f71f076427077468cc3ce29b/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 630,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11047345/2a0000018dc1f8d060f0d6d4cf1593e8e2d5/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 768,
+      "height": 1024,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10963815/2a0000018b81790a8dfe487d5fc1e8417f60/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 630,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6213366/2a0000018dc1f82e19446eff245b189f15de/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 630,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6213366/2a0000018dc1f939c7f926056693053ede7a/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Olga MChe",
+      "text": "Не первый раз покупаю цветы в горшках на праздники для своих близких, отличный выбор и качество цветов. Заказы делаю по телефону, тк нахожусь в другом городе, спасибо огромное Анне за отзывчивость и помощь в выборе. Желаю процветания 🙏🏻🥰🌸🌸🌸",
+      "rating": 5,
+      "date": "2025-03-07",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=OghMiG_ZTpNSgPAuBx_kipSeg3v6A3k2"
+    },
+    {
+      "author": "Екатерина Ходякова",
+      "text": "Очень рада, что с нашем дворе есть такой прекрасный магазин. Цветы всегда свежие, красивые и, что самое главное, долго стоят. Всегда беру только здесь, цены демократические, а мастера очень вежливые и отзывчивые",
+      "rating": 5,
+      "date": "2026-03-28",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=OL75LMl4nOmpbqPNidVb3JruocBbRNHyc"
+    },
+    {
+      "author": "Юлия Доброва",
+      "text": "Спасибо большое цветочной мастерской ,все быстро оперативно доставили .Букет имениннице очень понравился .Спасибо за внимание к деталям и за вашу оперативность💗",
+      "rating": 5,
+      "date": "2026-01-17",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=cCKBFc4C-xmTJtaG0XEi0-ZKJz1yw7HF"
+    },
+    {
+      "author": "Зульфия Юсупова",
+      "text": "Мой любимый цветочный магазин!!!!!! Далеко находится от меня, но за качеством работ и качеством обслуживания, обращаюсь только сюда! Работают действительно по запросу клиента, всегда учтут все нюансы и предпочтения! Посоветуют! Сейчас большая редкость получить действительно искренний совет от продавца… а тут ♥️! Спасибо, Вам за качественную и добросовестную работу! Наверное всё потому что делают своё дело с любовью! Всем рекомендую!!!!",
+      "rating": 5,
+      "date": "2024-10-15",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=xZs8pzZpCA_vdjB1i3pDD78kIZQBd0"
+    },
+    {
+      "author": "Екатерина",
+      "text": "Хочу выразить огромную благодарность цветочной мастерской! Отзывчивый персонал! Всегда на связи, всегда помогут, подберут букет на любой вкус и кошелёк! Доставка чётко организована! Не раз заказывала цветы и никогда не подходили! Так же можно купить домашние цветы, расскажут подробно как ухаживать за ними! Успеха вам и процветания! ",
+      "rating": 5,
+      "date": "2023-12-23",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=85LScDXCsGNj7hOqphmgDjceg10emLC"
+    },
+    {
+      "author": "Никита Ефремов",
+      "text": "Великолепный магазин цветов, где царит атмосфера профессионализма и заботы о клиентах. Каждый цветок и букет, выглядит свежим и красивым, а ассортимент радует разнообразием. Сотрудница магазина компетентна и доброжелательна, всегда готова помочь с выбором. Очень доволен, что купил букет в данной цветочной мастерской!",
+      "rating": 5,
+      "date": "2024-02-21",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=VlFxRgN-bkWJZWeS_cfte03IHztnxWUP"
+    },
+    {
+      "author": "Ксения Косач",
+      "text": "Сервис на высшем уровне! Заказала доставку цветов из другого города. Очень быстро все обговорили и выбрали. Доставка в срок и без опозданий. Позитивное и приветливое общение. Спасибо, обращусь в дальнейшем ",
+      "rating": 5,
+      "date": "2024-10-22",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=5aly4zZb4TDA1Vl-syY7324CQG-LwRN"
+    },
+    {
+      "author": "Дмитрий",
+      "text": "Цветочная корзинка стала отличным подарком для мамы. Она была в восторге от красивого сочетания цветов и изящного дизайна корзинки. Спасибо за качество и внимательное отношение к деталям!",
+      "rating": 5,
+      "date": "2024-02-21",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=_eXBsMEYH9q6wTeWLuC2rTibVYTTf-9"
+    },
+    {
+      "author": "Александр Климов",
+      "text": "Не певый раз покупаю тут цветы, очень доволен. Приемлемые цены, обслуживание на 5+. Всегда свежие цветы и красивое оформление букетов. Спасибо продавцу за приятный бонус !!!",
+      "rating": 5,
+      "date": "2024-02-13",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=wXwRjknaZ9Ro7nW7hE41sP8s8qFePA9"
+    },
+    {
+      "author": "Алексей Еремеев",
+      "text": "Купил букет и остался доволен качеством и красотой цветов. Профессиональный подход к составлению букета порадовал. Теперь знаю, где можно заказать цветы на любой случай!",
+      "rating": 5,
+      "date": "2024-02-21",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=u-fdqOwvzBtCoR38cYxamHn4MRK1AVJ"
+    },
+    {
+      "author": "Петров Василий",
+      "text": "Прекрасный магазин, очень добрые работники",
+      "rating": 5,
+      "date": "2024-04-18",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=imQZiIIxqf7VWgJjOqiB0PQw4XaJz-"
+    },
+    {
+      "author": "Ирина Старикова",
+      "text": "Топ",
+      "rating": 5,
+      "date": "2025-10-10",
+      "source": "https://yandex.ru/maps/org/53230898916/reviews/?reviewId=LdMHzgM2ipcG6GLnEYm7qRiU-8ZGHv"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1200,
+    "height": 1200,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/10830675/2a0000018b81754a577b27da13fdd990e5a6/%s"
+  }
+}

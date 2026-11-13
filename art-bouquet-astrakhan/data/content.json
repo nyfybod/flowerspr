@@ -1,0 +1,403 @@
+{
+  "name": "Art bouquet",
+  "address": "Астрахань, Студенческая ул., 4В",
+  "phone": "+7 (927) 566-62-19",
+  "folder": "Art bouquet",
+  "oid": "8275469326",
+  "source": "https://yandex.ru/maps/org/8275469326/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 49,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 20
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5517598/2a0000017e05dc90c1ca4037b5f6c817a20f/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11886651/2a0000018da75f2ef44d6ab4fd8da1bae329/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15282671/2a0000019743b99caab3637a193350cb82f6/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10993309/2a0000018dca37b96a407dd53001751edc4f/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11048854/2a0000018aa1de763b826cd5b68911fea0a5/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14381528/2a000001960211fa6d50a9cff221cb44dd4d/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16137047/2a0000019743c592088fd00b7c072ccc4df2/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5245944/2a0000017c089fa25dfdd152e11ff83dcc92/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/1899063/2a00000169fa50d7229d4c7b53f423b1890f/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1200,
+      "height": 901,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/4336412/2a0000017884930258f07fee0a1b959de834/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Мария Е.",
+      "text": "Больше не зайду. Три веточки кустовых роз - 1200 руб. (тюльпаны на фото искусственные). Куплены розы 2 дня назад, до дома несла 30 метров (погодные условия тут не при чем). Еще вчера с утра заметила, что начали вять, а сегодня уже трупики в вазе. \nОбычно в доме цветы меньше недели не стоят, а здесь такой конфуз. Очень дорогое удовольствие для минутной радости, не рекомендую.",
+      "rating": 1,
+      "date": "2024-02-21",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=hETUoiQyy24YLdoQcn1GRVCVquyGVbmxM"
+    },
+    {
+      "author": "Никита Грошев",
+      "text": "Всë понравилось в этом магазине, хороший персонал, обслуживание на высшем уровне, цветов море заходите не пожалеете! ",
+      "rating": 5,
+      "date": "2024-02-14",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=SsWM0C5ctWr4k8q-QhvJSW-kPTrkEQ"
+    },
+    {
+      "author": "лиза кабирова",
+      "text": "Заходя  в  этот магазин как будто попадаешь в цветочный рай . Там большой ассортимент цветов  и очень приятный флорист. Играет приятная музыка  пока ждёшь свой  букет шикарных цветов и также  хочу отметить  что все  цветы свежие и очень красивые . Советую к  посещению. ",
+      "rating": 5,
+      "date": "2024-04-11",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=Y9bR1lq33wDirRbm1IOLwbr8gEhr_J8B"
+    },
+    {
+      "author": "Вагид Казимагомедов",
+      "text": "Покупали цветы 3 букета (2-розы, 1-хризантемы). Так вот два дня продержались и заявли, отдали почти 9тысяч. Спрашивается за что?! Ещё лапшу на уши вешают, мол долго держатся. Деньги на ветер. Вашу контору бы закрыть да насовсем! ",
+      "rating": 1,
+      "date": "2024-12-16",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=maxZRe56m2mwNwOKGijmprCd-Xs580RMF"
+    },
+    {
+      "author": "Татьяна Л",
+      "text": "Давно хожу только в этот цветочный рай😊цветы всегда свежие,цены не завышены. Девченки , особенно хозяйка доброжелательны, клиентоориентированны,вежливы. Вообщем очень приятно зайти за букетом и выйти в хорошем настроении с достойным букетом.",
+      "rating": 5,
+      "date": "2023-01-23",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=MA90hcFjoI6VLkBo6pWi1TLUZDTFhAxx"
+    },
+    {
+      "author": "Василь Иваныч",
+      "text": "В этом магазине считается нормой ютить бродячих собак. Разговаривать, что с продавцом, что с владельцем магазина пустая трата времени. Про нормы СанПин и постановление Правительства АО 821-п от 27.12.2023 года типа не слышали и слышать не хотят. Типа их это не касается. Зато хорошо зазубрили приятный их слуху бурматовский фз-498. Ну ничего.  Из уст работников органов надзора будет более доходчиво.  После такого больше никогда не зайду в этот магазин. Себя не уважать- нести им деньги. И никому не посоветую.",
+      "rating": 1,
+      "date": "2024-08-09",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=98uoKbyfOElSZoE4OGcv_Yj3Au87sp"
+    },
+    {
+      "author": "Елизавета Б.",
+      "text": "Очень разочарована вашим букетом. Купили его 31, я так поняла, что это была старая сборка и новую мне не сделали. Вчера завяли без восстановления розы, сегодня та же история происходит с гвоздиками. Помещение, в котором они находились, не жаркое, отопления там нет. Вода чистая. Спасибо, за испорченный подарок! Связалась с хозяйкой, которая всю вину перенесла на маму, кому и были адресованы цветы. Хотя я знаю, живу рядом с ними и множество раз покупала там цветы, что история с «просрочкой» для них это норма. Просила собрать мне новый букет, чего не произошло. В августе точно также чуть не сорвали день рождения моей мамы: не отвечали на сообщения, хотя цветы были оплачены. Добавлю, что в помещении и рядом с ним жуть как воняет кошачьей мочой. Девочки, работающие там, походу уже принюхались. От одного только запаха туда ходить не хочется ",
+      "rating": 1,
+      "date": "2024-11-02",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=dopLacu-Wx7EVgTvfoJdfl50exE42P"
+    },
+    {
+      "author": "Антонина А.",
+      "text": "Заказывала букет невесты. Когда жених забирал цветы были уже с чёрными пятнами, букет даже в воде не стоял, лежал просто на столе, не в холодильнике.\n",
+      "rating": 1,
+      "date": "2023-09-17",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=HBrEybBW9VrNxNgHgsUyTPKGnb8hzgzh"
+    },
+    {
+      "author": "Саша Л.",
+      "text": "Заказывала доставку цветов на 8 марта. Цветы не доставили, после два дня игнорировали. В итоге причин ошибки не объяснили, безмолвно перевели деньги. Очень обидно, что такое отношение к клиентам. ",
+      "rating": 1,
+      "date": "2023-03-10",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=_5CSMKwGCQWQm8-k8eaHTm4nmkOKqBlt"
+    },
+    {
+      "author": "Юлия Андреевна",
+      "text": "Очень большой ассортимент цветов \nВежливые и профессиональные продавцы !\nА главное соберут букет на любой вкус и бюджет 👍🏼👍🏼",
+      "rating": 5,
+      "date": "2022-01-05",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=Ka-OVtOUtpd4CHp5zudSUkM-gdyDUd4"
+    },
+    {
+      "author": "Л Т",
+      "text": "Нравится ненавязчивое обслуживание, подскажут, подберут и красиво упакуют.",
+      "rating": 5,
+      "date": "2023-07-06",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=dkA3Si6xOZH8x405tEUvP70ZYFZJ-JM"
+    },
+    {
+      "author": "LiLi",
+      "text": "Не советую их ни в коем случае, если не хотите получить сильнейшее разочарование, когда хотите поздравить самого близкого человека Маму!\n\nНе знаю, почему посоветовали мне именно эту доставку цветов. Супер не клиентоориентированность! Ехала из другого города, накануне связывалась с ними, чтобы доставили букет к 9 утра маме, хотела порадовать за прошедший день рождения в день приезда, хотела сделать сюрприз. Открываются они в 8. Надо выпрашивать было, чтобы скинули варианты букетов. «Позже пришлю варианты», «мы уже закрыты, только утром», утром со мной так никто не связался. Хорошо не в сам день рождения самого близкого человека!\n\nЖелаю сидеть дальше в каморке на Студенческой и не развиваться!",
+      "rating": 1,
+      "date": "2023-04-21",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=F4dvc6TQa20WqV4ljhsdA9qGS6ztXc_c"
+    },
+    {
+      "author": "андрей орлов",
+      "text": "Улица шумная, много студентов. Плотный поток транспорта.",
+      "rating": 4,
+      "date": "2025-11-10",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=h66XEkYoa3VJkdfKONvVD-5GeWna4FFz"
+    },
+    {
+      "author": "Светлана",
+      "text": "Персонал,качество обслуживания👎🏻👎🏻👎🏻 Живу в другом городе,хотела сделать заказ,чтобы мама пришла и забрала букет\nБросили трубку",
+      "rating": 1,
+      "date": "2025-03-08",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=vVKzkuuYMZLrjwl07lUBtEH4TCKwSMVez"
+    },
+    {
+      "author": "Татьяна",
+      "text": "Составляют красивые букеты на любой вкус и кошелек",
+      "rating": 5,
+      "date": "2023-07-06",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=MwKy9E3zw0_APPcgRSq-LoBIP-BTVBp"
+    },
+    {
+      "author": "Анастасия Филипова",
+      "text": "Самый лучший цветочный магазин!",
+      "rating": 5,
+      "date": "2023-08-01",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=M4KFWnSaeHHuSYhVPpcCZHXPpNLBT6r"
+    },
+    {
+      "author": "Сергей тарарин",
+      "text": "Персонал супер!!! Девушка-продавщица Огонь!!!!!",
+      "rating": 5,
+      "date": "2022-08-12",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=OXuaRhdXmG5mY-Rr1u38u-VhZd0Mny"
+    },
+    {
+      "author": "Руслан",
+      "text": "Переодически забегаю по пути домой в этот магазин порадовать любимую. все супер!!! молодцы!! ",
+      "rating": 5,
+      "date": "2023-10-30",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=VT03J3mhiiqnNQ3mcfy8X2dkdQVXwGSUP"
+    },
+    {
+      "author": "Андрей ##############",
+      "text": "Не плохой магазин,удобно.",
+      "rating": 4,
+      "date": "2020-08-10",
+      "source": "https://yandex.ru/maps/org/8275469326/reviews/?reviewId=Bex1ilRHv_upM1nTXhoAtgBymgxuc3iw"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

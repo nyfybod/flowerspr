@@ -1,0 +1,1458 @@
+{
+  "id": "102829894145",
+  "title": "Teya",
+  "address": "Astrakhan, Savushkina Street, 6к1",
+  "fullAddress": "Astrakhan, Savushkina Street, 6к1",
+  "coordinates": [
+    48.049471,
+    46.374455
+  ],
+  "phones": [
+    {
+      "number": "+7 (8512) 41-05-41",
+      "type": "phone",
+      "value": "+78512410541"
+    }
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "full_access",
+          "name": "full access"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        },
+        {
+          "id": "gifts",
+          "name": "gifts"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "parking_disabled",
+      "value": true,
+      "name": "parking for people with disabilities",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "indoor_plants",
+      "value": true,
+      "name": "indoor plants",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessability",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_garden_center",
+      "value": [
+        {
+          "id": "ornamental_plants",
+          "name": "ornamental plants"
+        }
+      ],
+      "name": "products",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_in_flask",
+      "value": true,
+      "name": "flowers in a flask",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "stabilized_flowers",
+      "value": true,
+      "name": "stabilized flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_pa",
+          "name": "Partially available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "ratingData": {
+    "ratingCount": 29,
+    "ratingValue": 4.699999809265137,
+    "reviewCount": 14
+  },
+  "workingTime": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "workingTimeText": "daily, 8:30 AM–10:00 PM",
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/theia30",
+      "readableHref": "@theia30"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79881710541",
+      "readableHref": "+79881710541"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/teya_ast",
+      "readableHref": "vk.ru/teya_ast"
+    }
+  ],
+  "businessLinks": [],
+  "businessImages": {
+    "logo": {
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/7979184/2a000001880f05314da6a37091cf645f96df/%s",
+      "tag": [
+        "owner_photo"
+      ],
+      "id": "2a000001880f05314da6a37091cf645f96df"
+    }
+  },
+  "photos": {
+    "count": 163,
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16914582/2a00000198ef99a900359060b40d41784abe/%s",
+    "items": [
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16914582/2a00000198ef99a900359060b40d41784abe/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16443717/2a00000198ef99bab753eeda1d92c1e45358/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15683978/2a00000198ef99c1e4d7cae65e206e79c93f/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10829645/2a0000018a17cd8a41e1087a34cd1866e763/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10639454/2a0000018a84ff3bfd4efca530ff0f4211eb/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14215987/2a00000194d14c018ab8b36eff52a9d70f97/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13206104/2a00000194ca8cc7d759f969f13bd67bf462/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/11409713/2a0000018e89deb24225547472afb6503225/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10869107/2a0000018a18011019ff93572df458351cbf/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      },
+      {
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15467240/2a00000194ca8cd2dd24288528f1c05c0078/%s",
+        "alt": "Flower shop Teya, Astrahan, photo"
+      }
+    ]
+  },
+  "fullObjects": {
+    "hasPhotos": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "No category",
+        "categoryItems": [
+          {
+            "title": "Весення роса",
+            "price": "3700",
+            "currency": "₽",
+            "matchKey": "v1.-ZazRR3lbNM9-NK6hXvls0hZvGfhM8pu43JO7nsghcM"
+          },
+          {
+            "title": "Розовый вихрь",
+            "description": "Роза -3шт\nРоза кустовая-  3шт\nАльстромерия -2шт\nХризантема кустовая-1шт\nУпаковка-1шт",
+            "price": "6000",
+            "currency": "₽",
+            "matchKey": "v1.vzwQFOayd69i4SHdiwEKsXS-wwkqYf0ucYxbeDSLhFg"
+          },
+          {
+            "title": "Весеннее небо",
+            "description": "Гортензия - 1 шт\nРоза кустовая-3шт\nХризантема-1 шт\nКовыль-1шт\nУпаковка-1 шт",
+            "price": "4900",
+            "currency": "₽",
+            "matchKey": "v1.SOZIoRjKjp65JeVH28QsMnPTTwyXU2lj7if7NL799z8"
+          },
+          {
+            "title": "Нежность",
+            "description": "Роза -5шт\nЭвкалипт-1 шт\nУпасовка-1ш",
+            "price": "3500",
+            "currency": "₽",
+            "matchKey": "v1.7wl8OCPhXjfuUItMub85pRh5K81ocjHNenNdqSHhr-w"
+          },
+          {
+            "title": "Пломбир",
+            "description": "Роза  кустовая -2шт\nХризантема кустовая- 1шт\nХризантема -  3шт\nАнтуриум- 1шт\nГвоздика -3шт\nУпаковка-1 шт",
+            "price": "4800",
+            "currency": "₽",
+            "matchKey": "v1.lEjLaJrEwvncInYpzFbEQAMhXaVZDi7ZwAMX-xHb1Jc"
+          },
+          {
+            "title": "Улыбка фортуны",
+            "price": "6500",
+            "currency": "₽",
+            "matchKey": "v1.EKLeFHa0sk4g3LJUqPZerqHBIouPz7wx8p7b6o967X8"
+          },
+          {
+            "title": "Яркое настроение",
+            "price": "4700",
+            "currency": "₽",
+            "matchKey": "v1.yQzOH72dcoGOoxBswIdkboBEQVpD1i83RldKfH8fhOc"
+          },
+          {
+            "title": "Цветосный микс",
+            "price": "3800",
+            "currency": "₽",
+            "matchKey": "v1.flTc1mrHzqR8P3nvGeyCyvbMQeZ41VnaW1NPaQUCFmw"
+          }
+        ]
+      },
+      {
+        "categoryName": "Розы",
+        "categoryItems": [
+          {
+            "title": "Звездное мерцание",
+            "description": "Прекрасное сочетание \nРозы Мондиаль с Эвкалиптом в стильном оформлении",
+            "price": "1900",
+            "currency": "₽",
+            "matchKey": "v1.urBjaICx4XhksCpQiXYluXcqeOiBYlrccIpS2LZPEa8"
+          },
+          {
+            "title": "Кустовые розы",
+            "price": "6500",
+            "currency": "₽",
+            "matchKey": "v1.NWgP0l1CHarIQnwjl6WfkmbrJZCIygYLGnkz0tEMhOY"
+          }
+        ]
+      },
+      {
+        "categoryName": "Орхидеи",
+        "categoryItems": [
+          {
+            "title": "Неземная красота",
+            "price": "5200",
+            "currency": "₽",
+            "matchKey": "v1.JRGGU-9FQ7EteEYm3Z1Fmu-E_Rgz6GIWjd8P2MDNSvA"
+          }
+        ]
+      },
+      {
+        "categoryName": "Розы, 101 роза, белые розы, 101 белая роза, розы на 8 марта, цветы с доставкой, букет из роз, красивые букеты цветов, монобукеты",
+        "categoryItems": [
+          {
+            "title": "Черничное мороженое",
+            "price": "3200",
+            "currency": "₽",
+            "matchKey": "v1.j4m8qbxK3m645bH_IzTUN1oVhPEssq0kKPfUQVgSZ38"
+          }
+        ]
+      },
+      {
+        "categoryName": "РОЗЫ",
+        "categoryItems": [
+          {
+            "title": "Моно из кустовой розы",
+            "price": "8000",
+            "currency": "₽",
+            "matchKey": "v1.asKDxS-Z-T_AEYuGLI3GMiWnkYlb8-vmH2_df1JK54Y"
+          },
+          {
+            "title": "Романтический сон",
+            "price": "8000",
+            "currency": "₽",
+            "matchKey": "v1.sK7oWdsxY1cELLA-pjaRcRb5X1S22LTRx24FbW09ANk"
+          },
+          {
+            "title": "45 роз",
+            "price": "30000",
+            "currency": "₽",
+            "matchKey": "v1.38gu1ir5oOD9CK-RVlg-nkeQPHwcOFBo3e0gHiRgAAs"
+          }
+        ]
+      },
+      {
+        "categoryName": "ГОРТЕНЗИИ",
+        "categoryItems": [
+          {
+            "title": "Гортензия",
+            "price": "1500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.9rOrvtLrx-_9UhtkQUbr8eJJOMUTCY6d26EchjXq2wk"
+          }
+        ]
+      },
+      {
+        "categoryName": "БУКЕТЫ",
+        "categoryItems": [
+          {
+            "title": "Настроение",
+            "description": "сборный букет",
+            "price": "4500",
+            "currency": "₽",
+            "matchKey": "v1.4Sv9RXLTuU18uuq0UBTaZBrWNrasmlI_WiejZrcoWdM"
+          }
+        ]
+      },
+      {
+        "categoryName": "БУКЕТ",
+        "categoryItems": [
+          {
+            "title": "Притяжение",
+            "description": "Роза кустовая - 20 шт\nГортензия- 3 шт\nПротея - 1 шт\nУпакова- 2 шт",
+            "price": "14500",
+            "currency": "₽",
+            "matchKey": "v1.5FAVyapOrK5RIvRMJwquXKvfXxfQcR-m9QmW2cReOFI"
+          },
+          {
+            "title": "Нежный сон",
+            "description": "Роза - 25 шт\nГортензия- 5 шт",
+            "price": "27000",
+            "currency": "₽",
+            "matchKey": "v1.gv9mqznCaLphFQ8wCQfzn0w02MEf6uiz0wgUt0UeACc"
+          },
+          {
+            "title": "Цветочный вальс",
+            "description": "Розы - 5шт\nЗризантемы-2 шт\nМатиола-3 шт\nЭвкалипт-5 шт\nУпаковка-2 шт\nЛента-2 шт",
+            "price": "4700",
+            "currency": "₽",
+            "matchKey": "v1.hGXn-JDBbdnW_gFluHSU_wzesFaANzw923sAvQ1k-ac"
+          }
+        ]
+      },
+      {
+        "categoryName": "ЦВЕТЫ",
+        "categoryItems": [
+          {
+            "title": "Ночной свет",
+            "price": "1800",
+            "currency": "₽",
+            "matchKey": "v1.Ek5Je23Ue37LTbyx9gB9IC_Wh_Ljd0T5gQkGUne8ksc"
+          },
+          {
+            "title": "Магия осени",
+            "price": "3950",
+            "currency": "₽",
+            "matchKey": "v1.VavVUJzIw0Ezn3AABbbTtxmB46lc7shRALM1VFKphjU"
+          },
+          {
+            "title": "Весенний джаз",
+            "price": "6900",
+            "currency": "₽",
+            "matchKey": "v1.N3pjHgp6OG3vr8gApB1vT6G0FrKiixF-19yQFqEjuA8"
+          },
+          {
+            "title": "Золотой ореол",
+            "price": "2750",
+            "currency": "₽",
+            "matchKey": "v1.QdJS7ymTdeCNg_Jv8t6Nd1q89JlzXJ2ajRzQdb2wtt8"
+          },
+          {
+            "title": "Осенняя поляна",
+            "price": "3900",
+            "currency": "₽",
+            "matchKey": "v1.EIwI5UYG-KrMhBjuDk3lh-NpA5n9t8Z53vAzFH-qrE8"
+          },
+          {
+            "title": "Комплимент",
+            "price": "2300",
+            "currency": "₽",
+            "matchKey": "v1.pxwHnVHvHnDcdzY_ty3nCx3UqQPL_-_6xYyFxtyI-NM"
+          },
+          {
+            "title": "Золотая осень",
+            "price": "3300",
+            "currency": "₽",
+            "matchKey": "v1.olviVIr5MnwTViw1YhF05ijbeszKOr3QdX4MR9O1jno"
+          },
+          {
+            "title": "Красочна осень",
+            "description": "Хризантема-3 шт\nМатиола-2 шт\nРоза кустовая-2 шт\nРоза-5 шт\nЛагугрус-2 шт\nХризантема кустовая-1 шт\nПапортник-2 шт\nУпаковка-1 шт",
+            "price": "5250",
+            "currency": "₽",
+            "matchKey": "v1.gHZupAtG3nEnovQD4FuBUT3kVldaIf_bHyS-Clo0p44"
+          },
+          {
+            "title": "Нежность",
+            "description": "Гортензия-2 шт\nМатиола-3 шт\nГвоздика-3 шт\nГербера-3 шт\nГипсофила-2 шт\nЛагурус-2 шт\nУпаковка-1 шт",
+            "price": "7500",
+            "currency": "₽",
+            "matchKey": "v1.OIWWdXK8ASDl4sFHqlZ-4jPjmdHb2l_I4MaZMihcfVo"
+          },
+          {
+            "title": "Осенняя дымка",
+            "description": "Хризантема - 3 шт\nРоза-3 шт\nГипсофила-2 шт\nУпаковка-2 шт",
+            "price": "3200",
+            "currency": "₽",
+            "matchKey": "v1.inlYMSG0zdAKahJINNR_0JIZDrseAB7lNx6cljAucjo"
+          },
+          {
+            "title": "Утренняя дымка",
+            "description": "Сборный букет",
+            "price": "3500",
+            "currency": "₽",
+            "matchKey": "v1.hBPdsJwzYLUvhPwrVuKIBzoNaxCoI_KdPxAu5wWY9dA"
+          },
+          {
+            "title": "Алый закат",
+            "description": "Розы -5 шт\nГворзика-2 т\nМатиола-1 шт\nХризантема -1 шт\nУпаковка-2 шт\nЛента-1 шт",
+            "price": "6500",
+            "currency": "₽",
+            "matchKey": "v1.9s7t3fFup6ZV0jYbZHudcn-4YSxUJ-ZSEIWSRntKuBI"
+          },
+          {
+            "title": "Весенняя поляна",
+            "description": "Роза кустовая-2 шт\nХризантема-3 шт\nГвоздика-3 шт\nГортензия-1 шт\nУпаковка-1 шт",
+            "price": "4300",
+            "currency": "₽",
+            "matchKey": "v1.epSn-pnws0mJfSo7xOWIwIEj9LeA5bWRcyw-7Vd-auE"
+          },
+          {
+            "title": "Нежность",
+            "description": "монобукет из кустовой розы",
+            "price": "5500",
+            "currency": "₽",
+            "matchKey": "v1.hZaxsB7pn0Uh8SZVYL9L2lwPkPnCH9QdcHrfCZjkraM"
+          },
+          {
+            "title": "Сладкий ноябрь",
+            "description": "Хризантема-1\nМатиолоа-2\nГвоздика -5\nРоза кустовая-1\nСантини-2\nУпаковка-2",
+            "price": "3600",
+            "currency": "₽",
+            "matchKey": "v1.SBOku0FXSQeA46aVBlEZ9KImjEQRt4IobAHjtuaZU00"
+          }
+        ]
+      },
+      {
+        "categoryName": "Сухо цветы",
+        "categoryItems": [
+          {
+            "title": "Сухоцвет",
+            "description": "букет интерьерный из сухоцвета",
+            "price": "2000",
+            "currency": "₽",
+            "matchKey": "v1.c41FGjTvdEfPbrcPe5h5AmCgR7Q2zytT5PphStzaqnQ"
+          }
+        ]
+      },
+      {
+        "categoryName": "розы",
+        "categoryItems": [
+          {
+            "title": "Бомбастик Розы",
+            "price": "500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.tYiLQZj3hpNXkTlrN1SJ2psHM0k5uzNM4eup0d4dspI"
+          },
+          {
+            "title": "Розовое облако",
+            "price": "29000",
+            "currency": "₽",
+            "matchKey": "v1.c4p_nC1wAgGDb1Ykxo6T-U94spv5yZvdHzUUqEVeQC0"
+          }
+        ]
+      },
+      {
+        "categoryName": "РОЗА",
+        "categoryItems": [
+          {
+            "title": "Роза в колбе L",
+            "description": "Живой стабилизированный цветок в стеклянной колбе с сьемной крышкой. Сохраняет первозданный вид до 5 лет! Упаковочная (подарочная)коробка оплачивается отдельно.",
+            "price": "5500",
+            "currency": "₽",
+            "matchKey": "v1.5KVOC73qYK_3X5v99u9hHaShkhsxHoyX9J26vpJpRfw"
+          },
+          {
+            "title": "Розав колбе M",
+            "description": "Живой стабилизированный цветок в стеклянной колбе с сьемной крышкой. Сохраняет первозданный вид до 5 лет! Упаковочная (подарочная)коробка оплачивается отдельно.",
+            "price": "4500",
+            "currency": "₽",
+            "matchKey": "v1.FQ9I7gZAgvC67sFnX4a8_mfdkO5xOrRjG1ZEP6FnGwk"
+          }
+        ]
+      },
+      {
+        "categoryName": "Розы 51 доставка цветов, розы 101, роза одноголовая",
+        "categoryItems": [
+          {
+            "title": "Облако нежности 201 роза",
+            "description": "201 роза Джумилия.",
+            "price": "44000",
+            "currency": "₽",
+            "matchKey": "v1.YpQtorVQHwKFeuZxaiAdKEoDjHzPjvY6LW4M1ALg8Rs"
+          }
+        ]
+      },
+      {
+        "categoryName": "ВЕСНА 2026",
+        "categoryItems": [
+          {
+            "title": "Коллекция 2026",
+            "description": "Гортензия-1\nХризантема\" Алтай\"-2\nДиантус-5\nРоза кустовая-1\nРоза одноголовая-2\nЭвкалипт-3\nТишью-3листа\nФоамиран-2листа\nБрендированная лента-1\nПодкормка для цветов+инструкция по уходу.",
+            "price": "5500",
+            "currency": "₽",
+            "matchKey": "v1.cHviwDlrG84F6uZkStWO0VysJgHhcL1yyuLPZesa-bg"
+          },
+          {
+            "title": "Коллекция 2026 Мимоза",
+            "description": "Композиция\nМимоза-3ветки\nОазис-1\nСумочка-1\nТишью-2\nБусы под жемчуг-1\nФирменная наклейка-1\nИнструкция по уходу-1",
+            "price": "1800",
+            "currency": "₽",
+            "matchKey": "v1.BaqPX5cUNwXN3_hpxurnzYoIWpVuzPNdLpNKkxJV-GY"
+          },
+          {
+            "title": "Космические Тюльпаны 2026",
+            "description": "Цена за 1 тюльпан-270рублей.\nНа фотографии 350штук",
+            "price": "270",
+            "currency": "₽",
+            "matchKey": "v1.MtMaFW_Dz53HoXpjd3P_iMKNt9taiTe8gHwX5mAkDFc"
+          },
+          {
+            "title": "Дофаминовый Букет",
+            "description": "Кустовые розы-5шт\nПионовидные одноголовые-5шт\nКустовая хризантема-2\nЭвкалипт бэби -3\nТишью-3л\nМатовая упаковка-4л\nБрендированная лента -2\nПодкормка +инструкция по уходу-1",
+            "price": "6000",
+            "currency": "₽",
+            "matchKey": "v1.G-TQr1SOAsPqi91TXP1lgJe8HyH9eeXqvHN2D5Q-KTM"
+          }
+        ]
+      },
+      {
+        "categoryName": "Весна 2026",
+        "categoryItems": [
+          {
+            "title": "Коллекция 2026 Весна",
+            "description": "Матиола-2шт\nФранцузская роза-3\nЭвкалипт-3\nМатовая упаковка-3листа\nБрендированная лента-1\nПодкормка для цветов+инструкция",
+            "price": "3100",
+            "currency": "₽",
+            "matchKey": "v1.H3ZgHtSeKl0h8QiwGlopAg-Wfgl9M1DwKXA7cnJAo3w"
+          }
+        ]
+      }
+    ]
+  },
+  "topObjects": {
+    "hasPhotos": false,
+    "isYandexEda": false,
+    "rubric": "other",
+    "categories": [
+      {
+        "categoryName": "popular",
+        "categoryItems": [
+          {
+            "title": "Яркое настроение",
+            "price": "4700",
+            "currency": "₽",
+            "matchKey": "v1.yQzOH72dcoGOoxBswIdkboBEQVpD1i83RldKfH8fhOc"
+          },
+          {
+            "title": "Цветосный микс",
+            "price": "3800",
+            "currency": "₽",
+            "matchKey": "v1.flTc1mrHzqR8P3nvGeyCyvbMQeZ41VnaW1NPaQUCFmw"
+          },
+          {
+            "title": "Звездное мерцание",
+            "description": "Прекрасное сочетание \nРозы Мондиаль с Эвкалиптом в стильном оформлении",
+            "price": "1900",
+            "currency": "₽",
+            "matchKey": "v1.urBjaICx4XhksCpQiXYluXcqeOiBYlrccIpS2LZPEa8"
+          },
+          {
+            "title": "Черничное мороженое",
+            "price": "3200",
+            "currency": "₽",
+            "matchKey": "v1.j4m8qbxK3m645bH_IzTUN1oVhPEssq0kKPfUQVgSZ38"
+          },
+          {
+            "title": "Моно из кустовой розы",
+            "price": "8000",
+            "currency": "₽",
+            "matchKey": "v1.asKDxS-Z-T_AEYuGLI3GMiWnkYlb8-vmH2_df1JK54Y"
+          },
+          {
+            "title": "Гортензия",
+            "price": "1500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.9rOrvtLrx-_9UhtkQUbr8eJJOMUTCY6d26EchjXq2wk"
+          },
+          {
+            "title": "Бомбастик Розы",
+            "price": "500",
+            "volume": "1 pcs.",
+            "currency": "₽",
+            "matchKey": "v1.tYiLQZj3hpNXkTlrN1SJ2psHM0k5uzNM4eup0d4dspI"
+          }
+        ]
+      }
+    ],
+    "fullObjectsCount": 46,
+    "relevance": {
+      "lastUploadTime": "2026-11-10T21:52:56.076399Z",
+      "lastUpdateTime": "2026-02-17T06:48:45.963942Z"
+    },
+    "source": {
+      "id": "TYCOON",
+      "name": "Representative of the organization"
+    }
+  },
+  "reviewResults": {
+    "reviews": [
+      {
+        "businessComment": {
+          "text": "Благодарим Вас , Алексей. За высокую оценку нашей работы🤝. Будим очень рады видеть Вас сново.👍🤗",
+          "updatedTime": "2025-11-24T06:33:45.919Z"
+        },
+        "reviewId": "pw-Kr_yJozPCFYxPXs83q-FTD4BpLo",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Алексей",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/16491550/ClFZLDf0GaSsh2XHno6Q1gys-1/{size}",
+          "professionLevel": "Level 30 Local Expert",
+          "rtb": "Level 30 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "ale.0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень хорошие ребята быстро отозвались , так же быстро отреагировали на мои потребности , собрали нужный букетик утвердили у меня и договорились на доставку ))) Молодцы так держать.",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok iyi adamlar çabucak cevap verdiler, ihtiyaçlarıma da çabucak cevap verdiler, gerekli buketi topladılar ve benimle onayladılar ve teslimatı kabul ettiler))) Aferin böyle devam edin."
+        },
+        "rating": 5,
+        "updatedTime": "2025-11-22T08:39:59.649Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв",
+          "updatedTime": "2023-10-02T10:27:21.714Z"
+        },
+        "reviewId": "UIGEVgGtjORO7yhT6o6PPfgw-Ow78THF",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Инна Б.",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/18057972/NsQ39hJBHFmlqSCwwgd0zeJxo-1/{size}",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "3393chej6a504qywrw2vxca8zc",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Красивый, классный магазин! Отличные букеты, быстрое обслуживание. Всегда можно оформить предзаказ! Каждый раз открываешь для себя мир цветов по новому! Ценовая политика широкая, есть бюджетные, а есть шикарные букеты премиум-класса!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-09-19T08:07:03.672Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2025-02-12T06:10:43.902Z"
+        },
+        "reviewId": "3Xjc5opA-NWjoGWrOuvIXrQp_TlEVtYlQ",
+        "businessId": "102829894145",
+        "author": {
+          "name": "l l W",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/6B3jiQYY2CdFyHJAwll0YtmBY6c-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Помогли собрать красивый букет,учли мои пожелания.Ассортимент большой,что очень радует.Упаковали в дополнительную пленку,чтобы цветы не замерзли.\nВсе на высшем уровне,буду обращаться ещё",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzel bir buket toplamaya yardım ettiler, isteklerimi dikkate aldılar.Ürün yelpazesi geniş, bu da çok memnun.Çiçeklerin donmaması için ek filmde paketlendiler.\nHer şey en üst düzeyde,tekrar konuşacağım"
+        },
+        "rating": 5,
+        "updatedTime": "2025-02-11T00:17:47.270Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "14392184_2a00000194f2569d1135bee5805129e75875",
+            "businessId": "102829894145",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14392184/2a00000194f2569d1135bee5805129e75875/{size}",
+            "createdTime": 1739232551811,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "l l W",
+              "publicId": "",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/47747/6B3jiQYY2CdFyHJAwll0YtmBY6c-1/{size}",
+              "updateTime": 1739232551811,
+              "hasPublicProfile": false,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2023-10-02T10:27:12.181Z"
+        },
+        "reviewId": "fIyjH6sI3VbhsE-mhaQxQJ-qtrt44s",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Ксения Смирнова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/21121462/C4K3lPTfDi5yLhOmpgyYpWsCY-1/{size}",
+          "professionLevel": "Level 9 Local Expert",
+          "rtb": "Level 9 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "4ydq1w01uun62ezvf09vc0nx6c",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "10 из 10! Букеты стоят долго. Цветок свежий. Красивый. Флорист Наталья очень доброжелательная и всегда посоветует что взять.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-09-24T15:33:11.386Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "10700016_2a0000018ac7d2a7a20fb39b7aca92cbae0b",
+            "businessId": "102829894145",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/10700016/2a0000018ac7d2a7a20fb39b7aca92cbae0b/{size}",
+            "createdTime": 1695569587194,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ксения Смирнова",
+              "publicId": "4ydq1w01uun62ezvf09vc0nx6c",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/21121462/C4K3lPTfDi5yLhOmpgyYpWsCY-1/{size}",
+              "updateTime": 1695569587194,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "kZkuD95nvbWTfmhTFqjtRDKfv-vuZ5cJK",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Рина",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/41409/OtFnfoR1HsiaOzglwpLxBCov3a8-1/{size}",
+          "professionLevel": "Level 29 Local Expert",
+          "rtb": "Level 29 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "098x2y0z644g0fhmwjvyxnc0j0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "уже не первый раз покупаю тут цветы, мне всё нравится!",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Burada ilk defa çiçek almıyorum, her şeyi seviyorum!"
+        },
+        "rating": 5,
+        "updatedTime": "2026-07-13T14:03:23.300Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "19840634_2a0000019f5bcc4e148998aba61316a12d60",
+            "businessId": "102829894145",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19840634/2a0000019f5bcc4e148998aba61316a12d60/{size}",
+            "createdTime": 1783951546353,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Рина",
+              "publicId": "098x2y0z644g0fhmwjvyxnc0j0",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/41409/OtFnfoR1HsiaOzglwpLxBCov3a8-1/{size}",
+              "updateTime": 1783951546353,
+              "hasPublicProfile": true,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2023-11-15T19:27:03.566Z"
+        },
+        "reviewId": "qI6OiJStAwffFLG0s4HTAw08J7N3VPj",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Юлия Черепнева",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/33202/1Wcyv2ifa5vwv06itOKLGY1XjU-1/{size}",
+          "professionLevel": "Level 5 Local Expert",
+          "rtb": "Level 5 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "zb3er6vxjx3eyrme6tq74fvub8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Всегда свежие цветы, флористы собирают букеты быстро и со вкусом! Доброжелательный и вежливый персонал",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-11-02T15:37:43.711Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2023-10-02T10:27:38.154Z"
+        },
+        "reviewId": "UHB5mo9U1N9IV35LOzmFx8MSm0TAUDhEx",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Тамара Кузнецова",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/49368/IC8Nb8bK2BJt3W69NzYiMxHwGA-1/{size}",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "d14c4gvdh8a0q63ek7hf323b3w",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Брали букет на 1 сентября для учителя от класса!Очень красивый и оригинальный! В салоне стильно и отличное обслуживание! Обязательно вернемся!",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-09-18T09:00:05.530Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за ваш отзыв",
+          "updatedTime": "2026-02-16T14:15:19.508Z"
+        },
+        "reviewId": "yr2pxEcqIkLxzwYLTN9Y4d3rNgq-XI2",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Кирилл",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/18057972/P55JGm4S8VNqFntjx4uUGmhXSMs-1/{size}",
+          "professionLevel": "Level 3 Local Expert",
+          "rtb": "Level 3 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "hh7gc78xtfv60tjw36yf0t5a10",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Отзывчивый персонал, отличные цветочки, Тэя просто супер!😇",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Yardımsever personel, harika çiçekler, Taya sadece süper!😇"
+        },
+        "rating": 5,
+        "updatedTime": "2026-02-09T14:01:16.715Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за ваш отклик",
+          "updatedTime": "2023-12-18T09:33:48.047Z"
+        },
+        "reviewId": "3CyASxJhr89GIeHtXX61RsIGLdDMJI",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Виктор",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/60687/k4CfFrEjslciOaSXQcSJCoPwwQ-1/{size}",
+          "professionLevel": "Level 14 Local Expert",
+          "rtb": "Level 14 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "y1chk9enzku162rrkpzrhgr4zr",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Достойный ассортимент и красивое оформление.",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-12-07T08:38:37.343Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв",
+          "updatedTime": "2024-11-27T06:10:58.153Z"
+        },
+        "reviewId": "fHWhKeP1jcdMH_zTyjiawDmbEqKVRYlx",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Евгений",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63256/enc-7883843c1951a571020e8bcf7396a40ea2a19240195d19f529744f152bcbba61/{size}",
+          "professionLevel": "Level 8 Local Expert",
+          "rtb": "Level 8 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "byp7qdtgn4cay7xhfbh8t61yz4",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Очень хороший магазин очень вежливый персонал Спасибо вам огромное",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Çok güzel mağaza çok kibar personel Çok teşekkür ederim"
+        },
+        "rating": 5,
+        "updatedTime": "2024-11-25T18:52:06.328Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2023-08-20T12:23:47.578Z"
+        },
+        "reviewId": "gBm-w51ILtfmmTNjazqQx2a5PJ5UXo",
+        "businessId": "102829894145",
+        "author": {
+          "name": "nphne-zl43ido6",
+          "avatarUrl": "",
+          "professionLevel": "Level 4 Local Expert",
+          "rtb": "Level 4 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "37anmm3wzn3enn7gw1kca30zn0",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Красивый, новый магазин, букеты прекрасны и на разный бюджет)",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-07-05T15:48:11.695Z",
+        "reactions": {
+          "likes": 4,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "businessComment": {
+          "text": "Спасибо за приятный отклик",
+          "updatedTime": "2023-10-02T10:27:30.241Z"
+        },
+        "reviewId": "TMHpo7u7hF6MCCV_XKFOrLXTHa5UB12",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Светлана К.",
+          "avatarUrl": "",
+          "professionLevel": "Level 2 Local Expert",
+          "rtb": "Level 2 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "wvbepvc8ervm0r0meku8m50x88",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Понравились букеты, со вкусом.\nХороший выбор. Цены адекват. ",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 5,
+        "updatedTime": "2023-09-18T10:44:42.817Z",
+        "reactions": {
+          "likes": 2,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "IeREZz9iMue_dpAaf5JW5CyAmDx5_Dw3",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Ильгам Исламгазиев",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/53031/0s-5/{size}",
+          "professionLevel": "Level 12 Local Expert",
+          "rtb": "Level 12 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "9v5vmuvmvncfjxehxxgn2h78n8",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Дорогие и обычные цветы",
+        "textLanguage": "ru",
+        "textTranslations": {},
+        "rating": 3,
+        "updatedTime": "2023-12-25T12:41:50.208Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "aHwR_A49tSicydL57sdGws6fwWHLN6_AB",
+        "businessId": "102829894145",
+        "author": {
+          "name": "Ann",
+          "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/39249/kAyx6QS1a299i8eVJxVCm0iAeY-1/{size}",
+          "professionLevel": "Level 10 Local Expert",
+          "rtb": "Level 10 Local Expert",
+          "rtbType": "PROFESSION",
+          "publicId": "",
+          "achievements": [],
+          "professions": [],
+          "isSubscribed": false
+        },
+        "text": "Красивые",
+        "textLanguage": "ru",
+        "textTranslations": {
+          "tr": "Güzeller"
+        },
+        "rating": 5,
+        "updatedTime": "2026-03-28T20:21:04.115Z",
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [
+          {
+            "type": "photo",
+            "id": "18121248_2a0000019d361b9ff181084dc836ed137d98",
+            "businessId": "102829894145",
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18121248/2a0000019d361b9ff181084dc836ed137d98/{size}",
+            "createdTime": 1774729275314,
+            "moderation": {
+              "status": "ACCEPTED"
+            },
+            "showReactions": true,
+            "reactions": {
+              "likes": 0,
+              "dislikes": 0,
+              "userReaction": "NONE"
+            },
+            "copyright": {
+              "name": "Ann",
+              "publicId": "",
+              "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/39249/kAyx6QS1a299i8eVJxVCm0iAeY-1/{size}",
+              "updateTime": 1774729275314,
+              "hasPublicProfile": false,
+              "isSubscribed": false
+            }
+          }
+        ],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 0,
+      "limit": 50,
+      "count": 14,
+      "loadedReviewsCount": 14,
+      "page": 1,
+      "totalPages": 1,
+      "reviewsRemained": 0
+    },
+    "tags": [],
+    "aspects": []
+  },
+  "status": "open",
+  "seoname": "teya"
+}

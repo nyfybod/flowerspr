@@ -1,0 +1,288 @@
+{
+  "name": "Розово-зелино",
+  "address": "Астрахань, ул. Шаумяна, 62",
+  "phone": "+7 (967) 332-16-23",
+  "folder": "Розово-зелино",
+  "oid": "232288470525",
+  "source": "https://yandex.ru/maps/org/232288470525/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 23,
+    "ratingValue": 4.800000190734863,
+    "reviewCount": 17
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16771051/2a00000197fea92a8ef535bc0cc731505e9c/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14703533/2a0000019700b18fbbb89f146556c4cb34ce/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15281020/2a0000019700b77759ca304055c5233efb06/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15223968/2a0000019700b89ee278c21232b2cdc80750/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13851722/2a0000019700b884fa4d3c30d315d981a949/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14635327/2a000001976159c8b68f638fccb61c2bd59d/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15183726/2a00000197615a367e4267d82030024f36ab/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14506105/2a0000019700bbeab52523e6a9ff7864969c/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14675673/2a00000197615a371af850518710ee6cef07/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14683384/2a00000197fea15eb1e9e74cdafc5fb93624/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Шахмар Мамедов",
+      "text": "Беру здесь букеты для жены регулярно – всегда свежие, красивые и стоят нормально. Доставка приезжает вовремя, упаковка аккуратная. Если нужно что-то особенное помогают выбрать без навязывания\nБез заморочек, всё чётко. Советую👍",
+      "rating": 5,
+      "date": "2025-06-22",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=7VZKQw6im-doGAvEk362E_f7mLGWzlLLR"
+    },
+    {
+      "author": "Оскар Мамедов",
+      "text": "Осталась в полном восторге от работы вашего магазина! Помогли подобрать идеальный букет для мамы, учли все пожелания и даже добавили милую открытку. Доставили аккуратно и в срок. Очень приятно",
+      "rating": 5,
+      "date": "2025-06-22",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=9EX4VIEYqxZftUdYaeT5h7aV-l6Dv6"
+    },
+    {
+      "author": "Дарья К.",
+      "text": "Осталась в восторге от цветочного салона! Широкий ассортимент, свежие и красивые цветы. Персонал помог подобрать идеальный букет, уточняя все детали. Обязательно буду обращаться сюда еще!!!🌸💐",
+      "rating": 5,
+      "date": "2025-06-06",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=g3W51U-JtWlBCXhFZIQjXy5EGa-eR8hl"
+    },
+    {
+      "author": "Диана",
+      "text": "Замечательный цветочный магазин, за букетами обращаюсь только к ним, цветы всегда свежие, приобрела у них комнатное растение, проконсультировали по уходу. Все на высшем уровне! Рекомендую",
+      "rating": 5,
+      "date": "2025-08-16",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=7Ek8jA9qxHYKT5SwLcDNUdQ_pcTkPf"
+    },
+    {
+      "author": "Марина Андреева",
+      "text": "Очень уютно, много красивых цаетов, приятная девушка флорист. ",
+      "rating": 5,
+      "date": "2025-05-24",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=bXTE_Fl_aD_8n0O6G_H7idGlJvB_fr"
+    },
+    {
+      "author": "elena abd555",
+      "text": "Все супер. Цветы свежие, букеты красивые, доставка быстрая. Заказывала несколько раз. Цены адекватные.",
+      "rating": 5,
+      "date": "2025-05-31",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=Rz6IJeW6XkjiZNaV0JHgkc-x63Uelkk"
+    },
+    {
+      "author": "Мамбеталиева А.",
+      "text": "Молодой человек отправил цветы доставкой, это что за кошмар: записку потеряли, букет швырнули с кислой миной, на вопрос , а от кого цветы вместо слова ( сюрприз или чтото подобное ) просто проигнорировали. Ужас просто человек на ростоянии хотел порадовать…..не доставляете цветов значит не пишите что есть доставка. Еще и телефон отключен не довзониться",
+      "rating": 1,
+      "date": "2026-10-22",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=IJPjNyGBl7d3wOWRIyvr099X-rSfvE"
+    },
+    {
+      "author": "Наталья",
+      "text": "Живу в Москве, но заказываю цветы родственникам только здесь — быстро и хороший выбор. В другие цветочные больше не обращаюсь",
+      "rating": 5,
+      "date": "2025-06-24",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=7-ckDF_79yApwTzCK2U497kW2ThagCO"
+    },
+    {
+      "author": "Саша Реутская",
+      "text": "Брала клубнику недавно, самая вкусная за последнее время, заодно взяла цветов, миленькие. Удобно и приятно, цены радуют😍😍😍💋💋💋",
+      "rating": 5,
+      "date": "2025-06-21",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=AV2g0Fd9mERyy_8cY3hKlT3iD87-AbG2D"
+    },
+    {
+      "author": "вероника шамсудинова",
+      "text": "Получатель был в восторге, а я в восторге от цен. Теперь знаю, где точно заказывать цветы в городе",
+      "rating": 5,
+      "date": "2025-06-21",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=xGL0sPry449yANQXTbZi0t1Qr1jNG0JF"
+    },
+    {
+      "author": "называй меня господин",
+      "text": "хороший магазин, часто беру тут цветы, долго стоят ",
+      "rating": 5,
+      "date": "2025-06-18",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=aTsApUI6W-5xizFsdhvoabjVlhAa_szTW"
+    },
+    {
+      "author": "Никита Д.",
+      "text": "Думал соберут маленький букет на мой бюджет, но он получился в 2 раза больше, чем ожидал. Неожиданно и приятно",
+      "rating": 5,
+      "date": "2025-06-25",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=ueN-_xMBv9tYNw_ajw0O_S1Rd00KFZCR"
+    },
+    {
+      "author": "Виктория",
+      "text": "Очень доступные цены! Прекрасный персонал ",
+      "rating": 5,
+      "date": "2025-10-03",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=H8yGyaLVxOTLAHqAT-nf1m4PvbThYQM5"
+    },
+    {
+      "author": "Диана Алиева",
+      "text": "Понравился большой выбор букетов ",
+      "rating": 5,
+      "date": "2025-07-14",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=wLPntTbkdZpcP6xjhRW34UbdtTBxC45"
+    },
+    {
+      "author": "Инкогнито 0825",
+      "text": "все круто. быстро собрали\n",
+      "rating": 5,
+      "date": "2025-06-18",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=bjSuHkKiCKA1aibpKoqmtvpbP_lDMc"
+    },
+    {
+      "author": "Роман А.",
+      "text": "Отличный салон, собрали шикарный букет",
+      "rating": 5,
+      "date": "2025-06-28",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=Rt0d_Ny2ET_IiT3laXm7mLgIV_qSiN"
+    },
+    {
+      "author": "Саша Б.",
+      "text": "Всё супер, девушка была довольна.",
+      "rating": 5,
+      "date": "2025-06-18",
+      "source": "https://yandex.ru/maps/org/232288470525/reviews/?reviewId=py_S_oxZM_uhF9JMp9e-U-z6RuVoaUUG9"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

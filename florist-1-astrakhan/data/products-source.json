@@ -1,0 +1,27 @@
+{
+  "checked": "2026-11-13",
+  "source": "https://yandex.ru/maps/org/78251873351/prices/",
+  "relevance": null,
+  "products": [
+    {
+      "name": "Коробка 2в1: цветы+свечи",
+      "category": "Цветы в коробке",
+      "price": "4000",
+      "description": "Отличный подарок для любителей романтики, уюта и тех, кто любит наполнять своё пространство ароматами. Коробочка состоит из живых цветов и свечей. Свечи выполнены из натурального соевого воска с добавлением премиум-масел. Скорее звони и заказывай!",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/78251873351/prices/",
+      "sourceUrl": null,
+      "photo": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000182f8214523318e216e0eeab64e3e/{size}"
+    },
+    {
+      "name": "Коробочка счастья",
+      "category": "Цветы в коробке",
+      "price": "3500",
+      "description": "Цветы в коробке - это невероятно красиво и оригинально. Не веришь? Проверь)",
+      "volume": "1 pcs.",
+      "source": "https://yandex.ru/maps/org/78251873351/prices/",
+      "sourceUrl": null,
+      "photo": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000182f82352f7f61f14c1bed88684bf/{size}"
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "name": "Бланш",
+  "address": "Астрахань, ул. Красная Набережная, 4-6",
+  "phone": "+7 (993) 120-23-07",
+  "folder": "Бланш",
+  "oid": "63208647200",
+  "source": "https://yandex.ru/maps/org/63208647200/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 23,
+    "ratingValue": 4.900000095367432,
+    "reviewCount": 23
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 10,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/floretsbutik",
+      "readableHref": "@floretsbutik"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/api.whatsapp.com/send/?phone=79931202307",
+      "readableHref": "+send"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 800,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/12448848/2a0000019aab5e61022f32dbc11f669e5bbf/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1188,
+      "height": 925,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16915650/2a0000019ac119a9e22577ee9f2aa2d48595/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 939,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15389647/2a0000019923cff0488e01ae8ba59910adbf/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15286626/2a0000019923d61c4d5af017f12084bdc853/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 788,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/12448848/2a0000019923d731b29c06db256d738f2b02/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15286626/2a0000019923d61d6797e249ea2965beeff4/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 959,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16105135/2a0000019923d64bd3abcf1f68075796be13/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 853,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/17679358/2a0000019aab5e60e565aff38139a842f8da/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 853,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16325379/2a0000019aab5e60e49062410b4cf84dd88e/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/18136130/2a0000019cf1bab0b2e3e562f75a470a6f60/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Анна Ш.",
+      "text": "\nХочу выразить благодарность вашему магазину за высокий уровень сервиса и качество цветов! Букеты всегда свежие, прекрасно оформленные и очень красивые. Особенно радует внимательный и дружелюбный персонал, который помогает с выбором и учитывает все пожелания. Доставка работает оперативно, цветы всегда приходят в идеальном состоянии. Рекомендую этот магазин всем, кто ценит отличный ассортимент и профессионализм. Обязательно буду обращаться еще!",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=Up9vQH7GEiaZKrF088HHXsdhg_bHafD8"
+    },
+    {
+      "author": "Armani",
+      "text": "Огромное спасибо магазину Florets за невероятно красивый букет! Цветы были свежие, стояли очень долго. Подбором и оформлением остался в полном восторге.\nИдеальным завершением подарка стал подарочный сертификат из вашего парфюмерного бутика NOTA! Очень удобно, что можно в одном месте собрать такой стильный и продуманный презент — и цветы, и изысканный парфюм. Теперь только в Florets и NOTA!",
+      "rating": 5,
+      "date": "2025-11-18",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=uFIQk0NGNYiSqXnC0gu614xnyMkLYV"
+    },
+    {
+      "author": "Вахид",
+      "text": "03.03.2026 г. в данном цветочном магазине сделал предзаказ на 10.03.2026, обещали собрать букет в лучшем виде, прислали примеры образцовых букетов, но по итогу сплошное разочарование, про их брендированную ленту которая будет дополнять букет не оказалось в наличии и флорист не знал что она должна быть в составе букета, плюс ко всему подсунули вялые, не свежие цветы, был задан вопрос флористу-продавцу почему они вялые, ответила якобы что это зависит оказывается от цвета гортензий 🤦🏽‍♂️, времени не было на разбирательство, хотел оплатить картой, на столе лежит кассовый аппарат который полностью выключен, флорист-продавец ответила что его только завезли и у него нет зарядки, фикция короче, цветочная полное разочарование 👎🏾",
+      "rating": 1,
+      "date": "2026-03-15",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=0hqRoYIfcGMIL9jdsVJJJJUNl9M8HLv"
+    },
+    {
+      "author": "Андрей Стулов",
+      "text": "Огромный выбор букетов, всегда самое свежее! \nБрал несколько раз, стоят очень долго , так же отличный флорист, подскажет какой букет или цветок подобрать именно для вас",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=zWWWF9OYXVdETlGq3f-8Y8jLxuGk8JM"
+    },
+    {
+      "author": "рима меликян",
+      "text": "Хочу поблагодарить за лояльность и гибкость 😁любое время ! когда забываю покупать цветы ребята готовы мне доставить  в любое место🫶🏽  очень свежие цветы 👌🏼 и все букеты собраны очень со вкусом❤️  ",
+      "rating": 5,
+      "date": "2025-11-24",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=o3sI5oBht8_FyNBMNiWZkzdh553yNXd"
+    },
+    {
+      "author": "Анастасия",
+      "text": "Свежо и интересно выглядят композиции. Все приятной цене. Вежливые и понимающие сотрудники. В общем, всегда рада заходить, поднимать настроение цветочками и атмосферой 👍",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=Pc2YvVrK6Y263LAgnJDvT0Q8dGhRb1twQ"
+    },
+    {
+      "author": "Аслан Д.",
+      "text": "Хочу поблагодарить команду Флорец за оперативную доставку шикарного букета, очень понравилось обслуживание и сервис! \n\nСмело рекомендую!",
+      "rating": 5,
+      "date": "2025-11-16",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=HBei2OB5mpiWwW1x28s1XglSDz2s8PeN"
+    },
+    {
+      "author": "Анна Петросян",
+      "text": "Довольна за свежие и красивые цветы!\nБукет простоял очень долго, приятно удивило качество. Букеты собирают очень красиво.\nПродавцы вежливые и всегда готовы помочь с выбором, спасибо 🤝",
+      "rating": 5,
+      "date": "2025-11-22",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=NMk8earqQmpivAuWKBgEAsMNLVzcvz"
+    },
+    {
+      "author": "Алан Исмогулов",
+      "text": "Предоставили самую низкую цену в городе, букет был свежий, а самое главное простоял очень длительный срок. Также ребята ещё и доставили букет сами!",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=yhR6Z5lyG-Mb-H4z4fDV2kizqr8Dbvkx"
+    },
+    {
+      "author": "Сайпудин Абдурахманов",
+      "text": "Прекрасные цветы и профессиональные флористы, всегда помогают собрать красивые и стильные букеты. Всегда остаюсь доволен визитом. Спасибо всему коллективу цветочного магазина «Florets»",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=DHQij2FHF3RrejN9_G26ZF__pdxnwtM8h"
+    },
+    {
+      "author": "Эрика .",
+      "text": "Хочу выразить благодарность цветочному салону за шикарный букет! Он был настолько красивый, что я хотела себе оставить  🤭 . Спасибо вам огромное! Успехов и процветания! Смело могу рекомендовать ",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=xmgW5fKgx_Jqh6t7RRNVcYGaYUny3q"
+    },
+    {
+      "author": "Nikita M.",
+      "text": "Частенько покупаю здесь букеты, как всегда на высоте, цветочки живут долго, остались в восторге! ",
+      "rating": 5,
+      "date": "2025-11-29",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=H0rHoL3oTP85oXxTAI2Kt3qkvkae6fYQz"
+    },
+    {
+      "author": "Aleksei G.",
+      "text": "свежие цветы, быстрый сбор букета и вежливые сотрудники. Рекомендую!",
+      "rating": 5,
+      "date": "2025-11-25",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=y20JI9g5-Ap-4LsnGpIcMrJLhc7Yry"
+    },
+    {
+      "author": "София Мурмайер",
+      "text": "Лучший цветочный Астрахани! Очень рекомендую, свежие цветы, приемлемая цена, хорошие ребята продают!!! Молодцы!!",
+      "rating": 5,
+      "date": "2025-11-24",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=9VUr5nOa1oP8nP3pfewhzYiyLL4w79R"
+    },
+    {
+      "author": "Назели Акобян",
+      "text": "Нашла вас случайно, помогли быстро с выбором букета и слелали беспалатную доставку , буду ещё к вам обрщаться )",
+      "rating": 5,
+      "date": "2025-11-24",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=0RpM2fuBB-YFw3q2ARf_hHNo1xLDV39q"
+    },
+    {
+      "author": "Alik Djan",
+      "text": "Спасибо , быстро помогли определиться с выбором , собрали большой букет за адекватную цену ",
+      "rating": 5,
+      "date": "2025-09-08",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=ntKvH6vizX7_IEM_nMUbyK-6sOXMopc8"
+    },
+    {
+      "author": "Заур Кубалыев",
+      "text": "Все очень понравилась, цветы на вышем уровне всем советаю.Моментланая доставка!!! ",
+      "rating": 5,
+      "date": "2025-11-24",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=6IdUqkf5oFBhy8uv89yZgJAMUJE3hP"
+    },
+    {
+      "author": "Davchanski",
+      "text": "всегда свежие и красивые композиции, за букетом к ним. Корзины вообще отдельный вид искусства))",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=jiIjwx9Jd9MbZ4b2X6BVzIRQ5oqbSb"
+    },
+    {
+      "author": "Карим Гулямов",
+      "text": "Молодцы,заслуживают свое место на рынке,хороший и отзывчивый персонал,есть реакция самосохранения клиента,на высшим уровне,думаю далеко пойдут ,всем советую 👌",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=oXw5ig88ltEMfzoXmF2uqc2xo1uD5Z2L"
+    },
+    {
+      "author": "maksim bogomolov",
+      "text": "Очень понравились цветы,буду чаще заходить!!!",
+      "rating": 5,
+      "date": "2025-11-24",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=kENp64Do0NyDxLim3nRleJ1KCDb5-7Y"
+    },
+    {
+      "author": "Александра Репетунова",
+      "text": "Спасибо за роскошные цветы",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=3mE5JSsxt6-kMUCLx-y5-EAuFNgQKksoQ"
+    },
+    {
+      "author": "David Mirzoyan",
+      "text": "Классные свежие цветы! ",
+      "rating": 5,
+      "date": "2025-11-18",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=GC5r63e86vyYsZTgzx4rIdDqd7n8GeQp_"
+    },
+    {
+      "author": "Александр",
+      "text": "Спасибо больше, за очень класный букет ",
+      "rating": 5,
+      "date": "2025-11-26",
+      "source": "https://yandex.ru/maps/org/63208647200/reviews/?reviewId=E2PDHlELnB8li30xYqv2__wSgcLmQw1q"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 614,
+    "height": 614,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/18147375/2a0000019bb29736dc26247fcdf354f7e0d8/%s"
+  }
+}

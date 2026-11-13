@@ -1,0 +1,566 @@
+{
+  "name": "Тэя",
+  "address": "Астрахань, ул. Савушкина, 6, корп. 1",
+  "phone": "+7 (8512) 41-05-41",
+  "folder": "Тэя",
+  "oid": "102829894145",
+  "source": "https://yandex.ru/maps/org/102829894145/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 29,
+    "ratingValue": 4.699999809265137,
+    "reviewCount": 14
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 30
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "gift_wrapping_1",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "preliminary_registration",
+      "value": true,
+      "name": "preliminary registration",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "full_access",
+          "name": "full access"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        },
+        {
+          "id": "cashless_payment",
+          "name": "cashless payment"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        },
+        {
+          "id": "by_credit_card",
+          "name": "payment by credit card"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "discounts",
+          "name": "discounts"
+        },
+        {
+          "id": "promotions",
+          "name": "promotions"
+        },
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        },
+        {
+          "id": "bonuses",
+          "name": "bonuses"
+        },
+        {
+          "id": "gifts",
+          "name": "gifts"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "parking_disabled",
+      "value": true,
+      "name": "parking for people with disabilities",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "indoor_plants",
+      "value": true,
+      "name": "indoor plants",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_certificate",
+      "value": true,
+      "name": "gift certificate",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "good_place",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessability",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "products_garden_center",
+      "value": [
+        {
+          "id": "ornamental_plants",
+          "name": "ornamental plants"
+        }
+      ],
+      "name": "products",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_in_flask",
+      "value": true,
+      "name": "flowers in a flask",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "stabilized_flowers",
+      "value": true,
+      "name": "stabilized flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_pa",
+          "name": "Partially available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/theia30",
+      "readableHref": "@theia30"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79881710541",
+      "readableHref": "+79881710541"
+    },
+    {
+      "type": "vkontakte",
+      "href": "https://vk.ru/teya_ast",
+      "readableHref": "vk.ru/teya_ast"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16914582/2a00000198ef99a900359060b40d41784abe/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16443717/2a00000198ef99bab753eeda1d92c1e45358/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 788,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15683978/2a00000198ef99c1e4d7cae65e206e79c93f/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 960,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10829645/2a0000018a17cd8a41e1087a34cd1866e763/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10639454/2a0000018a84ff3bfd4efca530ff0f4211eb/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 720,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14215987/2a00000194d14c018ab8b36eff52a9d70f97/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13206104/2a00000194ca8cc7d759f969f13bd67bf462/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1079,
+      "height": 931,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11409713/2a0000018e89deb24225547472afb6503225/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10869107/2a0000018a18011019ff93572df458351cbf/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1120,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15467240/2a00000194ca8cd2dd24288528f1c05c0078/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Алексей",
+      "text": "Очень хорошие ребята быстро отозвались , так же быстро отреагировали на мои потребности , собрали нужный букетик утвердили у меня и договорились на доставку ))) Молодцы так держать.",
+      "rating": 5,
+      "date": "2025-11-22",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=pw-Kr_yJozPCFYxPXs83q-FTD4BpLo"
+    },
+    {
+      "author": "Инна Б.",
+      "text": "Красивый, классный магазин! Отличные букеты, быстрое обслуживание. Всегда можно оформить предзаказ! Каждый раз открываешь для себя мир цветов по новому! Ценовая политика широкая, есть бюджетные, а есть шикарные букеты премиум-класса!",
+      "rating": 5,
+      "date": "2023-09-19",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=UIGEVgGtjORO7yhT6o6PPfgw-Ow78THF"
+    },
+    {
+      "author": "l l W",
+      "text": "Помогли собрать красивый букет,учли мои пожелания.Ассортимент большой,что очень радует.Упаковали в дополнительную пленку,чтобы цветы не замерзли.\nВсе на высшем уровне,буду обращаться ещё",
+      "rating": 5,
+      "date": "2025-02-11",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=3Xjc5opA-NWjoGWrOuvIXrQp_TlEVtYlQ"
+    },
+    {
+      "author": "Ксения Смирнова",
+      "text": "10 из 10! Букеты стоят долго. Цветок свежий. Красивый. Флорист Наталья очень доброжелательная и всегда посоветует что взять.",
+      "rating": 5,
+      "date": "2023-09-24",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=fIyjH6sI3VbhsE-mhaQxQJ-qtrt44s"
+    },
+    {
+      "author": "Рина",
+      "text": "уже не первый раз покупаю тут цветы, мне всё нравится!",
+      "rating": 5,
+      "date": "2026-07-13",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=kZkuD95nvbWTfmhTFqjtRDKfv-vuZ5cJK"
+    },
+    {
+      "author": "Юлия Черепнева",
+      "text": "Всегда свежие цветы, флористы собирают букеты быстро и со вкусом! Доброжелательный и вежливый персонал",
+      "rating": 5,
+      "date": "2023-11-02",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=qI6OiJStAwffFLG0s4HTAw08J7N3VPj"
+    },
+    {
+      "author": "Тамара Кузнецова",
+      "text": "Брали букет на 1 сентября для учителя от класса!Очень красивый и оригинальный! В салоне стильно и отличное обслуживание! Обязательно вернемся!",
+      "rating": 5,
+      "date": "2023-09-18",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=UHB5mo9U1N9IV35LOzmFx8MSm0TAUDhEx"
+    },
+    {
+      "author": "Кирилл",
+      "text": "Отзывчивый персонал, отличные цветочки, Тэя просто супер!😇",
+      "rating": 5,
+      "date": "2026-02-09",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=yr2pxEcqIkLxzwYLTN9Y4d3rNgq-XI2"
+    },
+    {
+      "author": "Виктор",
+      "text": "Достойный ассортимент и красивое оформление.",
+      "rating": 5,
+      "date": "2023-12-07",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=3CyASxJhr89GIeHtXX61RsIGLdDMJI"
+    },
+    {
+      "author": "Евгений",
+      "text": "Очень хороший магазин очень вежливый персонал Спасибо вам огромное",
+      "rating": 5,
+      "date": "2024-11-25",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=fHWhKeP1jcdMH_zTyjiawDmbEqKVRYlx"
+    },
+    {
+      "author": "nphne-zl43ido6",
+      "text": "Красивый, новый магазин, букеты прекрасны и на разный бюджет)",
+      "rating": 5,
+      "date": "2023-07-05",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=gBm-w51ILtfmmTNjazqQx2a5PJ5UXo"
+    },
+    {
+      "author": "Светлана К.",
+      "text": "Понравились букеты, со вкусом.\nХороший выбор. Цены адекват. ",
+      "rating": 5,
+      "date": "2023-09-18",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=TMHpo7u7hF6MCCV_XKFOrLXTHa5UB12"
+    },
+    {
+      "author": "Ильгам Исламгазиев",
+      "text": "Дорогие и обычные цветы",
+      "rating": 3,
+      "date": "2023-12-25",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=IeREZz9iMue_dpAaf5JW5CyAmDx5_Dw3"
+    },
+    {
+      "author": "Ann",
+      "text": "Красивые",
+      "rating": 5,
+      "date": "2026-03-28",
+      "source": "https://yandex.ru/maps/org/102829894145/reviews/?reviewId=aHwR_A49tSicydL57sdGws6fwWHLN6_AB"
+    }
+  ],
+  "services": [
+    {
+      "name": "Черничное мороженое",
+      "category": "Розы, 101 роза, белые розы, 101 белая роза, розы на 8 марта, цветы с доставкой, букет из роз, красивые букеты цветов, монобукеты",
+      "price": "3200",
+      "description": "",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/102829894145/prices/",
+      "sourceUrl": null
+    },
+    {
+      "name": "Облако нежности 201 роза",
+      "category": "Розы 51 доставка цветов, розы 101, роза одноголовая",
+      "price": "44000",
+      "description": "201 роза Джумилия.",
+      "volume": "",
+      "source": "https://yandex.ru/maps/org/102829894145/prices/",
+      "sourceUrl": null
+    }
+  ],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 1080,
+    "height": 1071,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/7979184/2a000001880f05314da6a37091cf645f96df/%s"
+  }
+}

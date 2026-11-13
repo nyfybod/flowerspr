@@ -1,0 +1,388 @@
+{
+  "name": "Пион",
+  "address": "Астрахань, Эспланадная ул., 15",
+  "phone": "+7 (961) 799-86-87",
+  "folder": "Пион",
+  "oid": "77638348033",
+  "source": "https://yandex.ru/maps/org/77638348033/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 7,
+    "ratingValue": 3.9000000953674316,
+    "reviewCount": 2
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 9,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 22,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "petfriendly",
+      "value": [
+        {
+          "id": "allowed_with_all_animals",
+          "name": "allowed with all animals"
+        }
+      ],
+      "name": "petfriendly",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "show_briefly_about_the_place_block",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "pickup",
+      "value": true,
+      "name": "pickup points",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "billing_to_mobile_phones",
+          "name": "via sms"
+        },
+        {
+          "id": "qr_code",
+          "name": "QR code"
+        },
+        {
+          "id": "fast_payment_system",
+          "name": "Fast payment system"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "car_park",
+      "value": true,
+      "name": "parking",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "promotions",
+      "value": [
+        {
+          "id": "special_offers",
+          "name": "special offers"
+        }
+      ],
+      "name": "promotions",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "soft_toys",
+      "value": true,
+      "name": "soft toys",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "Possible_with_dog",
+      "value": true,
+      "name": "Possible with a dog",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "dried_flowers",
+      "value": true,
+      "name": "dried flowers",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wi_fi",
+      "value": true,
+      "name": "Wi-Fi",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "flowers_in_flask",
+      "value": true,
+      "name": "flowers in a flask",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "florarium",
+      "value": true,
+      "name": "florarium",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "processing_speed",
+      "value": [
+        {
+          "id": "per_hour",
+          "name": "per hour"
+        }
+      ],
+      "name": "Delivery time",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wheelchair_accessible_vocabulary",
+      "value": [
+        {
+          "id": "wheelchair_accessible_na",
+          "name": "Not available"
+        }
+      ],
+      "name": "wheelchair accessible",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "minimum_order",
+      "value": "990 ₽",
+      "name": "Minimum order",
+      "type": "text",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79617998687",
+      "readableHref": "+79617998687"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11400692/2a0000019020c222de85e5f52a76a8d828b1/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6195924/2a0000019020c1024c820ce29b739a7bf204/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14010724/2a00000193d17e328540737fa0ec45e6117f/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9831576/2a0000019020bd326656ea51ddc4ab03bd61/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9830591/2a0000019020c0ed0a7dfefd40600be1257d/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11302718/2a0000019020c12b3b69a3296bc04fd3d403/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6310045/2a0000019020c171b7c3ae0bd2ff23ea2297/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/12728107/2a0000019020c1165291886cc21dfb4908ee/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 647,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10505037/2a0000019020c0c15541cb4e443fd19b4b97/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/13206609/2a0000019020c14a8d68d413217eec683b5e/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Emila~",
+      "text": "Красивые стойкие букеты 😍, всегда помогут с выбором, подскажут, соберут букет по Вашим предпочтениям . Цены ниже чем в ближайших цветочных магазинах👍🏻",
+      "rating": 5,
+      "date": "2025-08-20",
+      "source": "https://yandex.ru/maps/org/77638348033/reviews/?reviewId=zgXiw0ZbKboEppuqAFLRzXDP_r8VM2"
+    },
+    {
+      "author": "Максим",
+      "text": "Не работает ",
+      "rating": 4,
+      "date": "2026-02-04",
+      "source": "https://yandex.ru/maps/org/77638348033/reviews/?reviewId=uJflZichhhNbP-okIuBhK38suMOYXNEE"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

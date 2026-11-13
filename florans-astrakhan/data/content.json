@@ -1,0 +1,422 @@
+{
+  "name": "Флоранс",
+  "address": "Астрахань, ул. Генерала Епишева, 20Б",
+  "phone": "+7 (905) 362-07-55",
+  "folder": "Флоранс",
+  "oid": "62789267998",
+  "source": "https://yandex.ru/maps/org/62789267998/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 41,
+    "ratingValue": 4.800000190734863,
+    "reviewCount": 22
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 21,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "payment_by_credit_card",
+      "value": true,
+      "name": "Credit card payment",
+      "type": "bool",
+      "important": true
+    },
+    {
+      "id": "delivery_cost",
+      "value": "500–1e+08 ₽",
+      "name": "Cost of delivery",
+      "type": "text",
+      "important": false
+    },
+    {
+      "id": "corporate_events",
+      "value": true,
+      "name": "corporate events",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "delivery",
+      "value": true,
+      "name": "delivery",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "gift_wrapping",
+      "value": true,
+      "name": "gift wrapping",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "wedding_floristry",
+      "value": true,
+      "name": "wedding floristry",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "payment_method",
+      "value": [
+        {
+          "id": "cash",
+          "name": "cash"
+        },
+        {
+          "id": "payment_card",
+          "name": "payment by card"
+        },
+        {
+          "id": "wire_transfer",
+          "name": "bank transfer"
+        }
+      ],
+      "name": "payment method",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "wedding_planning",
+      "value": true,
+      "name": "wedding planning",
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    },
+    {
+      "id": "cards_and_envelopes",
+      "value": true,
+      "name": "greeting cards",
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "telegram",
+      "href": "https://t.me/florancestudio",
+      "readableHref": "@florancestudio"
+    },
+    {
+      "type": "whatsapp",
+      "href": "https://wa.me/79053620755",
+      "readableHref": "+79053620755"
+    }
+  ],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5449402/2a0000017d63ad0f25350733daf737bd5923/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14296990/2a000001963f496ac7906777ebb21881e85d/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15993332/2a000001971219b68948eb888ecc79c7923e/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 1200,
+      "height": 890,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/1666174/2a0000016e1fda44502341cee1ae23f6d10a/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15288852/2a000001963f49674cebfa7c686c40c1745d/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/14296990/2a000001963f4959b509ed63950283cdc38d/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19521209/2a0000019da5c1c61383eb8b8b760ef8f46b/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/12813969/2a0000018e004da311381a2047c7426fe0e1/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16161139/2a0000019b0c669a4b01da57aadc38d3fa6b/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 787,
+      "height": 1400,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/15126910/2a000001963f4947228c1df6aa93fda346c2/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "alenca31",
+      "text": "Прекрасный салон с профессиональными флористами. Все быстро и всегда очень красиво - на любую сумму. Свежие цветы и разнообразные материалы для создания гармоничных композиций. Букеты всегда -\"не оторвать глаз\". Девочки оформляли зону ожидания кинотеатра Большое кино в Алимпике - теперь там волшебно.",
+      "rating": 5,
+      "date": "2025-10-21",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=7u_MrMPM-ivLG68kmvPnWFb_jUOKgDL"
+    },
+    {
+      "author": "Юрий Юрий",
+      "text": "Салон цветов \"Флоранс\" спрятался среди других магазинчиков на улице Генерала Епишева. Но едва вы приоткрываете дверь, как вашему взору открывается уютное помещение наполненое красотой и ароматами. Цветы здесь собрались со всего мира, но главное это персонал, который создаст вам сказку, за которой вы и пришли. ",
+      "rating": 5,
+      "date": "2024-11-15",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=f8hCz8BILE_yKG7TwqJwXj2EH7MN0LAA"
+    },
+    {
+      "author": "Mary Roosevelt",
+      "text": "Приобретаю только в этом цветочном магазине. Всегда свежие цветы, приветливые продавцы, и приятные цены. Букет стоит 5-й день и радует меня😍",
+      "rating": 5,
+      "date": "2024-03-02",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=z3dir0sRBGf9yEw5womminXokyA_-AN"
+    },
+    {
+      "author": "Эвелина Левченко",
+      "text": "Прекрасные девушки, которые быстро помогли определиться с выбором не в зависимости от того, что мы даже не знали чего мы хотели, пожалуй лучшая студия в Астрахани!💐🌸🫂🩷",
+      "rating": 5,
+      "date": "2025-05-27",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=hhH352tfneL6csKN0EPaoJwSNdmH-rmN"
+    },
+    {
+      "author": "Нуне Бахтибекян",
+      "text": " Флоранс ,один из лучших магазинов цветов.на все мероприятия беру букеты здесь.цветы всегда свежие и стоят долго.при этом ,цены просто замечательные.в самом салоне уютно и работники и хозяйка очень приятные и вежливые.спасибо.",
+      "rating": 5,
+      "date": "2024-02-11",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=Dn7QJuMQ_39_IxgGRuGPTUSBaRxnty02"
+    },
+    {
+      "author": "Булгакова Ольга",
+      "text": "Очень компетентные флористы,часто пользуемся т к есть доставка. Учитывают собыьия,возраст, материальные возможности.Всем кому отправляли букеты были довольны.",
+      "rating": 5,
+      "date": "2023-08-19",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=YJU7cVrPTTnzFmcDRXlW7hOUqcY9bb"
+    },
+    {
+      "author": "Артём Гладченко",
+      "text": "Профессионалы в своём деле! Каждая композиция, каждый букет собраны с душой и теплом! Видно, что любят своё дело и к каждому клиенту индивидуальный и творческий подход! Это классно! Салон, где всегда встречают с улыбкой и поднимают настроение на весь день! Спасибо за то, что Вы есть!!!",
+      "rating": 5,
+      "date": "2023-10-27",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=FFMLvwkIg0AZ2o9R_CCM97VR_pOSXq"
+    },
+    {
+      "author": "Владимир",
+      "text": "Красивый букетик собрали, флорист Нателла адекватный, доброжелательная, отличное место, ещё обязательно придём! ",
+      "rating": 5,
+      "date": "2023-09-16",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=1i-HykboAuPoUSiivLaPZ-IK4kr0cW"
+    },
+    {
+      "author": "Петр Чигаров",
+      "text": "Самые приветливые флористы и замечательные люди, букеты, композиции очень красивы и сделаны с любовью и теплом. Спасибо Вам огромное.",
+      "rating": 5,
+      "date": "2024-02-13",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=pw74IR2mlZQb6xrW3wX1P_yfi2ObwSEr"
+    },
+    {
+      "author": "Елена С",
+      "text": "Заказывала букеты для близких! Ни разу не подвели! Цветы свежие! Композиции необычные!цены адекватные!",
+      "rating": 5,
+      "date": "2024-10-07",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=3wT8SNE9MX2ZB0ik5dqWeAwPGE9uXL8T"
+    },
+    {
+      "author": "Лариса К",
+      "text": "Всегда пользуюсь услугами этого магазина.  Прекрасный выбор цветов и букетов! Доброжелательный персонал слелает Ваш праздник ярким и достойным.  Большое спасибо. ",
+      "rating": 5,
+      "date": "2022-06-03",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=G-qBEKv9cQGowDHT3MAAISVhBwJpaAm"
+    },
+    {
+      "author": "Алена Корниенко",
+      "text": "Шикарный букет, доставили вовремя. Имениннице понравилось))) Ловите большую благодарность❤️",
+      "rating": 5,
+      "date": "2024-06-28",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=o7KQStL7dj7ZXWEr8G6WZE7m5QLnt_"
+    },
+    {
+      "author": "Даниял",
+      "text": "Отличный магазин свежих и красивых цветов!!! Персонал очень доброжелательный и знающий свою работу",
+      "rating": 5,
+      "date": "2022-01-13",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=rg_4Pko-W8fDPDWvx0gblMZPsHMfK4gt"
+    },
+    {
+      "author": "382453 Яцун",
+      "text": "Отличный салон, всегда свежие цветы по приемлемым ценам, граматное обслуживание, приветливые продавцы, лучший салон города!",
+      "rating": 5,
+      "date": "2021-08-14",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=FD8497NZsQx6DSP66QtKsf1jfnQuRw-"
+    },
+    {
+      "author": "Alexey Kirillov",
+      "text": "Неплохой цветочный. Но иногда готовые букеты из увядающих цветов на последнем издыхании продают.",
+      "rating": 4,
+      "date": "2024-01-03",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=6G6ZeS71UHegKAj5WP4wto_-F4_u0MK4_"
+    },
+    {
+      "author": "Катерина ч.",
+      "text": "Всегда свежие цветы, оригинальные букеты,,, а самое главное что есть доставка.",
+      "rating": 5,
+      "date": "2020-08-22",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=KuKYrDbf6y2N0jqIYi8XF5JJ5C21Stf-"
+    },
+    {
+      "author": "Анна",
+      "text": "Всегда свежие цветы. Большой выбор.",
+      "rating": 5,
+      "date": "2024-07-03",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=QTFBTxbl7eBvwJpOUNwEWWtnY8-koxTqs"
+    },
+    {
+      "author": "Евгения М.",
+      "text": "Отличный салон, приятный, приветливый персонал,  демократичные цены!",
+      "rating": 5,
+      "date": "2022-11-20",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=qYJb_QrRj-68eVsMOvTB10BXF1v6n4k"
+    },
+    {
+      "author": "Виктория С.",
+      "text": "Прекрасный салон, свежие цветы, красивые букеты 💐Рекомендую 🙂👍",
+      "rating": 5,
+      "date": "2024-02-28",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=ywC3ZrS4D3F_StWV00s685DQhlrodAat"
+    },
+    {
+      "author": "Мадина",
+      "text": "Прекрасный салон, шикарные цветы! ",
+      "rating": 5,
+      "date": "2024-03-02",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=AjSRywn0hmf27o8RCWQeWWEp4CGD8B"
+    },
+    {
+      "author": "Владимир Баранов",
+      "text": "Отличный сервис! Адекватный доброжелательный персонал! Благодарю!)",
+      "rating": 5,
+      "date": "2021-08-29",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=4SVmtX4QstnWVmFFC8KJjDFStXfgwIZ6d"
+    },
+    {
+      "author": "лариса чертопятова",
+      "text": "Цветы красивые, свежие, но очень дорогие!",
+      "rating": 3,
+      "date": "2021-04-25",
+      "source": "https://yandex.ru/maps/org/62789267998/reviews/?reviewId=woJ1rEgpDPhGTqeDf1g73IsP4_wCAO"
+    }
+  ],
+  "services": [],
+  "logo": {
+    "image": "assets/brand/logo.jpg",
+    "width": 934,
+    "height": 1400,
+    "sourceImage": "https://avatars.mds.yandex.net/get-altay/6302373/2a0000017fc5ad928bfc1b0e02da314e450c/%s"
+  }
+}

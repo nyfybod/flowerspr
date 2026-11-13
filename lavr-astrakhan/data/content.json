@@ -1,0 +1,237 @@
+{
+  "name": "Лавр",
+  "address": "Астрахань, Адмиралтейская ул., 4, этаж 1",
+  "phone": "+7 (903) 347-04-32",
+  "folder": "Лавр",
+  "oid": "173964306387",
+  "source": "https://yandex.ru/maps/org/173964306387/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 18,
+    "ratingValue": 4.5,
+    "reviewCount": 7
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 8,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 20,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "wheelchair_access",
+      "value": [
+        {
+          "id": "unavailable",
+          "name": "unavailable"
+        }
+      ],
+      "name": "wheelchair accessibility",
+      "type": "enum",
+      "important": false
+    },
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 904,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5101995/2a00000181d3eb8e1abd17c02d63d459cb40/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16888214/2a000001993ce5b260d2030c21b8c505f406/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1200,
+      "height": 675,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11004775/2a0000018cba9d947ef50ee2ef3ffef4a50a/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 720,
+      "height": 1280,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11004775/2a0000018c59ef35677c83ad348e492b03ea/%s"
+    },
+    {
+      "image": "assets/gallery/05.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9752112/2a000001886088f98b4ffcd69994995887a6/%s"
+    },
+    {
+      "image": "assets/gallery/06.jpg",
+      "width": 1200,
+      "height": 675,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/11383855/2a0000018ca709a2e06fb483031bb4698d60/%s"
+    },
+    {
+      "image": "assets/gallery/07.jpg",
+      "width": 1200,
+      "height": 675,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10767865/2a0000018ca70821dd6a75d393de0378e862/%s"
+    },
+    {
+      "image": "assets/gallery/08.jpg",
+      "width": 720,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/6477742/2a0000019043f8240c0feaafd0e3098952bc/%s"
+    },
+    {
+      "image": "assets/gallery/09.jpg",
+      "width": 1200,
+      "height": 901,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/10092863/2a0000018bd4448fc403a8d54a941cf88a30/%s"
+    },
+    {
+      "image": "assets/gallery/10.jpg",
+      "width": 1200,
+      "height": 900,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/9368060/2a0000018960af5ce2f5072fbfe5bee92c7c/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Дарья",
+      "text": "Благодарность цветочному салону за их профессионализм и качество работы. Они всегда готовы предложить свежие цветы и сделать красивый букет для любого случая. Я рекомендую этот салон всем, кто ищет качественные услуги по созданию букетов.",
+      "rating": 5,
+      "date": "2026-08-08",
+      "source": "https://yandex.ru/maps/org/173964306387/reviews/?reviewId=yHjlnqJeHRMSxVJNjegKZKvJT8GKYf"
+    },
+    {
+      "author": "Коршунова Анастасия",
+      "text": "Я не первый раз езжу именно в этот магазин. Девушка собирает всегда очень красивые букеты, всегда советуется, также подстраивает композицию под определенную стоимость \nЯ не знаю, наверное это талант \nЛавр действительно лучший магазин цветов \nЦены также очень хорошие , выбор большой , все свежайшие 😍😍😍",
+      "rating": 5,
+      "date": "2025-10-10",
+      "source": "https://yandex.ru/maps/org/173964306387/reviews/?reviewId=rs0NJWZD5fT6wfoWRDdKKRz8ySVVCxaD"
+    },
+    {
+      "author": "Надежда Сереченко",
+      "text": "Самый лучший салон цветов \"Лавр\". Валентина, просто создана для этой работы, всегда подберёт нужную композицию, учитывает всё до мелочей. Букеты, композиции, цветы в горшках, найдётся всё на любой цвет и кошелёк. Последнее приобретение это композиция для новогоднего декора. Спасибо❤️❤️❤️\n",
+      "rating": 5,
+      "date": "2023-12-11",
+      "source": "https://yandex.ru/maps/org/173964306387/reviews/?reviewId=eeaCS0-oogsnczngucqo4ryKg5AXmrSr"
+    },
+    {
+      "author": "Дэн",
+      "text": "Магазин очень хороший. Мне нужно было купить цветы. Я сам с круиза, и мало того что цены очень хорошие так и обслуживание и не далеко. Цветы красивые девушка оценила. Еще раз спасибо за качественное обслуживание ",
+      "rating": 5,
+      "date": "2024-07-27",
+      "source": "https://yandex.ru/maps/org/173964306387/reviews/?reviewId=UpykP3DLSUyXXV2Iy1djKk2vzHekuH"
+    },
+    {
+      "author": "Соколова Галина",
+      "text": "Замечательеая хозяйка. Соберет букет любой направленности и стоимости. Цветы всегда свежие.",
+      "rating": 5,
+      "date": "2025-01-07",
+      "source": "https://yandex.ru/maps/org/173964306387/reviews/?reviewId=JarWfyya-MWHChAH2iLPavVqnBuYln"
+    },
+    {
+      "author": "Лилия С.",
+      "text": "Валентина всегда знает что подобрать и под какой случай🎊🔥",
+      "rating": 5,
+      "date": "2026-03-05",
+      "source": "https://yandex.ru/maps/org/173964306387/reviews/?reviewId=M673fGUjzGdzQqi_ctfF9HSeliG3tz"
+    },
+    {
+      "author": "Лидия Горлова",
+      "text": "Прекрасный цветочный салон! Сказочная атмосфера! Чудесные композиции!",
+      "rating": 5,
+      "date": "2022-07-18",
+      "source": "https://yandex.ru/maps/org/173964306387/reviews/?reviewId=zJZKR2VKgHoUDlyhgloAITqI98kupU"
+    }
+  ],
+  "services": [],
+  "logo": null
+}

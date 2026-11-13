@@ -1,0 +1,154 @@
+{
+  "name": "Экоцветы",
+  "address": "Астрахань, ул. Анри Барбюса, 25В",
+  "phone": "+7 (988) 333-44-13",
+  "folder": "Экоцветы",
+  "oid": "210568974697",
+  "source": "https://yandex.ru/maps/org/210568974697/",
+  "checked": "2026-11-13",
+  "rating": {
+    "ratingCount": 3,
+    "ratingValue": 4.199999809265137,
+    "reviewCount": 2
+  },
+  "schedule": [
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ],
+    [
+      {
+        "from": {
+          "hours": 7,
+          "minutes": 0
+        },
+        "to": {
+          "hours": 23,
+          "minutes": 0
+        }
+      }
+    ]
+  ],
+  "features": [
+    {
+      "id": "street_entrance",
+      "value": true,
+      "type": "bool",
+      "important": false
+    }
+  ],
+  "socialLinks": [],
+  "products": [],
+  "gallery": [
+    {
+      "image": "assets/gallery/01.jpg",
+      "width": 1200,
+      "height": 675,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/12448848/2a0000019a5f6a0a08fd98b453ed55fc40f5/%s"
+    },
+    {
+      "image": "assets/gallery/02.jpg",
+      "width": 1200,
+      "height": 675,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/5483747/2a0000019a5f77b4aa4528fb5dfd80b03b3d/%s"
+    },
+    {
+      "image": "assets/gallery/03.jpg",
+      "width": 1200,
+      "height": 675,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/16130837/2a0000019a5f7742d1169badc83206172cbe/%s"
+    },
+    {
+      "image": "assets/gallery/04.jpg",
+      "width": 960,
+      "height": 720,
+      "sourceImage": "https://avatars.mds.yandex.net/get-altay/19613367/2a0000019de0296bdc4f9a735d8984836f1c/%s"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "М. О .В. 77777",
+      "text": "Очень хороший магазин цены просто радуют, персонал вежливый 👍 рекомендую 👍👍👍",
+      "rating": 5,
+      "date": "2025-12-06",
+      "source": "https://yandex.ru/maps/org/210568974697/reviews/?reviewId=YvY7HXIXHyKIkx8ZUlIDPthJY9Llbom"
+    },
+    {
+      "author": "Герман Макаров",
+      "text": "Хорошее место и персонал, рекомендую.",
+      "rating": 5,
+      "date": "2026-05-22",
+      "source": "https://yandex.ru/maps/org/210568974697/reviews/?reviewId=IdwmSlRBP61d7R_guu4HlwRcnSme0kLw6"
+    }
+  ],
+  "services": [],
+  "logo": null
+}
